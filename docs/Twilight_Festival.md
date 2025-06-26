@@ -7,18 +7,32 @@ hide:
 *July-August 2025*
 
 
-The Twilight Festival invites adventurers to explore an underwater-themed playground filled with monsters, tickets and special prizes.
+    - No EXP loss inside the dungeon.
+Visit the **Box Crafter NPC** in the event area and bring:
 
-!!! tip "Event Highlights"
-    - **Event Warper** at `/navi prontera 212/192` teleports you to the festival map.
-    - The **Wheel of Fortune** activates every three hours and remains open for 30 minutes.
+- 200× Cold Ice
+- 200× Light Granule
 
-=======
+You will receive:
 
+- **Scuba Mask Box**
+- **Oxygen Tank Box**
+**Requirements:** Equip both Rental Scuba Mask and Rental Oxygen Tank  
+**Warp Cost:** 10,000 Zeny per entry
+
+Defeat mobs in the Twilight Dungeon to collect tickets for event shops and the **Wheel of Fortune**. You will not lose experience if you die.
 ---
 
-## 1. Farm for Rental Access Gear
-Hunt mobs in caves and on beaches to collect materials for the **Rental Scuba Mask** and **Rental Oxygen Tank**.
+    | Start Time | Duration |
+    |-----------:|---------:|
+    | 06:00 | 30 min |
+    | 09:00 | 30 min |
+    | 12:00 | 30 min |
+    | 15:00 | 30 min |
+    | 18:00 | 30 min |
+    | 21:00 | 30 min |
+    | 00:00 | 30 min |
+    | 03:00 | 30 min |
 
 ![Placeholder](img/10002.png)
 
