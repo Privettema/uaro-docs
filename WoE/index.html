@@ -1,0 +1,704 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="The official documentation for uaRO World of your Dream">
+      
+      
+        <meta name="author" content="uaRO Team">
+      
+      
+        <link rel="canonical" href="https://wiki.uaro.net/WoE/">
+      
+      
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.18">
+    
+    
+      
+        <title>WoE - uaRO Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-7XD6KF8G73"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-7XD6KF8G73",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-7XD6KF8G73",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#woe" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="uaRO Documentation" class="md-header__button md-logo" aria-label="uaRO Documentation" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            uaRO Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              WoE
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="lime"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="uaRO Documentation" class="md-nav__button md-logo" aria-label="uaRO Documentation" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    uaRO Documentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#contents" class="md-nav__link">
+    <span class="md-ellipsis">
+      Contents
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#overview" class="md-nav__link">
+    <span class="md-ellipsis">
+      Overview
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#woe-signs" class="md-nav__link">
+    <span class="md-ellipsis">
+      WoE Signs
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#schedule" class="md-nav__link">
+    <span class="md-ellipsis">
+      Schedule
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Schedule">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#saturday" class="md-nav__link">
+    <span class="md-ellipsis">
+      Saturday
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#treasure-chest-drop" class="md-nav__link">
+    <span class="md-ellipsis">
+      Treasure Chest Drop
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#token-system" class="md-nav__link">
+    <span class="md-ellipsis">
+      Token System
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#woe-mechanics" class="md-nav__link">
+    <span class="md-ellipsis">
+      WoE Mechanics
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="WoE Mechanics">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#item-restrictions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Item Restrictions:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#skill-restrictions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Skill Restrictions:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+
+
+
+<h1 id="woe">WoE<a class="headerlink" href="#woe" title="Anchor link to this section">&para;</a></h1>
+<h2 id="contents">Contents<a class="headerlink" href="#contents" title="Anchor link to this section">&para;</a></h2>
+<ul>
+<li><a href="#woe">WoE</a></li>
+<li><a href="#contents">Contents</a></li>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#woe-signs">WoE Signs</a></li>
+<li><a href="#schedule">Schedule</a><ul>
+<li><a href="#saturday">Saturday</a></li>
+<li><a href="#available-castles">Available Castles</a></li>
+</ul>
+</li>
+<li><a href="#treasure-chest-drop">Treasure Chest Drop</a></li>
+<li><a href="#token-system">Token System</a></li>
+<li><a href="#woe-mechanics">WoE Mechanics</a><ul>
+<li><a href="#item-restrictions">Item Restrictions:</a></li>
+<li><a href="#skill-restrictions">Skill Restrictions:</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="overview">Overview<a class="headerlink" href="#overview" title="Anchor link to this section">&para;</a></h2>
+<p>The War of Emperium is a game feature where guilds compete to conquer a castle, which then becomes the guild’s headquarters and grants various bonuses and advantages.
+Owning a castle provides several benefits for the guild. First, it unlocks access to a special Guild Dungeon available to all guild members. These dungeons contain powerful monsters that are often not found in the regular world. Additionally, every night, 4 or more treasure chests (depending on the castle’s economy level) appear in the castle, offering valuable items and equipment. Owning a castle raises the guild's prestige.</p>
+<h2 id="woe-signs">WoE Signs<a class="headerlink" href="#woe-signs" title="Anchor link to this section">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Town</th>
+<th>Coordinates</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Prontera</td>
+<td>/navi prontera 217/178</td>
+</tr>
+<tr>
+<td>Alberta</td>
+<td>/navi alberta 58/248</td>
+</tr>
+<tr>
+<td>Morocc</td>
+<td>/navi morocc 212/72</td>
+</tr>
+<tr>
+<td>Aldebaran</td>
+<td>/navi aldebaran 207/66</td>
+</tr>
+<tr>
+<td>Gonryun</td>
+<td>/navi gonryun 118/140</td>
+</tr>
+</tbody>
+</table>
+<h2 id="schedule">Schedule<a class="headerlink" href="#schedule" title="Anchor link to this section">&para;</a></h2>
+<p>On our server, WoE takes place every Saturday and lasts for one hour.<br></p>
+<h3 id="saturday">Saturday<a class="headerlink" href="#saturday" title="Anchor link to this section">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Server Time (UTC)</th>
+<th>CET (UTC +1)</th>
+<th>EET (UTC +2)</th>
+<th>IST (UTC +5)</th>
+<th>PST (UTC -8)</th>
+<th>MST (UTC -7)</th>
+<th>CST (UTC -6)</th>
+<th>EST (UTC -5)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>16:00</td>
+<td>17:00</td>
+<td>18:00</td>
+<td>21:00</td>
+<td>08:00</td>
+<td>09:00</td>
+<td>10:00</td>
+<td>11:00</td>
+</tr>
+</tbody>
+</table>
+<h4 id="available-castles">Available Castles<a class="headerlink" href="#available-castles" title="Anchor link to this section">&para;</a></h4>
+<table>
+<thead>
+<tr>
+<th>Castle Name. Town</th>
+<th>Location</th>
+<th>Emperium Room</th>
+<th>Guild Dangeous</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hohenschwangau. Aldebaran</td>
+<td><img alt="Hohenschwangau Castle" src="../img/WoE/Aldebaran-Hohenschwangau.png" /></td>
+<td><a href="../img/WoE/Aldebaran-Hohenschwangau-EmpRoom.png"><img alt="Hohenschwangau Room" height="384" src="../img/WoE/Aldebaran-Hohenschwangau-EmpRoom.png" width="284" /></a></td>
+<td><img alt="Hohenschwangau Dun" src="../img/WoE/Aldebaran-Dun.png" /></td>
+</tr>
+<tr>
+<td>Kriemhild. Prontera</td>
+<td><img alt="Prontera Castle" src="../img/WoE/Prontera-Kriemhild.png" /></td>
+<td><a href="../img/WoE/Prontera-Kriemhild-EmpRoom.png"><img alt="Kriemhild Room" height="384" src="../img/WoE/Prontera-Kriemhild-EmpRoom.png" width="284" /></a></td>
+<td><img alt="Prontera Dun" src="../img/WoE/Prontera-Dun.png" /></td>
+</tr>
+<tr>
+<td>Sacred Alter. Payon</td>
+<td><img alt="Payon Castle" src="../img/WoE/Payon-Sacred%20Alter.png" /></td>
+<td><a href="../img/WoE/Payon-SacredAlter-EmpRoom.jpg"><img alt="Scarlet Room" height="384" src="../img/WoE/Payon-SacredAlter-EmpRoom.jpg" width="284" /></a></td>
+<td><img alt="Payon Dun" src="../img/WoE/Payon-Dun.png" /></td>
+</tr>
+</tbody>
+</table>
+<!--| Himinn. Yuno | ![Yuno Castle](img/Himinn-Yuno.png) | [![Himinn Room](img/Himinn-Yuno-EmpRoom.png){width=500 height=400}](img/Himinn-Yuno-EmpRoom.png) | ![Prontera Dun](img/Yuno-Dun.png) |
+| Bergel. Geffen | ![Geffen Castle](img/Bergel-Geffen.png) | [![Bergel Room](img/Bergel-Geffen-EmpRoom.png){width=284 height=384}](img/Bergel-Geffen-EmpRoom.png) | ![Yuno Dun](img/Geffen-Dun.png) |
+ | Holy Shadow. Payon |  ![Payon Castle](img/Holy%20Shadow-Payon.png) | [![Holy Shadow Room](img/Holy%20Shadow-EmpRoom.png){width=550 height=384}](img/Holy%20Shadow-EmpRoom.png) | ![Payon Dun](img/Payon-Dun.png) | -->
+
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.</p>
+</div>
+<h2 id="treasure-chest-drop">Treasure Chest Drop<a class="headerlink" href="#treasure-chest-drop" title="Anchor link to this section">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Castle Name. Town</th>
+<th>Treasure Chest 1</th>
+<th>Treasure Chest 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hohenschwangau. Aldebaran</td>
+<td><img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="12103" src="../img/12103.gif" /> Bloody Branch - 20%<br> <img alt="Jewelry Box" src="../img/12106.gif" /> Jewelry Box - 2.5%<br> <img alt="7620" src="../img/7620.gif" /> Enriched Oridecon - 20%<br> <img alt="616" src="../img/616.gif" /> Old Card Album - 30%<br></td>
+<td><img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="6919" src="../img/6919.gif" /> Token of Honor - 0.25%<br> <img alt="12103" src="../img/12103.gif" /> Bloody Branch - 20%<br> <img alt="7619" src="../img/7619.gif" /> Enriched Elunium - 20%<br> <img alt="6443" src="../img/6443.gif" /> Silit Pong - 0.05%<br> <img alt="616" src="../img/616.gif" /> Mystical Card Album - 0.02%</td>
+</tr>
+<tr>
+<td>Kriemhild. Prontera</td>
+<td><img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="12103" src="../img/12103.gif" /> Bloody Branch - 15%<br> <img alt="7444" src="../img/7444.gif" /> Treasure Box - 10%<br> <img alt="6443" src="../img/6443.gif" /> Silit Pong - 0.03%<br> <img alt="7620" src="../img/7620.gif" /> Enriched Oridecon - 15%<br> <img alt="616" src="../img/616.gif" /> Old Card Album - 20%<br></td>
+<td><img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="12103" src="../img/12103.gif" /> Bloody Branch - 15%<br> <img alt="7619" src="../img/7619.gif" /> Enriched Elunium - 15%<br> <img alt="411913" src="../img/411913.png" /> WoE Material Box - 10%<br> <img alt="6684" src="../img/6684.gif" /> Heroic Token - 0.15%<br> <img alt="616" src="../img/616.gif" /> Mystical Card Album - 0.01%</td>
+</tr>
+<tr>
+<td>Sacred Alter. Payon</td>
+<td><img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="12103" src="../img/12103.gif" /> Bloody Branch - 10%<br> <img alt="7620" src="../img/7620.gif" /> Enriched Oridecon - 10%<br> <img alt="7444" src="../img/7444.gif" /> Treasure Box - 5%<br> <img alt="411913" src="../img/411913.png" /> WoE Material Box - 10%<br> <img alt="616" src="../img/616.gif" /> Old Card Album - 15%</td>
+<td><img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="7539" src="../img/7539.gif" /> Poring Coin - 100%<br> <img alt="411913" src="../img/411913.png" /> WoE Material Box - 10%<br> <img alt="7444" src="../img/7444.gif" /> Treasure Box - 5%<br> <img alt="12103" src="../img/12103.gif" /> Bloody Branch - 10%<br> <img alt="6443" src="../img/6443.gif" /> Silit Pong - 0.01%<br> <img alt="7619" src="../img/7619.gif" /> Enriched Elunium - 10%<br></td>
+</tr>
+</tbody>
+</table>
+<!--| Himinn. Yuno | ![7539](img/7539.gif) Poring Coin - 100%<br> ![608](img/608.gif) Yggdrasil Berry - 100%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![12103](img/12103.gif) Bloody Branch - 20%<br> ![7620](img/7620.gif) Enriched Oridecon - 25%<br> ![2624](img/2624.gif) Glove [1] - 2.3%<br> ![2286](img/2286.gif) Elven Ears - 1.25%<br> ![616](img/616.gif) Mystical Card Album - 0.01% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![6684](img/6684.gif) Heroic Token - 0.25%<br> ![2114](img/2114.gif) Stone Buckler [1] - 5%<br> ![2528](img/2528.gif) Wool Scarf [1] - 5%<br> ![2353](img/2353.gif) Odin Blessing [1] - 5%<br> ![7619](img/7619.gif) Enriched Elunium - 25%<br>  ![616](img/616.gif) Old Card Album - 50% |
+| Bergel. Geffen | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![2104](img/2104.gif) Buckler [1] - 40%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![1143](img/1143-1.gif) Gaia Sword - 2.5%<br> ![1237](img/1237.gif) Grimtooth - 1.88%<br> ![2235](img/2235.gif) Crown - 0.12%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Swanhild. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![2406](img/2406.gif) Boots [1] - 40%<br> ![1142-1](img/1142-1.gif) Jeweled Sword - 10%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Holy Shadow. Payon | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![2315](img/2315.gif) Chain Mail [1] - 40%<br> ![2104](img/2104.gif) Buckler [1] - 40%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![2624](img/2624.gif) Glove [1] - 1%<br> ![2286](img/2286.gif) Elven Ears - 1%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Hohenschwangau. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![2404](img/2404.gif) Shoes [1] - 50%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2104](img/2104.gif) Buckler [1] - 40%<br> ![5022](img/5022.gif) Hat of the Sun God - 0.1%<br> ![616](img/616.gif) Mystical Card Album - 0.01% | -->
+
+<h2 id="token-system">Token System<a class="headerlink" href="#token-system" title="Anchor link to this section">&para;</a></h2>
+<p>One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Aldebaran and Prontera. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.</p>
+<table>
+<thead>
+<tr>
+<th>Package 1</th>
+<th>Package 2</th>
+<th>Package 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img alt="12103" src="../img/12103.gif" /> Bloody Branch - 25</td>
+<td><img alt="12103" src="../img/12103.gif" /> Bloody Branch - 50</td>
+<td><img alt="12103" src="../img/12103.gif" /> Bloody Branch - 50</td>
+</tr>
+<tr>
+<td><img alt="616" src="../img/616.gif" /> Old Card Album - 15</td>
+<td><img alt="616" src="../img/616.gif" /> Old Card Album - 25</td>
+<td><img alt="616" src="../img/616.gif" /> Old Card Album - 25</td>
+</tr>
+<tr>
+<td><img alt="616" src="../img/616.gif" /> Mystical Card Album</td>
+<td>AD Bottle Sets - 2k</td>
+<td><img alt="7619" src="../img/7619.gif" /> Enriched Elunium - 40</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><img alt="7620" src="../img/7620.gif" /> Enriched Oridecon - 40</td>
+</tr>
+</tbody>
+</table>
+<h2 id="woe-mechanics">WoE Mechanics<a class="headerlink" href="#woe-mechanics" title="Anchor link to this section">&para;</a></h2>
+<ul>
+<li>36 member cap within any given castle (Recall prioritizes top most rank downwards until number met).<br></li>
+<li>All MVP cards render no effect within WoE Castles (Still equippable, but have no effect).<br></li>
+<li>The following mini-boss cards render no effect within WoE Castles (Ghostring, Angeling, Deviling and Maya Purple).<br></li>
+<li>Alliances are allowances with one Guild.<br></li>
+<li>@GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).<br></li>
+<li>Guild Emblems must be visible and clearly identifiable to participate<br></li>
+<li>RODEX is now blocked<br></li>
+</ul>
+<h3 id="item-restrictions">Item Restrictions:<a class="headerlink" href="#item-restrictions" title="Anchor link to this section">&para;</a></h3>
+<p><img alt="607" src="../img/607.gif" /> Yggdrasil Berry<br>
+<img alt="608" src="../img/608.gif" /> Yggdrasil Seeds<br>
+<img alt="12192" src="../img/12192.gif" /> Pumpkin Pie<br>
+<img alt="Kafra Card" src="../img/12211.gif" /> Kafra Card<br> </p>
+<h3 id="skill-restrictions">Skill Restrictions:<a class="headerlink" href="#skill-restrictions" title="Anchor link to this section">&para;</a></h3>
+<p><img alt="bd_rokisweil" src="../img/WoE/bd_rokisweil.gif" /> Loki's Veil<br>
+<img alt="tk_highjump" src="../img/WoE/tk_highjump.gif" /> High Jump<br>
+<img alt="tk_highjump" src="../img/WoE/hp_assumptio.gif" /> Assumptio<br></p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://discord.gg/uaro-the-world-of-your-dream-702960460168953946" target="_blank" rel="noopener" title="Discord" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M492.5 69.8c-.2-.3-.4-.6-.8-.7-38.1-17.5-78.4-30-119.7-37.1-.4-.1-.8 0-1.1.1s-.6.4-.8.8c-5.5 9.9-10.5 20.2-14.9 30.6-44.6-6.8-89.9-6.8-134.4 0-4.5-10.5-9.5-20.7-15.1-30.6-.2-.3-.5-.6-.8-.8s-.7-.2-1.1-.2C162.5 39 122.2 51.5 84.1 69c-.3.1-.6.4-.8.7C7.1 183.5-13.8 294.6-3.6 404.2c0 .3.1.5.2.8s.3.4.5.6c44.4 32.9 94 58 146.8 74.2.4.1.8.1 1.1 0s.7-.4.9-.7c11.3-15.4 21.4-31.8 30-48.8.1-.2.2-.5.2-.8s0-.5-.1-.8-.2-.5-.4-.6-.4-.3-.7-.4c-15.8-6.1-31.2-13.4-45.9-21.9-.3-.2-.5-.4-.7-.6s-.3-.6-.3-.9 0-.6.2-.9.3-.5.6-.7c3.1-2.3 6.2-4.7 9.1-7.1.3-.2.6-.4.9-.4s.7 0 1 .1c96.2 43.9 200.4 43.9 295.5 0 .3-.1.7-.2 1-.2s.7.2.9.4c2.9 2.4 6 4.9 9.1 7.2.2.2.4.4.6.7s.2.6.2.9-.1.6-.3.9-.4.5-.6.6c-14.7 8.6-30 15.9-45.9 21.8-.2.1-.5.2-.7.4s-.3.4-.4.7-.1.5-.1.8.1.5.2.8c8.8 17 18.8 33.3 30 48.8.2.3.6.6.9.7s.8.1 1.1 0c52.9-16.2 102.6-41.3 147.1-74.2.2-.2.4-.4.5-.6s.2-.5.2-.8c12.3-126.8-20.5-236.9-86.9-334.5zm-302 267.7c-29 0-52.8-26.6-52.8-59.2s23.4-59.2 52.8-59.2c29.7 0 53.3 26.8 52.8 59.2 0 32.7-23.4 59.2-52.8 59.2m195.4 0c-29 0-52.8-26.6-52.8-59.2s23.4-59.2 52.8-59.2c29.7 0 53.3 26.8 52.8 59.2 0 32.7-23.2 59.2-52.8 59.2"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "..", "features": ["navigation.sections", "content.tabs", "navigation.top", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy"], "search": "../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.92b07e13.min.js"></script>
+      
+        <script src="../javascripts/mathjax.js"></script>
+      
+        <script src="../javascripts/tablesort.js"></script>
+      
+    
+  </body>
+</html>
