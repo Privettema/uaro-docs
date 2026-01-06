@@ -60,8 +60,8 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                     Skill range of 1 cell.
                 </td>
                 <td>
-                    Knockback distance removed.<br>
-                    Skill range increased to 2 cells.
+                    Knockback distance of 2 cells.<br>
+                    Skill range increased to 2 cells. (It's whole AoE.)
                 </td>
             </tr>
             <tr>
@@ -106,7 +106,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/cr_grandcross.gif" alt="">Grand Cross</td>
                 <td>Grand Cross hits 1-5 times, depending highly on position and movement of enemy/enemies. When one or more monsters are on a single cell of GC, the number of hits are reduced by 1 per monster (to a minimum of one hit to one monster).</td>
-                <td>Due to increased mob stack size, mobs on the same cell take 100% of the damage from every hit.</td>
+                <td>Due to increased mob stack size, mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/pa_gospel.gif" alt="">Gospel</td>
@@ -155,6 +155,12 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>Increases MATK for the next instance of magical damage dealt. Does not include multiple ticks.</td>
                 <td>Modified to increase MATK for each tick AoE spells Meteor Storm, Storm Gust, and Lord of Vermillion.</td>
             </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/wz_stormgust.png" alt="">Ice Wall</td>
+                <td>9x9 Diameter Circle Reticule</td>
+                <td>10x10 Diameter Circle Reticule</td>
+            </tr>
+            <tr>
         </tbody>
     </table>
 </div>
@@ -414,7 +420,7 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
             <tr>
                 <td><img src="../img/Class_Changes/rg_backstab.gif" alt="">Backstab</td>
                 <td>Powerful attack that can only be used from behind the enemy. Cannot miss and will turn the target to face the caster, thus preventing repeated use.</td>
-                <td>Can be performed from any angle.</td>
+                <td>Can be performed like most attack skills.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/rg_plagiarism.gif" alt="">Plagiarism</td>
@@ -507,32 +513,26 @@ No other changes to Hunter skills.
                 <td>Super Novice death count can be reset at a <a href="../Custom_NPC/#other">special NPC south of Prontera</a>.</td>
             </tr>
             <tr>
+                <td>Passive Bonuses</td>
+                <td>None</td>
+                <td>Super Novices are granted +2000 Carry Wt, and +10 DEX to their total bonuses. Improved Carry Weight, and Owl's Eye removed from skill tree. Blessing, and Increase Agility removed from skill tree (See Super Blessing below)</a>.</td>
+            </tr>
+            <tr>
                 <td><img src="../img/Class_Changes/nv_breakthrough.png" alt="">Breakthrough</td>
-                <td>Breakthrough is an Expanded Super Novice skill that has been adjusted for Pre-Renewal.</td>
+                <td>Breakthrough is an Expanded Super Novice skill that has been adjusted for Pre-Renewal. <strong>This is a Platinum skill, see Platinum Skill NPC in Main Office</strong></td>
                 <td>
-                    Increases your ATK, Max HP, Max SP, and incoming healing amounts.<br><br>
-                    <strong>Level 1</strong>: ATK + 10, Max HP + 200, Max SP + 20, Healing Amount +2%<br>
-                    <strong>Level 2</strong>: ATK + 20, Max HP + 400, Max SP + 40, Healing Amount +4%<br>
-                    <strong>Level 3</strong>: ATK + 30, Max HP + 600, Max SP + 40, Healing Amount +6%<br>
-                    <strong>Level 4</strong>: ATK + 40, Max HP + 800, Max SP + 80, Healing Amount +8%<br>
-                    <strong>Level 5</strong>: ATK + 60, Max HP + 1,000, Max SP + 100, Healing Amount +10%
+                    Increases your ATK, MATK, Max HP, Max SP, and incoming healing amounts.<br><br>
+                    <strong>Level 1</strong>: <br>
                 </td>
             </tr>
             <tr>
-                <td><img src="../img/Class_Changes/nv_transcendence.png" alt="">Transcendence</td>
-                <td>Transcendence is an Expanded Super Novice skill that has been adjusted for Pre-Renewal.</td>
-                <td>
-                    Increases your MATK, Max HP, Max SP, and incoming healing amounts.<br><br>
-                    <strong>Level 1</strong>: MATK + 10, Max HP + 200, Max SP + 20, Healing Amount +2%<br>
-                    <strong>Level 2</strong>: MATK + 20, Max HP + 400, Max SP + 40, Healing Amount +4%<br>
-                    <strong>Level 3</strong>: MATK + 30, Max HP + 600, Max SP + 40, Healing Amount +6%<br>
-                    <strong>Level 4</strong>: MATK + 40, Max HP + 800, Max SP + 80, Healing Amount +8%<br>
-                    <strong>Level 5</strong>: MATK + 60, Max HP + 1,000, Max SP + 100, Healing Amount +10%
+                <td><img src="../img/Class_Changes/nv_transcendence.png" alt="">Super Blessing</td>
+                <td>Applies both Increase Agility 10, and Blessing 10 to a single target.<strong>This is a Platinum skill, see Platinum Skill NPC in Main Office</strong></td>
                 </td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/nv_helpangel.png" alt="">Angel, Help me!</td>
-                <td>Angel, Help me! is an Expanded Super Novice skill that has been adjusted for Pre-Renewal.</td>
+                <td>Angel, Help me! is an Expanded Super Novice skill that has been adjusted for Pre-Renewal. <strong>This is a Platinum skill, see Platinum Skill NPC in Main Office</strong></td>
                 <td>
                     Restores HP and SP for you and your party members in a 15x15 cells around you.<br><br>
                     HP per second 500, SP per second 100. Duration of 20 seconds. Cooldown of 300 seconds.
