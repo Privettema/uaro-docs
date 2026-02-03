@@ -526,7 +526,7 @@ No other changes to Hunter skills.
                 </td>
             </tr>
             <tr>
-                <td><img src="../img/Class_Changes/nv_transcendence.png" alt="">Super Blessing</td>
+                <td><img src="../img/Class_Changes/sunoblessing.png" alt="">Super Blessing</td>
                 <td>Applies both Increase Agility 10, and Blessing 10 to a single target.<strong>This is a Platinum skill, see Platinum Skill NPC in Main Office</strong></td>
                 </td>
             </tr>
@@ -690,7 +690,7 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Deal
                 </td>
                 <td>
                     Reduced after cast delay to 1.5 seconds.<br>
-                    Reduced SP cost to 5, 10, 15, 20, 25. 
+                    Reduced SP cost to 10, 15, 20, 25, 30. 
                 </td>
             </tr>
         </tbody>

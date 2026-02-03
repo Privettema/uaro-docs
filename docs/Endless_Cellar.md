@@ -9,7 +9,7 @@ Endless Cellar is one of the most popular instances uaRO, designed for team-base
 - All party members must be present on Misty Island at the time the Party Leader clicks to stone to initiate the dungeon start.
 - Any member who attempts to join an in progress party will automatically be kicked out of the instance.
 - Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon (If all members exit, the instance will be deleted and cooldown commences)
-- Create a party and run Solo or with a party of up to 12 total people (11+1) Dungeon instance creation starts at lowest level completed out of all party members
+- Create a party of atleast 6, and as many as 12 to take on the spiral into madness!
 - Experience and loot and obtained per kill and will be issued depending on party share options
 - Bubble Gum and EXP manuals do not effect drop rate and/or exp rates
 - Loot/EXP is accounted based
@@ -90,6 +90,10 @@ We are interested in the NPC **Cellar Protection Stone**. Talk to the Cellar Pro
 | Stage 1 | Stage 2 | Stage 3 | Stage 4 |
 |---------|---------|---------|---------|
 | ![1002](img/1002.gif) Poring - 1 | ![1649](img/1649.gif) High Priest Magaleta (MVP) - 1<br> ![1645](img/1645.gif) High Wizard Katrinn (MVP) - 1<br> ![1644](img/1644.gif) Sniper Shecil (MVP) - 1<br> ![1641](img/1641.gif) Assassin Cross Eremes (MVP) - 1<br> ![1642](img/1642.gif) Whitesmith Harword (MVP) - 1<br> ![1640](img/1640.gif) Lord Knight Seyren (MVP) - 1 | ![1399](img/1399.gif) Super Baphomet - 1<br> ![1930](img/1930.gif) Piamette - 2<br> ![1931](img/1931.gif) Wish Maiden - 2 | ![1502](img/1502.gif) Pori Pori - 1<br> ![1840](img/1840.gif) Golden Savage - 10<br> ![1894](img/1894.gif) Pouring - 10<br> ![1904](img/1904.gif) Bomb Poring - 20 |
+
+!!! note
+    (2) RANDOM Bio Labs 3 MVPs will be spawned with full drop-rate. The rest are reduced.
+
 
 ### Finish
 
