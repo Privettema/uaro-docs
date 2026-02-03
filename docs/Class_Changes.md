@@ -267,6 +267,11 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>There is a 0.1% chance to break your weapon with each hit.</td>
                 <td>No longer breaks weapons.</td>
             </tr>
+             <tr>
+                <td>Forging System</td>
+                <td>When forging a weapon there are 3 available slots for modifying items. Items such as Flame Heart, Mystic Frozen, Rough Wind and Great Nature can be used to imbue the weapon with the Fire, Water, Wind and Earth properties, respectively. A weapon may only have one element at a time and using more than one elemental stone will cause the forge to fail. Slots may also be fitted with Star Crumbs. One, two, and three Star Crumbs will (respectively) add +5, +10, and +40 Mastery ATK to all attacks from the weapon.</td>
+                <td>1 Very +20 ATK.<br> 2 Very +40 ATK (+60 total).<br> 2 Very and Element +60 ATK and +10% bonus damage (element).<br> 3 Very +60 ATK and 10% neutral damage bonus.</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -288,12 +293,35 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
             <tr>
                 <td>Fame System</td>
                 <td>Fame points earned are kept permanently. Potions made by the 10 top ranked alchemists will receive a 50% bonus to their potency. Rankings can be checked with <code>@alchemist</code> in game.</td>
-                <td>Fame points decay by 10% per month, to support better game balance.</td>
+                <td>Fame points decay by 5% per mo                 nth, to support better game balance.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/am_twilight3.gif" alt="">Twilight Alchemy</td>
                 <td>N/A</td>
-                <td>Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory. Requires Soul Link.</td>
+                <td>Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory. Requires Soul Link.<br>
+                    Auto crafts upon skill use if only one potion type available (won't prompt ingredient verification/selection screen)<br>
+                    Cooldown: 2s
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/am_bioethics.gif" alt="">Bioethics</td>
+                <td>Allows Alchemist to begin learning the Homunculus Skill Tree.</td>
+                <td>Bioethics skill now an active skill. Used as the interface to swap between your stored homc (Cost 1 embryo to swap between).</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/am_callhomun.gif" alt="">Call Homunculus</td>
+                <td>Summon or recall an already created Homunculus.</td>
+                <td>Calls your most recently selected homc. Your active choice will not show on your "Bioethics" list of storage.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/am_rest.gif" alt="">Rest</td>
+                <td>Destroys a currently created Homunculus.</td>
+                <td>Required if you have an active homc before you can access Bioethics to swap.</td>
+            </tr>
+             <tr>
+                <td><img src="../img/Class_Changes/am_resurrecthomun.gif" alt="">Resurrect Homunculus</td>
+                <td>Resurrect a killed Homunculus.</td>
+                <td>Calling your last called homc is still free (No embryo required).</td>
             </tr>
         </tbody>
     </table>
@@ -521,13 +549,16 @@ No other changes to Hunter skills.
                 <td><img src="../img/Class_Changes/nv_breakthrough.png" alt="">Breakthrough</td>
                 <td>Breakthrough is an Expanded Super Novice skill that has been adjusted for Pre-Renewal. <strong>This is a Platinum skill, see Platinum Skill NPC in Main Office</strong></td>
                 <td>
-                    Increases your ATK, MATK, Max HP, Max SP, and incoming healing amounts.<br><br>
-                    <strong>Level 1</strong>: +50 ATK, +50 MATK, +2000 HP, +200 SP, +20% Healing <br>
+                    Increases your ATK, MATK, Max HP, Max SP, and incoming healing amounts.<br>
+                     ATK + 50, MATK +50, Max HP + 2000, Max SP + 200, Healing Amount +20%.
                 </td>
             </tr>
             <tr>
-                <td><img src="../img/Class_Changes/sunoblessing.png" alt="">Super Blessing</td>
-                <td>Applies both Increase Agility 10, and Blessing 10 to a single target.<strong>This is a Platinum skill, see Platinum Skill NPC in Main Office</strong></td>
+                <td><img src="../img/Class_Changes/nv_transcend" alt="">Super Blessing</td>
+                <td>N/A</td>
+                <td>
+                   Grants Inc Agi and Blessing status.<br>
+                   Does not stack with other Inc Agi/Blessing skills or scrolls.
                 </td>
             </tr>
             <tr>
@@ -536,6 +567,35 @@ No other changes to Hunter skills.
                 <td>
                     Restores HP and SP for you and your party members in a 15x15 cells around you.<br><br>
                     HP per second 500, SP per second 100. Duration of 20 seconds. Cooldown of 300 seconds.
+                </td>
+            </tr>
+            <tr>
+                <td>Removed Skills</td>
+                <td>N/A</td>
+                <td>
+                    <img src="../img/Class_Changes/al_incagi.gif" alt=""> Inc Agi<br>
+                    <img src="../img/Class_Changes/al_blessing.gif" alt=""> Blessing<br>
+                    <img src="../img/Class_Changes/mc_inccarry.gif" alt=""> Enlarge Weight Limit<br>
+                    <img src="../img/Class_Changes/mc_identify.gif" alt=""> Identify<br>
+                    <img src="../img/Class_Changes/nv_transcendence.png" alt=""> Transcendence<br>
+                    <img src="../img/Class_Changes/ac_owl.gif" alt=""> Owl's Eye
+                </td>
+            </tr>
+            <tr>
+                <td>Stat Adjustments</td>
+                <td>N/A</td>
+                <td>
+                     Base max weight increased by 2000.<br>
+                     Job levels 1-50 grant +10 additional DEX total.
+                </td>
+            </tr>
+            <tr>
+                <td>Doridori Enhancement</td>
+                <td>N/A</td>
+                <td>
+                    Now affects HP regeneration in addition to SP.<br>
+                    Grants status icon when active.<br>
+                    Force-ends when standing up.
                 </td>
             </tr>
         </tbody>
@@ -674,8 +734,12 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Deal
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/nj_kunai.gif" alt="">Throw Kunai</td>
-                <td>After cast delay of 1 second.</td>
-                <td>Reduced after cast delay to 0.5 seconds.</td>
+                <td>After cast delay of 1 second.<br>
+                    Skill range: 9 cell.
+                </td>
+                <td>Reduced after cast delay to 0.5 seconds.<br>
+                    Skill range: 12 cell.
+                </td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/nj_issen.gif" alt="">Final Strike</td>
@@ -686,7 +750,8 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Deal
                 <td><img src="../img/Class_Changes/nj_huuma.gif" alt="">Throw Huuma Shuriken</td>
                  <td>
                     After cast delay of 2 seconds.<br>
-                    SP cost for level 1-5 is 20, 25, 30, 35, 40.
+                    SP cost for level 1-5 is 20, 25, 30, 35, 40.<br>
+                    Skill range: 9 cell.
                 </td>
                 <td>
                     Reduced after cast delay to 1.5 seconds.<br>

@@ -16,6 +16,27 @@ Endless Cellar is one of the most popular instances uaRO, designed for team-base
 - Level 85+ to enter
 - Monsters remaining per floor will be announced starting with 5 remaining
 
+### Lockout Mechanics
+
+- Account/UniqueID locked upon start of instance initiation
+- All mechanics still the same for loot, MVP structure etc.
+- Upon a successful full clear of the dungeon, the UniqueID will be released
+  for another run. Account will remain on cooldown (Free to utilize same PC
+  but different account)
+- BBG will remain blocked
+- If you DO NOT follow the mechanics and fully clear, you will be locked out
+  for the week
+
+
+!!! warning "Anti-Circumvention Policy"
+    Attempts to bypass these mechanics will result in all associated accounts banned.
+
+### End of Instance Specific UniqueID Unlock Points
+
+| Instance | Unlock Action |
+|----------|---------------|
+| **EC** | Talk to Arc Pori Pori |
+
 ## How to start instance
 
 
@@ -26,7 +47,8 @@ To start the instance, you need to talk to Captain Janssen in Prontera (**/navi 
 On the island, there is a Kafra who provides access to both personal storage and guild storage.
 We are interested in the NPC **Cellar Protection Stone**. Talk to the Cellar Protection Stone and select **Enter Endless Cellar**<br>
 
-
+!!! note " After the instance starts, the party will have one minute for each member to type the **!ready** command in general chat. Otherwise, the instance will need to be restarted."
+        
 ![EC-Cellar-Prot-Stone](img/EC-Cellar%20Prot-Stone.png)
 ![EC-Cellar-Prot-Stone1](img/EC-Cellar%20Prot-Stone1.png)
 
@@ -89,7 +111,7 @@ We are interested in the NPC **Cellar Protection Stone**. Talk to the Cellar Pro
 
 | Stage 1 | Stage 2 | Stage 3 | Stage 4 |
 |---------|---------|---------|---------|
-| ![1002](img/1002.gif) Poring - 1 | ![1649](img/1649.gif) High Priest Magaleta (MVP) - 1<br> ![1645](img/1645.gif) High Wizard Katrinn (MVP) - 1<br> ![1644](img/1644.gif) Sniper Shecil (MVP) - 1<br> ![1641](img/1641.gif) Assassin Cross Eremes (MVP) - 1<br> ![1642](img/1642.gif) Whitesmith Harword (MVP) - 1<br> ![1640](img/1640.gif) Lord Knight Seyren (MVP) - 1 | ![1399](img/1399.gif) Super Baphomet - 1<br> ![1930](img/1930.gif) Piamette - 2<br> ![1931](img/1931.gif) Wish Maiden - 2 | ![1502](img/1502.gif) Pori Pori - 1<br> ![1840](img/1840.gif) Golden Savage - 10<br> ![1894](img/1894.gif) Pouring - 10<br> ![1904](img/1904.gif) Bomb Poring - 20 |
+| ![1002](img/1002.gif) Poring - 1 | Two random MVPs from **Bio Laboratory F3** | ![1399](img/1399.gif) Super Baphomet - 1<br> ![1930](img/1930.gif) Piamette - 2<br> ![1931](img/1931.gif) Wish Maiden - 2 | ![1502](img/1502.gif) Pori Pori - 1<br> ![1840](img/1840.gif) Golden Savage - 10<br> ![1894](img/1894.gif) Pouring - 10<br> ![1904](img/1904.gif) Bomb Poring - 20 |
 
 !!! note
     (2) RANDOM Bio Labs 3 MVPs will be spawned with full drop-rate. The rest are reduced.
