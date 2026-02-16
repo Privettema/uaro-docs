@@ -7,6 +7,18 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "February 16"
+        **February 16, 2026**
+
+        - Gameplay: Spear Quicken toggle, cooking kits no longer consume until craft, `/class` command restored.
+        - Pre-Trans WoE: Whitelist guild system added, requires staff registration.
+        - Pets: Now allowed in castles outside of WoE times.
+        - Fixes: `@ws` enchant search, LHZ 3/4 MVP broadcasts, `/?? emote` fix.
+        - Items: Puppy Hat [0] buff (`agi 77+` 3% → 5%), Fire Golem Card added to OCA.
+        - Cash Shop: Falcon skins (Owl/Hawk) for Sniper, 15 additional character slots.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches16022026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "January 30"
         **January 30, 2026**
 
