@@ -222,7 +222,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <td><img src="../img/5305.png" alt="Pirate Dagger"><br>Pirate Dagger</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/628_1.png" alt="Well-Dried Bone"> Well-Dried Bone - 20<br><img src="../img/7189.png" alt="Wooden Heart"> Wooden Heart - 120</td>
 <td>A small sivler knife that is held between your teeth to allow free use of your hands.<br>Atk +5.</td>
-<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 10<br><strong>Jobs</strong>: All</td>
+<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Lower<br><strong>Weight</strong>: 10<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
 <td><img src="../img/5409.png" alt="Purple Cowboy Hat [1]"><br>Purple Cowboy Hat [1]</td>
