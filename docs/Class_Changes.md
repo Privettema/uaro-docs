@@ -156,7 +156,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>Modified to increase MATK for each tick AoE spells Meteor Storm, Storm Gust, and Lord of Vermillion.</td>
             </tr>
             <tr>
-                <td><img src="../img/Class_Changes/wz_stormgust.png" alt="">Ice Wall</td>
+                <td><img src="../img/Class_Changes/wz_stormgust.png" alt="">Storm Gust</td>
                 <td>9x9 Diameter Circle Reticule</td>
                 <td>10x10 Diameter Circle Reticule</td>
             </tr>
