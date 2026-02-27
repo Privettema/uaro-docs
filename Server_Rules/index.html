@@ -1,0 +1,2032 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="The official documentation for uaRO World of your Dream">
+      
+      
+        <meta name="author" content="uaRO Team">
+      
+      
+        <link rel="canonical" href="https://wiki.uaro.net/Server_Rules/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.3">
+    
+    
+      
+        <title>Server Rules - uaRO Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../css/custom.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-7XD6KF8G73"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-7XD6KF8G73",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-7XD6KF8G73",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#server-rules" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="uaRO Documentation" class="md-header__button md-logo" aria-label="uaRO Documentation" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            uaRO Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Server Rules
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="uaRO Documentation" class="md-nav__button md-logo" aria-label="uaRO Documentation" data-md-component="logo">
+      
+  <img src="../img/logo.png" alt="logo">
+
+    </a>
+    uaRO Documentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    👋 Welcome to uaRO
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Server_Info/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ℹ️ Server Information
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Donations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌳 Donations
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../All_Patch_Notes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧵 Patch Notes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://www.uaro.net/cp/?module=service&action=downloads" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🚀 Download uaRO ↗
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://discord.gg/uaro-the-world-of-your-dream-702960460168953946" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    👾 Join us on Discord ↗
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Getting Started
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Getting Started
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../How_To_Start/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⭐ How to start
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Commands/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⚙️ Commands
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Beginner_Guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌱 Beginner Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Improvements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🦋 QOL Improvements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Guild-Starter-Support-System/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎁 Guild Starter Support System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Troubleshooting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🛟 Troubleshooting
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../FAQ/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💬 FAQ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Key Features
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Key Features
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Main_Office/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏡 Main Office
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Pet_System/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐱 Cute Pet System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Hunting_Mission/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⚔️ Hunting Missions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Poring_Coins_System/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💖 Poring Coin System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Repeatable_Quests/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎉 Repeatable Quests
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Vendor_System/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💰 Vendor System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Warper_System/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🌀 Warper System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Enhancements
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Enhancements
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Inns/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💤 Adventurer Inns
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Attendance_System/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🔔 Attendance Rewards
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Card_Exchange/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎟️ Card Exchange
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Class_Changes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🔮 Class Changes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Dealers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🍬 Convenient Dealers
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Custom_NPC/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧚 Custom NPCs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Costume_Converter/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎭 Costume Converter
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Dimonka_Headgear_Quest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    👒 Headgear Quests
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Hourly_Rewards_System/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🕥 Hourly Rewards
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Item_Changes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    👕 Item Changes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Mercenary_System/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🔪 Mercenary System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Modified_Sales_Prices/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    💎 Modified Sales Prices
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Navigation_System/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🗺️ Navigation System
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Remastered_Novice_Location/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐣 Remastered Novice Grounds
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dungeons
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Dungeons
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Biolab4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🧪 Biolabs 4
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Endless_Cellar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    ⏳ Endless Cellar
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Horror_Toy_Factory/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎁 Horror Toy Factory
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Old_Glast_Heim/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    👻 Old Glast Heim
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Events & Activites
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Events & Activites
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Auto_Events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🍀 Auto Events
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Lottery_NPC/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🎲 Lottery
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Hugel_Mini_Game/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🐎 Hugel Mini Games
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../WoE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏰 War of Emperium
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Pre_Trans_WoE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏯 Pre-Trans WoE
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../King_of_Emperium_%28KoE%29/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    🏰 King of Emperium (KoE)
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="server-rules">Server Rules<a class="headerlink" href="#server-rules" title="Anchor link to this section">&para;</a></h1>
+<p><strong>Last update:</strong> December 11, 2023</p>
+<h3 id="part-1-user-agreement-and-policy-on-world-of-your-dream-server"><strong>Part 1. «User Agreement and Policy on World of Your Dream Server»</strong><a class="headerlink" href="#part-1-user-agreement-and-policy-on-world-of-your-dream-server" title="Anchor link to this section">&para;</a></h3>
+<p><strong>1.1</strong> Server rules apply to all players without exception.<br />
+<strong>1.2</strong> User automatically accepts the rules upon account registration.<br />
+<strong>1.3</strong> Ignorance or misunderstanding of the rules do not exempt you from liability in regards to violations.<br />
+<strong>1.4</strong> Advertising or providing any information about other game servers are not allowed.<br />
+<strong>1.5</strong> Server staff does not consider personal questions or requests for the purchase of game characters, leveling, and game values.<br />
+<strong>1.6</strong> The account owner is always responsible for their account/items, even if the owner shares his account details/items and results in being scammed.<br />
+<strong>1.7</strong> In case of repeated violations, we are entitled to apply more severe sanctions.<br />
+<strong>1.8</strong> Server staff reserves the right to:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>1.8.1</strong> Consider the actions of players at their discretion and apply sanctions not provided for by these rules, if necessary.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>1.8.2</strong> Review and make decisions on collective inquiries from players.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>1.8.3</strong> Change the rules without notice and consent of the players.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>1.8.4</strong> Make changes to the game server, as well as its services at its discretion.</p>
+<h3 id="part-2-game-client-and-third-party-software"><strong>Part 2. «Game Client and Third-Party Software»</strong><a class="headerlink" href="#part-2-game-client-and-third-party-software" title="Anchor link to this section">&para;</a></h3>
+<p><strong>Not Allowed</strong><br />
+<strong>2.1</strong> Using custom GRF files like Grayworld, DarkSide, etc.<br />
+<strong>2.2</strong> Modify the game client to obtain any advantage related to the gameplay.<br />
+<strong>2.3</strong> Using packet and visual bots.<br />
+<strong>2.4</strong> Using timer scripts and auto-clickers for auto-feed/auto-wing/anti-afk/auto-hide, etc.<br />
+<strong>2.5</strong> Using skill-spam auto-clickers.<br />
+<strong>2.6</strong> Using multiple client windows.<br />
+<strong>2.7</strong> Using multiple hardware (Laptops, PCs).<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>2.7.1</strong> Exception to this rule are dual-player households (family, spouse, significant others, etc.): Members will need to play independently at all times when both clients are logged in. If caught abusing this privilege on either account to include but not limited to items listed in 2.2.8, all accounts linked to the household will be permanently banned.<br />
+<strong>2.8</strong> Use of a second PC/machine to buff, link, leech experience, etc. will still be considered multiple clients and lead to a permanent ban.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>2.8.1</strong> Having a second account online using @autotrade is allowed (To include SuperNovice).</p>
+<h3 id="part-3-accounts-security-rmt-and-characters-names">Part 3. <strong>«Accounts Security, RMT and Characters Names»</strong><a class="headerlink" href="#part-3-accounts-security-rmt-and-characters-names" title="Anchor link to this section">&para;</a></h3>
+<p><strong>General Rules</strong><br />
+<strong>3.1</strong> Your account name and email are your "passport" to your characters. Only with this information can you rely on the help of server staff for recovery.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>3.1.1</strong> You may be denied support if during the registration process you used a temporary e-mail, or it is not an existing email address. (Valid email required for account activation)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>3.1.2</strong> You may be denied support if during the registration process you used a Proxy-Server, Web-Proxy (Anonymizer), VPN Service, VPS/VDS or Dedicated Server, Services/Addons to change IP or TOR Browser.<br />
+<strong>3.2</strong> Character names must be legible and pronounceable.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>3.2.1</strong> Using obscene, provocative, offensive or inappropriate nicknames are not allowed.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>3.2.2</strong> Using NPC and Town names, names similar to the names of server staff are not allowed.</p>
+<p><strong>Security of Your Account</strong><br />
+<strong>3.3</strong> You are responsible for the security of your account. Please choose strong/unique passwords and do not share information with outsiders.<br />
+<strong>3.4</strong> When you send your account details to third parties (including members of the guild, friends, scammers, links, viruses), your gaming values will not be returned.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>3.4.1</strong> If the person(s) utilizing your account at any time violate server rules, your personal account(s) will also be punished due to the violator(s) having had accessed your account as well.<br />
+<strong>3.5</strong> When you send your gaming values to third parties (including members of the guild, friends, scammers, links, viruses), your gaming values will not be returned.<br />
+<strong>3.6</strong> The server staff is not responsible for stolen in-game items.<br />
+<strong>3.7</strong> Please do not use the same combination of login/password/e-mail from others and on other game projects. (Database breaches occur and information is shared)<br />
+<strong>3.8</strong> Server staff will not request your account password at any time. We have access to account information through the database. We may request your account username, ISP name, email, and/or IP address to verify your identity.<br />
+<strong>3.9</strong> Unauthorized access to game accounts, hacking of accounts, including brute-force uses of databases from other servers are strictly forbidden, and carries criminal responsibility.</p>
+<p><strong>Purchase, Sale, Exchange Gaming Values (RMT - Real Money Trading)</strong><br />
+<strong>3.10</strong> Purchase, sale, and exchange of gaming values (Items, Zeny, Cash Points, Accounts) for real money or their equivalent: PayPal, Web money, Western Union, and similar analogues are not allowed.<br />
+<strong>3.11</strong> Dissemination of information about the purchase, sale, and exchange gaming values (Items, Zeny, Cash Points, Accounts) for real money or their equivalent: PayPal, Web money, Western Union, and similar analogues is not allowed.<br />
+<strong>3.12</strong> Dissemination of information about the purchase, sale, and exchange gaming values (Items, Zeny, Cash Points, Accounts) between other servers and other games is not allowed.</p>
+<h3 id="part-4-gameplay"><strong>Part 4. «Gameplay»</strong><a class="headerlink" href="#part-4-gameplay" title="Anchor link to this section">&para;</a></h3>
+<p><strong>4.1</strong> <strong>General Rules</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.1.1</strong> Exploitation of server bugs to receive any advantage or affect server stability/withholding of information about said bugs is strictly forbidden.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.1.2</strong> Disrespectful and/or humiliating attitude towards other players is not allowed.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.1.3</strong> Impersonation of any member on the server to include Server Staff is strictly forbidden.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.1.4</strong> Requesting personal information from other players, such as account details, PIN codes, payment information, etc., of any kind is strictly forbidden.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.1.5</strong> Excessive skill spamming in towns to include the use of warp portal/ice wall on entrance/exits to maps, structures, etc., is strictly forbidden.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.1.6</strong> Disrespectful appeal to server staff will not be tolerated.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.1.7</strong> Using items/equipment near players that create interference, such as Dead Branch, Bloody Branch, Azeroth etc., with the exception of MvP/Mini-boss interference, is strictly forbidden.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.1.8</strong> Harassment of other players and server staff is not allowed.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.1.9</strong> Use the @noks command to help mitigate kill stealing. If a player witnesses such behavior, they can file a complaint via #submit-ticket on discord, and appropriate actions will be taken by the server staff.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.1.10</strong> Leaving monsters on the map with low HP is not tolerated, and kill stealing is not welcome.</p>
+<p><strong>4.2</strong> <strong>MvP/Mini-Boss Gameplay</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.2.1</strong> MvP and Mini-Boss Encounters: Free For All (FFA). Competition for MvPs and Mini-Bosses is open to all players, with the understanding that certain skills are restricted to maintain fair play.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Continuous abuse of the teleport mechanic on MvPs is prohibited and will result in punishment.
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.2.2</strong> Blocking entrance/exit portals of maps with ice wall is prohibited.</p>
+<p><strong>4.3</strong> <strong>Vending Gameplay</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.3.1</strong> Do not put false advertisements in the shop title with the intention of deceiving buyers.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.3.2</strong> Do not attempt to block vending locations for the sole sake of reserving space. Server staff reserves the right to kick and/or punish violators of shops at their discretion.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.3.3</strong> Do not set up a Buying Store with prices less than their value sale to NPC.
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.3.4</strong> Do not set up a Vend Shop with prices more than their original price from NPC.
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.3.5</strong> Do not set up a Vending Store with prices MORE than their value sale to NPC.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.3.6</strong>  Players are strictly prohibited from misrepresenting the rarity or value of store items during their sale. Any attempts to deceive or manipulate other players by falsely advertising the rarity or exclusivity of these items are strictly forbidden. All transactions involving store items must provide accurate information regarding their actual rarity and value.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.3.7</strong> Overlapping/Stacking your vend on a pre-existing player's vend in an attempt to steal their spot is strictly prohibited.</p>
+<p><strong>4.4</strong> <strong>Dead Branches, Bloody Branches, Azoth or Hylozoist Card</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.4.1</strong> All monsters from Dead Branches and Bloody Branches are FFA (Free For All).<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.4.2</strong> Server Staff reserves the right to clean locations at our discretion. Please understand that ill-mannered activities with DB/BB cannot be completely prevented but are punishable with proof of ill-intent. We understand your frustration and we thank you for your patience.</p>
+<p><strong>4.5</strong> <strong>Kill Stealing</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.5.1</strong> Utilize the @noks command to lock a monster for 5 seconds starting from each instance of damage you deal.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.5.2</strong> Deliberate interference with monster groups engaged by melee classes or tanks is strictly prohibited.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>4.5.3</strong> Report any violations of these rules to staff members for review. Screen-recorded evidence is encouraged! (Please utilize screen records outside of RO in-game replay function if possible)</p>
+<h3 id="part-5-communication"><strong>Part 5. «Communication»</strong><a class="headerlink" href="#part-5-communication" title="Anchor link to this section">&para;</a></h3>
+<p><strong>5.1</strong> <strong>General Rules</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.1.1</strong> Insults, threats, blackmail, sexual harassment, racism, sexism of any nature is strictly prohibited.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.1.2</strong> Spam/flood of any chat channel to include writing one word lines, all capital letters, repetitive messages etc will not be tolerated.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.1.3</strong> Gossiping/sharing of misinformation about server staff and players will not be tolerated.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.1.4</strong> Rules of communication within Guild chat will be set forth by respective Guild Leaders. (Threats, blackmail, sexual harassment, racism, sexism will still not be tolerated)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.1.5</strong> Rules of communication within Party chat will be set forth by respective Party Leaders. (Threats, blackmail, sexual harassment, racism, sexism will still not be tolerated)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.1.6</strong> Use of and/or promotion in any form regarding explicit Nazi symbols or similar to Nazi attributes and symbols of confusion are strictly forbidden. A Nazi symbols is prohibited in many forms, the current legislation in most European countries and is considered offensive.</p>
+<p><strong>5.2</strong> <strong>Communication with the Server Staff</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.2.1</strong> When communicating with the server staff, players must be courteous, polite, and patient. Players must briefly, clearly, and without the use of slang, address their issue/concern or answer questions posed by server staff.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.2.2</strong> Players must not interrupt the server staff while conducting official affairs within the game relating to their duties.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.2.3</strong> Solicitation directed towards server staff outside of their duties is not allowed.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.2.4</strong> Falsely responding to questions from the server staff to conceal, misrepresent yourself or an action is strictly forbidden.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.2.5</strong> Do not impede server staff for any reason, creating obstacles and distracting from server staff duties.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.2.6</strong> Staff members do not respond to questions about general gameplay related matters.</p>
+<p><strong>5.3</strong> <strong>Communication in IRC channels</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.3.1</strong> Flood and spam are prohibited in all channels (for example, writing the same type of messages several times in a row, writing meaningless messages, etc).<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.3.2</strong> Sending trading messages in channels other than #trade is strictly prohibited.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.3.3</strong> Sending messages in languages other than English in global channels to include #trade, #main, #party are prohibited.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.3.4</strong> Sending political, nationalistic, racist, sexist messages in any capacity are strictly prohibited.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.3.5</strong> Sending messages about illegal drugs are prohibited (according to the laws of the Netherlands).<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.3.6</strong> Sending messages about the sale and purchase of drugs are prohibited.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>5.3.7</strong> Sending messages with insults to the administration and taunts directed towards administration are prohibited.</p>
+<h3 id="part-6-punishment"><strong>Part 6. «Punishment»</strong><a class="headerlink" href="#part-6-punishment" title="Anchor link to this section">&para;</a></h3>
+<p><strong>6.1</strong> <strong>Sanctions are applied if there is direct evidence of violations.</strong><br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>6.1.1</strong> Report from another player<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Screenshot or Replay attached to the complaint on the character.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Must necessarily be in clear violation of the rules displaying violator's nickname.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Editing screenshots or image resizing is not allowed.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Chat should be open to a maximum height.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- The validity of the screenshot is not more than 3 days.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>6.1.2</strong> First hand witness by Server Staff at the time of violation.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>6.1.3</strong> Server logs, directly indicating a violator.<br />
+<strong>6.2</strong> All reports should be sent using Support Tickets. Reports sent by other means may not be considered.</p>
+<h3 id="part-7-sanction-list"><strong>Part 7. «Sanction List»</strong><a class="headerlink" href="#part-7-sanction-list" title="Anchor link to this section">&para;</a></h3>
+<p><strong>7.1</strong> Account blocking - Temporary or permanent account blocking.<br />
+<strong>7.2</strong> Blocking IP - Blocking access to the game server from a specific IP or group of IPs.<br />
+<strong>7.3</strong> Blocking hardware - Blocking access to the game server from specific hardware or group of hardware.<br />
+<strong>7.4</strong> Confiscation of property - Complete or partial confiscation of property from one character or all characters on a game account.<br />
+<strong>7.5</strong> Mute - Blocking sending messages in IRC channel(s) / Use of skills for a duration.<br />
+<strong>7.6</strong> Jail time - Temporarily sends the character to prison.<br />
+<strong>7.7</strong> Battlegrounds Ban - Temporary ban for several games.</p>
+<h3 id="part-8-restricted-territories"><strong>Part 8. «Restricted Territories»</strong><a class="headerlink" href="#part-8-restricted-territories" title="Anchor link to this section">&para;</a></h3>
+<p><strong>8.1</strong> It is prohibited to create accounts and play from the following territories as they are members of terrorist organizations or countries included in the sanctions list.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>8.1.1</strong> Russia<br />
+<strong>8.2</strong> This measure is in accordance with international regulations and sanctions. Our goal is to comply with global standards and legal requirements.<br />
+<strong>8.3</strong> We monitor IP addresses and other location identifiers to enforce this policy. Accounts found to be created from these territories will be subject to immediate suspension or permanent ban.<br />
+<strong>8.4</strong> We understand this may affect players who are not directly involved in such activities. However, these measures are necessary for compliance and to ensure the safety and integrity of our gaming environment.<br />
+<strong>8.5</strong> Any attempt to bypass this restriction using VPNs, proxies, or other means will also result in account suspension or ban.<br />
+<strong>8.6</strong> We periodically review and update the sanction list to reflect the current global situation and legal requirements. Please stay informed about any changes to these rules.</p>
+<h3 id="part-9-donation-policies"><strong>Part 9. «Donation Policies»</strong><a class="headerlink" href="#part-9-donation-policies" title="Anchor link to this section">&para;</a></h3>
+<p><strong>9.1</strong> Refund and Dispute Policy: Refunds must be requested through our ticket system only. While disputes raised through the Stripe platform will be honored with refunds, please be aware that your in-game account will be subject to a permanent ban.<br />
+<strong>9.2</strong> Legal and Export Restrictions: In compliance with legal restrictions, donations or any payments from Russia are not permitted, similar to the restrictions on playing on this server.<br />
+<strong>9.3</strong> Transaction Currency: All transactions are initially processed in USD. However, Stripe may convert your local currency to USD at the time of transaction.<br />
+<strong>9.4</strong> Security Measures for Payment Transmission: We employ SHA-256 encryption for security. Nonetheless, all payment processing is handled by Stripe, and is safeguarded according to the PCI DSS v4.0 standards.<br />
+<strong>9.5</strong> Consumer Data Privacy Policy: We do not store any sensitive payment information on our servers.</p>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      © 2023-2026 World of Your Dream / uaRO
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://discord.gg/uaro-the-world-of-your-dream-702960460168953946" target="_blank" rel="noopener" title="uaRO Discord" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M492.5 69.8c-.2-.3-.4-.6-.8-.7-38.1-17.5-78.4-30-119.7-37.1-.4-.1-.8 0-1.1.1s-.6.4-.8.8c-5.5 9.9-10.5 20.2-14.9 30.6-44.6-6.8-89.9-6.8-134.4 0-4.5-10.5-9.5-20.7-15.1-30.6-.2-.3-.5-.6-.8-.8s-.7-.2-1.1-.2C162.5 39 122.2 51.5 84.1 69c-.3.1-.6.4-.8.7C7.1 183.5-13.8 294.6-3.6 404.2c0 .3.1.5.2.8s.3.4.5.6c44.4 32.9 94 58 146.8 74.2.4.1.8.1 1.1 0s.7-.4.9-.7c11.3-15.4 21.4-31.8 30-48.8.1-.2.2-.5.2-.8s0-.5-.1-.8-.2-.5-.4-.6-.4-.3-.7-.4c-15.8-6.1-31.2-13.4-45.9-21.9-.3-.2-.5-.4-.7-.6s-.3-.6-.3-.9 0-.6.2-.9.3-.5.6-.7c3.1-2.3 6.2-4.7 9.1-7.1.3-.2.6-.4.9-.4s.7 0 1 .1c96.2 43.9 200.4 43.9 295.5 0 .3-.1.7-.2 1-.2s.7.2.9.4c2.9 2.4 6 4.9 9.1 7.2.2.2.4.4.6.7s.2.6.2.9-.1.6-.3.9-.4.5-.6.6c-14.7 8.6-30 15.9-45.9 21.8-.2.1-.5.2-.7.4s-.3.4-.4.7-.1.5-.1.8.1.5.2.8c8.8 17 18.8 33.3 30 48.8.2.3.6.6.9.7s.8.1 1.1 0c52.9-16.2 102.6-41.3 147.1-74.2.2-.2.4-.4.5-.6s.2-.5.2-.8c12.3-126.8-20.5-236.9-86.9-334.5zm-302 267.7c-29 0-52.8-26.6-52.8-59.2s23.4-59.2 52.8-59.2c29.7 0 53.3 26.8 52.8 59.2 0 32.7-23.4 59.2-52.8 59.2m195.4 0c-29 0-52.8-26.6-52.8-59.2s23.4-59.2 52.8-59.2c29.7 0 53.3 26.8 52.8 59.2 0 32.7-23.2 59.2-52.8 59.2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.uaro.net/" target="_blank" rel="noopener" title="uaRO Website" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.uaro.net/cp/?module=service&action=downloads" target="_blank" rel="noopener" title="Download uaRO" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M256 32c0-17.7-14.3-32-32-32s-32 14.3-32 32v210.7l-41.4-41.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l96 96c12.5 12.5 32.8 12.5 45.3 0l96-96c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L256 242.7zM64 320c-35.3 0-64 28.7-64 64v32c0 35.3 28.7 64 64 64h320c35.3 0 64-28.7 64-64v-32c0-35.3-28.7-64-64-64h-46.9l-56.6 56.6c-31.2 31.2-81.9 31.2-113.1 0L110.9 320zm304 56a24 24 0 1 1 0 48 24 24 0 1 1 0-48"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.top", "navigation.sections", "navigation.expand", "navigation.footer", "toc.integrate", "search.suggest", "search.highlight", "content.tabs", "content.tabs.link", "content.code.annotation", "content.code.copy"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../javascripts/mathjax.js"></script>
+      
+        <script src="../javascripts/tablesort.js"></script>
+      
+    
+  </body>
+</html>
