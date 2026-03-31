@@ -7,6 +7,16 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "April 1"
+        **April 1, 2026**
+
+        - Gameplay: Roulette System live, Eternal Bastion 100-wave instance, Payon Casino slot machines, PvP Arena Daily Tournaments.
+        - Items: Yellow card beam effect on drop, Arc Pori reward box consolidation, `3` new Dimonka items.
+        - Skills: Backstab static cooldown, Fury HP/SP regen fix, Ice Wall blocked at Bio 3/4 entrances.
+        - Fixes: Fluttering Feather positioning, Cart Termination batkrate, Old Mitra slot, BG consumables with KoE.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches01042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "March 9"
         **March 9, 2026**
 
