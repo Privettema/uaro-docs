@@ -14,14 +14,14 @@ rewards, and eternal glory in the Hall of Fame. Four sessions run every day with
 
 ## Schedule
 
-PvP Arena runs **4 times per day** (Server Time — GMT):
+| Session | Time (GMT) | Duration |
+|---------|------------|----------|
+| **1** | `02:00` | 45 min |
+| **2** | `08:00` | 45 min |
+| **3** | `14:00` | 45 min |
+| **4** | `22:00` | 45 min |
 
-- **02:00**
-- **08:00**
-- **14:00**
-- **22:00**
-
-Each session lasts **45 minutes** with rotating maps.
+Maps rotate each session.
 
 ---
 
@@ -52,9 +52,13 @@ Each session lasts **45 minutes** with rotating maps.
 - Max `3` scoring kills on the same player per session
 - No points for ±15 level gap or party members
 
+!!! warning "Zero Tolerance for Abuse"
+    All matches and player data are tracked and logged. Despite the anti-abuse system, any attempt
+    to bypass or exploit it without reporting will result in a **permanent ban** — no exceptions.
+
 ---
 
-## Arena Coins
+## <img src="/img/7960.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Arena Coins
 
 - Earn `1` coin per `2` points (minimum `15` coins guaranteed)
 - Session winner receives `+20` bonus coins
@@ -67,9 +71,9 @@ Each session lasts **45 minutes** with rotating maps.
 !!! info "Weekly Season Rewards"
     Top 3 players at weekly reset (Monday 00:00) receive Dragon Helm costumes:
 
-    - **#1** — Gold Dragon Helm (`5451`)
-    - **#2** — Silver Dragon Helm (`5452`)
-    - **#3** — Copper Dragon Helm (`5453`)
+    - **#1** — <img src="/img/5451.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Gold Dragon Helm** (`5451`)
+    - **#2** — <img src="/img/5452.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Silver Dragon Helm** (`5452`)
+    - **#3** — <img src="/img/5453.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Copper Dragon Helm** (`5453`)
 
     Champion statues in Prontera display the top 3 with animated appearances.
 
