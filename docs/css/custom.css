@@ -74,3 +74,13 @@
     display: block;
     margin-top: 0.5rem; /* 8px */
 }
+
+/* Wiki screenshot framing — use with { .wiki-screenshot } attr */
+.wiki-screenshot {
+    border-radius: 0.5rem; /* 8px */
+    border: 0.0625rem solid var(--md-default-fg-color--lightest); /* 1px */
+    max-width: 37.5rem; /* 600px */
+    display: block;
+    margin: 1rem 0; /* 16px 0 — left-aligned */
+}
+

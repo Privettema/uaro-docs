@@ -5,7 +5,7 @@ hide:
 
 # Eternal Bastion
 
-![Eternal Bastion](img/eternal_bastion_promo.webp)
+![Eternal Bastion](img/eternal_bastion_promo.webp){ .wiki-screenshot }
 
 **Eternal Bastion** is the ultimate PvE endgame challenge on uaRO. Gather a party of 12 and
 fight through 100 waves of escalating enemies — culminating in a weekly rotating final boss.
@@ -168,4 +168,4 @@ Each costume costs `10` Bastion Coins.
 
 Bastion Coins are untradeable and account-bound.
 
-![Bastion Coin NPC](img/bastion_coin_npc.webp)
+![Bastion Coin NPC](img/bastion_coin_npc.webp){ .wiki-screenshot }

@@ -5,7 +5,7 @@ hide:
 
 # ⚔️ PvP Arena
 
-![PvP Arena](img/pvparena0303.webp)
+![PvP Arena](img/pvparena0303.webp){ .wiki-screenshot }
 
 **PvP Arena** is a daily tournament system where players compete for Arena Coins, weekly ranking
 rewards, and eternal glory in the Hall of Fame. Four sessions run every day with rotating maps.
@@ -73,4 +73,4 @@ Each session lasts **45 minutes** with rotating maps.
 
     Champion statues in Prontera display the top 3 with animated appearances.
 
-![Dragon Helm Rewards](img/pvp_arena.webp)
+![Dragon Helm Rewards](img/pvp_arena.webp){ .wiki-screenshot }
