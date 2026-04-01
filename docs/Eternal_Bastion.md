@@ -113,10 +113,10 @@ No gimmicks, no distractions — just pure combat and teamwork.
 
 | Wave | Reward |
 |------|--------|
-| **50** | <img src="/img/25446.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Conquerer I** (`25446`) |
-| **75** | <img src="/img/25446.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Conquerer II** (`25447`) |
-| **90** | <img src="/img/25446.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Conquerer III** (`25448`) |
-| **100** | <img src="/img/25446.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Conquerer IV** (`25449`) |
+| **50** | <img src="../img/25446.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Conquerer I** (`25446`) |
+| **75** | <img src="../img/25446.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Conquerer II** (`25447`) |
+| **90** | <img src="../img/25446.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Conquerer III** (`25448`) |
+| **100** | <img src="../img/25446.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Conquerer IV** (`25449`) |
 
 ??? info "Reward Box Contents"
 
@@ -124,47 +124,47 @@ No gimmicks, no distractions — just pure combat and teamwork.
 
     | Item | Qty |
     |------|-----|
-    | <img src="/img/7539.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Poring Coin** (`7539`) | 20 |
+    | <img src="../img/7539.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Poring Coin** (`7539`) | 20 |
 
     **Bastion Conquerer II (Wave 75):**
 
     | Item | Qty |
     |------|-----|
-    | <img src="/img/14601.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Tyr's Blessing** (`14601`) | 1 |
+    | <img src="../img/14601.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Tyr's Blessing** (`14601`) | 1 |
     | 500,000 **Zeny** | — |
 
     **Bastion Conquerer III (Wave 90):**
 
     | Item | Qty |
     |------|-----|
-    | <img src="/img/406105.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Coin** (`406105`) | 1 |
-    | <img src="/img/12106.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Jewelry Box** (`12106`) | 1 |
-    | <img src="/img/14601.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Tyr's Blessing** (`14601`) | 1 |
+    | <img src="../img/406105.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Coin** (`406105`) | 1 |
+    | <img src="../img/12106.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Jewelry Box** (`12106`) | 1 |
+    | <img src="../img/14601.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Tyr's Blessing** (`14601`) | 1 |
     | 1,000,000 **Zeny** | — |
 
     **Bastion Conquerer IV (Wave 100):**
 
     | Item | Qty |
     |------|-----|
-    | <img src="/img/406105.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Coin** (`406105`) | 2 |
-    | <img src="/img/616.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Card Album** (`616`) | 2 |
-    | <img src="/img/6443.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Sillit Pong Bottle** (`6443`) | 1 |
+    | <img src="../img/406105.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Coin** (`406105`) | 2 |
+    | <img src="../img/616.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Card Album** (`616`) | 2 |
+    | <img src="../img/6443.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Sillit Pong Bottle** (`6443`) | 1 |
     | 2,000,000 **Zeny** | — |
 
 ---
 
 ## Bastion Coin Shop
 
-Exchange <img src="/img/406105.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Coins** (`406105`) at **Vulcarion** in **Veins** (223, 133).
+Exchange <img src="../img/406105.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Coins** (`406105`) at **Vulcarion** in **Veins** (223, 133).
 Each costume costs `10` **Bastion Coins**.
 
 | Costume |
 |---------|
-| <img src="/img/406100.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Armor** (`406100`) |
-| <img src="/img/406101.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Shoes** (`406101`) |
-| <img src="/img/406102.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Shield** (`406102`) |
-| <img src="/img/406103.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Magic Weapon** (`406103`) |
-| <img src="/img/406104.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Physical Weapon** (`406104`) |
+| <img src="../img/406100.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Armor** (`406100`) |
+| <img src="../img/406101.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Shoes** (`406101`) |
+| <img src="../img/406102.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Shield** (`406102`) |
+| <img src="../img/406103.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Magic Weapon** (`406103`) |
+| <img src="../img/406104.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Physical Weapon** (`406104`) |
 
 **Bastion Coins** are untradeable and account-bound.
 

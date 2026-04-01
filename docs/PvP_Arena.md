@@ -58,7 +58,7 @@ Maps rotate each session.
 
 ---
 
-## <img src="/img/7960.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Arena Coins
+## <img src="../img/7960.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Arena Coins
 
 - Earn `1` coin per `2` points (minimum `15` coins guaranteed)
 - Session winner receives `+20` bonus coins
@@ -71,9 +71,9 @@ Maps rotate each session.
 !!! info "Weekly Season Rewards"
     Top 3 players at weekly reset (Monday 00:00) receive Dragon Helm costumes:
 
-    - **#1** — <img src="/img/5451.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Gold Dragon Helm** (`5451`)
-    - **#2** — <img src="/img/5452.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Silver Dragon Helm** (`5452`)
-    - **#3** — <img src="/img/5453.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Copper Dragon Helm** (`5453`)
+    - **#1** — <img src="../img/5451.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Gold Dragon Helm** (`5451`)
+    - **#2** — <img src="../img/5452.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Silver Dragon Helm** (`5452`)
+    - **#3** — <img src="../img/5453.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Copper Dragon Helm** (`5453`)
 
     Champion statues in Prontera display the top 3 with animated appearances.
 
