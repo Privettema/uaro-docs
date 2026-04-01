@@ -8,7 +8,7 @@ hide:
 ![Eternal Bastion](img/eternal_bastion_promo.webp){ .wiki-screenshot }
 
 **Eternal Bastion** is the ultimate PvE endgame challenge on uaRO. Gather a party of 12 and
-fight through 100 waves of escalating enemies — culminating in a weekly rotating final boss.
+fight through 100 waves of escalating enemies — culminating in a randomly selected final boss.
 No gimmicks, no distractions — just pure combat and teamwork.
 
 ---
@@ -46,14 +46,14 @@ No gimmicks, no distractions — just pure combat and teamwork.
 | **41–60** | Advanced | Expect tougher enemies with more HP |
 | **61–80** | Elite | High HP, strong AoE attacks, and random status effects on the map |
 | **81–99** | Endgame | Bio 4 / HTF / OGH monsters — high-damage mobs with complex mechanics |
-| **100** | Final Boss | A unique MVP with devastating skills, changing every week |
+| **100** | Final Boss | A unique MVP with devastating skills, randomly selected from the boss pool |
 
 ### Wave Mechanics
 
 | Mechanic | Description |
 |----------|-------------|
 | **Wave Timer** | `120 seconds` per wave, `300 seconds` for Wave 100 |
-| **Skip Vote** | `!skip` command (majority vote >50%) to advance — disabled at milestone waves |
+| **Skip Vote** | `!skip` command (majority vote >50%) to advance — stacks current and next wave mobs for faster clearing. Disabled at milestone waves |
 | **Ready Check** | All 12 members must type `!ready` within `60 seconds` or the instance closes |
 | **Party Lock** | If party composition changes at any point, the instance resets and is destroyed |
 | **No Re-entry** | Once you leave or die out, you cannot return to the instance |
@@ -71,24 +71,24 @@ No gimmicks, no distractions — just pure combat and teamwork.
 
 ### Wave 100 — Boss Rotation
 
-??? info "Wave 100 — Boss Rotation (12-Week Cycle)"
+??? info "Wave 100 — Boss Pool"
 
-    The final boss changes weekly. One boss per week, cycling every 12 weeks:
+    The final boss is randomly selected from the following pool each week:
 
-    | Week | Boss |
-    |------|------|
-    | 1 | Satan Morocc |
-    | 2 | Scholar Celia |
-    | 3 | Wounded Morroc |
-    | 4 | Biochemist Flamel |
-    | 5 | Ifrit |
-    | 6 | Celine Kimi |
-    | 7 | Corrupted Soul |
-    | 8 | Paladin Randel |
-    | 9 | Amdarais |
-    | 10 | Valkyrie Randgris |
-    | 11 | Stalker Gertie |
-    | 12 | Beelzebub |
+    | Boss |
+    |------|
+    | Satan Morocc |
+    | Scholar Celia |
+    | Wounded Morroc |
+    | Biochemist Flamel |
+    | Ifrit |
+    | Celine Kimi |
+    | Corrupted Soul |
+    | Paladin Randel |
+    | Amdarais |
+    | Valkyrie Randgris |
+    | Stalker Gertie |
+    | Beelzebub |
 
 ---
 
