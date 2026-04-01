@@ -81,7 +81,8 @@ nav:
     - ⏳ Endless Cellar: Endless_Cellar.md 
     # - Endless Tower: Endless_Tower.md 
     - 🎁 Horror Toy Factory: Horror_Toy_Factory.md 
-    - 👻 Old Glast Heim: Old_Glast_Heim.md 
+    - 👻 Old Glast Heim: Old_Glast_Heim.md
+    - ⚔️ Eternal Bastion: Eternal_Bastion.md
   - Events & Activites:
     - 🍀 Auto Events: Auto_Events.md 
     - 🎲 Lottery: Lottery_NPC.md 
@@ -89,6 +90,7 @@ nav:
     - 🏰 War of Emperium: WoE.md
     - 🏯 Pre-Trans WoE: Pre_Trans_WoE.md
     - 🏰 King of Emperium (KoE): King_of_Emperium_(KoE).md
+    - ⚔️ PvP Arena: PvP_Arena.md
   
 # Markdown extensions
 markdown_extensions:
