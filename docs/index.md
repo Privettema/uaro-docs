@@ -7,6 +7,19 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "April 2 — Hotfix"
+        **April 2, 2026 — Hotfix**
+
+        - PvP Arena: Potions allowed, MVP cards disabled, combat scrolls blocked,
+          Dragon Helm rewards now cosmetic-only.
+        - Slot Machine: Drop rates adjusted across all tiers, Enriched boxes
+          replaced with raw versions, jackpot announcement removed.
+        - Eternal Bastion: Shadow costume equipment replaced with Enchant Stones.
+        - Economy: Gold Roulette Coin added to Hunting Missions shop,
+          Level 4 weapon refine cost corrected.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches02042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "April 1"
         **April 1, 2026**
 

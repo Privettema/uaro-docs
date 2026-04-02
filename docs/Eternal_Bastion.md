@@ -151,6 +151,9 @@ No gimmicks, no distractions — just pure combat and teamwork.
     | <img src="../img/6443.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Sillit Pong Bottle** (`6443`) | 1 |
     | 2,000,000 **Zeny** | — |
 
+!!! info "April 2, 2026 Hotfix"
+    Shadow costume equipment with stat bonuses has been replaced with Enchant Stones.
+
 ---
 
 ## Bastion Coin Shop

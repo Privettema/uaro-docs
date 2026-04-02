@@ -31,7 +31,10 @@ Maps rotate each session.
 |-------------|--------|
 | **Level** | Base Level `80+` |
 | **Capacity** | Max `50` players per arena |
-| **Consumables** | No potions or consumables allowed (Nopotion zone) |
+| **Allowed Consumables** | White Potion, Blue Potion, Condensed White Potion, and Siege Potions |
+| **Blocked Consumables** | All other healing items (food, herbs, candies, juices, stat dishes, etc.) |
+| **MVP Cards** | Disabled in arena |
+| **Combat Scrolls** | Blocked (Endure, Kyrie, Pneuma, Safety Wall, etc.) |
 | **Re-entry Delay** | `30 seconds` after death |
 
 **Commands:** `@pvparena` to view arena status and schedule, `@arenarank` to check rankings
@@ -74,6 +77,8 @@ Maps rotate each session.
     - **#1** — <img src="../img/5451.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Gold Dragon Helm** (`5451`)
     - **#2** — <img src="../img/5452.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Silver Dragon Helm** (`5452`)
     - **#3** — <img src="../img/5453.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Copper Dragon Helm** (`5453`)
+
+    Dragon Helm rewards are purely cosmetic (stat bonuses have been removed).
 
     Champion statues in Prontera display the top 3 with animated appearances.
 
