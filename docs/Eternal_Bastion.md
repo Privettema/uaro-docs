@@ -153,6 +153,8 @@ No gimmicks, no distractions — just pure combat and teamwork.
 
 !!! info "April 2, 2026 Hotfix"
     Shadow costume equipment with stat bonuses has been replaced with Enchant Stones.
+    Enchant Stones are tradeable — Bastion Coins are not.
+    Enchant Stones can be removed from gear for a zeny fee.
 
 ---
 
