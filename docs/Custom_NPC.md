@@ -51,8 +51,8 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | ![Capitan Jack NPC](img/NPC/4_CAT_SAILOR5.gif)<br>**Capitan Jack** | `/navi prontera 105/68` | You can buy **Fresh Fish** here. |
 | ![Farmer Betty NPC](img/NPC/4_F_BARYO_OLD.gif)<br>**Farmer Betty** | `/navi prontera 120/51` | Here you can buy **Bag of Grain**, **Bread** and **Milk** |
 | ![Butcher NPC](img/NPC/4_M_BARBER.gif)<br>**Butcher** | `/navi prontera 124/75` | This is a standard Butcher NPC that has changed location. |
-| ![Fruit Gardener NPC](img/NPC/8_F.gif)<br>**Fruit Gardener** | `/navi prontera 120/51` | This is a standard Butcher NPC that has changed location. |
-| ![Vegetable Gardener NPC](img/NPC/4_F_02.gif)<br>**Vegetable Gardener** | `/navi prontera 124/75` | This is a standard Butcher NPC that has changed location. |
+| ![Fruit Gardener NPC](img/NPC/8_F.gif)<br>**Fruit Gardener** | `/navi prontera 120/51` | This is a modified Fruit Gardener NPC that has a new location. |
+| ![Vegetable Gardener NPC](img/NPC/4_F_02.gif)<br>**Vegetable Gardener** | `/navi prontera 124/75` | This is a modified Vegetable Gardener NPC that has a new location. |
 
 ### Other
 | NPC | Location | Description |
