@@ -7,6 +7,18 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "April 15"
+        **April 15, 2026**
+
+        - Spring Season Event: Boss invasions, cooking instance, daily quests,
+          Elegant Flowers collectible currency with event store.
+        - Gameplay: SN death reset NPC default changed, Cloaking nullified with
+          full Thief set, last warp added to WoE sign, MVP card drops unaffected by BBG.
+        - Skills: Mammonite free in BG, Madness Canceler toggle, Holy Cross 2x with 2H spear.
+        - Fixes: Throw Huuma Shuriken split damage, First Aid AFK status, Lord of Death training dummy.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches15042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "April 2 — Hotfix"
         **April 2, 2026 — Hotfix**
 
