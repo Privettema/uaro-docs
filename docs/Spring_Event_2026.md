@@ -124,13 +124,13 @@ A traveling merchant appears in **one random town** for `2-3` hours, then vanish
 | <img src="../img/12016.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Speed Up Potion** | `12` |
 | <img src="../img/12209_1.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Insurance** | `20` |
 | <img src="../img/603.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Blue Box** | `25` |
-| <img src="../img/12214_1.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Convex Mirror** | `35` |
+| <img src="../img/12214_1.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Convex Mirror** | `200` |
 | <img src="../img/7621.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Token of Siegfried** | `50` |
-| <img src="../img/617.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Violet Box** | `60` |
-| <img src="../img/12208.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Battle Manual** | `80` |
+| <img src="../img/617.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Violet Box** | `50` |
+| <img src="../img/12208.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Battle Manual** | `50` |
 | <img src="../img/616.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Card Album** | `150` |
-| <img src="../img/12210-1.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bubble Gum** | `250` |
-| <img src="../img/12103.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bloody Dead Branch** | `300` |
+| <img src="../img/12210-1.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bubble Gum** | `300` |
+| <img src="../img/12103.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bloody Dead Branch** | `250` |
 | <img src="../img/9092.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Eggring Egg** | `300` |
 | <img src="../img/9170.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Angelgolt Egg** | `400` |
 
