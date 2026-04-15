@@ -75,6 +75,30 @@
     margin-top: 0.5rem; /* 8px */
 }
 
+/* GM message quote — use with <blockquote class="gm-message"> */
+.gm-message {
+    border-left: none;
+    background: transparent;
+    border-radius: 0.25rem; /* 4px */
+    padding: 0.5rem 1rem; /* 8px 16px */
+    margin: 0.75rem 0; /* 12px 0 */
+    color: var(--md-default-fg-color--lighter);
+    font-style: italic;
+    font-size: 0.75rem; /* 12px */
+    line-height: 1.5;
+}
+
+.gm-message .gm-label {
+    display: block;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 0.625rem; /* 10px */
+    text-transform: uppercase;
+    letter-spacing: 0.05rem;
+    margin-bottom: 0.25rem; /* 4px */
+    opacity: 0.45;
+}
+
 /* Wiki screenshot framing — use with { .wiki-screenshot } attr */
 .wiki-screenshot {
     border-radius: 0.5rem; /* 8px */

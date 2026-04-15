@@ -5,7 +5,7 @@ hide:
 
 # Spring Festival 2026
 
-<!-- Recommended: 800x450px webp — Spring Festival promo banner -->
+<!-- Recommended: 800x450px webp - Spring Festival promo banner -->
 ![Spring Festival 2026](img/spring_event_2026.webp){ .wiki-screenshot }
 
 **The Spring Festival** is a seasonal event on uaRO. Hunt Eggrings and Creamrings across
@@ -19,7 +19,7 @@ your **Elegant Flowers** at the Wandering Merchant for rare items and pets.
 | Currency | Used For |
 |----------|----------|
 | <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** | Wandering Merchant shop |
-| <img src="../img/103430.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Butter Cookie** | Consumable — restores HP and SP |
+| <img src="../img/103430.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Butter Cookie** | Consumable - restores HP and SP |
 
 Both drop passively from any monster during the event.
 
@@ -29,7 +29,10 @@ Both drop passively from any monster during the event.
 
 The Spring Festival offers five activities across the event period.
 
-### Daily Hunt — Spring Patrol
+### Daily Hunt - Spring Patrol
+
+<!-- Recommended: 800x450px webp - Ranger Lettie NPC or field with Eggrings/Creamrings -->
+![Daily Hunt - Spring Patrol](img/spring_daily_hunt.webp){ .wiki-screenshot }
 
 Talk to **Ranger Lettie** in **Prontera** (141, 96).
 
@@ -39,10 +42,13 @@ Talk to **Ranger Lettie** in **Prontera** (141, 96).
 
 ---
 
-### The Dusty Cookbook — 7-Day Story Quest
+### The Dusty Cookbook - 7-Day Story Quest
 
-Talk to **Grandma April** in **Prontera** (102, 231). A 7-day questline — one chapter per
-day — that sends you across Rune-Midgarts to restore her late husband's cookbook.
+<!-- Recommended: 800x450px webp - Grandma April NPC or quest dialogue -->
+![The Dusty Cookbook](img/spring_dusty_cookbook.webp){ .wiki-screenshot }
+
+Talk to **Grandma April** in **Prontera** (102, 231). A 7-day questline - one chapter per
+day - that sends you across Rune-Midgarts to restore her late husband's cookbook.
 
 | Day | NPC Location | Key Rewards |
 |-----|-------------|-------------|
@@ -55,12 +61,15 @@ day — that sends you across Rune-Midgarts to restore her late husband's cookbo
 | 7 | Prontera (Finale) | <img src="../img/12210-1.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bubble Gum**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
 
 !!! tip "Gathering Materials"
-    Each day requires gathering materials from monsters — the NPCs will tell you what
+    Each day requires gathering materials from monsters - the NPCs will tell you what
     they need.
 
 ---
 
-### Cooking Instance — Grandma Blossom's Kitchen
+### Cooking Instance - Grandma Blossom's Kitchen
+
+<!-- Recommended: 800x450px webp - Cooking instance interior or minigame in action -->
+![Cooking Instance](img/spring_cooking_instance.webp){ .wiki-screenshot }
 
 Talk to **Grandma Blossom** in **Geffen** (126, 102). A fast-paced `2`-player co-op
 cooking minigame.
@@ -72,7 +81,7 @@ cooking minigame.
 | **Duration** | `150` seconds |
 
 Gather ingredients, deliver them to chefs, and score points. Daily rankings are tallied
-at midnight — rewards sent via mail.
+at midnight - rewards sent via mail.
 
 | Rank | <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** | <img src="../img/103430.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Butter Cookie** | <img src="../img/12211.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Kafra Card** |
 |------|---------------|---------------|------------|
@@ -83,9 +92,12 @@ at midnight — rewards sent via mail.
 
 ### Bug Invasion
 
-A server-wide boss event — **twice daily** at `08:05` and `20:05` server time.
+<!-- Recommended: 800x450px webp - Queen Stinger boss fight on Geffen fields -->
+![Bug Invasion](img/spring_bug_invasion.webp){ .wiki-screenshot }
 
-`3`x **Queen Stinger** bosses spawn across Geffen field maps. All three share an HP pool —
+A server-wide boss event - **twice daily** at `08:05` and `20:05` server time.
+
+`3`x **Queen Stinger** bosses spawn across Geffen field maps. All three share an HP pool -
 defeat them within `15` minutes to earn an <img src="../img/101268.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **April Basket** containing <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flowers**, <img src="../img/103430.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Butter Cookies**, <img src="../img/12215.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Blessing Scrolls**, and <img src="../img/12215.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **AGI Scrolls**.
 
 !!! danger "AFK Warning"
@@ -94,6 +106,9 @@ defeat them within `15` minutes to earn an <img src="../img/101268.gif" alt="" s
 ---
 
 ### Wandering Merchant
+
+<!-- Recommended: 800x450px webp - Wandering Merchant NPC or shop interface -->
+![Wandering Merchant](img/spring_wandering_merchant.webp){ .wiki-screenshot }
 
 A traveling merchant appears in **one random town** for `2-3` hours, then vanishes for
 `3-4` hours.
@@ -123,6 +138,9 @@ A traveling merchant appears in **one random town** for `2-3` hours, then vanish
 
 ## Event Mobs
 
+<!-- Recommended: 800x450px webp - Eggrings and Creamrings on a field map -->
+![Event Mobs](img/spring_event_mobs.webp){ .wiki-screenshot }
+
 **Eggrings** and **Creamrings** spawn on field maps across Prontera, Geffen, Morroc,
 Payon, Einbroch, and Yuno regions. Both are Level `1` with `50` HP.
 
@@ -134,7 +152,7 @@ Payon, Einbroch, and Yuno regions. Both are Level `1` with `50` HP.
     | <img src="../img/25290.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Sweets Coin** |
     | <img src="../img/7539.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Poring Coin** |
     | <img src="../img/6249.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Savage Meat** |
-    | **Octopus Leg** |
+    | <img src="../img/7324.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Octopus Leg** |
     | **Mountain Mint** |
     | <img src="../img/4659.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Eggring Card** |
 
