@@ -29,6 +29,10 @@ Both drop passively from any monster during the event (capped at `50` per day ea
 
 The Spring Festival offers five activities across the event period.
 
+!!! success "Login Reward"
+    Logging in for `7` consecutive days during the Spring Festival rewards a
+    **Costume Wonder Egg Basket**.
+
 ### Daily Hunt - Spring Patrol
 
 <!-- Recommended: 800x450px webp - Ranger Lettie NPC or field with Eggrings/Creamrings -->
