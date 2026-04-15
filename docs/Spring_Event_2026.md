@@ -117,7 +117,18 @@ A traveling merchant appears in **one random town** for `2-3` hours, then vanish
     A server-wide announcement is broadcast when the Wandering Merchant arrives.
     Listen for it!
 
-**Locations:** Prontera, Morroc, Geffen, Payon, Alberta, Izlude, Aldebaran, Comodo
+**Locations:**
+
+| Town | Coordinates |
+|------|-------------|
+| Prontera | `146, 99` |
+| Morocc | `149, 99` |
+| Geffen | `126, 70` |
+| Payon | `187, 127` |
+| Alberta | `102, 75` |
+| Izlude | `106, 113` |
+| Aldebaran | `146, 113` |
+| Comodo | `226, 150` |
 
 | Item | Price (<img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flowers**) |
 |------|------------------------|
