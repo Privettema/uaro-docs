@@ -21,7 +21,7 @@ your **Elegant Flowers** at the Wandering Merchant for rare items and pets.
 | <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** | Wandering Merchant shop |
 | <img src="../img/103430.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Butter Cookie** | Consumable - restores HP and SP |
 
-Both drop passively from any monster during the event.
+Both drop passively from any monster during the event (capped at `50` per day each).
 
 ---
 
