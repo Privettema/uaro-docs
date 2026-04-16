@@ -13,7 +13,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Spring Season Event: Boss invasions, cooking instance, daily quests,
           Elegant Flowers collectible currency with event store.
         - Gameplay: SN death reset NPC default changed, Cloaking nullified with
-          full Thief set, last warp added to WoE sign, MVP card drops unaffected by BBG.
+          full Thief set, last warp added to WoE sign.
         - Skills: Mammonite free in BG, Madness Canceler toggle, Holy Cross 2x with 2H spear.
         - Fixes: Throw Huuma Shuriken split damage, First Aid AFK status, Lord of Death training dummy.
 
