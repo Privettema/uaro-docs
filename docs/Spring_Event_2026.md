@@ -70,7 +70,11 @@ day - that sends you across Rune-Midgarts to restore her late husband's cookbook
 
 ---
 
-### Cooking Instance - Grandma Blossom's Kitchen
+### Cooking Instance - Grandma Blossom's Kitchen (Disabled)
+
+!!! warning "Temporarily Disabled"
+    The Cooking Instance is temporarily disabled due to a crash issue. We are working
+    on a fix and it will be re-enabled as soon as possible.
 
 <!-- Recommended: 800x450px webp - Cooking instance interior or minigame in action -->
 ![Cooking Instance](img/spring_cooking_instance.webp){ .wiki-screenshot }
