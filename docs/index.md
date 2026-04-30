@@ -7,6 +7,23 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "April 30"
+        **April 30, 2026**
+
+        - Instances: Eternal Bastion reconnect on disconnect, guild storage
+          added to chest, new meteor effect.
+        - Skills: Critical Explosion status icon, Madness Canceler platinum
+          skill to cancel, Holy Water mass production up to `300`.
+        - NPC: Sell price adjustments for select loot, unsign items for zeny
+          fee, `4` new event token shop items.
+        - Fixes: Cooking instance rewards, Intimidate Thief combo, Ice Wall
+          LHZ, Parry double proc, Sign quest menu.
+        - Items: Modified Elder Staff and Golden Wrench via conversion,
+          Yellow Larva costume trade restrictions lifted.
+        - Cash Shop: `18` new costumes added.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches30042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "April 15"
         **April 15, 2026**
 
