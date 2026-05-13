@@ -7,6 +7,24 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "May 13"
+        **May 13, 2026**
+
+        - Gameplay: New `@qstore` and `@qstoreconfig` commands, fury status
+          icon reapplied, gospel effects tied to mute songs setting.
+        - Instances: Eternal Bastion milestone rewards fix, spam no longer
+          muted on Eternal Bastion maps.
+        - Skills: Smithing hammers not consumed until forge attempt, Flip
+          the Coin description updated.
+        - Items: Guild name change voucher added to cash shop, Battle Manual
+          `#12208` updated, Token of Siegfried `15 minute` cooldown.
+        - Fixes: Madness Canceler platinum skill logout fix, female
+          rogue/stalker visual fix, Glorious Holy Avenger Lex Aeterna fix.
+        - NPC: Baby class transition without parents, bullet NPC restructured,
+          Mewry the Collector NPC added.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches13052026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "April 30"
         **April 30, 2026**
 
