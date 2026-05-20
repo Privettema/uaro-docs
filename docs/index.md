@@ -7,6 +7,18 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "May 20"
+        **May 20, 2026**
+
+        - Gameplay: All equipment property script variables added
+          (exception of autospells), food buff status icons now show
+          active level.
+        - Items: Status dynamics for food buff groups (stacking/priority),
+          Golden Wrench axe buffed, dungeon teleport scrolls no longer
+          consumed on failed warp.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches20052026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "May 13"
         **May 13, 2026**
 
