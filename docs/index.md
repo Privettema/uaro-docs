@@ -7,6 +7,24 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "May 26"
+        **May 26, 2026**
+
+        - Spring Event has ended — Wandering Merchant returning
+          to previous locations next week.
+        - Eternal Bastion: Enchant system final version — five new
+          enchants for Mid Headgear and Footgear via Bastion Coins.
+          Conqueror Box 4 updated with OCA, Ygg Berry, and zeny.
+        - Items: Vecer Axe added to Majorous drop table.
+        - Monsters: Corrupted Monk OGH Boss tag removed, OGH mob
+          density adjusted.
+        - WoE: Castle rotations (Trans drops 1, Pre-Trans adds 1),
+          loot quantity increases, Heroic Token drop rate buffed,
+          4 new Token Redemption boxes.
+        - Cash Shop: New costumes added.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches26052026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "May 20"
         **May 20, 2026**
 
