@@ -17,6 +17,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - \#channel system reworked — now configured in Settings,
           private channels persist and are invite-only (30-day
           inactivity expiry, 30-minute rejoin delay).
+        - Items: New costumes on the roulette, Felicia, and Marley
+          NPCs; Eternal Bastion Movement Speed enchant now additive.
         - Fixes: Baby Ninja palette, Eternal Bastion floor 99 → 100
           transition.
 
