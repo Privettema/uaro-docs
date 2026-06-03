@@ -7,6 +7,21 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "June 3"
+        **June 3, 2026**
+
+        - Pets: New Pet Stylist NPC in Prontera permanently unlocks
+          a loyal pet's look account-wide (skin swap).
+        - Gameplay: New @rodexlog command (Rodex/mail log with a
+          10 second cooldown).
+        - \#channel system reworked — now configured in Settings,
+          private channels persist and are invite-only (30-day
+          inactivity expiry, 30-minute rejoin delay).
+        - Fixes: Baby Ninja palette, Eternal Bastion floor 99 → 100
+          transition.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches03062026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "May 26"
         **May 26, 2026**
 

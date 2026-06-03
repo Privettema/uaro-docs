@@ -165,6 +165,24 @@ The vast majority of taming items drop from monsters according to the RMS databa
 
 ---
 
+## Pet Stylist
+
+Talk to the **Pet Stylist** NPC, located in **Prontera (218, 224)** — directly north of the Pet Groomer — to permanently swap your pet's skin.
+
+!!! info "How It Works"
+    - Requires a fully **loyal** pet.
+    - With the pet out, talk to the **Pet Stylist** to exchange your loyal pet in for a permanent skin swap.
+      The only cost is the pet itself — it is returned to its egg and the egg is consumed. It will not be
+      turned back into egg form at any time afterwards.
+    - The unlocked skin is permanently available **account wide** and can be applied to any pet.
+    - The skin persists through logout.
+
+!!! warning "Reverting to Egg"
+    Returning a pet to egg form — regardless of the skin applied — will revert it to the default
+    appearance when the pet is rehatched.
+
+---
+
 ## Pet Evolution
 
 To evolve a pet, it must be in Loyal intimacy state and require the following items below:
