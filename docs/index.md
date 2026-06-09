@@ -18,7 +18,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           longer be restored for anyone who reclaims their skins.
         - Fixes: Classes other than novice could access novice grounds
           via guild skills; pet skins now show properly equipped pet
-          armor of current sprite.
+          armor of current sprite; Violet Starlight costume reverted
+          back to middle due to client restriction.
 
         [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09062026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
 
