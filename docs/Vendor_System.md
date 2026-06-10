@@ -7,16 +7,18 @@ The server provides a diverse range of options for players to find, purchase, an
 
 
 
-## 🌴 Dewata Vending System
+## 🛒 Prontera Market Street Vending
+
+![Prontera Market Street](img/prt_street.webp)
 
 ### 📍 General Features
 
 | Feature | Description |
 |----------|------------|
-| Available Spots | 2,610 properly spaced vending spots across the map |
+| Available Spots | Properly spaced vending spots automatically generated across the map (`prt_mk`) |
 | Bulletin Boards | Removed |
-| Vending Skill | "Dewata-only" — teleports you to the closest available vending spot |
-| `@market` Command | "Dewata-only" — teleports you to the center of Dewata |
+| Vending Skill | "Market Street-only" — teleports you to the closest available vending spot |
+| `@market` Command | "Market Street-only" — teleports you to the center of the Prontera Market Street (`prt_mk 162, 142`) |
 | Vending Helper NPC | Includes "Find random vending spot" option |
 | Prontera Return | Integrated into the Vending Helper NPC |
 | Idle Timer | Players are kicked if a shop is not opened within 5 minutes |
@@ -24,9 +26,9 @@ The server provides a diverse range of options for players to find, purchase, an
 
 ---
 
-### 🌍 Vending Outside Dewata
+### 🌍 Vending Outside the Market Street
 
-Dewata is the **main trade zone**, but vending is also allowed in the following towns only:
+The Prontera Market Street is the **main trade zone**, but vending is also allowed in the following towns only:
 
 - Payon  
 - Morocc  
@@ -37,14 +39,14 @@ Vending is **not allowed** in dungeons or unauthorized maps.
 
 ---
 
-## 🚪 How to Access Dewata
+## 🚪 How to Access the Market Street
 
-To travel to Dewata, speak to the **Merchants Warp NPC**  
+To travel to the Prontera Market Street, speak to the **Merchants Warp NPC**  
 (`/navi prontera 139/171`) located in Prontera near the Main Office.
 
 ![Merchants Warp NPC](img/Vendor_System/merchants-warp.png)
 
-To return to Prontera, use the **Prontera Return option** from the Vending Helper in Dewata.
+To return to Prontera, use the **Prontera Return option** from the Vending Helper.
 
 ---
 

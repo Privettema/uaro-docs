@@ -7,6 +7,22 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "June 9"
+        **June 9, 2026**
+
+        - Vending: Moved Dewata to a new vending map — same commands
+          and vending QoL functions remain.
+        - Channel config now reflects #main instead of "disable #main"
+          via @settings for clarity.
+        - NPC: Pet skin NPC reworded and color coded — eggs will no
+          longer be restored for anyone who reclaims their skins.
+        - Fixes: Classes other than novice could access novice grounds
+          via guild skills; pet skins now show properly equipped pet
+          armor of current sprite; Violet Starlight costume reverted
+          back to middle due to client restriction.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09062026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "June 3"
         **June 3, 2026**
 
