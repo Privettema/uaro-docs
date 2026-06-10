@@ -42,7 +42,7 @@ Required from contract level 7+:
 |----------------|------------------|
 | 7              | 50 LP            |
 | 8              | 100 LP           |
-| 9              | 200 LP           |
+| 9              | 300 LP           |
 | 10             | 300 LP           |
 
 !!! warning "Level 10 Notice"
@@ -55,8 +55,6 @@ Required from contract level 7+:
 +1 LP per 50 monsters killed, if:
 
 Monster level ≥ your level / 2
-
-Mercenary dealt at least 1 hit
 
 !!! note "Loyalty is Separate"
      Loyalty is tracked individually per mercenary type (Sword, Spear, Bow).

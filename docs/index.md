@@ -7,6 +7,123 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "June 3"
+        **June 3, 2026**
+
+        - Pets: New Pet Stylist NPC in Prontera permanently unlocks
+          a loyal pet's look account-wide (skin swap).
+        - Gameplay: New @rodexlog command (Rodex/mail log with a
+          10 second cooldown).
+        - \#channel system reworked — now configured in Settings,
+          private channels persist and are invite-only (30-day
+          inactivity expiry, 30-minute rejoin delay).
+        - Items: New costumes on the roulette, Felicia, and Marley
+          NPCs; Eternal Bastion Movement Speed enchant now additive.
+        - Fixes: Baby Ninja palette, Eternal Bastion floor 99 → 100
+          transition.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches03062026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
+    === "May 26"
+        **May 26, 2026**
+
+        - Spring Event has ended — Wandering Merchant returning
+          to previous locations next week.
+        - Eternal Bastion: Enchant system final version — five new
+          enchants for Mid Headgear and Footgear via Bastion Coins.
+          Conqueror Box 4 updated with OCA, Ygg Berry, and zeny.
+        - Items: Vecer Axe added to Majorous drop table.
+        - Monsters: Corrupted Monk OGH Boss tag removed, OGH mob
+          density adjusted.
+        - WoE: Castle rotations (Trans drops 1, Pre-Trans adds 1),
+          loot quantity increases, Heroic Token drop rate buffed,
+          4 new Token Redemption boxes.
+        - Cash Shop: New costumes added.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches26052026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
+    === "May 20"
+        **May 20, 2026**
+
+        - Gameplay: All equipment property script variables added
+          (exception of autospells), food buff status icons now show
+          active level.
+        - Items: Status dynamics for food buff groups (stacking/priority),
+          Golden Wrench axe buffed, dungeon teleport scrolls no longer
+          consumed on failed warp.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches20052026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
+    === "May 13"
+        **May 13, 2026**
+
+        - Gameplay: New `@qstore` and `@qstoreconfig` commands, fury status
+          icon reapplied, gospel effects tied to mute songs setting.
+        - Instances: Eternal Bastion milestone rewards fix, spam no longer
+          muted on Eternal Bastion maps.
+        - Skills: Smithing hammers not consumed until forge attempt, Flip
+          the Coin description updated.
+        - Items: Guild name change voucher added to cash shop, Battle Manual
+          `#12208` updated, Token of Siegfried `15 minute` cooldown.
+        - Fixes: Madness Canceler platinum skill logout fix, female
+          rogue/stalker visual fix, Glorious Holy Avenger Lex Aeterna fix.
+        - NPC: Baby class transition without parents, bullet NPC restructured,
+          Mewry the Collector NPC added.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches13052026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
+    === "April 30"
+        **April 30, 2026**
+
+        - Instances: Eternal Bastion reconnect on disconnect, guild storage
+          added to chest, new meteor effect.
+        - Skills: Critical Explosion status icon, Madness Canceler platinum
+          skill to cancel, Holy Water mass production up to `300`.
+        - NPC: Sell price adjustments for select loot, unsign items for zeny
+          fee, `4` new event token shop items.
+        - Fixes: Cooking instance rewards, Intimidate Thief combo, Ice Wall
+          LHZ, Parry double proc, Sign quest menu.
+        - Items: Modified Elder Staff and Golden Wrench via conversion,
+          Yellow Larva costume trade restrictions lifted.
+        - Cash Shop: `18` new costumes added.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches30042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
+    === "April 15"
+        **April 15, 2026**
+
+        - Spring Season Event: Boss invasions, cooking instance, daily quests,
+          Elegant Flowers collectible currency with event store.
+        - Gameplay: SN death reset NPC default changed, Cloaking nullified with
+          full Thief set, last warp added to WoE sign.
+        - Skills: Mammonite free in BG, Madness Canceler toggle, Holy Cross 2x with 2H spear.
+        - Fixes: Throw Huuma Shuriken split damage, First Aid AFK status, Lord of Death training dummy.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches15042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
+    === "April 2 — Hotfix"
+        **April 2, 2026 — Hotfix**
+
+        - PvP Arena: Potions allowed, MVP cards disabled, combat scrolls blocked,
+          Dragon Helm rewards now cosmetic-only.
+        - Slot Machine: Drop rates adjusted across all tiers, Enriched boxes
+          replaced with raw versions, jackpot announcement removed.
+        - Eternal Bastion: Shadow costume equipment replaced with Enchant Stones.
+        - Economy: Gold Roulette Coin added to Hunting Missions shop,
+          Level 4 weapon refine cost corrected.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches02042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
+    === "April 1"
+        **April 1, 2026**
+
+        - Gameplay: Roulette System live, Eternal Bastion 100-wave instance, Payon Casino slot machines, PvP Arena Daily Tournaments.
+        - Items: Yellow card beam effect on drop, Arc Pori reward box consolidation, `3` new Dimonka items.
+        - Skills: Backstab static cooldown, Fury HP/SP regen fix, Ice Wall blocked at Bio 3/4 entrances.
+        - Fixes: Fluttering Feather positioning, Cart Termination batkrate, Old Mitra slot, BG consumables with KoE.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches01042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "March 9"
         **March 9, 2026**
 

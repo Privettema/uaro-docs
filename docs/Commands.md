@@ -322,6 +322,14 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 !!! note "Duel Mechanics"
     The duel will follow the inviter's selected damage mode. Both players are automatically removed when one leaves.
 
+## Mail Commands
+
+- `@rodexlog`  
+  Displays your Rodex (mail) log, `10` entries per page.
+
+!!! note "Cooldown"
+    `10 second` cooldown between uses.
+
 ## Channel Commands
 
 - `@channel create <channel name> <channel password>`  
@@ -347,6 +355,16 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 
 - `@channel unbanall <channel name>`  
   Unbans everyone from the channel.
+
+!!! info "Private Channels"
+    The `#channel` system is configured within in-game **Settings** with its own configuration panel.
+
+    - **Private channels are invite only.**
+    - Private channels persist, but will **auto-delete** after `30 days` of no chat activity, or if the
+      channel owner does not login for `30 days`.
+    - If the **channel owner leaves**, the private channel is destroyed.
+    - Leaving or being kicked applies a `30 minute` delay before you can rejoin.
+    - The `#trade`, `#party`, and `#recruit` channels have a `180 second` message delay.
 
 ## Lite Graphics Plugin (LGP) Commands
 

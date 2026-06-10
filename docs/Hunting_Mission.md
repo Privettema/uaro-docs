@@ -91,6 +91,11 @@ Mission Points earned from Hunting Missions can be spent at the **Mission Shop**
 
 ![HobotaShop](img/Hunting_Mission/Shop.png)
 
+!!! info "New Shop Item"
+    <img src="../img/7959.gif" alt="Gold Coin"
+    style="vertical-align:middle;width:1.25rem;height:1.25rem;">
+    **Roulette Gold Coin** — `40` Mission Points
+
 <!--| Image | Item Name | Price |
 |-------|-----------|-------|
 | ![Dungeon Tele 3 Scroll Box](img/Hunting_Mission/35655-dungeon-teleport-scroll-3-box-10.gif) | Dungeon Tele 3 Scroll Box (10) | 15 Mission Points |

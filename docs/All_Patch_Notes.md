@@ -1,7 +1,15 @@
 # Patch Notes
 
 ## 2026
-**[☘️ March 9, 2026](patch-notes/2026/patches09032026.md) (⭐ Latest Patch ⭐)**<br>
+**[☀️ June 3, 2026](patch-notes/2026/patches03062026.md) (⭐ Latest Patch ⭐)**<br>
+[☀️ May 26, 2026](patch-notes/2026/patches26052026.md)<br>
+[☀️ May 20, 2026](patch-notes/2026/patches20052026.md)<br>
+[☀️ May 13, 2026](patch-notes/2026/patches13052026.md)<br>
+[🌸 April 30, 2026](patch-notes/2026/patches30042026.md)<br>
+[🌸 April 15, 2026](patch-notes/2026/patches15042026.md)<br>
+[🔧 April 2, 2026 — Hotfix](patch-notes/2026/patches02042026.md)<br>
+[🌸 April 1, 2026](patch-notes/2026/patches01042026.md)<br>
+[☘️ March 9, 2026](patch-notes/2026/patches09032026.md)<br>
 [☘️ March 3, 2026](patch-notes/2026/patches03032026.md)<br>
 [❄️ February 16, 2026](patch-notes/2026/patches16022026.md)<br>
 [❄️ January 30, 2026](patch-notes/2026/patches30012026.md)<br>

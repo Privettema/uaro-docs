@@ -47,8 +47,8 @@ Auto-feed command `@autofeed` is enabled account-wide and persists through logou
 | ![Dokebi](img/1110.gif) Dokebi      | ![Pet Food](img/537.png) Pet Food          | ![Old Broom](img/637.png) Old Broom         | ![Wig](img/10005.gif) Wig | MATK +2%                      | 5% |
 | ![Sohee](img/1170.gif) Sohee        | ![Pet Food](img/537.png) Pet Food          | ![Silver Knife of Chastity](img/638.png) Silver Knife of Chastity | ![Golden Bell](img/10016.png) Golden Bell | STR +1, DEX +1 | 5% |
 | ![Isis](img/1029.gif) Isis          | ![Pet Food](img/537.png) Pet Food          | ![Armlet of Obedience](img/639.png) Armlet of Obedience | ![Queen's Hair Ornament](img/10006.png) Queen's Hair Ornament | ATK +2% | 5% |
-| ![Green Petite](img/1155.gif) Green Petite | ![Pet Food](img/537.png) Pet Food       | ![Shining Stone](img/640.png) Shining Stone  | ![Stellar Hairpin](img/10011.png) Stellar Hairpin | ASPD +1 | 5% |
-| ![Deviruchi](img/1109.gif) Deviruchi | ![Shoot](img/711.gif) Shoot               | ![Contract in Shadow](img/641.png) Contract in Shadow | ![Pacifier](img/10004.gif) Pacifier | ATK & MATK +1                  | 5% |
+| ![Green Petite](img/1155.gif) Green Petite | ![Pet Food](img/537.png) Pet Food       | ![Shining Stone](img/640.png) Shining Stone  | ![Stellar Hairpin](img/10011.png) Stellar Hairpin | ASPD +1% | 5% |
+| ![Deviruchi](img/1109.gif) Deviruchi | ![Shoot](img/711.gif) Shoot               | ![Contract in Shadow](img/641.png) Contract in Shadow | ![Pacifier](img/10004.gif) Pacifier | ATK & MATK +1%                  | 5% |
 | ![Baphomet Jr.](img/1101.gif) Baphomet Jr.   | ![Honey](img/518.png) Honey       | ![Book of the Devil](img/642.png) Book of the Devil | ![Skull Helmet](img/10001.png) Skull Helmet | DEF & MDEF +1, Stun Resistance -1% | 2% |
 | ![Bongun](img/1188.gif) Bongun              | ![Pet Food](img/537.png) Pet Food | ![Her Heart](img/659.png) Her Heart | ![Grave Keeper's Sword](img/10020.png) Grave Keeper's Sword | VIT +2, Stun Resistance +2%  | 5% |
 | ![Zealotus](img/1200.gif) Zealotus          | ![Immortal Heart](img/929.png) Immortal Heart | ![Forbidden Red Candle](img/660.png) Forbidden Red Candle | None                                | Damage & Magic Damage to Demi Human +2% | 3% |
@@ -165,6 +165,24 @@ The vast majority of taming items drop from monsters according to the RMS databa
 
 ---
 
+## Pet Stylist
+
+Talk to the **Pet Stylist** NPC, located in **Prontera (218, 224)** — directly north of the Pet Groomer — to permanently swap your pet's skin.
+
+!!! info "How It Works"
+    - Requires a fully **loyal** pet.
+    - With the pet out, talk to the **Pet Stylist** to exchange your loyal pet in for a permanent skin swap.
+      The only cost is the pet itself — it is returned to its egg and the egg is consumed. It will not be
+      turned back into egg form at any time afterwards.
+    - The unlocked skin is permanently available **account wide** and can be applied to any pet.
+    - The skin persists through logout.
+
+!!! warning "Reverting to Egg"
+    Returning a pet to egg form — regardless of the skin applied — will revert it to the default
+    appearance when the pet is rehatched.
+
+---
+
 ## Pet Evolution
 
 To evolve a pet, it must be in Loyal intimacy state and require the following items below:
@@ -192,7 +210,7 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![1307](img/1307.gif) Cat o' Nine Tails | ![Card](img/Card.gif) Nine Tail Card - 10 <br> ![Card](img/Card.gif) Sohee Card - 10 <br> ![Card](img/Card.gif) Munak Card - 10 <br> ![7539](img/7539.gif) Poring Coin - 1000 | ![1150](img/1150.gif) Moonlight Flower |
 | ![1632](img/1632.gif) Gremlin   | ![231800_1](img/231800_1.png) Airship Part - 3 <br> ![7539](img/Pet_System/6100.gif) Damp Darkness - 50 <br> ![7340](img/7340.png) Will of the Darkness - 200 <br> ![Card](img/Card.gif) Hodremlin Card | ![1773](img/1773.gif) Hodremlin |
 | ![1773](img/1773.gif) Hodremlin | ![Card](img/Card.gif) Hodremlin Card - 10<br> ![Card](img/Card.gif) Isilla Card - 10<br> ![Card](img/Card.gif) Agav Card - 10<br> ![7539](img/7539.gif) Poring Coin - 1000 | ![1768](img/1768.gif) Gloom Under Night |
-| ![1063](img/1063.gif) Lunatic   | ![7198](img/7198.gif) Huge Leaf - 100 <br> ![705](img/705.gif) Clover - 25 <br> ![706](img/706.png) Four-Leaf Clover - 30 <br> ![Card](img/Card.gif) Lunatic Card - 5 | ![3496](img/3496.gif) Leaf Lunatic
+| ![1063](img/1063.gif) Lunatic   | ![705](img/705.gif) Clover - 250 <br> ![706](img/706.png) Four-Leaf Clover - 30 <br> ![Card](img/Card.gif) Lunatic Card - 5 | ![3496](img/3496.gif) Leaf Lunatic
 | ![1041](img/1041.gif) Mummy     | ![23256](img/23256.gif) Spiritual Bandage - 3 <br> ![7511](img/7511.gif) Rune of the Darkness - 200 <br> ![969](img/969.png) Gold - 30 <br> ![Card](img/Card.gif) Ancient Mummy Card | ![1297](img/1297.gif) Ancient Mummy |
 | ![1622](img/1622.gif) Teddy Bear | ![23189](img/23189.gif) Small Doll Needle - 3 <br> ![7442](img/7442.png) Cursed Seal - 300 <br> ![724](img/724.gif) Cursed Ruby - 50 <br> ![Card](img/Card.gif) Teddy Bear Card | ![2995](img/2995.gif) Abandoned Teddy Bear |
 | ![Teddy Bear](img/1622.gif) Teddy Bear | ![7317](img/7317.gif) Rusty Screw - 500<br> ![518](img/518.gif) Honey - 100<br> ![727](img/727.gif) Opal - 10<br> ![Card](img/Card.gif) Teddy Bear Card | ![1736](img/1736.gif) Aliot |
@@ -235,7 +253,7 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![Little Isis](img/1029.gif) Little Isis | ![Pet Food](img/537.png) Pet Food | None              | ATK +1%                          | ATK +2%                            | ATK +3%                                 | ATK +4%                               |
 | ![Savage](img/1221.gif) Savage      | ![Pet Food](img/537.png) Pet Food | None              | VIT +1, MaxHP +50                | VIT +2, MaxHP +50                  | VIT +2, MaxHP +100                      | VIT +2, MaxHP +200                    |
 | ![Diabolic](img/1382.gif) Diabolic  | ![Pet Food](img/537.png) Pet Food | None              | ATK +1%, MATK +1%                | ATK +1%, MATK +1%   MaxHP + 1% MaxSP + 1%               | ATK +2%, MATK +2%, MaxHP +1%, MaxSP +1% | ATK +2%, MATK +2%, MaxHP +2%, MaxSP +2% Autocast Fire Bolt lv. 3 when attacking |
-| ![Cat o' Nine Tails](img/1307.gif) Cat o' Nine Tails | ![Pet Food](img/537.png) Pet Food | None              | CRI +2, HIT +2                   | CRI +3, HIT +3                     | CRI +4, HIT +4,  Chance to recover 300 HP per second for 5 seconds on physical damage                         | CRI +5, HIT +5, Chance to recover 400 per second for 5 seconds on physical damage                         |
+| ![Cat o' Nine Tails](img/1307.gif) Cat o' Nine Tails | ![Pet Food](img/537.png) Pet Food | None              | CRI +2, HIT +2                   | CRI +3, HIT +3                     | CRI +4, HIT +4,  Chance to recover 300 HP per second for 5 seconds on melee physical damage                         | CRI +5, HIT +5, Chance to recover 400 per second for 5 seconds on melee physical damage                         |
 | ![Moonlight Flower](img/1150.gif) Moonlight Flower | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None         | CRIT +3, HIT +3                  | CRIT +4, HIT +4, <br> 1% chance to recover 300 HP per second for 5 seconds on physical attack                   | CRIT +5, HIT +6, <br> 2% chance to recover 400 HP and 10 SP per second for 5 seconds on physical attack | CRIT +5, HIT +6, <br> 3% chance to recover 500 HP and 20 SP per second for 5 seconds on physical attack |
 | ![Hodremlin](img/1773.gif) Hodremlin | ![Pet Food](img/537.png) Pet Food | None              | HIT +1, DEX +1                   | HIT +1, DEX +2                     | CRIT DMG +7%, HIT +2, DEX +2             | CRIT DMG +9%, HIT +2, DEX +2          |
 | ![Leaf Lunatic](img/3496.gif) Leaf Lunatic | ![Pet Food](img/537.png) Pet Food | None              | CRIT +2, ATK +2                  | CRIT +3, ATK +3                    | CRIT +4, ATK +4, Damage against formless race monsters increased by 3%                           | CRIT +5, ATK +5, Damage against formless race monsters increased by 6% |
