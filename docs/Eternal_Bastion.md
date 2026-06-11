@@ -16,7 +16,7 @@ No gimmicks, no distractions — just pure combat and teamwork.
 ## How to Enter
 
 - Form a party of **12** players
-- Talk to the Bastion NPC to initiate the instance
+- Talk to the Bastion NPC in **Veins, the Canyon Village** (`/navi veins 218/136`) to initiate the instance
 - All 12 members must type `!ready` within **60 seconds** or the instance closes
 - **1-week** account-bound cooldown after entry
 
