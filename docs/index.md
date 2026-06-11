@@ -675,7 +675,9 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
        
 -   
 
-    [:octicons-arrow-right-24: Lottery](Lottery_NPC.md)
+    [:octicons-arrow-right-24: Roulette System](Roulette-System.md)
+
+    [:octicons-arrow-right-24: Comodo Casino](Comodo-Casino.md)
     
     [:octicons-arrow-right-24: Main Office](Main_Office.md)
 
