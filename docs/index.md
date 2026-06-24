@@ -7,6 +7,25 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "June 24"
+        **June 24, 2026**
+
+        - Summer Event arrives next maintenance and a major anti-bot
+          security upgrade lands — a client patch is now mandatory.
+        - Rooms: Private Room manager now offers storage and guild
+          storage options (no @qstore restock).
+        - Commands: New @checkgm to verify real GMs; GM/CM/EM name
+          prefixes blocked; @guild centralizes bank/log access and
+          WoE token requests.
+        - Pets & WoE: Pet auto-feed follows your setting across all
+          pets; SE Castle guild whitelist restrictions added.
+        - Items & Cash Shop: Costume recolored hats now tradeable,
+          Event Token NPC items added/rotated, new Cash Shop costumes.
+        - Fixes: @showexp toggles correctly; casting Icewall on
+          yourself no longer negates incoming AoE damage.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches24062026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "June 9"
         **June 9, 2026**
 
