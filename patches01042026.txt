@@ -1,0 +1,91 @@
+Patchnotes 01 April 2026
+
+Global Updates
+- Roulette System is Live!
+	- Cost: 1 Roulette Gold Coin or 10 Roulette Silver Coin(Starts at row 3)
+	- Mechanics:
+		- Coins are etc items and must be present at time of opening Roulette interface.
+		- Rolls prioritize 10 silver coins then 1 Gold coin if 10 requirment not available.
+		- If you land on a silver coin you "Fail" and will collect the silver coin and have to start again at the beginning of your currency on hand.
+		- Landing on anything but silver coin will allow you to "claim" that item or try your luck on the next tier.
+		- Top row claim will be the only option you land on.
+		- Odds are based on the number of items within the row and all hold the same chance as any other. Example: 7 items within the row, divide number of items you hope you land on divided by 7.  3/7 = 42.85% chance to get something you want.
+	- Bonus:
+		- At the start of your roll, you have a 1% chance to trigger a Bonus item to land on within the top row.  If you land on that specific item within only your current roll, you will also receive a 1000 Poring coin reward in conjunction with the claimed item.
+	Good Luck!
+
+--------------------------------------------------------------------------------------------------
+
+- Eternal Bastion: 100 Waves of Chaos! Adventurers, the ultimate challenge awaits! The Eternal Bastion is here, featuring 100 waves of escalating enemies. Your mission is simple: clear all 100 waves before the timer runs out. No gimmicks, no distractions—just pure combat and teamwork. Can your party survive the onslaught?
+	- 1. Wave Progression:
+		- Wave 1-20: Beginner mobs (e.g., Porings, Fabres, Lunatics). A warm-up phase to ease into the challenge.
+		- Wave 21-40: Intermediate mobs  Enemies start to hit harder.
+		- Wave 41-60: Advanced mobs  Expect tougher enemies.
+		- Wave 61-80: Elite mobs  Monsters with high HP, strong AoE attacks, and status effects(New status every floor START FROM THIS POINT that pops on the map itself every 20-30 seconds).
+		- Wave 81-99: Bio4 / HTF/ OGH monsters These waves will push your party to its limits with high-damage mobs and complex mechanics.
+		- Wave 100: Final MVP Boss. A unique MVP with devastating skills and mechanics, changing every month to keep the challenge fresh.
+	- 2. Objective:
+		- Clear all 100 waves of mobs and the final MVP within 4 hours.
+		- No defense mechanics—just focus on defeating the waves as quickly and efficiently as possible.
+	- 3. Failure Condition:
+		- The instance fails if the 4-hour timer runs out before all waves are cleared or all party memebers die.
+	- 4. Requirements and restrictions
+		- 12 person minimum party.
+		- 1 week account bound cooldown.
+		- No loot from mobs.
+
+--------------------------------------------------------------------------------------------------
+
+- Payon Casino now has gatcha machines 🎰. Come and spin for zeny or Poring Coins.
+	- Items chance table
+
+--------------------------------------------------------------------------------------------------
+
+- PvP Arena Daily Tournaments
+
+
+----------------------------------------------------------------/----------------------------------
+
+Gameplay
+- No chat area expanded in Prontera near disguise npc/main office.
+- #recruit #party and #trade now grouped together on 120 second cooldown to prevent chat spam.
+- +4 or higher refined items now properly can not be dropped/sold to prevent accidental offload.
+
+--------------------------------------------------------------------------------------------------
+
+Items
+- Yellow card beam effect added to all cards when dropped for those that don't enjoy autoloot.
+- Combined Arc Pori pori yielded items from Endless Cellar completion into a singular box with item/weight check script to ensure appropiate variables are met to receive pack (All items received remain the same).
+- Added 3 new items to Dimonka.
+
+--------------------------------------------------------------------------------------------------
+
+Instances
+- Added list of party member names who are "not ready" when queueing up for ET/EC/WL within the !ready box.
+
+
+--------------------------------------------------------------------------------------------------
+
+Fixes
+- Fixed overlap display and positioning of Fluttering Feather costume to reflect accessory.
+- Fixed Cart Termination to not work with batkrate(% based) constant modifier.
+- Fixed slot on Old Mitra #18972.
+- BG consumables now work properly with KoE Active.
+
+--------------------------------------------------------------------------------------------------
+
+Monsters
+- Lord of Death now properly announces globally on kill.
+
+--------------------------------------------------------------------------------------------------
+
+Skills
+- Backstab skill now static cooldown vs after-cast delay.
+- Fury / Critical Explosion elevated server hp/sp regen works within fury status with the exception of monk/champion classes.
+- Ice wall no longer castable at entrance/exits of bio3/4.
+
+
+
+--------------------------------------------------------------------------------------------------
+
+NPC
