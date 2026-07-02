@@ -89,12 +89,10 @@ field monsters. Bring them back for coins.
 
 ### Yen's Summer Adventure
 
-![Yen's Summer Adventure](img/summer_yens_adventure.webp){ .wiki-screenshot }
+There are `8` tasks. Finish all eight to earn the title of **Summer Hero**.
 
-Talk to the **Volunteer Researcher** in **Morroc** (60, 287) to get started.
-
-There are `8` tasks, and you can complete **one per account per day**. Finish all eight to
-earn the title of **Summer Hero**.
+!!! warning "One Task Per Day"
+    You can complete **one task per account per day**.
 
 - **Reward per task:** `20` Summer Festival Coins + `20` Cold Watermelon Juice
 
