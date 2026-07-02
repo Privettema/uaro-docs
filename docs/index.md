@@ -7,6 +7,21 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "July 1"
+        **July 1, 2026**
+
+        - Summer Festival 2026 is live! Six activities, hidden Porings,
+          a server-wide Sunring hunt, and a wandering merchant with
+          exclusive costumes and pets —
+          [Event Guide](Summer_Event_2026.md).
+        - Gameplay: New Direct Message safeguard against scammers;
+          /guildinvite now works on offline players (invites expire
+          after 2 hours).
+        - Fixes: Icewall change from the previous patch reverted;
+          King of Emperium duration now properly 30 minutes.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches01072026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "June 24"
         **June 24, 2026**
 
