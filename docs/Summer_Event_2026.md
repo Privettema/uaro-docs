@@ -61,8 +61,7 @@ they all reward the same coins.
 
 ### Daily Supply Run
 
-<!-- Recommended: 800x450px webp - Admiral Jack at the Alberta docks -->
-<!-- ![Daily Supply Run](img/summer_supply_run.webp){ .wiki-screenshot } -->
+![Daily Supply Run](img/summer_supply_run.webp){ .wiki-screenshot }
 
 Talk to **Admiral Jack** in **Alberta** (148, 66).
 
@@ -90,8 +89,7 @@ field monsters. Bring them back for coins.
 
 ### Yen's Summer Adventure
 
-<!-- Recommended: 800x450px webp - Volunteer Researcher in Morroc -->
-<!-- ![Yen's Summer Adventure](img/summer_yens_adventure.webp){ .wiki-screenshot } -->
+![Yen's Summer Adventure](img/summer_yens_adventure.webp){ .wiki-screenshot }
 
 Talk to the **Volunteer Researcher** in **Morroc** (60, 287) to get started.
 
@@ -118,8 +116,7 @@ earn the title of **Summer Hero**.
 
 ### The Poring Journal
 
-<!-- Recommended: 800x450px webp - a hidden Little Poring in town -->
-<!-- ![The Poring Journal](img/summer_poring_journal.webp){ .wiki-screenshot } -->
+![The Poring Journal](img/summer_poring_journal.webp){ .wiki-screenshot }
 
 `64` **hidden Little Porings** are scattered across towns and fields all over the world.
 Walk up close and click one to add it to your **Poring Journal**. Progress is saved to
@@ -185,8 +182,7 @@ summons Sandman waves.
 
 ## The Summer Festival Merchant
 
-<!-- Recommended: 800x450px webp - the Summer Festival Merchant's stall -->
-<!-- ![Summer Festival Merchant](img/summer_merchant.webp){ .wiki-screenshot } -->
+![Summer Festival Merchant](img/summer_merchant.webp){ .wiki-screenshot }
 
 A **wandering merchant** sets up shop in a random town for a few hours, then moves on.
 His **stock rotates**, and he trades only in **Summer Festival Coins**.
