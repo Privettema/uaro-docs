@@ -117,8 +117,11 @@ There are `8` tasks. Finish all eight to earn the title of **Summer Hero**.
 ![The Poring Journal](img/summer_poring_journal.webp){ .wiki-screenshot }
 
 `64` **hidden Little Porings** are scattered across towns and fields all over the world.
-Walk up close and click one to add it to your **Poring Journal**. Progress is saved to
-your account, so you can hunt at your own pace.
+Walk **right up next to** a Poring and click it to add it to your **Poring Journal**.
+Progress is saved to your account, so you can hunt at your own pace.
+
+!!! warning "Stand Right Beside the Poring"
+    Clicking from a few cells away won't register the find, and the counter won't move.
 
 | Found | Reward |
 |-------|--------|
@@ -136,6 +139,9 @@ your account, so you can hunt at your own pace.
 A **server-wide community event**. **Sunrings** appear in field maps all over the world,
 and every Sunring defeated counts toward a shared goal. When the community defeats enough
 of them, **everyone online receives a random blessing of the sun for one full hour**.
+
+Each Sunring you defeat also has a chance to drop **Summer Festival Coins** and
+**Cold Watermelon Juice** - up to `50` of each **per account, per day**.
 
 | The Sun's Blessing (one at random) |
 |------------------------------------|
