@@ -7,6 +7,29 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "July 7"
+        **July 7, 2026**
+
+        - Summer Event: Sun Kissed community goal lowered from
+          15,000 to 12,000 Sunrings, so the buff triggers more often.
+        - Items: Slotted Muramasa [2] now available via Leablem;
+          Noble Cross Turn Undead chance now scales with refine;
+          Holy Arrow Quiver added to Inventor Jaax; Dead and Bloody
+          Branches disabled on four more maps.
+        - Casino: Comodo Slot Machine odds improved across rare
+          rewards, funded by a lower Jellopy rate.
+        - Dungeons & Monsters: Safe arrival tiles in Bio Labs 3 & 4
+          with Ice Wall re-enabled there; Bio Lab 3 bosses now spawn
+          at random spots; MVP tombs and timers survive restarts.
+        - Battlegrounds: TSA Anomaly MVP defense lowered, so it takes
+          more physical damage.
+        - Fixes: Buying stores no longer open on top of autotrade
+          vendors; Sun Kissed ASPD buff boosted to 5%; the extended
+          Battlegrounds Happy Hour now grants its bonus rewards for
+          the full extra 30 minutes.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07072026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "July 1"
         **July 1, 2026**
 
@@ -356,7 +379,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
         [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches07252025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
 
-    === "July 7"
+    === "July 7, 2025"
 
         **July 7, 2025**
 
@@ -382,7 +405,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
         [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches06252025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
 
-    === "May 20"
+    === "May 20, 2025"
 
         **May 20, 2025**
 
@@ -465,7 +488,6 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Website Updates**: Merchant list, database fixes, and optimizations.
 
         [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches02272025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
-
 
     === "January 31"
 

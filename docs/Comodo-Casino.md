@@ -24,14 +24,14 @@
 
 ??? info "Full Reward Table"
 
-    **Tier 1: Ultra Rare (`0.50%`)**
+    **Tier 1: Ultra Rare (`0.60%`)**
 
     | Item | Qty |
     |------|-----|
     | <img src="../img/616.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Card Album** | 1 |
     | <img src="../img/12106.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Jewelry Box** | 1 |
 
-    **Tier 2: Very Rare (`3.50%`)**
+    **Tier 2: Very Rare (`3.60%`)**
 
     | Item | Qty |
     |------|-----|
@@ -41,7 +41,7 @@
     | <img src="../img/7620.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Enriched Oridecon Box** | 1 |
     | <img src="../img/7619.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Enriched Elunium Box** | 1 |
 
-    **Tier 3: Rare (`6.00%`)**
+    **Tier 3: Rare (`6.30%`)**
 
     | Item | Qty |
     |------|-----|
@@ -67,7 +67,7 @@
     | <img src="../img/12914.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Increase AGI 10 Scroll Box** | 1 |
     | <img src="../img/12914.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Dungeon Teleport Scroll Box** | 1 |
 
-    **Tier 5: Common (`66.00%`)**
+    **Tier 5: Common (`65.50%`)**
 
     | Item | Qty |
     |------|-----|
