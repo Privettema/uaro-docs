@@ -21,10 +21,9 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Dungeons & Monsters: Safe arrival tiles in Bio Labs 3 & 4
           with Ice Wall re-enabled there; Bio Lab 3 bosses now spawn
           at random spots; MVP tombs and timers survive restarts.
-        - Battlegrounds: TSA Anomaly MVP defense lowered, so it takes
-          more physical damage.
-        - Fixes: Buying stores no longer open on top of autotrade
-          vendors; Sun Kissed ASPD buff boosted to 5%; the extended
+        - Battlegrounds: TSA Anomaly MVP physical DEF lowered from
+          50 to 35.
+        - Fixes: Sun Kissed ASPD buff boosted to 5%; the extended
           Battlegrounds Happy Hour now grants its bonus rewards for
           the full extra 30 minutes.
 
