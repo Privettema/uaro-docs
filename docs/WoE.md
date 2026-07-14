@@ -143,6 +143,7 @@ WoE Tokens can be exchanged with the following NPCs, located **under the WoE sig
 - @GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).<br>
 - Guild Emblems must be visible and clearly identifiable to participate<br>
 - RODEX is now blocked<br>
+- Save-point warps are delayed after combat: on castle maps there is a `3` second delay after any combat before a save-point return will work, so you can no longer instantly warp out mid-engagement.<br>
 
 ### Item Restrictions:
 

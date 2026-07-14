@@ -9,18 +9,19 @@ The instance offers unique rewards, including rare items and equipment, making i
 **Base Level:** 90  
 **Party:** At least 3 members
 
-!!! note "**Global reset per account** at `06:00 Server Time` every **Monday**."
+!!! note "**`3` runs per week** per account. The weekly run counter resets at `06:00 Server Time` every **Monday**."
 
 ### Lockout Mechanics
 
 - Account/UniqueID locked upon start of instance initiation
 - All mechanics still the same for loot, MVP structure etc.
 - Upon a successful full clear of the dungeon, the UniqueID will be released
-  for another run. Account will remain on cooldown (Free to utilize same PC
-  but different account)
+  for another run. The account still consumes one of its weekly runs (Free to
+  utilize same PC but different account)
 - BBG will remain blocked
-- If you DO NOT follow the mechanics and fully clear, you will be locked out
-  for the week
+- Each account has `3` runs per week. Once all weekly runs are used, the
+  instance will be reported as already completed this week; the counter
+  resets weekly
 
 
 !!! warning "Anti-Circumvention Policy"

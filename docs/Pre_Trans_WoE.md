@@ -94,6 +94,9 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
   - Guild Flag Warp moved to the **castle entrance**
   - Return flags moved to **Floor 2**
   (Prevents ultra-fast defender returns)
+- **Save Point Warp Combat Delay:** after any combat there is a **3 second delay**
+  before a save-point return will work on castle maps
+  (Closes an escape that let players bail out mid-engagement)
 - **Trap limit:** maximum **25 traps per player**
 - Placing additional traps beyond the limit removes the **oldest active trap**
 - **Dispel does NOT remove Snare effects**, regardless of caster

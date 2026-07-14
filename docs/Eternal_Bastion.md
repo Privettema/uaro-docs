@@ -18,7 +18,7 @@ No gimmicks, no distractions — just pure combat and teamwork.
 - Form a party of **12** players
 - Talk to the Bastion NPC in **Veins, the Canyon Village** (`/navi veins 218/136`) to initiate the instance
 - All 12 members must type `!ready` within **60 seconds** or the instance closes
-- **1-week** account-bound cooldown after entry
+- **1 run per week** account-bound limit after entry, no resets
 
 ---
 
@@ -27,7 +27,7 @@ No gimmicks, no distractions — just pure combat and teamwork.
 | Rule | Detail |
 |------|--------|
 | **Party Size** | `12` person minimum |
-| **Cooldown** | `1 week` account-bound |
+| **Run Limit** | `1` run per week, account-bound, no resets |
 | **Duration** | `4 hours` max — instance fails if the timer runs out |
 | **Mob Loot** | No loot drops from wave mobs |
 | **Death** | Permadeath — warped out of the instance, no resurrection inside |

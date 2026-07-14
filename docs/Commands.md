@@ -215,6 +215,12 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
   Personalize your game settings applied on login. Offering a streamlined UI for saving preferences like **autoloot, chat channels, and visibility settings**.  
  `@settings` syncs with in-game commands, so you **don't need to use the menu** separately.  
 
+  The **Announcement Config** menu consolidates all broadcast announcement options in one place.
+  Individually turn on or off **Welcome**, **Drop**, **Battlegrounds**, **Kill**, **Community News**,
+  **MVP**, and **Event** announcements, with your choices saved to your account. A new
+  **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
+  The old separate toggles and the `@ignorebg` command have been retired in favor of this menu.
+
   **Output in-game Example:**  
   ![Settings Output](img/@settings.png)
 

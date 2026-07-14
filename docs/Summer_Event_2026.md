@@ -72,8 +72,13 @@ field monsters. Bring them back for coins.
 - The streak **escalates**: each consecutive day is a bigger haul from a farther, tougher
   region, and pays more
 
-!!! warning "Keep Your Streak"
-    Miss a day and the streak resets to **Day 1**.
+!!! note "Streak Protection"
+    Missing a day no longer knocks you back to **Day 1**. Your streak holds at its current
+    tier, so a single missed day will not undo your progress.
+
+!!! info "Admiral Jack Returns"
+    Admiral Jack has returned from his journey and now needs a **new set of items** from you
+    for each day's supply run.
 
 | Day | Region | Reward |
 |-----|--------|--------|
@@ -101,7 +106,7 @@ There are `8` tasks. Finish all eight to earn the title of **Summer Hero**.
 | Furious Mummies | Volunteer Researcher `60, 287` | Defeat `6` Furious Mummies |
 | Hungry Cats | Yen the Explorer `57, 136` | Feed `3` Stray Cats nearby |
 | A Little Errand | Little Girl `113, 92` | Buy some juice for `300z` |
-| Old Man's Project | Old Grandpa `273, 237` | Hand over `24` Feather of Birds + `24` Resin |
+| Old Man's Project | Old Grandpa `273, 237` | Hand over `24` <img src="../img/916.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feather of Birds + `24` <img src="../img/907.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Resin |
 | The Sisters' Tale | Elira / Mavelle / Sariyah `204-209, 286-288` | Hear out their full story |
 | Peco Problem | Desert Guard `177, 39` | Defeat `15` Peco Peco Eggs |
 | Summer Trivia | Scholar `133, 268` | Answer a `10`-question quiz |
@@ -143,7 +148,7 @@ of them, **everyone online receives a random blessing of the sun for one full ho
 Each Sunring you defeat also has a chance to drop **Summer Festival Coins** and
 **Cold Watermelon Juice** - up to `50` of each **per account, per day**.
 
-| The Sun's Blessing (one at random) |
+| <img src="../img/sunoblessing.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> The Sun's Blessing (one at random) |
 |------------------------------------|
 | +2 to all stats |
 | +15 movement speed |
@@ -212,21 +217,21 @@ His **stock rotates**, and he trades only in **Summer Festival Coins**.
 
     | Item | Price (☀️ Coins) |
     |------|------------------|
-    | Speed Potion | `3` |
-    | Insurance | `5` |
-    | Old Blue Box | `10` |
-    | Battle Manual | `15` |
-    | Old Violet Box | `30` |
-    | Token of Siegfried | `75` |
-    | Summer Sunglasses *(costume)* | `120` |
+    | <img src="../img/12016.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Speed Potion | `3` |
+    | <img src="../img/12209_1.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Insurance | `5` |
+    | <img src="../img/603.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Old Blue Box | `10` |
+    | <img src="../img/12208.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Battle Manual | `15` |
+    | <img src="../img/617.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Old Violet Box | `30` |
+    | <img src="../img/7621.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Token of Siegfried | `75` |
+    | <img src="../img/400953.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Summer Sunglasses *(costume)* | `120` |
     | Happy Summer Sun Visor *(costume)* | `120` |
-    | AFK Hat *(costume)* | `140` |
-    | Bloody Branch | `200` |
+    | <img src="../img/5474.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> AFK Hat *(costume)* | `140` |
+    | <img src="../img/12103.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Bloody Branch | `200` |
     | Forest Summer Vacation *(costume)* | `250` |
     | Brownie Egg *(pet)* | `250` |
-    | Bubble Gum | `300` |
-    | Popping Poring Aura *(costume)* | `350` |
-    | Surf Board *(costume)* | `400` |
+    | <img src="../img/12210-1.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Bubble Gum | `300` |
+    | <img src="../img/20548.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Popping Poring Aura *(costume)* | `350` |
+    | <img src="../img/480321.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Surf Board *(costume)* | `400` |
     | Summer Egg *(pet)* | `500` |
     | **Surf Board Poring** *(costume - grand prize)* | `500` |
 

@@ -7,6 +7,28 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "July 14"
+        **July 14, 2026**
+
+        - Instances: weekly run limits replace single lockouts —
+          Endless Tower, Endless Cellar and Horror Toy Factory 3
+          runs per week; Nidhoggur's Nest and Sealed Shrine 6 per
+          week; Wolfchev's Lab and Eternal Bastion once a week.
+        - Sealed Shrine rebuilt on the new instance system: party
+          of 2+, base level 75, 2 hours per run, exploits closed.
+        - Dressing Room: preview and mix any uaRO costume via the
+          NPC next to the Prontera Stylist.
+        - Announcements: all toggles consolidated in @settings
+          Announcement Config, plus a new Colorblind Mode.
+        - Summer Event: Daily Supply streak no longer resets to
+          Day 1 after a missed day; Admiral Jack needs new items.
+        - Pets & Items: Miyabi Doll supports auto-feed; Frog King
+          Hat is now tradeable; new Cash Shop costumes.
+        - WoE: 3 second post-combat delay on save-point warps.
+        - Fixes: rare server error with area-damage skills fixed.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07142026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "July 7"
         **July 7, 2026**
 

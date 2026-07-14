@@ -10,7 +10,7 @@ It belongs to the category of *endless instances*, where parties progress throug
 
 This instance offers not only a challenging PvE experience, but also valuable rewards and a true test of teamwork, coordination, and endurance. The Cellar is always ready to challenge those seeking adventure in the world of **Your Dreams**.
 
-!!! note "**Global reset per account** at `06:00 Server Time` every **Monday**."
+!!! note "**`3` runs per week** per account. The weekly run counter resets at `06:00 Server Time` every **Monday**."
 
 ---
 
@@ -18,7 +18,7 @@ This instance offers not only a challenging PvE experience, but also valuable re
 
 - All party members must be present on Misty Island at the time the Party Leader clicks to stone to initiate the dungeon start.
 - Any member who attempts to join an in progress party will automatically be kicked out of the instance.
-- Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon (If all members exit, the instance will be deleted and cooldown commences)
+- Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon (If all members exit, the instance will be deleted and the weekly run is consumed)
 - Create a party of atleast 6, and as many as 12 to take on the spiral into madness!
 - Experience and loot and obtained per kill and will be issued depending on party share options
 - Bubble Gum and EXP manuals do not effect drop rate and/or exp rates
@@ -34,7 +34,7 @@ This instance offers not only a challenging PvE experience, but also valuable re
 - The instance begins **only when all members are marked as ready**
 - Players who disconnect may **rejoin the instance and use `!ready` again**
 - If readiness fails, the party will be **automatically returned to their save point**
-- All existing **safeguards and cooldown mechanics remain unchanged**
+- All existing **safeguards and run-limit mechanics remain unchanged**
 
 ---
 
@@ -43,9 +43,10 @@ This instance offers not only a challenging PvE experience, but also valuable re
 - Account / **UniqueID** is locked upon instance initiation
 - All mechanics for loot distribution, MVP structure, and progression remain unchanged
 - Upon a **successful full clear**, the **UniqueID** will be released for another run  
-  (The account will remain on cooldown; the same PC may be used with a different account)
+  (The account still consumes one of its weekly runs; the same PC may be used with a different account)
 - **BBG remains blocked**
-- Failure to fully clear the instance will result in a **lockout for the week**
+- Each account has **`3` runs per week**. Once all weekly runs are used, the instance will be
+  reported as already completed this week; the counter resets weekly
 
 !!! warning "Anti-Circumvention Policy"
     Any attempt to bypass these mechanics will result in **all associated accounts being permanently banned**.
