@@ -2,6 +2,10 @@
 <!--TODO: Add intro flavor text -->
 <!--TODO: Add Familiar pet -->
 
+!!! tip "Mute Pets"
+    A **Mute Pets** option in `@settings` hides all pet talk and emotes for you only.
+    Pets still function normally and other players are unaffected.
+
 ## Feeding
 Automatic feeding (Auto-feed) is available for evolved pets or pets without an evolution. Pets that starve will return to their egg with intimacy at Awkward, instead of running away.
 
@@ -276,6 +280,7 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![4_WHITEKNIGHT](img/OGH/4_WHITEKNIGHT.gif) White Knight | ![Pet Food](img/537.png) Pet Food | None | None | None | MATK +4%, Increase magic damage on Boss monster by 3%.  | MATK +5%, Increase magic damage on Boss monster by 5%. |
 | ![2470](img/OGH/2470.gif) Abysmal Knight | ![Pet Food](img/537.png) Pet Food | None | None | None | ATK +4%, Increase physical damage on Boss monster by 3%.  | ATK +5%, Increase physical damage on Boss monster by 5%. |
 | ![Wild Rose](img/Pet_System/1261.gif) Wild Rose | ![Pet Food](img/537.png) Pet Food | None | None | None | Increases ASPD by 3%, CRIT +5. | Increases ASPD by 5%, CRIT +7. |
+| ![1751](img/1751.gif) Valkyrie Randgris | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | Randgris's Accessory | None | None | Increases physical and magical damage against Dark and Neutral element enemies by 15%. | Increases physical and magical damage against Dark and Neutral element enemies by 20%. |
 | ![Eddga](img/Pet_System/1115.gif) Eddga | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | Increases ASPD by 8%, CRIT +12. | Increases ASPD by 10%, CRIT +15. |
 | ![1302](img/Pet_System/1302.gif) Dark Illusion | ![Pet Food](img/537.png) Pet Food | None | None | None | INT +3, Reduces Variable Cast Time by 3%. | INT +4, Reduces Variable Cast Time by 5%. |
 | ![1302](img/Pet_System/1272.gif) Dark Lord | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | INT +4, Reduces Variable Cast Time by 7%, Reduces After Cast Delay by 5%. | INT +5, Reduces Variable Cast Time by 10%, Reduces After Cast Delay by 10%.|

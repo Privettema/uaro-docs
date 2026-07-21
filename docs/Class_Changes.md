@@ -69,6 +69,20 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>Knockback distance of 2 cells.<br>
                 <td>Knockback decreased to 1 cell.</td>
             </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/lk_berserk.png" alt="">Berserk</td>
+                <td>
+                    No items can be used while Berserked.<br>
+                    Chat is blocked while Berserked.<br>
+                    Red body tint while active.
+                </td>
+                <td>
+                    Fly Wing, Novice Fly Wing, and Infinite Fly Wing can be used while Berserked (all other items remain blocked).<br>
+                    You can chat while Berserked.<br>
+                    If Concentration is active when you cast Berserk, it is refreshed and extended to 2.6x its normal duration (Lv5: 45s to 117s); Concentration ends when Berserk ends.<br>
+                    The red body tint is replaced with an aura effect and a cast sound (the aura can be hidden via the Status Color Effect setting).
+                </td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -422,6 +436,31 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
                 <td><img src="../img/Class_Changes/mo_extremityfist.gif" alt="">Asura Strike</td>
                 <td>HP/SP will not regenerate naturally for 5 minutes after Asura Strike is used.</td>
                 <td>SP regenerates normally upon relogging.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/mo_chaincombo.png" alt="">Raging Quadruple Blow</td>
+                <td>SP cost 11/12/13/14/15.</td>
+                <td>SP cost reduced to 2/4/6/8/10.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/mo_combofinish.png" alt="">Raging Thrust</td>
+                <td>SP cost 11/12/13/14/15.</td>
+                <td>SP cost reduced to 2/4/6/8/10.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/ch_palmstrike.png" alt="">Raging Palm Strike</td>
+                <td>SP cost 2/4/6/8/10.</td>
+                <td>SP cost reduced to 1/2/4/6/8.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/ch_tigerfist.png" alt="">Glacier Fist</td>
+                <td>SP cost 4/6/8/10/12.</td>
+                <td>SP cost reduced to 2/3/4/5/6.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/ch_chaincrushcombo.png" alt="">Chain Crush Combo</td>
+                <td>SP cost 4-22.</td>
+                <td>SP cost reduced to 2-11 (spirit sphere cost unchanged).</td>
             </tr>
         </tbody>
     </table>

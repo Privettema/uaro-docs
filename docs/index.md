@@ -7,6 +7,28 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "July 21"
+        **July 21, 2026**
+
+        - Eternal Bastion can now be run 2 times per week; Bastion
+          enchants now fit any headgear occupying the middle slot.
+        - Quick Cooking: cook the same dish 4 times in a row to
+          instantly re-cook it with no menu selection.
+        - Misty Island added to Warpra; Bill Doors in Prontera
+          trades 1B Zeny Tokens to beat the 2 billion carry cap.
+        - Skills: Berserk reworked (fly wings, chat, Concentration
+          synergy, new aura); Monk combo SP costs roughly halved.
+        - Items: Bio Lab 4 gear buffed; Telekinetic Orb slottable;
+          Green Operation Coat joins High Grade Armor enchants.
+        - WoE: Butterfly Wings now start a 3 second countdown on
+          GvG maps; more consumables and two cards blocked.
+        - Pets: new Valkyrie Randgris pet; smaller follow egg
+          sprites; Mute Pets option in @settings.
+        - Summer Event: Ghostring Journal (Hard mode) with the new
+          Costume Sun Rune Helm; Muff's Loan quest repaired.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07212026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "July 14"
         **July 14, 2026**
 

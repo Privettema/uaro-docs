@@ -52,3 +52,4 @@ To ensure the warp is saved **for all characters on your account**, locate the d
 | **Abyss Lake Dungeon** | `/navi hu_fild05 163/308` | ![Abyss Lake Dungeon Entrance](img/AbbLakeWarpr.png) |
 | **Morocc Field<br>(Dimensional Gorge)** | `/navi moc_fild21 30/214` | ![Morocc Field](img/Morocc-Warpr.png) |
 | **Brasilis Dungeon** | `/navi bra_dun01 207/42` | ![Brasilis Dungeon](img/Brasil-Dun-Warpr.png) |
+| **Misty Island** | — | — |

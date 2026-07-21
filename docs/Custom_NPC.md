@@ -55,6 +55,12 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | ![Fruit Gardener NPC](img/NPC/8_F.gif)<br>**Fruit Gardener** | `/navi prontera 120/51` | This is a modified Fruit Gardener NPC that has a new location. |
 | ![Vegetable Gardener NPC](img/NPC/4_F_02.gif)<br>**Vegetable Gardener** | `/navi prontera 124/75` | This is a modified Vegetable Gardener NPC that has a new location. |
 
+!!! note "Quick Cooking"
+    Cook the same dish 4 times in a row (each within 5 seconds of the last) and Quick Cooking
+    activates, announced in chat. While active, using a cooking kit instantly cooks that dish again
+    with no menu selection, as long as you have the materials. Normal success rates still apply.
+    Waiting more than 5 seconds or cooking a different dish deactivates it.
+
 ### Other
 | NPC | Location | Description |
 |:-----:|----------|-------------|
@@ -64,6 +70,7 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | ![Super Novice Death Reset NPC](img/NPC/sn-death-reset.gif)<br>**Super Novice Reset** | `/navi prt_field08 135/359` | Super Novices can reset their death record for free, making it easy to shake off bad luck and continue the adventure with a clean slate. |
 | ![Guild Agent NPC](img/NPC/4_F_AGENTKAFRA.gif)<br>**Guild Agent** | `/navi prt_in 214/163` | Guild Bank NPC for zeny storage and transfers (will be located near WoE NPCs south of eastern Prontera inn).<br>  - Max 2 Billion zeny storage.<br> - Permissions configurable by guild leader based on guild titles with @guildbank.<br> - Logs integrated into NPC |
 | ![Haruna NPC](img/NPC/JP_AIRI.gif)<br>**Haruna** | `/navi prt_in 214/163` | Added a 1 for 1 swap barter NPC for the following Daily Login items that previously weren't stackable (swapping will now stack these items properly). Located in East Prontera Inn near Inn Employee.<br> Elite Siege Supply Box (ID 14003)<br> Blue Butterfly Wing Box(5) (ID 13855)<br> Green Butterfly Wing Box(5) (ID 13851)<br> Red Butterfly Wing Box(5) (ID 13853). |
+| **Bill Doors** | `/navi prontera 100/253` | **Bill Doors** exchanges 1,000,000,000 zeny for a **1B Zeny Token** and back, letting you store zeny above the 2 billion carry cap as an item. |
  
 
 <!-- TEMPLATE // | ![Alt Text](img/name.gif)<br> **Functional Name** | `/navi map_name X/Y` | Description: includes actual NPC name, what is does, and what it costs if anything. Link out to other pages if relevant. | // END TEMPLATE -->

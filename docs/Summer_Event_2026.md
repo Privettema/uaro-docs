@@ -26,7 +26,7 @@ exclusive costumes, summer pets, and supplies.
 
 ## Activities
 
-The Summer Festival offers **six activities**. Do as many or as few as you like -
+The Summer Festival offers **seven activities**. Do as many or as few as you like -
 they all reward the same coins.
 
 <div class="grid cards" markdown>
@@ -42,6 +42,10 @@ they all reward the same coins.
 - 🔍 **The Poring Journal**
   Find `64` hidden Little Porings across the world.
   [:octicons-arrow-down-24: Jump to](#the-poring-journal)
+
+- 👻 **The Ghostring Journal**
+  Hard mode - find `36` Little Ghostrings hiding just outside towns.
+  [:octicons-arrow-down-24: Jump to](#the-ghostring-journal)
 
 - 🔥 **Beat the Heat**
   A server-wide Sunring hunt with a shared blessing.
@@ -136,6 +140,23 @@ Progress is saved to your account, so you can hunt at your own pace.
 
 !!! info "No Map, No Hints"
     Sharp eyes win big here - the locations are yours to discover. 🐷
+
+---
+
+### The Ghostring Journal
+
+**Hard mode.** After finding all `64` Little Porings in the Poring Journal, the
+**Ghostring Journal** unlocks: `36` **Little Ghostrings** are hiding on field maps
+just outside towns.
+
+Find them all to receive by mail:
+
+- `50` <img src="../img/6767.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Summer Fes Coins**
+- `50` <img src="../img/12601.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Cold Watermelon Juice**
+- the new **Costume Sun Rune Helm**
+
+!!! info "One Completion Per Account"
+    The Ghostring Journal can be completed **once per account**.
 
 ---
 

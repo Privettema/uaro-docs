@@ -221,6 +221,10 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
   **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
   The old separate toggles and the `@ignorebg` command have been retired in favor of this menu.
 
+  A **Mute Pets** option hides all pet talk and emotes for you only — pets still function normally
+  and other players are unaffected. For classes with applicable skills, the old "Buff Yellow Effect"
+  toggle is now called **Status Color Effect** (no mechanical change).
+
   **Output in-game Example:**  
   ![Settings Output](img/@settings.png)
 

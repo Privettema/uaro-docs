@@ -79,6 +79,9 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
   (They can be equipped but provide no bonuses)
 - **Alliances are removed within castles during active Pre-Trans WoE**
 - Buffs applied by **Trans or Extended classes** are automatically removed upon castle entry
+- Entering a castle also removes active **Medium Life Potion** regeneration,
+  and **Tyr's Blessing** is fully stripped (its Flee bonus previously survived entry)
+- **Corruption Root Card** and **Amdarais Card** effects are disabled
 - Using **FCP outside castles** prior to entering Pre-Trans WoE is strictly forbidden and will result in a ban
 - `@GuildHP` can be toggled via `@settings`
 - Guild emblems **must be visible** to participate
@@ -94,8 +97,9 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
   - Guild Flag Warp moved to the **castle entrance**
   - Return flags moved to **Floor 2**
   (Prevents ultra-fast defender returns)
-- **Save Point Warp Combat Delay:** after any combat there is a **3 second delay**
-  before a save-point return will work on castle maps
+- **Butterfly Wing Teleport Delay:** using a Butterfly Wing, Novice Butterfly Wing,
+  or Infinite Butterfly Wing starts a `3` second countdown before you return to
+  your save point, regardless of combat status
   (Closes an escape that let players bail out mid-engagement)
 - **Trap limit:** maximum **25 traps per player**
 - Placing additional traps beyond the limit removes the **oldest active trap**
@@ -125,6 +129,8 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 ![12321](img/WoE/12321.gif) Arunafeltz Desert Sandwich<br>
 ![12319](img/WoE/12319.gif) Rune Strawberry Cake<br>
 ![12320](img/607.gif) Schwarzwald Pine Jubilee<br>
+![Sweet Canape](img/HTF/11564.gif) Sweet Canape<br>
+![Hot Tea](img/HTF/11563.gif) Hot Tea<br>
 - All Stats Foods
 
 ### Skill Restrictions:
