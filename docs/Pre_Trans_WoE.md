@@ -79,9 +79,6 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
   (They can be equipped but provide no bonuses)
 - **Alliances are removed within castles during active Pre-Trans WoE**
 - Buffs applied by **Trans or Extended classes** are automatically removed upon castle entry
-- Entering a castle also removes active **Medium Life Potion** regeneration,
-  and **Tyr's Blessing** is fully stripped (its Flee bonus previously survived entry)
-- **Corruption Root Card** and **Amdarais Card** effects are disabled
 - Using **FCP outside castles** prior to entering Pre-Trans WoE is strictly forbidden and will result in a ban
 - `@GuildHP` can be toggled via `@settings`
 - Guild emblems **must be visible** to participate
@@ -129,9 +126,10 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 ![12321](img/WoE/12321.gif) Arunafeltz Desert Sandwich<br>
 ![12319](img/WoE/12319.gif) Rune Strawberry Cake<br>
 ![12320](img/607.gif) Schwarzwald Pine Jubilee<br>
-![Sweet Canape](img/HTF/11564.gif) Sweet Canape<br>
-![Hot Tea](img/HTF/11563.gif) Hot Tea<br>
 - All Stats Foods
+
+!!! note
+    All consumables, items, and card effects have been reviewed for proper blocking within Pre-Trans WoE.
 
 ### Skill Restrictions:
 

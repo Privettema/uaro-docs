@@ -141,7 +141,6 @@ WoE Tokens can be exchanged with the following NPCs, located **under the WoE sig
 - 36 member cap within any given castle (Recall prioritizes top most rank downwards until number met).<br>
 - All MVP cards render no effect within WoE Castles (Still equippable, but have no effect).<br>
 - The following mini-boss cards render no effect within WoE Castles (Ghostring, Angeling, Deviling and Maya Purple).<br>
-- Corruption Root Card and Amdarais Card effects are disabled within WoE Castles.<br>
 - Alliances are allowances with one Guild.<br>
 - @GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).<br>
 - Guild Emblems must be visible and clearly identifiable to participate<br>
@@ -153,14 +152,10 @@ WoE Tokens can be exchanged with the following NPCs, located **under the WoE sig
 ![607](img/607.gif) Yggdrasil Berry<br>
 ![608](img/608.gif) Yggdrasil Seeds<br>
 ![12192](img/12192.gif) Pumpkin Pie<br>
-![Kafra Card](img/12211.gif) Kafra Card<br>
-![Sweet Canape](img/HTF/11564.gif) Sweet Canape<br>
-![Hot Tea](img/HTF/11563.gif) Hot Tea<br>
-![Big Defense Potion](img/14542.png) Big Defense Potion<br>
-![Big Magic Defense Potion](img/14544.png) Big Magic Defense Potion<br>
-![Medium Life Potion](img/12459_1.png) Medium Life Potion<br>
-![Regeneration Potion](img/12461.gif) Regeneration Potion<br>
-![Tyr's Blessing](img/14601.gif) Tyr's Blessing<br> 
+![Kafra Card](img/12211.gif) Kafra Card<br> 
+
+!!! note
+    All consumables, items, and card effects have been reviewed for proper blocking within WoE.
 
 ### Skill Restrictions:
 

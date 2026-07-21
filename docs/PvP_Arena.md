@@ -32,9 +32,8 @@ Maps rotate each session.
 | **Level** | Base Level `80+` |
 | **Capacity** | Max `50` players per arena |
 | **Allowed Consumables** | White Potion, Blue Potion, Condensed White Potion, and Siege Potions |
-| **Blocked Consumables** | All other healing items (food, herbs, candies, juices, stat dishes, etc.), including **Sweet Canape** and **Hot Tea** |
+| **Blocked Consumables** | All other healing items (food, herbs, candies, juices, stat dishes, etc.) |
 | **MVP Cards** | Disabled in arena |
-| **Card Effects** | **Corruption Root Card** and **Amdarais Card** effects are disabled in arena |
 | **Combat Scrolls** | Blocked (Endure, Kyrie, Pneuma, Safety Wall, etc.) |
 | **Re-entry Delay** | `30 seconds` after death |
 

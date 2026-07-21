@@ -21,7 +21,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Items: Bio Lab 4 gear buffed; Telekinetic Orb slottable;
           Green Operation Coat joins High Grade Armor enchants.
         - WoE: Butterfly Wings now start a 3 second countdown on
-          GvG maps; more consumables and two cards blocked.
+          GvG maps; all consumables, items, and card effects
+          reviewed for proper blocking.
         - Pets: new Valkyrie Randgris pet; smaller follow egg
           sprites; Mute Pets option in @settings.
         - Summer Event: Ghostring Journal (Hard mode) with the new
