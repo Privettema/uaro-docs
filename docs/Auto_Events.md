@@ -9,6 +9,9 @@ hide:
 
 These events require no manual hosting and are available to all players.
 
+Use the **`@event`** command to join open registrations, see which event is currently
+running, and check the schedule of all 4 automated events.
+
 ---
 
 ## 🎭 Disguise Event
@@ -97,7 +100,7 @@ Only **one winner** can remain — or the event may end with **no winner**.
 
 ### 🎟 Participation
 
-Join the event using the command: @dice
+Join the event using the command: @event
 
 #### 📋 Requirements
 
@@ -132,3 +135,50 @@ If **two or more players remain**, the event continues from the **Main Event**.
 ---
 
 Good luck, and may RNG be on your side! 🍀
+
+---
+
+## 💣 Bombring Event
+
+**Bombring** is a last-player-standing survival event that replaces the old **Run or Die** event.
+
+Skills are disabled and everyone moves at the same speed — dodging is all that counts.
+
+---
+
+### 🏆 Winner & Rewards
+
+- **Maximum winners:** 1 player  
+- **Reward:** 🪙 **75 Poring Coins**
+
+---
+
+### ⏰ Schedule
+
+- The event runs **every odd hour**
+- **Announced** at `:27`, **starts** at `:30`
+
+---
+
+### 🎟 Participation
+
+Join the event using the command: @event
+
+#### 📋 Requirements
+
+- **Minimum participants:** 4 players
+
+---
+
+### ⚙️ Event Mechanics
+
+1. The arena floor detonates in **telegraphed blast patterns**
+2. The blast patterns grow **bigger and faster** every round
+3. Everyone is locked to the **same movement speed** and **skills are disabled**
+4. The **last survivor** wins
+5. If you die, respawning returns you to the **spot you joined from** with
+   the **HP you had** — not your save point at 1 HP
+
+---
+
+Good luck, and watch your step! 💥

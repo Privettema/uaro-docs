@@ -88,7 +88,7 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 | Feature | Description |
 |---|---|
 | **Guild Storage Access** | Guild storage can be accessed from most Kafras. |
-| **Guild Storage Logs** | Guild leader can check `@guildlog` to see who accessed storage, when they accessed it, and permit others to see the logs based on title. |
+| **Guild Storage Logs** | Guild leader can check `@guild` to see who accessed storage, when they accessed it, and permit others to see the logs based on position. |
 | **Optimized WoE** | [Weekly FE and SE WoE](WoE.md) gives flexibility in guild-based war. uaRO works closely with guild war leaders to optimize the WoE experience. |
 | **Pre-Trans WoE** | [Special weekly WoE mode](Pre_Trans_WoE.md) just for Pre-Trans Classes and Extended Classes. |
 | **Guild Bank** | Guild Bank NPC for zeny storage and transfers. |

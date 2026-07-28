@@ -7,6 +7,30 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "July 28"
+        **July 28, 2026**
+
+        - Bombring replaces the Run or Die event: dodge telegraphed
+          blast patterns, last survivor wins 75 Poring Coins. Runs
+          every odd hour, minimum 4 players.
+        - New @event command replaces @bombring and @dice — join
+          open registrations, see which event is running, and check
+          the schedule of all 4 automated events.
+        - Dying in Bombring now respawns you at the spot you joined
+          from with the HP you had, not at your save point.
+        - All guild functions merged into @guild: Storage Logs, Bank
+          Logs, Request Tokens, and a leader-only Management menu;
+          @guildbank and @guildlog removed.
+        - Disbanding a guild now clears its guild bank — withdraw
+          everything first.
+        - A free Stylist inside the Dressing Room previews hair
+          styles, hair colors, and cloth colors with costumes.
+        - Fixes: weekly instance resets; Dressing Room entry on slow
+          connections; Lord Knight skill reset for the Berserk
+          changes; false "No winners" Dice announcement.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07282026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "July 21"
         **July 21, 2026**
 

@@ -205,6 +205,10 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
 - `@autotrade` or `@at`  
   Allows you to continue vending offline.
 
+- `@event`  
+  Join open registrations, see which event is currently running, and check the schedule
+  of all `4` [automated events](Auto_Events.md). Replaces `@bombring` and `@dice`.
+
 - `@memo {<1-4>}`  
   Saves a warp point for the "Warp Portal" skill.
 
@@ -266,24 +270,17 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 - `@breakguild <guild_name>`  
   Breaks the guild of the attached character. You must be the guildmaster to use this command.
 
- - `@guildbank`  
-  Permissions configurable by guild leader based on guild titles.  
-  ![@guildbank-img](img/@guildbank.png)
+- `@guild`  
+  All guild functions in a single command:
 
-- **Guild Storage Logs – `@guildlog` (in-game)**  
-  Will be added to **Control Panel** later.  
-  **Features:**
-  ```
-  - 150 lines per query
-  - Time ranges: last 24h / 7d / 30d / all time
-  - Filter: Withdraw / Deposit / Both
-  ```
-  **Permissions (configurable by Guild Leader):**
-  ```
-  - Guild Leader only
-  - All storage-access members (based on in-game title)
-  - All members
-  ```
+    - **Storage Logs** — see who accessed guild storage and when. 150 lines per query,
+      time ranges (last 24h / 7d / 30d / all time), Withdraw / Deposit / Both filters
+    - **Bank Logs** — guild bank activity, moved out of the **Guild Agent** NPC
+    - **Request Tokens** — request WoE tokens
+    - **Management** (guild leader only) — every permission setting per guild position
+
+  Members with bank access see the current guild bank balance when the menu opens.  
+  `@guildbank` and `@guildlog` have been removed — everything now lives in `@guild`.
 
 ## Homunculus Commands
 
