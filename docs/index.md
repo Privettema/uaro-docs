@@ -25,7 +25,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           everything first.
         - A free Stylist inside the Dressing Room previews hair
           styles, hair colors, and cloth colors with costumes.
-        - Fixes: weekly instance resets; Dressing Room entry on slow
+        - Fixes: weekly instance resets; Eternal Bastion account
+          lock on completion; Dressing Room entry on slow
           connections; Lord Knight skill reset for the Berserk
           changes; false "No winners" Dice announcement.
 
