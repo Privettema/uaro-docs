@@ -6,6 +6,10 @@
     A **Mute Pets** option in `@settings` hides all pet talk and emotes for you only.
     Pets still function normally and other players are unaffected.
 
+!!! tip "Bombring Event"
+    During the [Bombring event](Auto_Events.md#bombring-event), pets hide automatically
+    and are not stored to their egg.
+
 ## Feeding
 Automatic feeding (Auto-feed) is available for evolved pets or pets without an evolution. Pets that starve will return to their egg with intimacy at Awkward, instead of running away.
 
