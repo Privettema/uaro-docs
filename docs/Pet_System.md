@@ -9,15 +9,21 @@
 ## Feeding
 Automatic feeding (Auto-feed) is available for evolved pets or pets without an evolution. Pets that starve will return to their egg with intimacy at Awkward, instead of running away.
 
-!!! warning "Remember to enable auto-feed before leaving your pet unattended!"
+To enable auto-feed, either:
+1. Right click on your pet and select option from the menu
+2. Use `ALT+J` to bring up your pet window and select from the menu options
 
-Auto-feed command `@autofeed` is enabled account-wide and persists through logout. If you have a pet currently equipped that cannot be autofed with auto-feed enabled, a message will appear to remind you.
+If you don't see the auto-feed option, this pet cannot be auto-fed.
+
+!!! warning "Remember to enable auto-feed before leaving your pet unattended!"
 
 | Type | Feeding |
 |---|---|
 | Evolvable Pet | Only manual. Example: Poring evolves into Mastering, so it does not have auto-feed. |
 | Evolved Pet | Can be auto-fed. Example: Angeling is an evolved pet, so it can use auto-feed. |
 | Pet without Evolution | Can be auto-fed. Example: Incubus does not have an evolution tree, so it can use auto-feed. |
+
+
 
 ### Exceptions
 | Pet | Type | Feeding |
