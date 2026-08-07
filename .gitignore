@@ -171,3 +171,4 @@ AGENTS.md
 .cursor/
 .cursorrules
 .github/copilot-instructions.md
+.copilotignore

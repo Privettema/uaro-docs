@@ -6,16 +6,17 @@
     A **Mute Pets** option in `@settings` hides all pet talk and emotes for you only.
     Pets still function normally and other players are unaffected.
 
+!!! warning "Remember to enable auto-feed before leaving your pet unattended!"
+
 ## Feeding
 Automatic feeding (Auto-feed) is available for evolved pets or pets without an evolution. Pets that starve will return to their egg with intimacy at Awkward, instead of running away.
 
-To enable auto-feed, either:
-1. Right click on your pet and select option from the menu
-2. Use `ALT+J` to bring up your pet window and select from the menu options
+To enable auto-feed:
 
-If you don't see the auto-feed option, this pet cannot be auto-fed.
+1. Open your pet window (`ALT+J` or right click)
+2. At the bottom of the window, select the checkbox next to "Automatic feeding". If you don't see the auto-feed option, this pet cannot be auto-fed.
 
-!!! warning "Remember to enable auto-feed before leaving your pet unattended!"
+![Autofeed Hyegun](img/Pet_System/autofeed.png)
 
 | Type | Feeding |
 |---|---|
