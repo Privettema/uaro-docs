@@ -28,6 +28,7 @@ Auto-feed command `@autofeed` is enabled account-wide and persists through logou
 |---|---|---|
 | Leaf Cat | Evolvable | Auto-feed Available |
 | Miyabi Doll | Evolvable | Auto-feed Available |
+| Civil Servant | Evolvable | Auto-feed Available |
 
 
 

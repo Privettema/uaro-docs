@@ -7,6 +7,24 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "August 11"
+        **August 11, 2026**
+
+        - New Battleground mode: Capture the Flag joins the
+          normal rotation with wave respawns and Valor Badge
+          rewards.
+        - Meltdown reworked: no cast time, longer duration and
+          a PvE debuff that replaces monster equipment breaking.
+        - New Whitesmith platinum skill Avarice removes the zeny
+          cost of Mammonite and Cart Termination for 200m.
+        - New Lord Knight weapon: Gigantic Lance, forged from a
+          +10 Trident[2] in the Prontera weapon shop.
+        - Civil Servant pets now support auto feed.
+        - Fixes: Tierra Gorge barricade repairs and walls, KvM
+          wipe-outs, Eternal Bastion extra lives.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08112026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "August 4"
         **August 4, 2026**
 

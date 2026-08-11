@@ -300,6 +300,9 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 
 ## Battleground Commands
 
+- `@bg`  
+  Open the Battleground menu directly.
+
 - `@bg queue` or `@bg join`  
   Join the queue for Battleground.
 
