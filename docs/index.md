@@ -14,7 +14,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           normal rotation with wave respawns and Valor Badge
           rewards.
         - Meltdown reworked: no cast time, longer duration and
-          a PvE debuff that replaces monster equipment breaking.
+          a new on-hit PvE debuff.
         - New Whitesmith platinum skill Avarice removes the zeny
           cost of Mammonite and Cart Termination for 200m.
         - New Lord Knight weapon: Gigantic Lance, forged from a

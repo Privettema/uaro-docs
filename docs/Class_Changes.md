@@ -300,7 +300,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                     Duration of 25s at level 1, scaling up to 150s at level 10 to match Adrenaline Rush.<br>
                     On hit, applies a 5 second debuff (100% rate) to PvE targets, reducing target DEF and decreasing monster ATK by 35%. Hitting again within the 5 seconds refreshes it. Procs on normal attacks and skills, and works with Cart Termination.<br>
                     Does not work on MVPs, but affects mini-boss type monsters.<br>
-                    No longer breaks monster equipment - the debuff replaces it. Equipment breaking in PvP is unchanged.
+                    Equipment breaking in PvP is unchanged.
                 </td>
             </tr>
         </tbody>
