@@ -19,8 +19,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           details; new @instanceinfo shows weekly runs.
         - Party buff animation delays removed; Impositio Manus
           now grants MATK; Mind Breaker reduces hard MDEF.
-        - Bio Lab 3 MVPs now summon copies instead of the
-          real bosses.
+        - Bio 3 slave mini-bosses no longer grant EXP or
+          item drops.
         - Two new Bastion enchants: SP Consumption -20% and
           Healing Effectiveness +10%.
         - Item and card blocking reviewed for WoE and pre-trans
