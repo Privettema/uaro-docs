@@ -32,6 +32,11 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>You can teleport to a random spot on the same map. </td>
                 <td>Adjusted to prevent players from landing on a map portal.</td>
             </tr>
+            <tr>
+                <td>Party Buff Animations</td>
+                <td>Buffs cast by party members play their full animation delay on every recipient.</td>
+                <td>Animation delay removed for party members - the buff lands instantly with just the effect and a floating skill name over their head. The caster still sees the full animation.<br>Covers Angelus, Magnificat, Gloria, Wind Walk, Adrenaline Rush, Full Adrenaline Rush, Weapon Perfection, Over Thrust, Help Angel and the Cash Shop Blessing, Increase AGI and Assumptio.</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -205,7 +210,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/pf_mindbreaker.gif" alt="">Mind Breaker</td>
                 <td>Attack the mind of the enemy to cause mental breakdown. This decreases enemy's INT MDEF, but it ups their MATK. This is basically Provoke for Magicians.</td>
-                <td>Adds a debuff icon for the receiver. Updates stats to show impact.</td>
+                <td>Reduces the target's hard MDEF (the percentage reduction from equipment) everywhere except WoE and GvG castles, where it keeps reducing soft MDEF (the flat reduction from INT).<br>Adds a debuff icon for the receiver. Updates stats to show impact.</td>
             </tr>
         </tbody>
     </table>
@@ -435,6 +440,15 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
                 </td>
                 <td>   
                     Additionally gives +1 critical strike per level.
+                </td>
+            </tr>
+            <tr>
+                <td>Impositio Manus</td>
+                <td>
+                    Blesses a weapon, increasing its ATK by 5 per skill level.
+                </td>
+                <td>
+                    Additionally grants 1% MATK per skill level, up to 5% at level 5.<br>No effect on WoE and GvG castle maps.
                 </td>
             </tr>
         </tbody>

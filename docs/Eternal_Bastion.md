@@ -176,6 +176,16 @@ Each costume costs `10` **Bastion Coins**.
 | <img src="../img/406103.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Magic Weapon** (`406103`) |
 | <img src="../img/406104.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Physical Weapon** (`406104`) |
 
+**Vulcarion** also offers enchants at `10` **Bastion Coins** each. The newest additions:
+
+| Enchant | Effect |
+|---------|--------|
+| **SP Consumption** | Reduces SP consumption by `20%` |
+| **Healing Effectiveness** | Raises the amount your own healing skills restore by `10%` |
+
+Enchants can be removed again by the **Master Craftsman** in Prontera. All enchants are switched
+off inside WoE and GvG castles.
+
 **Bastion Coins** are untradeable and account-bound.
 
 ![Bastion Coin NPC](img/bastion_coin_npc.webp){ .wiki-screenshot }

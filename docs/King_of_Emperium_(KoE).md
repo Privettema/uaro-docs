@@ -86,5 +86,7 @@ Rewards are distributed as follows:
 - 🥈 **2nd Place — 30 Poring Coins**
 - 🥉 **3rd Place — 15 Poring Coins**
 
+Top rewards are handed out **once per account** and **once per hardware ID**.
+
 Rewards will be automatically mailed to winners after the event ends.
 **Good luck and have fun!**

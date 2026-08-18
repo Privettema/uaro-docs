@@ -157,6 +157,7 @@ WoE Tokens can be exchanged with the following NPCs, located **under the WoE sig
 
 !!! note
     All consumables, items, and card effects have been reviewed for proper blocking within WoE.
+    Barred items are now unequipped automatically when you enter a castle.
 
 ### Skill Restrictions:
 

@@ -133,6 +133,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 
 !!! note
     All consumables, items, and card effects have been reviewed for proper blocking within Pre-Trans WoE.
+    Barred items are now unequipped automatically when you enter a castle.
 
 ### Skill Restrictions:
 

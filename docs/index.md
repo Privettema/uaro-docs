@@ -7,6 +7,30 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "August 18"
+        **August 18, 2026**
+
+        - Private Arenas: create a code-locked PvP room on
+          one of five maps from the PvP Warper in Prontera.
+        - Battleground fixes: KvM scoring, queue caps, CTF
+          buffs and spawn warps, and party buffs now reach
+          every teammate in range.
+        - @vendrecap reworked with shop totals and per-sale
+          details; new @instanceinfo shows weekly runs.
+        - Party buff animation delays removed; Impositio Manus
+          now grants MATK; Mind Breaker reduces hard MDEF.
+        - Bio Lab 3 MVPs now summon copies instead of the
+          real bosses.
+        - Two new Bastion enchants: SP Consumption -20% and
+          Healing Effectiveness +10%.
+        - Item and card blocking reviewed for WoE and pre-trans
+          WoE, now enforced automatically on castle entry.
+        - Fixes: pet evolution accessory check; Glorious
+          Jamadhar crit damage; KoE rewards once per account
+          and hardware ID.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08182026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "August 11"
         **August 11, 2026**
 
