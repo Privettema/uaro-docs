@@ -146,8 +146,8 @@
 **8.6** We periodically review and update the sanction list to reflect the current global situation and legal requirements. Please stay informed about any changes to these rules.
 
 ### **Part 9. «Donation Policies»**
-**9.1** Refund and Dispute Policy: Refunds must be requested through our ticket system only. While disputes raised through the Stripe platform will be honored with refunds, please be aware that your in-game account will be subject to a permanent ban.  
+**9.1** Refund and Dispute Policy: Refunds must be requested through our ticket system only. While disputes raised through the Payment platform will be honored with refunds, please be aware that your in-game account will be subject to a permanent ban.  
 **9.2** Legal and Export Restrictions: In compliance with legal restrictions, donations or any payments from Russia are not permitted, similar to the restrictions on playing on this server.  
-**9.3** Transaction Currency: All transactions are initially processed in USD. However, Stripe may convert your local currency to USD at the time of transaction.  
-**9.4** Security Measures for Payment Transmission: We employ SHA-256 encryption for security. Nonetheless, all payment processing is handled by Stripe, and is safeguarded according to the PCI DSS v4.0 standards.  
+**9.3** Transaction Currency: All transactions are initially processed in USD. However, Payment Platform may convert your local currency to USD at the time of transaction.  
+**9.4** Security Measures for Payment Transmission: We employ SHA-256 encryption for security. Nonetheless, all payment processing is handled by Payment Platform, and is safeguarded according to the PCI DSS v4.0 standards.  
 **9.5** Consumer Data Privacy Policy: We do not store any sensitive payment information on our servers.

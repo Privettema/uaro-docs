@@ -35,6 +35,11 @@ No gimmicks, no distractions — just pure combat and teamwork.
 | **Party Lock** | If party composition changes at any point, the instance resets and is destroyed |
 | **Re-entry** | Once you leave or die out, you cannot return to the instance |
 
+!!! note "Run Unlock"
+    Unlike other instances, Eternal Bastion has no end-of-dungeon NPC requirement.
+    Since wave mobs drop no loot, your next run unlocks automatically upon
+    completion of floor 100.
+
 ---
 
 ## Wave Progression
@@ -170,6 +175,16 @@ Each costume costs `10` **Bastion Coins**.
 | <img src="../img/406102.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Shield** (`406102`) |
 | <img src="../img/406103.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Magic Weapon** (`406103`) |
 | <img src="../img/406104.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Physical Weapon** (`406104`) |
+
+**Vulcarion** also offers enchants at `10` **Bastion Coins** each. The newest additions:
+
+| Enchant | Effect |
+|---------|--------|
+| **SP Consumption** | Reduces SP consumption by `20%` |
+| **Healing Effectiveness** | Raises the amount your own healing skills restore by `10%` |
+
+Enchants can be removed again by the **Master Craftsman** in Prontera. All enchants are switched
+off inside WoE and GvG castles.
 
 **Bastion Coins** are untradeable and account-bound.
 

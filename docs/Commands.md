@@ -152,6 +152,9 @@ The `@lootconfig` command provides a **user-friendly UI** for managing autoloot 
 - `@jailtime`  
   Displays remaining jail time.
 
+- `@instanceinfo`  
+  Shows your weekly run count for every instance, tracked both per account and per hardware ID.
+
 ## @killcount — Enhanced Kill Tracking System
 
 The `@killcount` command has been **fully rewritten** and now features a modern **UI-based tracking system** with session-based monitoring and improved visual feedback.
@@ -209,6 +212,10 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
   Join open registrations, see which event is currently running, and check the schedule
   of all `4` [automated events](Auto_Events.md). Replaces `@bombring` and `@dice`.
 
+- `@exptrack`  
+  Tracks EXP gained per session. Start, pause and reset via `@exptrack`, quick summary
+  with `@exptrack view`. Progress persists through relogs.
+
 - `@memo {<1-4>}`  
   Saves a warp point for the "Warp Portal" skill.
 
@@ -261,6 +268,11 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
 ## Trade Commands
 Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating shops.
 
+- `@vendrecap`  
+  Recap of your last vending run: shop name, when the shop opened and closed, and your total
+  zeny earned. The **View All** option lists every item together with each individual sale -
+  buyer name, timestamp and amount.
+
 ## Guild Commands
 
 - `@breakguild <guild_name>`  
@@ -291,6 +303,9 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
   ![Homstats Output](img/@homstats-outline.png)
 
 ## Battleground Commands
+
+- `@bg`  
+  Open the Battleground menu directly.
 
 - `@bg queue` or `@bg join`  
   Join the queue for Battleground.

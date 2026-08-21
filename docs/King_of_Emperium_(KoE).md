@@ -5,8 +5,6 @@ hide:
 
 # 🏰 King of Emperium (KoE)
 
-![KoE Screenshot](img/KoE/Logo-KoE.png)
-
 **King of Emperium (KoE)** is a guild-based PvP event where guilds compete for control of the Emperium and the title of King of Emperium.
 
 The main objective is to hold the Emperium for the longest duration during the event.
@@ -87,6 +85,9 @@ Rewards are distributed as follows:
 - 🥇 **1st Place — 60 Poring Coins**
 - 🥈 **2nd Place — 30 Poring Coins**
 - 🥉 **3rd Place — 15 Poring Coins**
+
+Rewards are handed out **once per account** and **once per hardware ID**, so alts can no longer
+collect the same placement twice within the same match.
 
 Rewards will be automatically mailed to winners after the event ends.
 **Good luck and have fun!**

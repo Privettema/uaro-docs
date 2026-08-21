@@ -4,6 +4,12 @@
 | Item | Item ID | Description |
 |---|---|---|
 | Thorn Staff of Darkness | 1636 | Can be equipped by Soul Linker.<br> Can be slotted. |
+| Black Wing | 13061 | Now has 2 slots (applies to newly obtained ones). |
+| Gigantic Lance | - | New two-handed spear for Lord Knights only: 180 ATK, weapon level 3, 2 slots, 700 weight, base level 90.<br> Always applies -10% ASPD. At +7 gains -15% after skill delay, another -15% at +8 and another at +9 (up to -45%).<br> Forged by the [Gigantic Lance Forger](Custom_NPC.md#other) in the Prontera weapon shop from an equipped +10 Trident [2] at a 50% success rate.<br> Trident was removed from the Prontera, Comodo and Einbroch weapon shops; it is still forgeable by Blacksmiths and drops from Merman. |
+| Elder Staff | 26107 | Conversion from a +10 Healing Staff (NPC in the Prontera church Priest job change area): success chance increased to 50%. |
+| Healing Staff | 1625 | Drop rate from Anubis reduced from 0.50% to 0.35%.<br> Added as a drop to Margaretha at 1%. |
+| Glorious Holy Avenger | 13418 | Gives a flat +6 INT on top of its existing refine-based INT bonus. |
+| Glorious Jamadhar | - | The 20% defense ignore against demi-humans is replaced with a straight +20% critical damage. |
 
 [Expanded Class Weaponse](Expanded-Class-Weapons.md)
 

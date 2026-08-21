@@ -7,6 +7,68 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "August 18"
+        **August 18, 2026**
+
+        - Private Arenas: create a code-locked PvP room on
+          one of five maps from the PvP Warper in Prontera.
+        - Battleground fixes: KvM scoring, queue caps, CTF
+          buffs and spawn warps, and party buffs now reach
+          every teammate in range.
+        - @vendrecap reworked with shop totals and per-sale
+          details; new @instanceinfo shows weekly runs.
+        - Party buff animation delays removed; Impositio Manus
+          now grants MATK; Mind Breaker reduces hard MDEF.
+        - Bio 3 slave mini-bosses no longer grant EXP or
+          item drops.
+        - Two new Bastion enchants: SP Consumption -20% and
+          Healing Effectiveness +10%.
+        - Item and card blocking reviewed for WoE and pre-trans
+          WoE, now enforced automatically on castle entry.
+        - Fixes: pet evolution accessory check; Glorious
+          Jamadhar crit damage; KoE rewards once per account
+          and hardware ID.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08182026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
+    === "August 11"
+        **August 11, 2026**
+
+        - New Battleground mode: Capture the Flag joins the
+          normal rotation with wave respawns and Valor Badge
+          rewards.
+        - Meltdown reworked: no cast time, longer duration and
+          a new on-hit PvE debuff.
+        - New Whitesmith platinum skill Avarice removes the zeny
+          cost of Mammonite and Cart Termination for 200m.
+        - New Lord Knight weapon: Gigantic Lance, forged from a
+          +10 Trident[2] in the Prontera weapon shop.
+        - Civil Servant pets now support auto feed.
+        - Fixes: Tierra Gorge barricade repairs and walls, KvM
+          wipe-outs, Eternal Bastion extra lives.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08112026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
+    === "August 4"
+        **August 4, 2026**
+
+        - Instances now require full clears to unlock your weekly
+          runs, and you must exit through the end-of-dungeon NPC.
+          Eternal Bastion auto-unlocks on floor 100 instead.
+        - Battlegrounds logic restructured: proper class splitting
+          and no more duplicate queue messages.
+        - Skills: SG Warmth now bypasses Land Protector; Backstab
+          cooldown reduced to 0.333s.
+        - WoE castle rotations: Wuerzburg and Mardol for trans;
+          Eeyolbriggar, Holy Shadow and Skoegul for pre-trans.
+        - Black Wing now has 2 slots; new costumes at Felicia,
+          Hobota and the event token shop; 18 new Cash Shop
+          costumes.
+        - Fixes: Baby job change skill points; Luna Bow DEF;
+          Bombring round-end revive; costume fixes.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "July 28"
         **July 28, 2026**
 

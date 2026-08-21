@@ -5,6 +5,10 @@ hide:
 
 # Summer Festival 2026
 
+!!! warning "Event Concluded"
+    The Summer Festival 2026 has ended and the Summer Merchant has finished his final rounds.
+    All summer activities and NPCs are gone until next year - see you at the beach in 2027!
+
 <!-- Recommended: 800x450px webp - Summer Festival promo banner -->
 <!-- ![Summer Festival 2026](img/summer_event_2026.webp){ .wiki-screenshot } -->
 

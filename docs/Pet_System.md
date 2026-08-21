@@ -8,6 +8,10 @@
 
 !!! warning "Remember to enable auto-feed before leaving your pet unattended!"
 
+!!! tip "Bombring Event"
+    During the [Bombring event](Auto_Events.md#bombring-event), pets hide automatically
+    and are not stored to their egg.
+
 ## Feeding
 Automatic feeding (Auto-feed) is available for evolved pets or pets without an evolution. Pets that starve will return to their egg with intimacy at Awkward, instead of running away.
 
@@ -31,6 +35,7 @@ To enable auto-feed:
 |---|---|---|
 | Leaf Cat | Evolvable | Auto-feed Available |
 | Miyabi Doll | Evolvable | Auto-feed Available |
+| Civil Servant | Evolvable | Auto-feed Available |
 
 
 

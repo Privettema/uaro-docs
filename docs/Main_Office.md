@@ -15,7 +15,7 @@ So come on down to Main Office and see what we have to offer! We're here to help
 | ![Dimonka](img/4_F_JP_NOAH.gif) | **Dimonka** NPC trades your loots and Poring Coin for [valuable headgear](Dimonka_Headgear_Quest.md). |
 | ![Katryn](img/4_F_GELKA.gif) | **Katryn** NPC exchanges your Poring Coin for unique costumes. |
 | ![Reset Girl](img/4_F_ACOLYTE.gif) | Our friendly **Reset Girl NPC** can help you reallocate your stats or skills for a small fee. The cost depends on your character base level, with higher levels requiring a slightly higher fee. The first reset of each type (stats, skills and both) is free |
-| ![Platinum Skill](img/1_F_01.gif) | **Platinum Skill** NPC can give you the special skills available to your job. |
+| ![Platinum Skill](img/1_F_01.gif) | **Platinum Skill** NPC can give you the special skills available to your job. Whitesmiths who have unlocked **Avarice** get it re-granted here automatically after a skill reset. |
 | ![Perchik](img/1_M_01.gif) | **Perchik** NPC can signs your name on eligible items. |
 | ![Andrea](img/JP_ARUNA.gif) | **Andrea** can exchange your extra Field Manual 100% for other itens, like Blessing and Increase AGI scrolls or Kafra cards. |
 | ![Felicia](img/4_F_IU.gif) | **Felicia** can give you unique costumes in exchange for Gold Coins (obtained by clicking the timer at the top-right of your screen once you have 120 or 240 points). |

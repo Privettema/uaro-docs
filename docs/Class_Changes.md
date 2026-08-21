@@ -32,6 +32,11 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>You can teleport to a random spot on the same map. </td>
                 <td>Adjusted to prevent players from landing on a map portal.</td>
             </tr>
+            <tr>
+                <td>Party Buff Animations</td>
+                <td>Buffs cast by party members play their full animation delay on every recipient.</td>
+                <td>Animation delay removed for party members - the buff lands instantly with just the effect and a floating skill name over their head. The caster still sees the full animation.<br>Covers Angelus, Magnificat, Gloria, Wind Walk, Adrenaline Rush, Full Adrenaline Rush, Weapon Perfection, Over Thrust, Help Angel and the Cash Shop Blessing, Increase AGI and Assumptio.</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -205,7 +210,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/pf_mindbreaker.gif" alt="">Mind Breaker</td>
                 <td>Attack the mind of the enemy to cause mental breakdown. This decreases enemy's INT MDEF, but it ups their MATK. This is basically Provoke for Magicians.</td>
-                <td>Adds a debuff icon for the receiver. Updates stats to show impact.</td>
+                <td>Reduces the target's hard MDEF (the percentage reduction from equipment) everywhere except WoE and GvG castles, where it keeps reducing soft MDEF (the flat reduction from INT).<br>Adds a debuff icon for the receiver. Updates stats to show impact.</td>
             </tr>
         </tbody>
     </table>
@@ -235,7 +240,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/mc_mammonite.gif" alt="">Mammonite</td>
                 <td>Uses 100-1000z to increase ATK for the next attack.</td>
-                <td>Reduced price to maximum of 500z while possessing <a href="#bag-of-gold-coins">Bag of Gold Coins</a> within inventory.</td>
+                <td>Reduced price to maximum of 500z while possessing <a href="#bag-of-gold-coins">Bag of Gold Coins</a> within inventory.<br> Cost removed entirely once the <a href="#bag-of-gold-coins">Avarice</a> platinum skill is learned.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/mc_vending.gif" alt="">Vending</td>
@@ -278,7 +283,8 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>
                     Cart assumes max weight regardless of cart weight.<br>
                     Cost is reduced to 0z in Battlegrounds.<br>
-                    Reduced price to 500z while possessing <a href="#bag-of-gold-coins">Bag of Gold Coins</a> within inventory.
+                    Reduced price to 500z while possessing <a href="#bag-of-gold-coins">Bag of Gold Coins</a> within inventory.<br>
+                    Cost removed entirely once the <a href="#bag-of-gold-coins">Avarice</a> platinum skill is learned.
                 </td>
             </tr>
             <tr>
@@ -294,7 +300,13 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/ws_meltdown.gif" alt="">Melt Down</td>
                 <td>N/A.</td>
-                <td>SP cost capped at 50 for any skill level.</td>
+                <td>
+                    No cast time. SP cost capped at 50 for any skill level.<br>
+                    Duration of 25s at level 1, scaling up to 150s at level 10 to match Adrenaline Rush.<br>
+                    On hit, applies a 5 second debuff (100% rate) to PvE targets, reducing target DEF and decreasing monster ATK by 35%. Hitting again within the 5 seconds refreshes it. Procs on normal attacks and skills, and works with Cart Termination.<br>
+                    Does not work on MVPs, but affects mini-boss type monsters.<br>
+                    Equipment breaking in PvP is unchanged.
+                </td>
             </tr>
         </tbody>
     </table>
@@ -352,13 +364,26 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
                 <td>N/A.</td>
                 <td>Increased plant count of Flora, Parasite, Geographer on non-PvP maps for improved PvE viability.</td>
             </tr>
+             <tr>
+                <td><img src="../img/Class_Changes/cr_cultivation.png" alt="">Plant Cultivation</td>
+                <td>Can be used on any walkable cell.</td>
+                <td>Blocked in all town buildings (inns, shops, guild halls, etc.).</td>
+            </tr>
         </tbody>
     </table>
 </div>
 
 
 ### Bag of Gold Coins
-Bag of Gold Coins (`#670`) can be acquired at the Blacksmith Guild in Geffen (`/navi geffen_in 100/174`) for 50,000,000z. It reduces the cost of Mammonite and Cart Termination to 500z when held in your inventory. It has a weight of 500 and cannot be dropped, put in cart, traded, mailed, sold, or put in guild storage. It can be put in your personal storage to be shared with characters on the same account.
+Bag of Gold Coins (`#670`) can be acquired at the Blacksmith Guild in Geffen (`/navi geffen_in 100/174`) for
+50,000,000z. It reduces the cost of Mammonite and Cart Termination to 500z when held in your inventory. It has
+a weight of 500 and cannot be dropped, put in cart, traded, mailed, sold, or put in guild storage. It can be
+put in your personal storage. Limited to one bag per character.
+
+**Avarice (Platinum Skill):** For an additional 200,000,000z, Whitesmiths can permanently trade in the bag to
+learn the Avarice platinum skill. Avarice removes the zeny cost of Mammonite and Cart Termination entirely for
+that character, with no weight detriment, and survives skill resets - it is re-granted automatically by the
+Platinum Skill NPC.
 
 
 <!---------------------------------------------------------------------------->
@@ -415,6 +440,15 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
                 </td>
                 <td>   
                     Additionally gives +1 critical strike per level.
+                </td>
+            </tr>
+            <tr>
+                <td>Impositio Manus</td>
+                <td>
+                    Blesses a weapon, increasing its ATK by 5 per skill level.
+                </td>
+                <td>
+                    Additionally grants 1% MATK per skill level, up to 5% at level 5.<br>No effect on WoE and GvG castle maps.
                 </td>
             </tr>
         </tbody>
@@ -516,12 +550,16 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
             <tr>
                 <td><img src="../img/Class_Changes/rg_backstab.gif" alt="">Backstab</td>
                 <td>Powerful attack that can only be used from behind the enemy. Cannot miss and will turn the target to face the caster, thus preventing repeated use.</td>
-                <td>Can be performed like most attack skills.</td>
+                <td>Can be performed like most attack skills.<br> Cooldown reduced from 0.5s to 0.333s.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/rg_plagiarism.gif" alt="">Plagiarism</td>
                 <td>Skills must be copied from another player.</td>
-                <td><a href="Custom_NPC.md">Plagiarism NPC</a> allows Rogues/Stalkers to copy skills for a fee.</td>
+                <td>
+                    <a href="Custom_NPC.md">Plagiarism NPC</a> allows Rogues/Stalkers to copy skills for a fee.<br>
+                    A skill you already know can be overwritten when a higher version is offered (applies to normal in-combat Plagiarism as well).<br>
+                    The NPC refuses the trade while Preserve is active.
+                </td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/st_preserve.gif" alt="">Preserve</td>
@@ -616,7 +654,12 @@ No other changes to Hunter skills.
             <tr>
                 <td>Death Count</td>
                 <td>If a Super Novice can manage to avoid even a single death until job 70 and onwards, you will get +10 for all stats. If you die anytime afterwards, you will lose that bonus.</td>
-                <td>Super Novice death count can be reset at a <a href="../Custom_NPC/#other">special NPC south of Prontera</a>.</td>
+                <td>Super Novice death count can be reset for free at <a href="../Custom_NPC/#other">Lupita, south of Prontera</a>. The reset also grants a 10 second Super Novice Spirit status (Super Novice and Super Baby only), long enough to swap into gear unlocked by the link.</td>
+            </tr>
+            <tr>
+                <td>Soul Link Equips</td>
+                <td>While under the Super Novice Spirit link, base level 91+ allows equipping any headgear and base level 97+ allows equipping level 4 one-handed weapons.</td>
+                <td>Same as official: the base 97+ bypass only applies to weapon level 4 one-handed weapons (Daggers, 1H Swords, 1H Axes, Maces, Staves). Gear equipped through the link stays equipped after it ends.</td>
             </tr>
             <tr>
                 <td>Passive Bonuses</td>
@@ -745,6 +788,11 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
                 <td><img src="../img/Class_Changes/sj_document.gif" alt="">Miracle of the Sun, Moon, and Stars</td>
                 <td>Miracle has a low rate to grant the ability to use all Solar, Lunar, and Stellar-aligned skills on any map on any day of the week. This means offensive and supporting skills are stacked as well. The effect lasts for one hour and disappears if the player logs off or switches maps.</td>
                 <td>Success rate increased from 0.02% to 0.1%.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/sg_warmth.png" alt="">Warmth of the Sun, Moon, and Stars</td>
+                <td>Does not damage targets standing on Land Protector.</td>
+                <td>Properly bypasses Land Protector.</td>
             </tr>
         </tbody>
     </table>
