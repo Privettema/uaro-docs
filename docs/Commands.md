@@ -256,11 +256,7 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
 
   Must be used within a Kafra (Card or NPC)  
   Only works inside towns  
-  Pulls directly from storage to restock items to preset quantities  
-
-- `@autofeed`  
-  Persists through logout  
-  Account-wide, based on your setting  
+  Pulls directly from storage to restock items to preset quantities   
 
 - `@hideloot`
 

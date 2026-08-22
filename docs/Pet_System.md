@@ -6,6 +6,8 @@
     A **Mute Pets** option in `@settings` hides all pet talk and emotes for you only.
     Pets still function normally and other players are unaffected.
 
+!!! warning "Remember to enable auto-feed before leaving your pet unattended!"
+
 !!! tip "Bombring Event"
     During the [Bombring event](Auto_Events.md#bombring-event), pets hide automatically
     and are not stored to their egg.
@@ -13,15 +15,20 @@
 ## Feeding
 Automatic feeding (Auto-feed) is available for evolved pets or pets without an evolution. Pets that starve will return to their egg with intimacy at Awkward, instead of running away.
 
-!!! warning "Remember to enable auto-feed before leaving your pet unattended!"
+To enable auto-feed:
 
-Auto-feed command `@autofeed` is enabled account-wide and persists through logout. If you have a pet currently equipped that cannot be autofed with auto-feed enabled, a message will appear to remind you.
+1. Open your pet window (`ALT+J` or right click)
+2. At the bottom of the window, select the checkbox next to "Automatic feeding". If you don't see the auto-feed option, this pet cannot be auto-fed.
+
+![Autofeed Hyegun](img/Pet_System/autofeed.png)
 
 | Type | Feeding |
 |---|---|
 | Evolvable Pet | Only manual. Example: Poring evolves into Mastering, so it does not have auto-feed. |
 | Evolved Pet | Can be auto-fed. Example: Angeling is an evolved pet, so it can use auto-feed. |
 | Pet without Evolution | Can be auto-fed. Example: Incubus does not have an evolution tree, so it can use auto-feed. |
+
+
 
 ### Exceptions
 | Pet | Type | Feeding |
