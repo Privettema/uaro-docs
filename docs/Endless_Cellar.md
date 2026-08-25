@@ -174,4 +174,10 @@ After defeating Pori Pori, the NPC Arc Pori Pori will appear and provide a rewar
     Before returning to Prontera, don't forget to claim your reward! Talking to
     **Arc Pori Pori** to exit naturally is required to unlock your next weekly run.
 
+!!! note "Run Statistics"
+    When the final boss dies, a copy of every party member appears at the exit showing
+    their **Damage Dealt**, **Damage Taken**, **Heal Done**, **Heal Taken**, **Deaths**
+    and **Mob Kills** for the whole run. The stats stay up for a few minutes before the
+    instance closes.
+
 **Good game and have fun!**

@@ -44,6 +44,12 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | ![Training Dummy NPC](img/NPC/training-dummy.gif)<br>**Build Tester** | `/navi prontera 220/77` | **Target Dummies** allow you to test your build's effectiveness against different settings like size, race, element, and more. |
 | ![Sir Albrecht NPC](img/NPC/4_M_3RDPRIN1.gif)<br>**Sir Albrecht** | `/navi prontera 169/228` | **King of Emperium** (**KoE**) is a PvP/GvG event available only on World of Dreams, where guilds battle for control and protection of the Emperium in multiple themed battlefields. The event emphasizes tactical coordination and rewards players with valuable prizes for their participation. |
 
+!!! note "Bio Lab 4 Targets"
+    The Build Tester's target dummies include the **Bio Lab 4** mini-bosses and MVPs -
+    **Paladin Randel**, **Biochemist Flamel**, **Scholar Celia**, **Champion Chen**,
+    **Stalker Gertie**, **Minstrel Alphoccio** and **Gypsy Trentini** - in both their
+    mini and MVP versions.
+
 ### Cooking
 | NPC | Location | Description |
 |:-----:|----------|-------------|

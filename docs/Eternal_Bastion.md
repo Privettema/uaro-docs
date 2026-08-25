@@ -34,6 +34,7 @@ No gimmicks, no distractions — just pure combat and teamwork.
 | **Storage** | Accessible waves 1–79, NPC destroyed at wave 80+ |
 | **Party Lock** | If party composition changes at any point, the instance resets and is destroyed |
 | **Re-entry** | Once you leave or die out, you cannot return to the instance |
+| **Run Statistics** | When the final boss dies, a copy of every party member appears at the exit showing their damage dealt/taken, healing done/taken, deaths and mob kills for the run |
 
 !!! note "Run Unlock"
     Unlike other instances, Eternal Bastion has no end-of-dungeon NPC requirement.

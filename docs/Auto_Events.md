@@ -182,6 +182,7 @@ Join the event using the command: @event
    stored to their egg
 7. When the round ends, dead players are **revived and restored to their
    entry HP**
+8. Deaths during the event **do not count** toward the **Super Novice** death counter
 
 ---
 

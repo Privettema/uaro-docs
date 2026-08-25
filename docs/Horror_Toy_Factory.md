@@ -34,6 +34,12 @@ The instance offers unique rewards, including rare items and equipment, making i
 |----------|---------------|
 | **HTF** | Warp portal at end of map (Touch and exit) |
 
+!!! note "Run Statistics"
+    When the final boss dies, a copy of every party member appears at the exit showing
+    their **Damage Dealt**, **Damage Taken**, **Heal Done**, **Heal Taken**, **Deaths**
+    and **Mob Kills** for the whole run. The stats stay up for a few minutes before the
+    instance closes.
+
 ## How to get there
 
 ![HTF-NPC](img/HTF/HTF-NPC.jpg.png)<br>

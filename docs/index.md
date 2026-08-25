@@ -7,6 +7,28 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "August 25"
+        **August 25, 2026**
+
+        - End of run statistics for all seven instances: a copy
+          of every party member appears at the exit showing
+          damage, healing, deaths and mob kills for the run.
+        - @ws/@wb now filter by price range and minimum refine,
+          with results sorted by price; the client's own vending
+          search window is disabled.
+        - Old Glast Heim mob sprites swapped to more exclusive
+          versions; Corrupt Abysmal Knight renamed.
+        - Bio Lab 4 mini-bosses and MVPs added to the training
+          dummy.
+        - Event shop rotated: four new costumes, three back in
+          stock; Cash Shop New tab fully rotated with 18
+          costumes.
+        - Fixes: Super Novice death count via Bombring, Create
+          Private Arena warps, Izlude and Morroc arena maps,
+          leftover instance timers.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08252026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "August 18"
         **August 18, 2026**
 
