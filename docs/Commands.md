@@ -41,37 +41,68 @@
 - `@noask`  
   Toggles automatic rejection of deals and invites.
 
-- `@noks`  
-  Toggles Kill Steal Protection.  
-
-  **Lock starts when:**  
- Damage is done outside of aggro range of mob  
- Mob locks onto a player target  
-
-**Lock Mechanics:**
-
-| Mechanic | Description |
-|----------|-------------|
-| **Idle Release** | If a player is idle for `5 seconds` or longer, aggro lock is released |
-| **Lock Timer** | `15 seconds` (timer does NOT start until another player attempts to KS your mob) |
-| **Hard Cap** | `30 seconds` (will release regardless of variables) |
-| **MVP/Mini** | Doesn't apply to any MVP/Mini boss that has NoKS null and void |
-| **Max Mob Count** | Unlimited |
-
-**System UI Options:**
-
-| Mode | Description |
-|------|-------------|
-| **Self** | Disables Party/Guild |
-| **Party** | Allows party members |
-| **Guild** | Allows guild members |
-
 - `@camerainfo`  
   Displays/hides camera information from the client.  
   `@camerainfo {<range> <rotation> <latitude>}`  
   If arguments are given, sets camera position.  
   **Output in-game Example:**  
   ![Camerainfo Output](img/@camerainfo.png)
+
+---
+
+## Player Information Commands
+
+- `@commands`  
+  Displays a list of available commands to the player.
+
+- `@help <command>`  
+  Displays the help message for the specified command.
+
+- `@exp`  
+  Displays current levels and % progress.
+
+- `@jailtime`  
+  Displays remaining jail time.
+
+- `@instanceinfo`  
+  Shows your weekly run count for every instance, tracked both per account and per hardware ID.
+
+- `@mapexp`
+  The @mapexp command introduces a rotating bonus EXP zone that updates every 48 to 72 hours. During this period, selected areas grant an additional 20–30% EXP.
+
+---
+
+## @noks - Kill Steal Protection
+
+The `@noks` command prevents kill stealing (KS).
+
+!!! note
+    Tickets cannot be submitted for KS issues. Learn and operate within the @noks system to ensure lock of your monsters.
+
+**Lock starts when:**
+
+- Damage is done outside of aggro range of mob
+- Mob locks onto a player target
+
+### Lock Mechanics
+
+| Mechanic          | Description                                                                      |
+| ----------------- | -------------------------------------------------------------------------------- |
+| **Idle Release**  | If a player is idle for `5 seconds` or longer, aggro lock is released            |
+| **Lock Timer**    | `15 seconds` (timer does NOT start until another player attempts to KS your mob) |
+| **Hard Cap**      | `30 seconds` (will release regardless of variables)                              |
+| **MVP/Mini**      | Doesn't apply to any MVP/Mini boss that has NoKS null and void                   |
+| **Max Mob Count** | Unlimited                                                                        |
+
+### System UI Options
+
+| Mode      | Description          |
+| --------- | -------------------- |
+| **Self**  | Disables Party/Guild |
+| **Party** | Allows party members |
+| **Guild** | Allows guild members |
+
+---
 
 ## Database Commands
 
@@ -93,23 +124,27 @@
   **Output in-game Example:**  
   ![Dropinfo Output](img/@dropinfo-outline.png)
 
+- `@whereis <monster name or ID>`  
+  Displays the maps in which monster normally spawns.  
+  **Example:** `@whereis Demon Pungus`  
+  **Output in-game Example:**  
+  ![Whereis Output](img/@whereis-outline.png)
+
+---
+
 ## 🔧 @lootconfig — Advanced Autoloot System
 
 The `@lootconfig` command provides a **user-friendly UI** for managing autoloot settings and custom loot lists.
-
----
 
 ### ✨ Key Features
 
 - **Toggle Autoloot** – Enable/disable autoloot and set a drop-rate threshold
 - **Ignore Items** – Exclude unwanted items from autoloot
 - **Loot Groups** – Create and manage up to **20 custom loot groups**
-- **Group Functions** – Preset list system (initially displayed as *List 1*)
+- **Group Functions** – Preset list system (initially displayed as _List 1_)
 - **Rename Groups** – Fully customizable group names
 - **Quick Setup UI** – Easy and fast configuration via interface
 - **Persistent Settings** – All preferences are saved and restored on login
-
----
 
 ### 📦 Loot Group Management
 
@@ -117,8 +152,6 @@ The `@lootconfig` command provides a **user-friendly UI** for managing autoloot 
 - Clear a group by **deleting and recreating** the list
 - Each group operates independently
 - Supports **fine-grained loot filtering** for different farming needs
-
----
 
 ### ▶️ How to Use `@lootconfig`
 
@@ -131,37 +164,13 @@ The `@lootconfig` command provides a **user-friendly UI** for managing autoloot 
 
 ![@lootconfig UI](img/@lootgonfig.png)
 
-
-- `@whereis <monster name or ID>`  
-  Displays the maps in which monster normally spawns.  
-  **Example:** `@whereis Demon Pungus`  
-  **Output in-game Example:**  
-  ![Whereis Output](img/@whereis-outline.png)
-
-## Player Information Commands
-
-- `@commands`  
-  Displays a list of available commands to the player.
-
-- `@help <command>`  
-  Displays the help message for the specified command.
-
-- `@exp`  
-  Displays current levels and % progress.
-
-- `@jailtime`  
-  Displays remaining jail time.
-
-- `@instanceinfo`  
-  Shows your weekly run count for every instance, tracked both per account and per hardware ID.
+---
 
 ## @killcount — Enhanced Kill Tracking System
 
 The `@killcount` command has been **fully rewritten** and now features a modern **UI-based tracking system** with session-based monitoring and improved visual feedback.
 
 ![Killcount UI](img/@killcountUI.png)
-
----
 
 ### ✨ Key Features
 
@@ -173,24 +182,15 @@ The `@killcount` command has been **fully rewritten** and now features a modern 
 - Total killcount preserved across all monsters
 - Shorthand command available: `@kc`
 
----
-
 ### 📋 Usage
 
-| Command | Description |
-|----------|-------------|
-| `@killcount` | Opens the UI-based tracking system |
-| `@killcount [MobID]` | Track a specific monster |
-| `@kc [MobID]` | Shorthand version of the command |
+| Command              | Description                        |
+| -------------------- | ---------------------------------- |
+| `@killcount`         | Opens the UI-based tracking system |
+| `@killcount [MobID]` | Track a specific monster           |
+| `@kc [MobID]`        | Shorthand version of the command   |
 
 ---
-
-!!! success "System Overhaul"
-    The killcount system has been completely modernized with UI integration,  
-    session-based tracking, and improved real-time visual feedback.
-
-- `@mapexp`<br>
-The @mapexp command introduces a rotating bonus EXP zone that updates every 48 to 72 hours. During this period, selected areas grant an additional 20–30% EXP.  
 
 ## Ranking Commands
 
@@ -203,10 +203,9 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
 - `@taekwon`  
   Show top 20 taekwons.
 
-## Action Commands
+---
 
-- `@autotrade` or `@at`  
-  Allows you to continue vending offline.
+## Action Commands
 
 - `@event`  
   Join open registrations, see which event is currently running, and check the schedule
@@ -223,8 +222,8 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
   Sends a message to all connected GMs.
 
 - `@settings`  
-  Personalize your game settings applied on login. Offering a streamlined UI for saving preferences like **autoloot, chat channels, and visibility settings**.  
- `@settings` syncs with in-game commands, so you **don't need to use the menu** separately.  
+   Personalize your game settings applied on login. Offering a streamlined UI for saving preferences like **autoloot, chat channels, and visibility settings**.  
+  `@settings` syncs with in-game commands, so you **don't need to use the menu** separately.
 
   The **Announcement Config** menu consolidates all broadcast announcement options in one place.
   Individually turn on or off **Welcome**, **Drop**, **Battlegrounds**, **Kill**, **Community News**,
@@ -237,41 +236,49 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
   toggle is now called **Status Color Effect** (no mechanical change).
 
   **Output in-game Example:**  
-  ![Settings Output](img/@settings.png)
+   ![Settings Output](img/@settings.png)
 
--  `@hidepet {<1-2>}`  
+- `@hidepet {<1-2>}`  
   Use `@hidepet 1` to hide pets except your own.  
-  Use `@hidepet 2` to hide all pets.  
+  Use `@hidepet 2` to hide all pets.
 
-- `@restockconfig`and `@restock`  
-   
-   **Features:**  
+- `@restockconfig`and `@restock`
+
+  **Features:**
 
   Create up to 20 different restock lists
   Works under 90% weight (current or target %)  
   Add/delete/rename lists easily  
   Improved management interface
 
-  **Limitations:**  
+  **Limitations:**
 
   Must be used within a Kafra (Card or NPC)  
   Only works inside towns  
-  Pulls directly from storage to restock items to preset quantities   
+  Pulls directly from storage to restock items to preset quantities
 
 - `@hideloot`
 
-| Setting | Description |
-|---------|-------------|
-| **Function** | Blocks display of trash loot on the ground |
-| **Default** | Off upon each login (prevents people from forgetting) |
+| Setting      | Description                                           |
+| ------------ | ----------------------------------------------------- |
+| **Function** | Blocks display of trash loot on the ground            |
+| **Default**  | Off upon each login (prevents people from forgetting) |
+
+---
 
 ## Trade Commands
+
 Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating shops.
 
+- `@autotrade` or `@at`  
+  Allows you to continue vending offline.
+  
 - `@vendrecap`  
   Recap of your last vending run: shop name, when the shop opened and closed, and your total
   zeny earned. The **View All** option lists every item together with each individual sale -
   buyer name, timestamp and amount.
+
+---
 
 ## Guild Commands
 
@@ -280,15 +287,16 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 
 - `@guild`  
   All guild functions in a single command:
-
-    - **Storage Logs** — see who accessed guild storage and when. 150 lines per query,
-      time ranges (last 24h / 7d / 30d / all time), Withdraw / Deposit / Both filters
-    - **Bank Logs** — guild bank activity, moved out of the **Guild Agent** NPC
-    - **Request Tokens** — request WoE tokens
-    - **Management** (guild leader only) — every permission setting per guild position
+  - **Storage Logs** — see who accessed guild storage and when. 150 lines per query,
+    time ranges (last 24h / 7d / 30d / all time), Withdraw / Deposit / Both filters
+  - **Bank Logs** — guild bank activity, moved out of the **Guild Agent** NPC
+  - **Request Tokens** — request WoE tokens
+  - **Management** (guild leader only) — every permission setting per guild position
 
   Members with bank access see the current guild bank balance when the menu opens.  
   `@guildbank` and `@guildlog` have been removed — everything now lives in `@guild`.
+
+---
 
 ## Homunculus Commands
 
@@ -301,6 +309,8 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
   Displays homunculus stats in different formats.  
   **Output in-game Example:**  
   ![Homstats Output](img/@homstats-outline.png)
+
+---
 
 ## Battleground Commands
 
@@ -316,29 +326,33 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 - `@bg shop`  
   Open the Battleground shop.
 
+---
+
 ## Duel Commands
 
-- `@duel`  
+- `@duel`
 
-**Features:**  
+**Features:**
 
 - Restricted to towns (leaving town ends duel)<br>
 - Target cursor selection (no name typing)<br>
 - Use @duel and target another player to invite<br>
 - Invited player must @duel and target you to accept<br>
-- Automatic debuff removal when leaving duel  
+- Automatic debuff removal when leaving duel
 
-   **Damage Modes:**
+  **Damage Modes:**
 
-  | Command | Mode | Description |
-  |---------|------|-------------|
-  | `@duel` | Normal | Standard damage calculations |
-  | `@duel bg` | Battleground | BG damage mode |
-  | `@duel gvg` | GvG | Guild vs Guild damage mode |
-  | `@duel leave` | Exit | Withdraw from duel (both players removed) |
+  | Command       | Mode         | Description                               |
+  | ------------- | ------------ | ----------------------------------------- |
+  | `@duel`       | Normal       | Standard damage calculations              |
+  | `@duel bg`    | Battleground | BG damage mode                            |
+  | `@duel gvg`   | GvG          | Guild vs Guild damage mode                |
+  | `@duel leave` | Exit         | Withdraw from duel (both players removed) |
 
 !!! note "Duel Mechanics"
     The duel will follow the inviter's selected damage mode. Both players are automatically removed when one leaves.
+
+---
 
 ## Mail Commands
 
@@ -346,9 +360,14 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
   Displays your Rodex (mail) log, `10` entries per page.
 
 !!! note "Cooldown"
-    `10 second` cooldown between uses.
+`10 second` cooldown between uses.
+
+---
 
 ## Channel Commands
+
+- `@channel`
+  Configure general channel settings.
 
 - `@channel create <channel name> <channel password>`  
   Create a new channel.
@@ -383,6 +402,8 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
     - If the **channel owner leaves**, the private channel is destroyed.
     - Leaving or being kicked applies a `30 minute` delay before you can rejoin.
     - The `#trade`, `#party`, and `#recruit` channels have a `180 second` message delay.
+
+---
 
 ## Lite Graphics Plugin (LGP) Commands
 
