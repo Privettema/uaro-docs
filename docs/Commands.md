@@ -139,7 +139,7 @@ Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kil
 
 ---
 
-## @restock - Quick Pull from Storage 
+## @restock - Quickly Pull from Storage 
 
 The `@restock` and `@restockconfig` commands help you quickly pull what you need from storage and get back to farming or fighting.
 
@@ -168,38 +168,6 @@ The `@restock` and `@restockconfig` commands help you quickly pull what you need
 4. Add or remove items from the list and set quantities 
 5. Close the UI, all changes **apply instantly** and **save automatically** 
 6. Type `@restock` while you are in a town with storage open
-
----
-
-## @noks - Kill Steal Protection
-
-The `@noks` command prevents kill stealing (KS).
-
-!!! note
-    Tickets cannot be submitted for KS issues. Learn and operate within the @noks system to ensure lock of your monsters.
-
-**Lock starts when:**
-
-- Damage is done outside of aggro range of mob
-- Mob locks onto a player target
-
-### ✨ Lock Mechanics
-
-| Mechanic          | Description                                                                      |
-| ----------------- | -------------------------------------------------------------------------------- |
-| **Idle Release**  | If a player is idle for `5 seconds` or longer, aggro lock is released            |
-| **Lock Timer**    | `15 seconds` (timer does NOT start until another player attempts to KS your mob) |
-| **Hard Cap**      | `30 seconds` (will release regardless of variables)                              |
-| **MVP/Mini**      | Doesn't apply to any MVP/Mini boss that has NoKS null and void                   |
-| **Max Mob Count** | Unlimited                                                                        |
-
-### 📋 System UI Options
-
-| Mode      | Description          |
-| --------- | -------------------- |
-| **Self**  | Disables Party/Guild |
-| **Party** | Allows party members |
-| **Guild** | Allows guild members |
 
 ---
 
@@ -274,6 +242,38 @@ The `@killcount` command has been **fully rewritten** and now features a modern 
 | `@killcount`         | Opens the UI-based tracking system |
 | `@killcount [MobID]` | Track a specific monster           |
 | `@kc [MobID]`        | Shorthand version of the command   |
+
+---
+
+## @noks - Kill Steal Protection
+
+The `@noks` command prevents kill stealing (KS).
+
+!!! note
+    Tickets cannot be submitted for KS issues. Learn and operate within the @noks system to ensure lock of your monsters.
+
+**Lock starts when:**
+
+- Damage is done outside of aggro range of mob
+- Mob locks onto a player target
+
+### ✨ Lock Mechanics
+
+| Mechanic          | Description                                                                      |
+| ----------------- | -------------------------------------------------------------------------------- |
+| **Idle Release**  | If a player is idle for `5 seconds` or longer, aggro lock is released            |
+| **Lock Timer**    | `15 seconds` (timer does NOT start until another player attempts to KS your mob) |
+| **Hard Cap**      | `30 seconds` (will release regardless of variables)                              |
+| **MVP/Mini**      | Doesn't apply to any MVP/Mini boss that has NoKS null and void                   |
+| **Max Mob Count** | Unlimited                                                                        |
+
+### 📋 System UI Options
+
+| Mode      | Description          |
+| --------- | -------------------- |
+| **Self**  | Disables Party/Guild |
+| **Party** | Allows party members |
+| **Guild** | Allows guild members |
 
 ---
 
