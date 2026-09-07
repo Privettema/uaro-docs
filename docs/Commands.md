@@ -137,40 +137,6 @@ The **Announcement Config** menu consolidates all broadcast announcement options
 
 Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kill**, **Community News**, **MVP**, and **Event** announcements, with your choices saved to your account. A new **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
 
----
-
-## @restock - Quickly Pull from Storage 
-
-The `@restock` and `@restockconfig` commands help you quickly pull what you need from storage and get back to farming or fighting.
-
-### ✨ Key Features
-
-- Pulls directly from storage to restock items to preset quantities
-- Create up to 20 different restock lists
-- Works under 90% weight (current or target %)  
-- Add/delete/rename lists easily  
-- Improved management interface
-- Must be used within a Kafra (Card or NPC)  
-- Only works inside towns  
-
-### 📦 Group Management
-
-- Add or remove **individual items** per group
-- Clear a group by **deleting and recreating** the list
-- Each group operates independently
-- Only one group can be enabled at a time
-
-### 📋 How to Use `@restock`
-
-1. Type `@restockconfig` open the configuration UI
-2. Choose **Restock Group 1** or **Add Restock Group**
-3. Enable or disable the group
-4. Add or remove items from the list and set quantities 
-5. Close the UI, all changes **apply instantly** and **save automatically** 
-6. Type `@restock` while you are in a town with storage open
-
----
-
 ## @lootconfig — Advanced Autoloot System
 
 The `@lootconfig` command provides a **user-friendly UI** for managing autoloot settings and custom loot lists.
@@ -216,6 +182,38 @@ Autoloot groups select only specific items to be looted. If the main autoloot is
 3. Enable or disable the group
 4. Add or remove items from the loot list
 5. Close the UI, all changes **apply instantly** and **save automatically**  
+
+---
+
+## @restock - Quickly Pull from Storage 
+
+The `@restock` and `@restockconfig` commands help you quickly pull what you need from storage and get back to farming or fighting.
+
+### ✨ Key Features
+
+- Pulls directly from storage to restock items to preset quantities
+- Create up to 20 different restock lists
+- Works under 90% weight (current or target %)  
+- Add/delete/rename lists easily  
+- Improved management interface
+- Must be used within a Kafra (Card or NPC)  
+- Only works inside towns  
+
+### 📦 Group Management
+
+- Add or remove **individual items** per group
+- Clear a group by **deleting and recreating** the list
+- Each group operates independently
+- Only one group can be enabled at a time
+
+### 📋 How to Use `@restock`
+
+1. Type `@restockconfig` open the configuration UI
+2. Choose **Restock Group 1** or **Add Restock Group**
+3. Enable or disable the group
+4. Add or remove items from the list and set quantities 
+5. Close the UI, all changes **apply instantly** and **save automatically** 
+6. Type `@restock` while you are in a town with storage open
 
 ---
 
