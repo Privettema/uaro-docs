@@ -83,6 +83,9 @@
 - `@hideloot`
     Blocks display of trash loot on the ground. Disabled by default on every login.
 
+- `@rodexlog`  
+  Displays your Rodex (mail) log, `10` entries per page. `10 second` cooldown between uses.
+
 - `@request <message>`  
   Sends a message to all connected GMs.
 
@@ -385,37 +388,27 @@ Get quick, accurate information about mobs and items in-game without having to s
 
 ## Duel Commands
 
-- `@duel`
+Use `@duel` to fight one person 1v1 in a town.
 
-**Features:**
-
-- Restricted to towns (leaving town ends duel)<br>
-- Target cursor selection (no name typing)<br>
-- Use @duel and target another player to invite<br>
-- Invited player must @duel and target you to accept<br>
-- Automatic debuff removal when leaving duel
-
-  **Damage Modes:**
-
-  | Command       | Mode         | Description                               |
-  | ------------- | ------------ | ----------------------------------------- |
-  | `@duel`       | Normal       | Standard damage calculations              |
-  | `@duel bg`    | Battleground | BG damage mode                            |
-  | `@duel gvg`   | GvG          | Guild vs Guild damage mode                |
-  | `@duel leave` | Exit         | Withdraw from duel (both players removed) |
-
-!!! note "Duel Mechanics"
+ !!! note "Duel Mechanics"
     The duel will follow the inviter's selected damage mode. Both players are automatically removed when one leaves.
 
----
+### ✨ Features
 
-## Mail Commands
+- Restricted to towns (leaving town ends duel)
+- Target cursor selection (no name typing)
+- Use `@duel` and target another player to invite
+- Invited player must `@duel` and target you to accept
+- Automatic debuff removal when leaving duel
 
-- `@rodexlog`  
-  Displays your Rodex (mail) log, `10` entries per page.
+### 📋 Damage Modes
 
-!!! note "Cooldown"
-`10 second` cooldown between uses.
+| Command       | Mode         | Description                               |
+| ------------- | ------------ | ----------------------------------------- |
+| `@duel`       | Normal       | Standard damage calculations              |
+| `@duel bg`    | Battleground | BG damage mode                            |
+| `@duel gvg`   | GvG          | Guild vs Guild damage mode                |
+| `@duel leave` | Exit         | Withdraw from duel (both players removed) |
 
 ---
 
