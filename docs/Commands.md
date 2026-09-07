@@ -151,6 +151,13 @@ The `@restock` and `@restockconfig` commands help you quickly pull what you need
 - Must be used within a Kafra (Card or NPC)  
 - Only works inside towns  
 
+### 📦 Group Management
+
+- Add or remove **individual items** per group
+- Clear a group by **deleting and recreating** the list
+- Each group operates independently
+- Only one group can be enabled at a time
+
 ### 📋 How to Use `@restock`
 
 1. Type `@restockconfig` open the configuration UI
@@ -215,16 +222,30 @@ The `@lootconfig` command provides a **user-friendly UI** for managing autoloot 
 - Add or remove **individual items** per group
 - Clear a group by **deleting and recreating** the list
 - Each group operates independently
+- Only one group can be enabled at a time, in addition to the Main Autoloot
 - Supports **fine-grained loot filtering** for different farming needs
 
 ### 📋 How to Use `@lootconfig`
 
+#### Configure Main Autoloot
+
+Main Autoloot determines what percentage for general autoloot and the ignore list.
+
 1. Type `@lootconfig` to open the configuration UI
-2. Choose **Main Autoloot** or **Add Autoloot Group**
+2. Choose **Main Autoloot** 
 3. Enable or disable autoloot and set a drop rate
-4. Add or remove items from ignore or loot lists
-5. Create, rename, and manage loot groups
-6. All changes **apply instantly** and **save automatically**
+4. Add or remove items from ignore list
+5. Close the UI, all changes **apply instantly** and **save automatically**  
+
+#### Configure Groups
+
+Autoloot groups select only specific items to be looted. If the main autoloot is enabled, that percentage continues to be active unless autoloot is disabled. Items in the ignore list will be looted if present in both lists.
+
+1. Type `@lootconfig` to open the configuration UI
+2. Choose your group, **Autoloot Group 1**, or **Add Autoloot Group**
+3. Enable or disable the group
+4. Add or remove items from the loot list
+5. Close the UI, all changes **apply instantly** and **save automatically**  
 
 ---
 
