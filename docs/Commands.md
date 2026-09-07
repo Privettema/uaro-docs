@@ -264,13 +264,13 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 
 ## Database Commands
 
-- `@mobinfo <mob name or ID>`  
+- `@mobinfo <mob name or ID>` or `@mi`
   Displays monster information (rates, stats, drops, MVP data).  
   **Example:** `@mobinfo Drops`  
   **Output in-game Example:**  
   ![Mobinfo Output](img/@mobinfo-outline.png)
 
-- `@iteminfo <item name or ID>`  
+- `@iteminfo <item name or ID>` or `@ii`
   Displays item information (type, price, weight, drops).  
   **Example:** `@iteminfo Fang of Hatii`  
   **Output in-game Example:**  
