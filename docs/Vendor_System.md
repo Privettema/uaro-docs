@@ -1,11 +1,6 @@
 # Vendor System
 The server provides a diverse range of options for players to find, purchase, and trade items. Additionally, it implements specialized mechanisms to ensure the stability of the server's economy.
 
-!!! note "Use @ws2 and @wb2"
-
-    Regular commands @ws and @wb are currently unavailable. The team is working on fixing this, for now use @ws2 and @wb2.
-
-
 
 ## 🛒 Prontera Market Street Vending
 
