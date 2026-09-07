@@ -28,11 +28,6 @@
   **Output in-game Example:**  
   ![Ping Output](img/!ping.png)
 
-- `@showexp`  
-  Toggles the display of experience gain messages.  
-  **Output in-game Example:**  
-  ![ShowExp Output](img/@showexp-output.png)
-
 - `@showdelay`  
   Shows or hides the red "Cannot use the skills" message.  
   **Output Example:**  
@@ -50,7 +45,7 @@
 
 ---
 
-## Player Information Commands
+## General Commands
 
 - `@commands`  
   Displays a list of available commands to the player.
@@ -58,17 +53,106 @@
 - `@help <command>`  
   Displays the help message for the specified command.
 
-- `@exp`  
-  Displays current levels and % progress.
-
 - `@jailtime`  
   Displays remaining jail time.
 
 - `@instanceinfo`  
   Shows your weekly run count for every instance, tracked both per account and per hardware ID.
 
+- `@exp`  
+  Displays current levels and % progress.
+
+- `@showexp`  
+  Toggles the display of experience gain messages.  
+  **Output in-game Example:**  
+  ![ShowExp Output](img/@showexp-output.png)
+
+- `@exptrack`  
+  Tracks EXP gained per session. Start, pause and reset via `@exptrack`, quick summary with `@exptrack view`. Progress persists through relogs.
+
 - `@mapexp`
   The @mapexp command introduces a rotating bonus EXP zone that updates every 48 to 72 hours. During this period, selected areas grant an additional 20–30% EXP.
+
+- `@event`  
+  Join open registrations, see which event is currently running, and check the schedule
+  of all `4` [automated events](Auto_Events.md). Replaces `@bombring` and `@dice`.
+
+- `@memo {<1-4>}`  
+  Saves a warp point for the "Warp Portal" skill.
+
+- `@request <message>`  
+  Sends a message to all connected GMs.
+
+--- 
+
+## `@settings` 
+
+Personalize your game settings applied on login. Offering a streamlined UI for saving preferences like **announcements, chat channels, and visibility settings**.  
+
+`@settings` syncs with in-game commands, so you **don't need to use the menu** separately.
+
+**Output in-game Example:**  
+![Settings Output](img/@settings.png)
+
+The options in this menu are currently:
+1. **Hide Pets** - Only show your pet, or hide all (command available)
+2. **Mute Pets** - Toggle pet chatter on/off
+3. **Mute Songs** - Toggle audio from bard/dancer songs on/off
+4. **Show Rare Drops** - Set a percentage to be informed of rare drops
+5. **Show Experience** - Toggle showing exp on and off
+6. **Show Guildmates HP** - Enable HP bar under fellow guild members
+7. **Show Teleport Pevious Position** - Shows your last teleport on the minimap
+8. **Direct Message Warning** -
+9. **Time Mode** - Toggle the night/day cycle between permanent night or day, or keep the default cycle
+10. **Item from Storage Weight Limit** - Determine how much weight you can carry from storage when moving items or using `@restock`
+11. **Anouncement Config** - Options for visibility of overhead announcements
+12. **Channel Config** - Options for visibility of active server chat channels
+13. **Headgears & Costumes (WoE)** - Toggle costume visiblity on/off for WoE only
+
+### Hide Pets
+Finding pets distracting? Access these options through the menu, or via commands. 
+
+Pets that are not visible will not vocalize. Visible pets are not muted unless you also choose the mute pets option.
+
+- `@hidepet {<1-2>}`  
+  Use `@hidepet 1` to hide pets except your own.  
+  Use `@hidepet 2` to hide all pets.
+
+### Mute Pets
+A **Mute Pets** option hides all pet talk and emotes for you only — pets still function normally and other players are unaffected. 
+
+### Show Rare Drops
+Choose to announce your rare drops to yourself, accessed via menu or commands. The minimum is 1%.
+
+- `showrare {<1-100>}`
+  Using the command with 0 or no value will disable it.
+
+### Announcements
+The **Announcement Config** menu consolidates all broadcast announcement options in one place.
+
+Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kill**, **Community News**, **MVP**, and **Event** announcements, with your choices saved to your account. A new **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
+
+- `@restockconfig`and `@restock`
+
+  **Features:**
+
+  Create up to 20 different restock lists
+  Works under 90% weight (current or target %)  
+  Add/delete/rename lists easily  
+  Improved management interface
+
+  **Limitations:**
+
+  Must be used within a Kafra (Card or NPC)  
+  Only works inside towns  
+  Pulls directly from storage to restock items to preset quantities
+
+- `@hideloot`
+
+| Setting      | Description                                           |
+| ------------ | ----------------------------------------------------- |
+| **Function** | Blocks display of trash loot on the ground            |
+| **Default**  | Off upon each login (prevents people from forgetting) |
 
 ---
 
@@ -104,44 +188,18 @@ The `@noks` command prevents kill stealing (KS).
 
 ---
 
-## Database Commands
-
-- `@mobinfo <mob name or ID>`  
-  Displays monster information (rates, stats, drops, MVP data).  
-  **Example:** `@mobinfo Drops`  
-  **Output in-game Example:**  
-  ![Mobinfo Output](img/@mobinfo-outline.png)
-
-- `@iteminfo <item name or ID>`  
-  Displays item information (type, price, weight, drops).  
-  **Example:** `@iteminfo Fang of Hatii`  
-  **Output in-game Example:**  
-  ![Iteminfo Output](img/@iteminfo-outline.png)
-
-- `@whodrops <item name or ID>`  
-  Displays a list of mobs which drop the specified item. Only the highest drop rates are shown.  
-  **Example:** `@whodrops Hand of God`  
-  **Output in-game Example:**  
-  ![Dropinfo Output](img/@dropinfo-outline.png)
-
-- `@whereis <monster name or ID>`  
-  Displays the maps in which monster normally spawns.  
-  **Example:** `@whereis Demon Pungus`  
-  **Output in-game Example:**  
-  ![Whereis Output](img/@whereis-outline.png)
-
----
-
-## 🔧 @lootconfig — Advanced Autoloot System
+## @lootconfig — Advanced Autoloot System
 
 The `@lootconfig` command provides a **user-friendly UI** for managing autoloot settings and custom loot lists.
+
+![@lootconfig UI](img/@lootgonfig.png)
 
 ### ✨ Key Features
 
 - **Toggle Autoloot** – Enable/disable autoloot and set a drop-rate threshold
 - **Ignore Items** – Exclude unwanted items from autoloot
 - **Loot Groups** – Create and manage up to **20 custom loot groups**
-- **Group Functions** – Preset list system (initially displayed as _List 1_)
+- **Group Functions** – Preset list system
 - **Rename Groups** – Fully customizable group names
 - **Quick Setup UI** – Easy and fast configuration via interface
 - **Persistent Settings** – All preferences are saved and restored on login
@@ -156,13 +214,11 @@ The `@lootconfig` command provides a **user-friendly UI** for managing autoloot 
 ### ▶️ How to Use `@lootconfig`
 
 1. Type `@lootconfig` to open the configuration UI
-2. Choose **Main Autoloot** or **Custom Loot Groups**
+2. Choose **Main Autoloot** or **Add Autoloot Group**
 3. Enable or disable autoloot and set a drop rate
 4. Add or remove items from ignore or loot lists
 5. Create, rename, and manage loot groups
 6. All changes **apply instantly** and **save automatically**
-
-![@lootconfig UI](img/@lootgonfig.png)
 
 ---
 
@@ -192,80 +248,6 @@ The `@killcount` command has been **fully rewritten** and now features a modern 
 
 ---
 
-## Ranking Commands
-
-- `@blacksmith`  
-  Show top 20 blacksmiths.
-
-- `@alchemist`  
-  Show top 20 alchemists.
-
-- `@taekwon`  
-  Show top 20 taekwons.
-
----
-
-## Action Commands
-
-- `@event`  
-  Join open registrations, see which event is currently running, and check the schedule
-  of all `4` [automated events](Auto_Events.md). Replaces `@bombring` and `@dice`.
-
-- `@exptrack`  
-  Tracks EXP gained per session. Start, pause and reset via `@exptrack`, quick summary
-  with `@exptrack view`. Progress persists through relogs.
-
-- `@memo {<1-4>}`  
-  Saves a warp point for the "Warp Portal" skill.
-
-- `@request <message>`  
-  Sends a message to all connected GMs.
-
-- `@settings`  
-   Personalize your game settings applied on login. Offering a streamlined UI for saving preferences like **autoloot, chat channels, and visibility settings**.  
-  `@settings` syncs with in-game commands, so you **don't need to use the menu** separately.
-
-  The **Announcement Config** menu consolidates all broadcast announcement options in one place.
-  Individually turn on or off **Welcome**, **Drop**, **Battlegrounds**, **Kill**, **Community News**,
-  **MVP**, and **Event** announcements, with your choices saved to your account. A new
-  **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
-  The old separate toggles and the `@ignorebg` command have been retired in favor of this menu.
-
-  A **Mute Pets** option hides all pet talk and emotes for you only — pets still function normally
-  and other players are unaffected. For classes with applicable skills, the old "Buff Yellow Effect"
-  toggle is now called **Status Color Effect** (no mechanical change).
-
-  **Output in-game Example:**  
-   ![Settings Output](img/@settings.png)
-
-- `@hidepet {<1-2>}`  
-  Use `@hidepet 1` to hide pets except your own.  
-  Use `@hidepet 2` to hide all pets.
-
-- `@restockconfig`and `@restock`
-
-  **Features:**
-
-  Create up to 20 different restock lists
-  Works under 90% weight (current or target %)  
-  Add/delete/rename lists easily  
-  Improved management interface
-
-  **Limitations:**
-
-  Must be used within a Kafra (Card or NPC)  
-  Only works inside towns  
-  Pulls directly from storage to restock items to preset quantities
-
-- `@hideloot`
-
-| Setting      | Description                                           |
-| ------------ | ----------------------------------------------------- |
-| **Function** | Blocks display of trash loot on the ground            |
-| **Default**  | Off upon each login (prevents people from forgetting) |
-
----
-
 ## Trade Commands
 
 Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating shops.
@@ -277,6 +259,34 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
   Recap of your last vending run: shop name, when the shop opened and closed, and your total
   zeny earned. The **View All** option lists every item together with each individual sale -
   buyer name, timestamp and amount.
+
+---
+
+## Database Commands
+
+- `@mobinfo <mob name or ID>`  
+  Displays monster information (rates, stats, drops, MVP data).  
+  **Example:** `@mobinfo Drops`  
+  **Output in-game Example:**  
+  ![Mobinfo Output](img/@mobinfo-outline.png)
+
+- `@iteminfo <item name or ID>`  
+  Displays item information (type, price, weight, drops).  
+  **Example:** `@iteminfo Fang of Hatii`  
+  **Output in-game Example:**  
+  ![Iteminfo Output](img/@iteminfo-outline.png)
+
+- `@whodrops <item name or ID>`  
+  Displays a list of mobs which drop the specified item. Only the highest drop rates are shown.  
+  **Example:** `@whodrops Hand of God`  
+  **Output in-game Example:**  
+  ![Dropinfo Output](img/@dropinfo-outline.png)
+
+- `@whereis <monster name or ID>`  
+  Displays the maps in which monster normally spawns.  
+  **Example:** `@whereis Demon Pungus`  
+  **Output in-game Example:**  
+  ![Whereis Output](img/@whereis-outline.png)
 
 ---
 
@@ -295,6 +305,22 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 
   Members with bank access see the current guild bank balance when the menu opens.  
   `@guildbank` and `@guildlog` have been removed — everything now lives in `@guild`.
+
+---
+
+## Ranking Commands
+
+!!! note
+    Review UaRO changes to the fame system in [Class Changes](Class_Changes.md).
+
+- `@blacksmith`  
+  Show top 20 blacksmiths.
+
+- `@alchemist`  
+  Show top 20 alchemists.
+
+- `@taekwon`  
+  Show top 20 taekwons.
 
 ---
 
