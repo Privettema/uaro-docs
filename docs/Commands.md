@@ -163,6 +163,8 @@ The `@lootconfig` command provides a **user-friendly UI** for managing autoloot 
 
 ### 📋 How to Use `@lootconfig`
 
+You will need the item ID for the ignore list and loot list. Find this info by using `@itemid <item name>` or `@ii`.
+
 #### Configure Main Autoloot
 
 Main Autoloot determines what percentage for general autoloot and the ignore list.
@@ -178,43 +180,72 @@ Main Autoloot determines what percentage for general autoloot and the ignore lis
 Autoloot groups select only specific items to be looted. If the main autoloot is enabled, that percentage continues to be active unless autoloot is disabled. Items in the ignore list will be looted if present in both lists.
 
 1. Type `@lootconfig` to open the configuration UI
-2. Choose your group, **Autoloot Group 1**, or **Add Autoloot Group**
-3. Enable or disable the group
-4. Add or remove items from the loot list
-5. Close the UI, all changes **apply instantly** and **save automatically**  
+2. Choose your group or **Add Autoloot Group**
+3. Manage the group by renaming or deleting
+4. Enable or disable the group
+5. Add or remove items from the loot list
+6. Close the UI, all changes **apply instantly** and **save automatically**  
 
 ---
 
-## @restock - Quickly Pull from Storage 
+## @restock / @qstore - Fast Storage
 
-The `@restock` and `@restockconfig` commands help you quickly pull what you need from storage and get back to farming or fighting.
+These commands can speed up your interaction with storage for consumable and miscellaneous items.
 
-### ✨ Key Features
+- `@restock` 
+  Pulls preconfigured items **from** storage up to preset quantities.
+- `@restockconfig`
+  Configures restock command for items and quantities to pull from storage.
+- `@qstore`
+  Puts preconfigured items **into** storage.
+- `@qstoreconfig`
+  Configures quick store command for items to put into storage.
 
-- Pulls directly from storage to restock items to preset quantities
-- Create up to 20 different restock lists
-- Works under 90% weight (current or target %)  
-- Add/delete/rename lists easily  
-- Improved management interface
-- Must be used within a Kafra (Card or NPC)  
+### Limitations
 - Only works inside towns  
+- Must be used within a Kafra (Card or NPC), storage must be open
+- Only works with consumable and miscellaneous items, does not work with equips
+- **Restock**: Works under 90% weight (current or target %) 
+  
+### ✨ Key Features
+- Improved management interface
+- Create up to 20 different lists of each type
+- Add/delete/rename lists easily 
+- **Restock**: Pulls directly from storage to restock items 
+- **Quick Store**: Takes items from inventory into storage
+- **Quick Store**: Define a number of an item to keep in inventory
 
 ### 📦 Group Management
 
 - Add or remove **individual items** per group
 - Clear a group by **deleting and recreating** the list
 - Each group operates independently
-- Only one group can be enabled at a time
+- Only one of each group can be enabled at a time (one qstore, one restock)
 
-### 📋 How to Use `@restock`
+### 📋 How to Use
+
+You will need the item ID for the lists. Find this info by using `@itemid <item name>` or `@ii`.
+
+#### Using `@restock`
 
 1. Type `@restockconfig` open the configuration UI
-2. Choose **Restock Group 1** or **Add Restock Group**
-3. Enable or disable the group
-4. Add or remove items from the list and set quantities 
-5. Close the UI, all changes **apply instantly** and **save automatically** 
-6. Type `@restock` while you are in a town with storage open
+2. Choose your group or **Add Restock Group**
+3. Manage the group by renaming or deleting
+4. Enable or disable the group
+5. Add or remove items from the list and set quantities 
+6. Close the UI, all changes **apply instantly** and **save automatically** 
+7. Type `@restock` while you are in a town with storage open to get your list items
 
+#### Using `@qstore`
+
+1. Type `@qstoreconfig` open the configuration UI
+2. Choose your group or **Add Quick Store Group**
+3. Manage the group by renaming or deleting
+4. Enable or disable the group
+5. Add or remove items from the list: set **0 for ALL** or set quantities to keep 
+6. Close the UI, all changes **apply instantly** and **save automatically** 
+7. Type `@qstore` while you are in a town with storage open to store list items
+   
 ---
 
 ## @killcount — Enhanced Kill Tracking System
@@ -235,11 +266,13 @@ The `@killcount` command has been **fully rewritten** and now features a modern 
 
 ### 📋 Usage
 
-| Command              | Description                        |
-| -------------------- | ---------------------------------- |
-| `@killcount`         | Opens the UI-based tracking system |
-| `@killcount [MobID]` | Track a specific monster           |
-| `@kc [MobID]`        | Shorthand version of the command   |
+You will need the mob ID. To find the mob ID, use `@mobinfo <mob name>` or `@mi`.
+
+| Command | Description |
+| -- | -- |
+| `@killcount` | Opens the UI-based tracking system |
+| `@killcount <mob ID>` | Track a specific monster |
+| `@kc <mob ID>` | Shorthand version of the command |
 
 ---
 
