@@ -85,10 +85,10 @@
 
 - `@request <message>`  
   Sends a message to all connected GMs.
-  
+
 --- 
 
-## `@settings` 
+## @settings - Personal Configuration
 
 Personalize your game settings applied on login. Offering a streamlined UI for saving preferences like **announcements, chat channels, and visibility settings**.  
 
@@ -135,20 +135,30 @@ The **Announcement Config** menu consolidates all broadcast announcement options
 
 Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kill**, **Community News**, **MVP**, and **Event** announcements, with your choices saved to your account. A new **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
 
-- `@restockconfig`and `@restock`
+---
 
-  **Features:**
+## @restock - Quick Pull from Storage 
 
-  Create up to 20 different restock lists
-  Works under 90% weight (current or target %)  
-  Add/delete/rename lists easily  
-  Improved management interface
+The `@restock` and `@restockconfig` commands help you quickly pull what you need from storage and get back to farming or fighting.
 
-  **Limitations:**
+### ✨ Key Features
 
-  Must be used within a Kafra (Card or NPC)  
-  Only works inside towns  
-  Pulls directly from storage to restock items to preset quantities
+- Pulls directly from storage to restock items to preset quantities
+- Create up to 20 different restock lists
+- Works under 90% weight (current or target %)  
+- Add/delete/rename lists easily  
+- Improved management interface
+- Must be used within a Kafra (Card or NPC)  
+- Only works inside towns  
+
+### 📋 How to Use `@restock`
+
+1. Type `@restockconfig` open the configuration UI
+2. Choose **Restock Group 1** or **Add Restock Group**
+3. Enable or disable the group
+4. Add or remove items from the list and set quantities 
+5. Close the UI, all changes **apply instantly** and **save automatically** 
+6. Type `@restock` while you are in a town with storage open
 
 ---
 
@@ -174,7 +184,7 @@ The `@noks` command prevents kill stealing (KS).
 | **MVP/Mini**      | Doesn't apply to any MVP/Mini boss that has NoKS null and void                   |
 | **Max Mob Count** | Unlimited                                                                        |
 
-### System UI Options
+### 📋 System UI Options
 
 | Mode      | Description          |
 | --------- | -------------------- |
@@ -207,7 +217,7 @@ The `@lootconfig` command provides a **user-friendly UI** for managing autoloot 
 - Each group operates independently
 - Supports **fine-grained loot filtering** for different farming needs
 
-### ▶️ How to Use `@lootconfig`
+### 📋 How to Use `@lootconfig`
 
 1. Type `@lootconfig` to open the configuration UI
 2. Choose **Main Autoloot** or **Add Autoloot Group**
@@ -259,6 +269,8 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 ---
 
 ## Database Commands
+
+Get quick, accurate information about mobs and items in-game without having to switch tabs.
 
 - `@mobinfo <mob name or ID>` or `@mi`
   Displays monster information (rates, stats, drops, MVP data).  
