@@ -80,9 +80,12 @@
 - `@memo {<1-4>}`  
   Saves a warp point for the "Warp Portal" skill.
 
+- `@hideloot`
+    Blocks display of trash loot on the ground. Disabled by default on every login.
+
 - `@request <message>`  
   Sends a message to all connected GMs.
-
+  
 --- 
 
 ## `@settings` 
@@ -114,7 +117,7 @@ Finding pets distracting? Access these options through the menu, or via commands
 
 Pets that are not visible will not vocalize. Visible pets are not muted unless you also choose the mute pets option.
 
-- `@hidepet {<1-2>}`  
+- `@hidepet <1-2>`  
   Use `@hidepet 1` to hide pets except your own.  
   Use `@hidepet 2` to hide all pets.
 
@@ -124,7 +127,7 @@ A **Mute Pets** option hides all pet talk and emotes for you only — pets still
 ### Show Rare Drops
 Choose to announce your rare drops to yourself, accessed via menu or commands. The minimum is 1%.
 
-- `showrare {<1-100>}`
+- `showrare <1-100>`
   Using the command with 0 or no value will disable it.
 
 ### Announcements
@@ -146,13 +149,6 @@ Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kil
   Must be used within a Kafra (Card or NPC)  
   Only works inside towns  
   Pulls directly from storage to restock items to preset quantities
-
-- `@hideloot`
-
-| Setting      | Description                                           |
-| ------------ | ----------------------------------------------------- |
-| **Function** | Blocks display of trash loot on the ground            |
-| **Default**  | Off upon each login (prevents people from forgetting) |
 
 ---
 
