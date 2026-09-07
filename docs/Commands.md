@@ -74,8 +74,7 @@
   The @mapexp command introduces a rotating bonus EXP zone that updates every 48 to 72 hours. During this period, selected areas grant an additional 20–30% EXP.
 
 - `@event`  
-  Join open registrations, see which event is currently running, and check the schedule
-  of all `4` [automated events](Auto_Events.md). Replaces `@bombring` and `@dice`.
+  Join open registrations, see which event is currently running, and check the schedule of all `4` [automated events](Auto_Events.md). Replaces `@bombring` and `@dice`.
 
 - `@memo {<1-4>}`  
   Saves a warp point for the "Warp Portal" skill.
@@ -184,7 +183,7 @@ The `@noks` command prevents kill stealing (KS).
 - Damage is done outside of aggro range of mob
 - Mob locks onto a player target
 
-### Lock Mechanics
+### ✨ Lock Mechanics
 
 | Mechanic          | Description                                                                      |
 | ----------------- | -------------------------------------------------------------------------------- |
@@ -415,7 +414,7 @@ Use `@duel` to fight one person 1v1 in a town.
 ## Channel Commands
 
 - `@channel`
-  Configure general channel settings.
+  Open the UI to modify public channel settings and manage private channels.
 
 - `@channel create <channel name> <channel password>`  
   Create a new channel.
@@ -454,6 +453,8 @@ Use `@duel` to fight one person 1v1 in a town.
 ---
 
 ## Lite Graphics Plugin (LGP) Commands
+
+LGP makes it easier to see certain skills, particularly AoE spells and songs. It is especially helpful in large group settings like WoE or instance battles.
 
 - `@lgp`  
   Toggle the LGP feature on or off.
