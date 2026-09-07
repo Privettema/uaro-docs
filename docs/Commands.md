@@ -100,6 +100,7 @@ Personalize your game settings applied on login. Offering a streamlined UI for s
 ![Settings Output](img/@settings.png)
 
 The options in this menu are currently:
+
 1. **Hide Pets** - Only show your pet, or hide all (command available)
 2. **Mute Pets** - Toggle pet chatter on/off
 3. **Mute Songs** - Toggle audio from bard/dancer songs on/off
