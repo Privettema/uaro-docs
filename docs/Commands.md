@@ -279,7 +279,7 @@ You will need the mob ID. To find the mob ID, use `@mobinfo <mob name>` or `@mi`
 
 ## @noks - Kill Steal Protection
 
-The `@noks` command prevents kill stealing (KS).
+The `@noks` command prevents kill stealing (KS). In a party, `@nokscheck` can used to confirm everyone has the right setting enabled.
 
 !!! note
     Tickets cannot be submitted for KS issues. Learn and operate within the @noks system to ensure lock of your monsters.
@@ -289,23 +289,20 @@ The `@noks` command prevents kill stealing (KS).
 - Damage is done outside of aggro range of mob
 - Mob locks onto a player target
 
-### ✨ Lock Mechanics
-
-| Mechanic          | Description                                                                      |
-| ----------------- | -------------------------------------------------------------------------------- |
-| **Idle Release**  | If a player is idle for `5 seconds` or longer, aggro lock is released            |
-| **Lock Timer**    | `15 seconds` (timer does NOT start until another player attempts to KS your mob) |
-| **Hard Cap**      | `30 seconds` (will release regardless of variables)                              |
-| **MVP/Mini**      | Doesn't apply to any MVP/Mini boss that has NoKS null and void                   |
-| **Max Mob Count** | Unlimited                                                                        |
+### ✨ Key Features
+- **Idle Release** - If a player is idle for `5 seconds` or longer, aggro lock is released
+- **Lock Timer** - `15 seconds`, timer does NOT start until another player attempts to KS your mob
+- **Hard Cap** - `30 seconds` (will release regardless of variables)                  
+- **MVP/Mini** - Doesn't apply to any MVP/Mini boss that has NoKS null and void       
+- **Max Mob Count** - Unlimited
 
 ### 📋 System UI Options
 
 | Mode      | Description          |
 | --------- | -------------------- |
-| **Self**  | Disables Party/Guild |
-| **Party** | Allows party members |
-| **Guild** | Allows guild members |
+| **Self**  | Only you can attack your mobs - Disables Party/Guild |
+| **Party** | Allows party members to attack your mobs |
+| **Guild** | Allows guild members to attack your moms |
 
 ---
 
