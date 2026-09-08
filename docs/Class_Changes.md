@@ -180,6 +180,10 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>10x10 Diameter Circle Reticule</td>
             </tr>
             <tr>
+                <td><img src="../img/Class_Changes/hw_magiccrasher.png" alt="">Magic Crasher</td>
+                <td>Physical attack that deals damage based on MATK instead of ATK, reduced by the target's DEF. Uses the weapon's element.</td>
+                <td>Pierces 75% of the DEF of non-player monsters and damage is doubled. Cards still apply, as does the active element on the weapon (converters/scrolls).</td>
+            </tr>
         </tbody>
     </table>
 </div>
