@@ -7,6 +7,25 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "September 8"
+        **September 8, 2026**
+
+        - Catapult reworked with new refine bonuses and
+          Long Range Snatcher on auto attack.
+        - Magic Crasher buffed: pierces monster defense and
+          deals double damage.
+        - Eternal Bastion: waves 86, 88 and 89 now spawn
+          correctly, and disconnecting mid-run returns you
+          to your party.
+        - Four more items added to party loot notifications;
+          inn icons added to town minimaps.
+        - Thief Bug spawns removed from Payon Inn and Jawaii;
+          two Warper destinations renamed.
+        - Fixes: headgear layer priority, autobonus timers and
+          the Hunting Missions shop weight check.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09082026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "August 25"
         **August 25, 2026**
 

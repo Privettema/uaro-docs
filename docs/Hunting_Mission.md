@@ -96,6 +96,10 @@ Mission Points earned from Hunting Missions can be spent at the **Mission Shop**
     style="vertical-align:middle;width:1.25rem;height:1.25rem;">
     **Roulette Gold Coin** — `40` Mission Points
 
+!!! note "Weight and Space Check"
+    The shop checks your weight and free inventory space before taking your **Mission Points**,
+    so a purchase you cannot carry is refused instead of being dropped on the ground.
+
 <!--| Image | Item Name | Price |
 |-------|-----------|-------|
 | ![Dungeon Tele 3 Scroll Box](img/Hunting_Mission/35655-dungeon-teleport-scroll-3-box-10.gif) | Dungeon Tele 3 Scroll Box (10) | 15 Mission Points |

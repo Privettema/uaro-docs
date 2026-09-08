@@ -33,7 +33,7 @@ No gimmicks, no distractions — just pure combat and teamwork.
 | **Death** | Permadeath — warped out of the instance, no resurrection inside |
 | **Storage** | Accessible waves 1–79, NPC destroyed at wave 80+ |
 | **Party Lock** | If party composition changes at any point, the instance resets and is destroyed |
-| **Re-entry** | Once you leave or die out, you cannot return to the instance |
+| **Re-entry** | Once you leave or die out, you cannot return to the instance — disconnects are the exception: if the run is still active and a party member is still inside, you are returned to your party when you log back in |
 | **Run Statistics** | When the final boss dies, a copy of every party member appears at the exit showing their damage dealt/taken, healing done/taken, deaths and mob kills for the run |
 
 !!! note "Run Unlock"
@@ -62,7 +62,7 @@ No gimmicks, no distractions — just pure combat and teamwork.
 | **Skip Vote** | `!skip` command (majority vote >50%) to advance — stacks current and next wave mobs for faster clearing. Disabled at milestone waves |
 | **Ready Check** | All 12 members must type `!ready` within `60 seconds` or the instance closes |
 | **Party Lock** | If party composition changes at any point, the instance resets and is destroyed |
-| **No Re-entry** | Once you leave or die out, you cannot return to the instance |
+| **No Re-entry** | Once you leave or die out, you cannot return to the instance — if you disconnect, you are returned to your party on login as long as the run is still active and a party member is still inside |
 
 ### Environmental Hazards
 
