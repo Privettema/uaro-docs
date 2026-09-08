@@ -1,15 +1,21 @@
 # Vendor System
 The server provides a diverse range of options for players to find, purchase, and trade items. Additionally, it implements specialized mechanisms to ensure the stability of the server's economy.
 
-!!! note "Use @ws2 and @wb2"
-
-    Regular commands @ws and @wb are currently unavailable. The team is working on fixing this, for now use @ws2 and @wb2.
-
-
+!!! note
+    Autotrading (`@at`) merchants are allowed while playing on another account. 
 
 ## 🛒 Prontera Market Street Vending
 
 ![Prontera Market Street](img/prt_street.webp)
+
+### 🚪 How to Access the Market Street
+
+To travel to the Prontera Market Street, speak to the **Merchants Warp NPC**  
+(`/navi prontera 139/171`) located in Prontera near the Main Office.
+
+![Merchants Warp NPC](img/Vendor_System/merchants-warp.png)
+
+To return to Prontera, use the **Prontera Return option** from the Vending Helper.
 
 ### 📍 General Features
 
@@ -24,8 +30,6 @@ The server provides a diverse range of options for players to find, purchase, an
 | Idle Timer | Players are kicked if a shop is not opened within 5 minutes |
 | Geffen Tower | Entrance vending obstruction cleaned up |
 
----
-
 ### 🌍 Vending Outside the Market Street
 
 The Prontera Market Street is the **main trade zone**, but vending is also allowed in the following towns only:
@@ -36,17 +40,6 @@ The Prontera Market Street is the **main trade zone**, but vending is also allow
 - Comodo  
 
 Vending is **not allowed** in dungeons or unauthorized maps.
-
----
-
-## 🚪 How to Access the Market Street
-
-To travel to the Prontera Market Street, speak to the **Merchants Warp NPC**  
-(`/navi prontera 139/171`) located in Prontera near the Main Office.
-
-![Merchants Warp NPC](img/Vendor_System/merchants-warp.png)
-
-To return to Prontera, use the **Prontera Return option** from the Vending Helper.
 
 ---
 
@@ -65,15 +58,18 @@ To prevent overlapping shops and improve marketplace organization, the **Vendor 
 
 ![Vendor Management System](img/Vendor_System/vendor-management-system.png)
 
-
+---
 
 ## Find a store
 There are several ways to find and buy items.
 
-### Use @ws2 command
-You can use an item name or item ID to find sellers.  
+### Use @ws or @ws2 command
+You can use an item name or item ID to find sellers.
 
-**Example:** `@ws2 Gold` or `@ws2 969`
+- `@ws` brings up a UI interface to browse stores. Items can be bought remotely from within towns.
+- `@ws2` shows info in the chat window. It prints information about the shop, which you then navigate to.
+
+**Example of `@ws2` :** `@ws2 Gold` or `@ws2 969`
 
 ![Whosell - Gold](img/Vendor_System/whosell-gold.png)
 
@@ -84,45 +80,53 @@ Next, head to the merchant's location and execute the `/navi` command.
 ![Navi Command Example](img/Vendor_System/whosell-gold-navigation-example.png)  
 ![Navi Result](img/Vendor_System/whosell-gold-navigation.png)
 
+
 ### Use Merchants List page on website
 You can visit the [Merchants List Page](https://uaro.net/cp/?module=merchant&action=vendors), log in, and search for items.
 
 ![Log In](img/Vendor_System/log-in.png)  
 ![Merchants List](img/Vendor_System/merch-list.png)
 
+
 ### Use #trade channel in-game
 In the game, you can write in the `#trade` channel what you need to buy or see if someone is already selling it. You might say `B> Gold` and list an amount and price.
 
 ![Trade Channel](img/Vendor_System/trade-channel-buy.png)
+
 
 ### Use Discord
 Our Discord server has a [#selling](https://discord.com/channels/702960460168953946/1198723464526319706) channel where you can search if someone is already selling what you want to buy. You can also post in [#buying](https://discord.com/channels/702960460168953946/1198723441872863272) to request it.
 
 ![Discord](img/Vendor_System/discord.png)
 
-
+---
 
 ## Find a buying store
 There are several ways to sell items to other players.
 
-### Use @wb2 command
+### Use @wb or @wb2 command
 You can use an item name or item ID to find buyers.  
 
-**Example:** `@wb2 Gold` or `@wb2 969`
+- `@wb` brings up a UI interface to browse stores. Items can be sold remotely from within towns.
+- `@wb2` shows info in the chat window. It prints information about the shop, which you then navigate to.
+
+**Example of `@wb2`:** `@wb2 Gold` or `@wb2 969`
 
 ![Whobuy Command](img/Vendor_System/whobuy.png)
+
 
 ### Use trade channel
 In the game, you can write in the `#trade` channel what you need to sell. You might say `S> Gold` and list an amount and price.
 
 ![Trade Channel](img/Vendor_System/trade-channel-buy.png)
 
+
 ### Use Discord
 Our Discord server has a [#buying](https://discord.com/channels/702960460168953946/1198723441872863272) channel where you can search for buyers, or post directly in the [#selling](https://discord.com/channels/702960460168953946/1198723464526319706) channel.
 
 ![Discord](img/Vendor_System/discord.png)
 
-
+---
 
 ## Create a buying store
 Any class can create a buying store. Here are the main requirements for creating a store:
@@ -154,7 +158,4 @@ Buying stores are created differently depending on your character class:
 - Pay 10,000z to unlock the "**Open Buying Store**" skill, which allows you to open permanent buying shops. You'll also receive 5 free **Bulk Buyer Shop Licenses**.
 - Purchase additional licenses for 200z each (up to 50 at a time).
 - Licenses are required to use the skill.
-- You must have learned the Vending skill to at least level 1.
-
-!!! note
-    Autotrading merchants are allowed while playing on another account.  
+- You must have learned the Vending skill to at least level 1. 
