@@ -1,7 +1,7 @@
 # Class Changes
 uaRO uses the pre-renewal class system, with selected adjustments to skills and mechanics for balance and smoother gameplay. These changes preserve the classic feel while improving the overall experience.
 
-For full reference on unmodified pre-renewal skills, you can [visit the iRO Classic Wiki](https://irowiki.org/classic/Main_Page).
+For full reference on unmodified pre-renewal skills, you can [visit the external classic wiki](https://irowiki.org/classic/Main_Page).
 
 <!-- Dev Note: Alt text is excluded from images because it would announce duplicate skill names to screen readers. Instead, use blank alt="" for the decorative image to be skipped by assistive technology. -->
 
@@ -11,7 +11,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -53,7 +53,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -99,7 +99,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -148,7 +148,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -196,7 +196,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -231,7 +231,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -261,7 +261,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -325,7 +325,7 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -401,7 +401,7 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -421,7 +421,7 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -465,7 +465,7 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -519,7 +519,7 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -546,7 +546,7 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -607,7 +607,7 @@ No other changes to Hunter skills.
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -650,7 +650,7 @@ No other changes to Hunter skills.
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -663,7 +663,7 @@ No other changes to Hunter skills.
             <tr>
                 <td>Soul Link Equips</td>
                 <td>While under the Super Novice Spirit link, base level 91+ allows equipping any headgear and base level 97+ allows equipping level 4 one-handed weapons.</td>
-                <td>Same as official: the base 97+ bypass only applies to weapon level 4 one-handed weapons (Daggers, 1H Swords, 1H Axes, Maces, Staves). Gear equipped through the link stays equipped after it ends.</td>
+                <td>Same as the original: the base 97+ bypass only applies to weapon level 4 one-handed weapons (Daggers, 1H Swords, 1H Axes, Maces, Staves). Gear equipped through the link stays equipped after it ends.</td>
             </tr>
             <tr>
                 <td>Passive Bonuses</td>
@@ -743,7 +743,7 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -773,7 +773,7 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -813,7 +813,7 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -855,7 +855,7 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Deal
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -915,7 +915,7 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -988,7 +988,7 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>

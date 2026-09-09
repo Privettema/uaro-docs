@@ -1,5 +1,5 @@
 # Custom NPCs
-Classic RO at heart, with a few handy NPCs to make your journey smoother while keeping things balanced.
+Classic MMORPG at heart, with a few handy NPCs to make your journey smoother while keeping things balanced.
 
 ## Main Office
 Step inside the [Main Office](Main_Office.md) and you’ll find more to explore, with NPCs for Skill Resets, Platinum Skills, and the [Poring Coin System](Poring_Coins_System.md).

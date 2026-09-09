@@ -87,7 +87,7 @@
 **4.5** **Kill Stealing**  
 &nbsp;&nbsp;&nbsp;&nbsp;**4.5.1** Utilize the @noks command to lock a monster for 5 seconds starting from each instance of damage you deal.  
 &nbsp;&nbsp;&nbsp;&nbsp;**4.5.2** Deliberate interference with monster groups engaged by melee classes or tanks is strictly prohibited.  
-&nbsp;&nbsp;&nbsp;&nbsp;**4.5.3** Report any violations of these rules to staff members for review. Screen-recorded evidence is encouraged! (Please utilize screen records outside of RO in-game replay function if possible)
+&nbsp;&nbsp;&nbsp;&nbsp;**4.5.3** Report any violations of these rules to staff members for review. Screen-recorded evidence is encouraged! (Please utilize screen records outside of the in-game replay function if possible)
 
 ### **Part 5. «Communication»**
 **5.1** **General Rules**  

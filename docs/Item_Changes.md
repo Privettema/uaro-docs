@@ -95,7 +95,7 @@ The following gear is equippable by Super Novice.
                 <th>Item</th>
                 <th>Item ID</th>
                 <th>Position</th>
-                <th>iRO Offical Behavior</th>
+                <th>Original Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>

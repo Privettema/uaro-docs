@@ -18,7 +18,6 @@
 ## Details
 - Episode 13.1: Ash Vacuum
 - Server mode: Classic Pre-renewal
-- Emulator: Hercules
 - Max. Base Level / Job Level: 99/70
 - Max. Stats: 99
 - Max ASPD: 190

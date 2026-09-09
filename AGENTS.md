@@ -26,9 +26,9 @@ When changelog updates are provided:
 ## uaRO-Specific Rules
 
 * This documentation is for uaRO only.
-* Do not use information from official Ragnarok Online servers.
+* Do not use information from official servers of the original game.
 * Do not use information from other private servers.
-* Do not assume Hercules or rAthena behavior unless explicitly confirmed.
+* Do not assume behavior from other server implementations unless explicitly confirmed.
 * Only document information explicitly confirmed by:
 
   * changelog

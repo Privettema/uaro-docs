@@ -120,8 +120,8 @@ If you have questions you are unable to answer with the other sources or want co
 There is interesting information in it, and is recommended to read.
 
 
-### [iRO Wiki](https://irowiki.org/classic/Main_Page)
-Note: Always take care if there is “classic” in the link. If not, if it’s called “wiki”, the nformation is related to Renewal RO and often incorrect.
+### [Classic Wiki](https://irowiki.org/classic/Main_Page)
+Note: Always take care if there is “classic” in the link. If not, if it’s called “wiki”, the information is related to the Renewal version and often incorrect.
 
 This site contains a ton of information about game mechanics and quests. Aside that, it has a builds chapter for every class where you can read informations about common (and less common) builds, which stats and skills they rely on, and which advantages and disadvantages they have.  
 
@@ -213,7 +213,7 @@ Start with the [Novice Grounds](Remastered_Novice_Location.md). You can collect 
 
 
 ### First Class Job Change Quest
-Every class article in iRO Wiki has a job change guide included. If you prefer a video instead go to youtube and search for “Ragnarok Online Class Job Change”. Follow the guide and change your job. [Read the Classes Job List](https://irowiki.org/classic/Classes).
+Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job. [Read the Classes Job List](https://irowiki.org/classic/Classes).
 
 
 ### Short Information about Mercenaries
@@ -313,7 +313,7 @@ A bit later:
 ### Second Class Job Change Quest  
 Once you hit Job 40 you can change to your second class. Change as soon as you have all necessary first class skills. [Classes Job List](https://irowiki.org/classic/Classes)  
 
-Every class article in iRO Wiki has a job change guide included. If you prefer a video instead go to youtube and search for “Ragnarok Online Class Job Change”. Follow the guide and change your job.
+Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job.
 
 
 ### Leveling as Second Job

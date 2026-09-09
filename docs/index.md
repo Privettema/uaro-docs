@@ -611,7 +611,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         **April 18, 2025**
 
         - **Easter Event Active**: Eggrings spawning, Sweets Coins available, and +5% EXP from the Egg Shell item.
-        - **New Content**: Craftable Eggring Pet and a nostalgic nod to iRO’s 2010 Easter Event.
+        - **New Content**: Craftable Eggring Pet and a nostalgic nod to the classic 2010 Easter Event.
         - **End Date**: Event ends May 1, 2025 — EXP bonus and spawns will be removed after.
         - **Gameplay Changes**: Grand Baphomet buffed in ET, pet autofeed saved per character.
         - **Battlegrounds QoL**: Queue from PvP arenas; job-split issue fixed.
