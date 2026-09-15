@@ -38,7 +38,7 @@ theme:
 nav: 
   - 👋 Welcome to uaRO: index.md
   - ℹ️ Server Information: Server_Info.md
-  # - 📖 Server Rules: Server_Rules.md 
+  - 📖 Server Rules ↗: https://uaro.net/cp/?module=service&action=tos
   - 🌳 Donations: Donations.md 
   - 🧵 Patch Notes: All_Patch_Notes.md 
   - 🚀 Download uaRO ↗: https://www.uaro.net/cp/?module=service&action=downloads
