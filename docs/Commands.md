@@ -53,9 +53,6 @@
 - `@help <command>`  
   Displays the help message for the specified command.
 
-- `@jailtime`  
-  Displays remaining jail time.
-
 - `@instanceinfo`  
   Shows your weekly run count for every instance, tracked both per account and per hardware ID.
 
@@ -84,6 +81,9 @@
 
 - `@rodexlog`  
   Displays your Rodex (mail) log, `10` entries per page. `10 second` cooldown between uses.
+
+- `@jailtime`  
+  Displays remaining jail time.
 
 - `@request <message>`  
   Sends a message to all connected GMs.
@@ -120,21 +120,22 @@ Finding pets distracting? Access these options through the menu, or via commands
 
 Pets that are not visible will not vocalize. Visible pets are not muted unless you also choose the mute pets option.
 
-- `@hidepet <1-2>`  
+- `@hidepet <1-3>`  
   Use `@hidepet 1` to hide pets except your own.  
-  Use `@hidepet 2` to hide all pets.
+  Use `@hidepet 2` to hide your pet and show other pets. 
+  Use `@hidepet 3` to hide all pets.
 
 ### Mute Pets
-A **Mute Pets** option hides all pet talk and emotes for you only — pets still function normally and other players are unaffected. 
+The Mute Pets option hides all pet talk and emotes for you only — pets still function normally and other players are unaffected. 
 
 ### Show Rare Drops
-Choose to announce your rare drops to yourself, accessed via menu or commands. The minimum is 1%.
+The Show Rare Drops option will announce your rare drops to yourself. It is accessed via menu or commands. The minimum value is 1%.
 
 - `showrare <1-100>`
   Using the command with 0 or no value will disable it.
 
 ### Announcements
-The **Announcement Config** menu consolidates all broadcast announcement options in one place.
+The Announcement Config menu consolidates all broadcast announcement options in one place.
 
 Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kill**, **Community News**, **MVP**, and **Event** announcements, with your choices saved to your account. A new **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
 
@@ -279,7 +280,7 @@ You will need the mob ID. To find the mob ID, use `@mobinfo <mob name>` or `@mi`
 
 ## @noks - Kill Steal Protection
 
-The `@noks` command prevents kill stealing (KS).
+The `@noks` command prevents kill stealing (KS). In a party, `@nokscheck` can used to confirm everyone has the right setting enabled.
 
 !!! note
     Tickets cannot be submitted for KS issues. Learn and operate within the @noks system to ensure lock of your monsters.
@@ -289,37 +290,44 @@ The `@noks` command prevents kill stealing (KS).
 - Damage is done outside of aggro range of mob
 - Mob locks onto a player target
 
-### ✨ Lock Mechanics
-
-| Mechanic          | Description                                                                      |
-| ----------------- | -------------------------------------------------------------------------------- |
-| **Idle Release**  | If a player is idle for `5 seconds` or longer, aggro lock is released            |
-| **Lock Timer**    | `15 seconds` (timer does NOT start until another player attempts to KS your mob) |
-| **Hard Cap**      | `30 seconds` (will release regardless of variables)                              |
-| **MVP/Mini**      | Doesn't apply to any MVP/Mini boss that has NoKS null and void                   |
-| **Max Mob Count** | Unlimited                                                                        |
+### ✨ Key Features
+- **Idle Release** - If a player is idle for `5 seconds` or longer, aggro lock is released
+- **Lock Timer** - `15 seconds`, timer does NOT start until another player attempts to KS your mob
+- **Hard Cap** - `30 seconds` (will release regardless of variables)                  
+- **MVP/Mini** - Doesn't apply to any MVP/Mini boss that has NoKS null and void       
+- **Max Mob Count** - Unlimited
 
 ### 📋 System UI Options
 
 | Mode      | Description          |
 | --------- | -------------------- |
-| **Self**  | Disables Party/Guild |
-| **Party** | Allows party members |
-| **Guild** | Allows guild members |
+| **Self**  | Only you can attack your mobs - Disables Party/Guild |
+| **Party** | Allows party members to attack your mobs |
+| **Guild** | Allows guild members to attack your moms |
 
 ---
 
 ## Trade Commands
 
-Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating shops.
+Check [Vendor System](Vendor_System.md) for more information about shops.
 
 - `@autotrade` or `@at`  
   Allows you to continue vending offline.
   
 - `@vendrecap`  
-  Recap of your last vending run: shop name, when the shop opened and closed, and your total
-  zeny earned. The **View All** option lists every item together with each individual sale -
-  buyer name, timestamp and amount.
+  Recap of your last vending run: shop name, when the shop opened and closed, and your total zeny earned. The **View All** option lists every item together with each individual sale - buyer name, timestamp and amount.
+
+- `@whosell <item id or name>` or `@ws`
+  Opens the store browsing UI for shops selling the requested item. Shops can only be opened in towns. For more detailed searches: `@ws <+min_refine> <item id or name> <min-price> - <max-price>`. Example: `@ws +7 knife 1000-2000`
+
+- `@whosell2 <item id or name>` or `@ws2`
+  Alternative text based list printed in chat of shops selling the requested item. You must navigate directly to the coordinates listed to open the shop.
+
+- `@whobuy <item id or name>` or `@wb`
+  Opens the store UI for buying shops asking for the item. Shops can only be opened in towns. For more detailed searches: `@wb <item id> <min-price> - <max-price>`. Example: `@ws red herb 65-90`
+
+- `@whobuy2 <item id or name>` or `@wb2`
+  Alternative list in chat of shops buying the item. You must navigate to the shop coordinates listed to access the shop.
 
 ---
 
@@ -355,8 +363,8 @@ Get quick, accurate information about mobs and items in-game without having to s
 
 ## Guild Commands
 
-- `@breakguild <guild_name>`  
-  Breaks the guild of the attached character. You must be the guildmaster to use this command.
+- `/guildinvite <player name>`
+  Invite a character to your guild, even if they are offline. When they login they will get the guild invite prompt.
 
 - `@guild`  
   All guild functions in a single command:
@@ -369,9 +377,12 @@ Get quick, accurate information about mobs and items in-game without having to s
   Members with bank access see the current guild bank balance when the menu opens.  
   `@guildbank` and `@guildlog` have been removed — everything now lives in `@guild`.
 
+- `@breakguild <guild_name>`  
+  Breaks the guild of the attached character. You must be the guildmaster to use this command.
+
 ---
 
-## Ranking Commands
+## Fame Ranking Commands
 
 !!! note
     Review UaRO changes to the fame system in [Class Changes](Class_Changes.md).
@@ -401,7 +412,21 @@ Get quick, accurate information about mobs and items in-game without having to s
 
 ---
 
-## Battleground Commands
+## Player Combat Commands
+
+### PVP Commands
+
+Learn more about the [PvP Arena](PvP_Arena.md).
+
+- `@pvparena`
+  Check the active arena for players and information.
+- `@arenarank`
+  Check rankings for PVP Arena.
+
+
+### Battleground Commands
+
+Learn more about [Battlegrounds](Battlegrounds.md).
 
 - `@bg`  
   Open the Battleground menu directly.
@@ -415,16 +440,21 @@ Get quick, accurate information about mobs and items in-game without having to s
 - `@bg shop`  
   Open the Battleground shop.
 
----
+### King of Emperium (KoE) Commands
 
-## Duel Commands
+Learn more about [King of Emperium (KoE)](King_of_Emperium_(KoE).md).
+
+- `@koerank`
+  Opens the KoE ranking menu.
+
+### Duel Commands
 
 Use `@duel` to fight one person 1v1 in a town.
 
  !!! note "Duel Mechanics"
     The duel will follow the inviter's selected damage mode. Both players are automatically removed when one leaves.
 
-### ✨ Features
+#### ✨ Features
 
 - Restricted to towns (leaving town ends duel)
 - Target cursor selection (no name typing)
@@ -432,7 +462,7 @@ Use `@duel` to fight one person 1v1 in a town.
 - Invited player must `@duel` and target you to accept
 - Automatic debuff removal when leaving duel
 
-### 📋 Damage Modes
+#### 📋 Damage Modes
 
 | Command       | Mode         | Description                               |
 | ------------- | ------------ | ----------------------------------------- |

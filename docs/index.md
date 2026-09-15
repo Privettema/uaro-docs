@@ -7,6 +7,31 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "September 8"
+        **September 8, 2026**
+
+        - Catapult reworked: DEX +2, ranged damage and ASPD
+          bonuses at +7 and +10, and Long Range Snatcher on
+          auto attack at +8.
+        - Magic Crasher pierces 75% DEF of non-player mobs
+          and its damage is doubled; cards and weapon element
+          still apply.
+        - Eternal Bastion waves 86, 88 and 89 now spawn their
+          monsters; disconnecting mid-run returns you to your
+          party if the run is still active.
+        - Tiger's Footskin, Young Twig, Level 10 Cookbook and
+          Heroic Emblem added to party loot notifications.
+        - Inn icons added to town minimaps that lacked them.
+        - Thief Bug spawns removed from Payon Inn and Jawaii.
+        - Warper renames: Midgard Expedition Camp and Morroc
+          Field.
+        - Fixes: C_RA_Hair_PK headgear layer priority,
+          autobonus timers now refresh with current gear, and
+          the Hunting Missions shop checks weight and inventory
+          space before taking Mission Points.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09082026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "August 25"
         **August 25, 2026**
 

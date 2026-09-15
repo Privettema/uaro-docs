@@ -3,6 +3,9 @@ Adventurer Inns are gathering places found across the towns of uaRO, offering tr
 
 Inns also serve as convenient meeting points for players and parties. Whether you’re stopping in to catch your breath, restock on essentials, or set out together on a mission, they’re central hubs that keep your adventure moving forward.
 
+!!! note "Minimap Icons"
+    Every inn is now marked with an icon on the town minimap, so you can spot the nearest one at a glance.
+
 
 
 ## NPCs
