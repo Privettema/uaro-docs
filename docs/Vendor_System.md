@@ -1,12 +1,6 @@
 # Vendor System
 The server provides a diverse range of options for players to find, purchase, and trade items. Additionally, it implements specialized mechanisms to ensure the stability of the server's economy.
 
-!!! note "Use @ws2 and @wb2"
-
-    Regular commands @ws and @wb are currently unavailable. The team is working on fixing this, for now use @ws2 and @wb2.
-
-
-
 ## 🛒 Prontera Market Street Vending
 
 ![Prontera Market Street](img/prt_street.webp)
@@ -70,10 +64,14 @@ To prevent overlapping shops and improve marketplace organization, the **Vendor 
 ## Find a store
 There are several ways to find and buy items.
 
-### Use @ws2 command
-You can use an item name or item ID to find sellers.  
+### Use @ws command
+You can use an item name or item ID to find sellers. Name searches match every listed item containing
+the name, and you can also filter by minimum refine and price range. Results are sorted cheapest first.
+If nobody is selling the item, the command replies "No one is currently selling that item".  
 
-**Example:** `@ws2 Gold` or `@ws2 969`
+**Example:** `@ws Gold` or `@ws 969`  
+**Example with filters:** `@ws +4 2302 0-500000` finds **Cotton Shirt [1]** at `+4` or higher priced
+between `0` and `500,000` zeny.
 
 ![Whosell - Gold](img/Vendor_System/whosell-gold.png)
 
@@ -105,10 +103,13 @@ Our Discord server has a [#selling](https://discord.com/channels/702960460168953
 ## Find a buying store
 There are several ways to sell items to other players.
 
-### Use @wb2 command
-You can use an item name or item ID to find buyers.  
+### Use @wb command
+You can use an item name or item ID to find buyers. Name searches match every listed item containing
+the name, and you can also filter by price range. Results are sorted highest price first. If nobody is
+buying the item, the command replies "No one is currently buying that item".  
 
-**Example:** `@wb2 Gold` or `@wb2 969`
+**Example:** `@wb Gold` or `@wb 969`  
+**Example with a price range:** `@wb red potion 45-60`
 
 ![Whobuy Command](img/Vendor_System/whobuy.png)
 
@@ -158,3 +159,13 @@ Buying stores are created differently depending on your character class:
 
 !!! note
     Autotrading merchants are allowed while playing on another account.  
+
+
+
+## Import your last shop
+The client's **Import** function reopens your most recent vending or buying store without re-entering
+everything by hand. It also works with `@autotrade` (`@at`).
+
+- Imports all variables, including the shop name, items and prices, from your most recent vend.
+- Tied to the character itself, not the account, if you have multiple vendors on the same account.
+- Items that are no longer available (moved, sold, bought etc.) are removed from the imported list.

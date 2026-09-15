@@ -246,7 +246,7 @@ After you picked up the Skills and one Scroll, go back to any Kafra (or use one 
 
 After that, you will be level 25 or higher and have some Strawberry.  
 
-Sell these to players using `@wb2 Strawberry`. Every single one of them will give you more than 1k zeny and provide enough funds to buy your next Scroll: go to Prontera, buy a level 2 scroll, and go back to Payon. Repeat this until you are level 35.
+Sell these to players using `@wb Strawberry`. Every single one of them will give you more than 1k zeny and provide enough funds to buy your next Scroll: go to Prontera, buy a level 2 scroll, and go back to Payon. Repeat this until you are level 35.
 
 !!! Hint
      A level 2 Spearman can survive at Wolves (2 maps south of payon) for a while. They will die but kill some of them. This is faster EXP, but you might need a new one sooner.
@@ -281,8 +281,8 @@ Your Stat is still STR only for weight limit. After you hit job 24 you can let i
 ### Level 35+
 Once you hit base 35, go to Prontera and buy 1 - 2 level 3 Spearman Scrolls and restock some Fly Wings from the Tool Dealer. You should have enough Money to look for your first equipment now:  
 
-`@ws2 Pantie` 
-`@ws2 Undershirt` 
+`@ws Pantie` 
+`@ws Undershirt` 
 
 Now you can go to Wolves, two maps south of Payon. Your Mercenary can deal with them easily and well, and your job again is to move around so they can kill for you. Continue this for 30 minutes until your Mercenary expires. You should be around 45-50 now.
 An alternative leveling spot is Payon Cave first floor. Some of them are aggressive, so care for your life. And they do not provide good standard loot.
@@ -334,7 +334,7 @@ You will always find a buying shop somewhere. Wolf and Choco drop them, both can
 
 
 ### Repeatable EXP Quest items 
-Earthworm Peeling (Hode), Anolian Skin (Alligator) usually sell well to players. Sharp Leaf and Huge Leaf (early Les, [Finding The Moving Island Quest](https://irowiki.org/classic/Finding_The_Moving_Island_Quest), later Pinguicula [Onward to the New World Quest](https://irowiki.org/classic/Onward_to_the_New_World_Quest) ) can be sold as well, and they offer good EXP as well.
+Earthworm Peeling (Hode), Anolian Skin (Alligator) usually sell well to players. Sharp Leaf and Huge Leaf (early Les, [Finding The Moving Island Quest](https://irowiki.org/classic/Finding_The_Moving_Island_Quest), later Pinguicula [Onward to the New World Quest](https://irowiki.org/classic/Onward_to_the_New_World_Quest), see also [El Dicastes](El_Dicastes.md) ) can be sold as well, and they offer good EXP as well.
 
 !!! hint
      When you are above 90, save some zeny for your own rebirth. You will need 1,285,000z.

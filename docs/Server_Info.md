@@ -42,6 +42,7 @@
 - [Quality of Life Improvements](Improvements.md)
 - [Class Balancing](Class_Changes.md) 
 - Balanced Renewal dungeons [Horror Toy Factory](Horror_Toy_Factory.md), [Old Glast Heim](Old_Glast_Heim.md), and [Biolabs 4](Biolab4.md)
+- New World: [El Dicastes](El_Dicastes.md)
 - Active War of Emperium: [WoE 1.0 / 2.0](WoE.md) and [Pre-Trans WoE](Pre_Trans_WoE.md)
 - Active Battlegrounds with queuing system
 - Treasure Hunter Guild

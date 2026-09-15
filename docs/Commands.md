@@ -206,7 +206,8 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
 ## Action Commands
 
 - `@autotrade` or `@at`  
-  Allows you to continue vending offline.
+  Allows you to continue vending offline. The client's **Import** function can reopen your last shop,
+  see [Vendor System](Vendor_System.md#import-your-last-shop).
 
 - `@event`  
   Join open registrations, see which event is currently running, and check the schedule

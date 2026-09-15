@@ -209,7 +209,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
             <tr>
                 <td><img src="../img/Class_Changes/sa_autospell.gif" alt="">Auto Spell</td>
                 <td>Maximum level of skill varies from 1-3 based on skill level. Skill cast chance varies by level used.</td>
-                <td> Skills cast can trigger up to level 5 bolts on all elements when skill level 4 or higher.<br>When bolts are triggered, will cast max level learned up to level 5 (Non-Linked). </td>
+                <td> Skills cast can trigger up to level 5 bolts on all elements when skill level 4 or higher.<br>When bolts are triggered, will cast max level learned up to level 5 (Non-Linked).<br>Offers Earth Spike instead of Frost Diver: Lv1 from Auto Spell level 2, Lv2 at level 3 and Lv5 from level 4 onwards (always Lv5 under Sage Spirit). Frost Diver has been removed from the list. </td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/pf_mindbreaker.gif" alt="">Mind Breaker</td>

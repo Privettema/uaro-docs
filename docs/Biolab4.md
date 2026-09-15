@@ -21,6 +21,11 @@ The table includes only regular mobs; mini-bosses and MVPs are not included.
 | ![2226](img/Biolab4/2226.gif) Alphoccio | 42 | @mi 2226 |
 | ![2227](img/Biolab4/2227.gif) Trentini | 42 | @mi 2227 |
 
+!!! note "MVP Tomb"
+    The Bio Lab 4 MVP has a permanent tomb at a fixed spot on the map, showing the last killer, the top
+    damage dealers and the time of death. Its respawn timer survives server restarts, and it is not
+    listed on Convex Mirror.
+
 ## Ghost Chill and Blood Thirst  
 
 On the first floor of Bio Lab, you’ll find an NPC called BioShop (`/navi lhz_dun01 142/289`). He lets you trade Blood Thirst — dropped by monsters in Bio Lab 4 — for Ghost Chill and various equipment.  
