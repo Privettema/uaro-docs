@@ -11,7 +11,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -53,7 +53,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -99,7 +99,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -148,7 +148,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -196,7 +196,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -231,7 +231,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -261,7 +261,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -325,7 +325,7 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -401,7 +401,7 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -421,7 +421,7 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -465,7 +465,7 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -519,7 +519,7 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -546,7 +546,7 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -607,7 +607,7 @@ No other changes to Hunter skills.
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -650,7 +650,7 @@ No other changes to Hunter skills.
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -743,7 +743,7 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -773,7 +773,7 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -813,7 +813,7 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -855,7 +855,7 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Deal
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -915,7 +915,7 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
@@ -988,7 +988,7 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
         <thead>
             <tr>
                 <th>Topic</th>
-                <th>iRO Offical Behavior</th>
+                <th>iRO Official Behavior</th>
                 <th>uaRO Changed Behavior</th>
             </tr>
         </thead>
