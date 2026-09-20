@@ -46,10 +46,13 @@ To ensure the warp is saved **for all characters on your account**, locate the d
 | **Nameless Island<br>(Abbey)** | `/navi nameless_n 158/179` | ![Nameless Island](img/NamelessIsland.png) |
 | **Rachel Sanctuary** | `/navi ra_san01 133/139` | ![Rachel Sanctuary](img/RachelSanctuary.png) |
 | **Midgard Expedition Camp<br>(New World)** | `/navi mid_camp 186/242` | ![Midgard camp](img/MIdgardCamp.png) |
-| **Splendide<br>(New World)** | `/navi splendide 203/173` | ![Splendide](img/Splendide.png) |
-| **Manuk<br>(New World)** | `/navi manuk 275/146` | ![Manuk](img/Manuk.png) |
 | **Nidhogg's Dungeon<br>(New World)** | `/navi nyd_dun01 141/150` | ![Nidhogg's Dungeon](img/Nidhogg's_Dungeon.png) |
 | **Abyss Lake Dungeon** | `/navi hu_fild05 163/308` | ![Abyss Lake Dungeon Entrance](img/AbbLakeWarpr.png) |
 | **Morroc Field<br>(Dimensional Gorge)** | `/navi moc_fild21 30/214` | ![Morroc Field](img/Morocc-Warpr.png) |
 | **Brasilis Dungeon** | `/navi bra_dun01 207/42` | ![Brasilis Dungeon](img/Brasil-Dun-Warpr.png) |
 | **Misty Island** | — | — |
+
+!!! note "New World Travel"
+    **Manuk**, **Splendide** and **El Dicastes** are reached through **Cat Hand Services** at the
+    **Midgard Expedition Camp** (`/navi mid_camp 190/242`) instead of the Warper.
+    See [El Dicastes](El_Dicastes.md).

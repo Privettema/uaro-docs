@@ -313,6 +313,8 @@ Check [Vendor System](Vendor_System.md) for more information about shops.
 
 - `@autotrade` or `@at`  
   Allows you to continue vending offline.
+  The client's **Import** function can reopen your last shop, see
+  [Vendor System](Vendor_System.md#import-your-last-shop).
   
 - `@vendrecap`  
   Recap of your last vending run: shop name, when the shop opened and closed, and your total zeny earned. The **View All** option lists every item together with each individual sale - buyer name, timestamp and amount.

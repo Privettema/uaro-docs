@@ -1,10 +1,10 @@
 # Pre-Trans WoE
 
-Pre-Trans WoE in Ragnarok Online is a guild-based PvP event where only **second jobs and below** can participate, creating a unique and balanced battlefield. Without transcendent skills, **strategy and teamwork** become far more important.
+Pre-Trans WoE in World of Your Dream is a guild-based PvP event where only **second jobs and below** can participate, creating a unique and balanced battlefield. Without transcendent skills, **strategy and teamwork** become far more important.
 
 Guilds compete to break the Emperium and hold castles while defending against enemy assaults. Holding a castle grants access to **Guild Dungeons** and valuable treasures, making competition fierce. The absence of overpowering buffs and gear encourages classic gameplay where **positioning, coordination, and class synergy** matter most.
 
-For many players, Pre-Trans WoE evokes strong nostalgia, recalling the early days of Ragnarok Online when WoE was more about tactics than raw power. Preparation is also significantly easier, as required gear is more accessible compared to WoE FE or WoE SE, making this mode ideal for both new and returning players.
+For many players, Pre-Trans WoE evokes strong nostalgia, recalling the early days of the MMORPG when WoE was more about tactics than raw power. Preparation is also significantly easier, as required gear is more accessible compared to WoE FE or WoE SE, making this mode ideal for both new and returning players.
 
 ---
 

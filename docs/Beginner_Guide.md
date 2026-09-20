@@ -120,8 +120,8 @@ If you have questions you are unable to answer with the other sources or want co
 There is interesting information in it, and is recommended to read.
 
 
-### [iRO Wiki](https://irowiki.org/classic/Main_Page)
-Note: Always take care if there is “classic” in the link. If not, if it’s called “wiki”, the nformation is related to Renewal RO and often incorrect.
+### [Classic Wiki](https://irowiki.org/classic/Main_Page)
+Note: Always take care if there is “classic” in the link. If not, if it’s called “wiki”, the information is related to the Renewal version and often incorrect.
 
 This site contains a ton of information about game mechanics and quests. Aside that, it has a builds chapter for every class where you can read informations about common (and less common) builds, which stats and skills they rely on, and which advantages and disadvantages they have.  
 
@@ -213,7 +213,7 @@ Start with the [Novice Grounds](Remastered_Novice_Location.md). You can collect 
 
 
 ### First Class Job Change Quest
-Every class article in iRO Wiki has a job change guide included. If you prefer a video instead go to youtube and search for “Ragnarok Online Class Job Change”. Follow the guide and change your job. [Read the Classes Job List](https://irowiki.org/classic/Classes).
+Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job. [Read the Classes Job List](https://irowiki.org/classic/Classes).
 
 
 ### Short Information about Mercenaries
@@ -246,7 +246,7 @@ After you picked up the Skills and one Scroll, go back to any Kafra (or use one 
 
 After that, you will be level 25 or higher and have some Strawberry.  
 
-Sell these to players using `@wb2 Strawberry`. Every single one of them will give you more than 1k zeny and provide enough funds to buy your next Scroll: go to Prontera, buy a level 2 scroll, and go back to Payon. Repeat this until you are level 35.
+Sell these to players using `@wb Strawberry`. Every single one of them will give you more than 1k zeny and provide enough funds to buy your next Scroll: go to Prontera, buy a level 2 scroll, and go back to Payon. Repeat this until you are level 35.
 
 !!! Hint
      A level 2 Spearman can survive at Wolves (2 maps south of payon) for a while. They will die but kill some of them. This is faster EXP, but you might need a new one sooner.
@@ -281,8 +281,8 @@ Your Stat is still STR only for weight limit. After you hit job 24 you can let i
 ### Level 35+
 Once you hit base 35, go to Prontera and buy 1 - 2 level 3 Spearman Scrolls and restock some Fly Wings from the Tool Dealer. You should have enough Money to look for your first equipment now:  
 
-`@ws2 Pantie` 
-`@ws2 Undershirt` 
+`@ws Pantie` 
+`@ws Undershirt` 
 
 Now you can go to Wolves, two maps south of Payon. Your Mercenary can deal with them easily and well, and your job again is to move around so they can kill for you. Continue this for 30 minutes until your Mercenary expires. You should be around 45-50 now.
 An alternative leveling spot is Payon Cave first floor. Some of them are aggressive, so care for your life. And they do not provide good standard loot.
@@ -313,7 +313,7 @@ A bit later:
 ### Second Class Job Change Quest  
 Once you hit Job 40 you can change to your second class. Change as soon as you have all necessary first class skills. [Classes Job List](https://irowiki.org/classic/Classes)  
 
-Every class article in iRO Wiki has a job change guide included. If you prefer a video instead go to youtube and search for “Ragnarok Online Class Job Change”. Follow the guide and change your job.
+Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job.
 
 
 ### Leveling as Second Job
@@ -334,7 +334,7 @@ You will always find a buying shop somewhere. Wolf and Choco drop them, both can
 
 
 ### Repeatable EXP Quest items 
-Earthworm Peeling (Hode), Anolian Skin (Alligator) usually sell well to players. Sharp Leaf and Huge Leaf (early Les, [Finding The Moving Island Quest](https://irowiki.org/classic/Finding_The_Moving_Island_Quest), later Pinguicula [Onward to the New World Quest](https://irowiki.org/classic/Onward_to_the_New_World_Quest) ) can be sold as well, and they offer good EXP as well.
+Earthworm Peeling (Hode), Anolian Skin (Alligator) usually sell well to players. Sharp Leaf and Huge Leaf (early Les, [Finding The Moving Island Quest](https://irowiki.org/classic/Finding_The_Moving_Island_Quest), later Pinguicula [Onward to the New World Quest](https://irowiki.org/classic/Onward_to_the_New_World_Quest), see also [El Dicastes](El_Dicastes.md) ) can be sold as well, and they offer good EXP as well.
 
 !!! hint
      When you are above 90, save some zeny for your own rebirth. You will need 1,285,000z.

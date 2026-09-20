@@ -44,6 +44,11 @@ The appearance and naming of these NPCs may vary by town.
 | Veins | `/navi veins 110/278` |
 | Yuno | `/navi yuno 51/151` |
 | Comodo | `/navi comodo 127/191` |
+| El Dicastes | `/navi dic_in01 31/114` |
+| Manuk | — |
+| Splendide | — |
 
+
+In the New World, **Inn Attendants** provide inn services in **El Dicastes**, **Manuk** and **Splendide**.
 
 There currently no inn in Louyang, or Umbala.

@@ -24,6 +24,12 @@
 
 ??? info "Full Reward Table"
 
+    **Jackpot (`0.05%`)**
+
+    | Item | Qty |
+    |------|-----|
+    | <img src="../img/7539.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Poring Coin** | 1000 |
+
     **Tier 1: Ultra Rare (`0.60%`)**
 
     | Item | Qty |
@@ -75,4 +81,3 @@
     | <img src="../img/909.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Jellopy** | 1 |
     | <img src="../img/12215.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Blessing 10 Scroll** | 1 |
     | <img src="../img/12914.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Increase AGI 10 Scroll** | 1 |
-    | **JACKPOT** — **Poring Coin** | 1000 |

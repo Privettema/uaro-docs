@@ -1,6 +1,6 @@
 # The Beginner's Guide
 
-Logging into Ragnarok Online is fun, but newer players will benefit from having some knowledge of what will occur during the game. Remember, though, that Ragnarok, like all MMORPGs, is dynamic and things constantly change.
+Logging into World of Your Dream is fun, but newer players will benefit from having some knowledge of what will occur during the game. Remember, though, that World of Your Dream, like all MMORPGs, is dynamic and things constantly change.
 
 ## Creating A Character
 
@@ -14,7 +14,7 @@ There are 6 stats: STR, AGI, VIT, INT, DEX, and LUK. You'll notice that you can 
 
 Now create your character and follow the walkthrough provided in the Novice Training Grounds! <copylink> some text </copylink>
 
-## Introduction to the World of Ragnarok
+## Introduction to the World of Your Dream
 
 The world is divided up into a vast variety of regions. There are **Towns** where you are safe and can chat with other players; there are **Fields**, the regions right out of towns where you can encounter wild monsters; finally, there are **Dungeons**, where more challenging travels await.
 
