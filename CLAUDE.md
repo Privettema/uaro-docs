@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a documentation site for **uaRO World of Your Dream**, a private Ragnarok Online game server. The site is built with **MkDocs** using the Material theme and is published at https://wiki.uaro.net.
+This is a documentation site for **uaRO World of Your Dream**, a private MMORPG game server. The site is built with **MkDocs** using the Material theme and is published at https://wiki.uaro.net.
 
 All documentation source files are located in the `docs/` directory. The site includes:
 - Server information, rules, and features

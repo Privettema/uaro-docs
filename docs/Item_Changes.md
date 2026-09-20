@@ -6,8 +6,7 @@
 
 | Item | Item ID | Description | How to Acquire |
 |-|-|-|-|
-| **Changed from Official** |
-| Thorn Staff of Darkness | 1636 | Can be equipped by Soul Linker.<br> Can be slotted. | Dropped by Entweihen Crothen |
+| Thorn Staff of Darkness | 1636 | Can be equipped by Soul Linker.<br> Can be slotted.<br> Skull Cap combo (slotted and unslotted staff): the -10% cast time is only granted at +10 or higher. MATK per refine is unchanged. | Dropped by Entweihen Crothen |
 | Trident [2] | 1460 | Removed from the Prontera, Comodo and Einbroch weapon shops. | Forgeable by Blacksmiths and drops from Merman. |
 | Healing Staff | 1625 | Drop rate from Anubis reduced from 0.50% to 0.35%.<br> Added as a drop to Margaretha at 1%. | Dropped by Anubis, Margaretha |
 | Glorious Holy Avenger | 13418 | Gives a flat +6 INT on top of its existing refine-based INT bonus. | Battlegrounds Weapon Shop |

@@ -7,6 +7,23 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "September 15"
+        **September 15, 2026**
+
+        - El Dicastes is open; New World travel now runs through
+          Cat Hand Services at the Midgard Expedition Camp.
+        - Sage Auto Spell offers Earth Spike instead of Frost Diver.
+        - Vending and buying store Import restored; @whosell and
+          @whobuy name searches now match every listed item.
+        - MVP tomb rework: permanent tombs, restart-proof timers
+          and no Convex Mirror listing for five MVPs.
+        - Thorn Staff of Darkness + Skull Cap cast time bonus now
+          needs +10; 19 new costumes, 18 in the Cash Shop.
+        - Fixes: Bradium Ring, costume layers, Thor dead cells,
+          @ws/@wb enchant display, Wolfchev, Horror Toy Factory.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09152026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "September 8"
         **September 8, 2026**
 
@@ -617,7 +634,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         **April 18, 2025**
 
         - **Easter Event Active**: Eggrings spawning, Sweets Coins available, and +5% EXP from the Egg Shell item.
-        - **New Content**: Craftable Eggring Pet and a nostalgic nod to iRO’s 2010 Easter Event.
+        - **New Content**: Craftable Eggring Pet and a nostalgic nod to the classic 2010 Easter Event.
         - **End Date**: Event ends May 1, 2025 — EXP bonus and spawns will be removed after.
         - **Gameplay Changes**: Grand Baphomet buffed in ET, pet autofeed saved per character.
         - **Battlegrounds QoL**: Queue from PvP arenas; job-split issue fixed.
@@ -886,6 +903,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
     [:octicons-arrow-right-24: Custom NPC](Custom_NPC.md)
 
     [:octicons-arrow-right-24: Donations](Donations.md)
+
+    [:octicons-arrow-right-24: El Dicastes](El_Dicastes.md)
 
     [:octicons-arrow-right-24: Endless Cellar](Endless_Cellar.md)
 

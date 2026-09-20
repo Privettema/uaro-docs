@@ -64,9 +64,12 @@ To prevent overlapping shops and improve marketplace organization, the **Vendor 
 There are several ways to find and buy items.
 
 ### Use @ws or @ws2 command
-You can use an item name or item ID to find sellers.
+You can use an item name or item ID to find sellers. Name searches match every listed item containing
+the name. If nobody is selling the item, the command replies "No one is currently selling that item".
 
-- `@ws` brings up a UI interface to browse stores. Items can be bought remotely from within towns.
+- `@ws` brings up a UI interface to browse stores. Items can be bought remotely from within towns. You can
+  also filter by minimum refine and price range, sorted cheapest first: `@ws +4 2302 0-500000` finds
+  **Cotton Shirt [1]** at `+4` or higher priced between `0` and `500,000` zeny.
 - `@ws2` shows info in the chat window. It prints information about the shop, which you then navigate to.
 
 **Example of `@ws2` :** `@ws2 Gold` or `@ws2 969`
@@ -105,9 +108,11 @@ Our Discord server has a [#selling](https://discord.com/channels/702960460168953
 There are several ways to sell items to other players.
 
 ### Use @wb or @wb2 command
-You can use an item name or item ID to find buyers.  
+You can use an item name or item ID to find buyers. Name searches match every listed item containing
+the name. If nobody is buying the item, the command replies "No one is currently buying that item".
 
-- `@wb` brings up a UI interface to browse stores. Items can be sold remotely from within towns.
+- `@wb` brings up a UI interface to browse stores. Items can be sold remotely from within towns. You can
+  also filter by price range, sorted highest price first: `@wb red potion 45-60`.
 - `@wb2` shows info in the chat window. It prints information about the shop, which you then navigate to.
 
 **Example of `@wb2`:** `@wb2 Gold` or `@wb2 969`
@@ -158,4 +163,14 @@ Buying stores are created differently depending on your character class:
 - Pay 10,000z to unlock the "**Open Buying Store**" skill, which allows you to open permanent buying shops. You'll also receive 5 free **Bulk Buyer Shop Licenses**.
 - Purchase additional licenses for 200z each (up to 50 at a time).
 - Licenses are required to use the skill.
-- You must have learned the Vending skill to at least level 1. 
+- You must have learned the Vending skill to at least level 1.
+
+---
+
+## Import your last shop
+The client's **Import** function reopens your most recent vending or buying store without re-entering
+everything by hand. It also works with `@autotrade` (`@at`).
+
+- Imports all variables, including the shop name, items and prices, from your most recent vend.
+- Tied to the character itself, not the account, if you have multiple vendors on the same account.
+- Items that are no longer available (moved, sold, bought etc.) are removed from the imported list.

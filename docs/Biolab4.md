@@ -1,6 +1,6 @@
 # Biolab 4
 
-Bio Laboratory 4 (also known as Lighthalzen Dungeon 4) is one of the most challenging locations in Ragnarok Online, where players face clones of real characters with third job classes. It is inhabited by extremely powerful monsters with strong skills, high attack speed, and advanced AI, making it a tough challenge even for well-organized parties. The location attracts players with rare loot and the chance to obtain valuable cards.  
+Bio Laboratory 4 (also known as Lighthalzen Dungeon 4) is one of the most challenging locations in World of Your Dream, where players face clones of real characters with third job classes. It is inhabited by extremely powerful monsters with strong skills, high attack speed, and advanced AI, making it a tough challenge even for well-organized parties. The location attracts players with rare loot and the chance to obtain valuable cards.  
 
 ## How to get there
 
@@ -20,6 +20,11 @@ The table includes only regular mobs; mini-bosses and MVPs are not included.
 | ![2225](img/Biolab4/2225.gif) Gertie |57  | @mi 2225 |
 | ![2226](img/Biolab4/2226.gif) Alphoccio | 42 | @mi 2226 |
 | ![2227](img/Biolab4/2227.gif) Trentini | 42 | @mi 2227 |
+
+!!! note "MVP Tomb"
+    The Bio Lab 4 MVP has a permanent tomb at a fixed spot on the map, showing the last killer, the top
+    damage dealers and the time of death. Its respawn timer survives server restarts, and it is not
+    listed on Convex Mirror.
 
 ## Ghost Chill and Blood Thirst  
 

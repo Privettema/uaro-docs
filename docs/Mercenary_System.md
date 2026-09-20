@@ -198,6 +198,6 @@ Watch your LP and adapt your strategy to your class
 
 ## :link: Related Links
 
-[**Mercenary System on iRO Wiki**](https://irowiki.org/classic/Mercenary_System)  
+[**Mercenary System on the external classic wiki**](https://irowiki.org/classic/Mercenary_System)  
  
 Need help? Join us on uaRO Discord ( [**#general**](https://discord.com/channels/702960460168953946/1054186464931479552), [**#support**](https://discord.com/channels/702960460168953946/1056663954895679549), [**#merchant**](https://discord.com/channels/702960460168953946/1134730935573688401))

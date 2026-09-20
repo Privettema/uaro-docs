@@ -1,5 +1,5 @@
 # How to Start
-Each version of Ragnarok Online has a different way to create accounts. This wiki covers the uaRO version of creating accounts.
+Every version of the MMORPG has a different way to create accounts. This wiki covers the uaRO version of creating accounts.
 
 To play on the uaRO server you must first create an account. To do this, go to the website: [https://www.uaro.net/](https://www.uaro.net/)
 
