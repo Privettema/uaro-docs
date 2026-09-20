@@ -3,11 +3,13 @@
 Horror Toy Factory is an instance where players explore a sinister toy factory filled with aggressive monsters and ghosts. The main objective is to defeat the final boss, Celine Kimi, while overcoming traps and powerful enemies along the way.  
 The instance offers unique rewards, including rare items and equipment, making it popular among players.
 
+!!! info
+    Read [Instance Guide](Instance_Guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
+
 ## Requirements
+
 **Base Level:** 90  
 **Party:** At least 3 members
-
-Read [Dungeon Guide](Dungeon_Guide.md) for information about instructions for completion, run limits, and important info.
 
 ## How to get there
 

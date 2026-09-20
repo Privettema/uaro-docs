@@ -1,9 +1,20 @@
-# Dungeon Guide
+# Instance Guide
 
+## Instance Start & Readiness Rules
 
-## Run Limits
-Limits are account and unique-ID locked. Only one run can be completed per account, per week. Additional runs must be completed on other accounts.
+- After the instance is initiated, **all party members must type `!ready` within 60 seconds**
+- The instance begins **only when all members are marked as ready**
+- Players who disconnect may **rejoin the instance and use `!ready` again**
+- If readiness fails, the party will be **automatically returned to their save point**
+- All existing **safeguards and run-limit mechanics remain unchanged**
 
+---
+
+## Instance Run Limits
+
+- Limits are account and unique-ID locked. 
+- Only one run can be completed per account, per week. 
+- Additional runs must be completed on other accounts.
 - Use `@instanceinfo` to check your remaining runs for the week.
 - Run limits reset `06:00 Server Time` every **Monday**.
 
@@ -20,6 +31,8 @@ Limits are account and unique-ID locked. Only one run can be completed per accou
 
 !!! warning "Anti-Circumvention Policy"
     Attempts to bypass these mechanics will result in all associated accounts banned.
+
+---
 
 ## Completion
 Instances require **full clears** to unlock subsequent run count up to the limits per week, or you're locked out until reset. If you fail, you cannot run again until reset.
@@ -48,8 +61,11 @@ Instances require **full clears** to unlock subsequent run count up to the limit
 ### Run Statistics
 When the final boss dies, a copy of every party member appears at the exit showing their **Damage Dealt**, **Damage Taken**, **Heal Done**, **Heal Taken**, **Deaths** and **Mob Kills** for the whole run. The stats stay up for a few minutes before the instance closes.
 
+---
+
 ## Blocked Items and Skills
 
-- Bubble Gum
+- Bubble Gum will not affect drop rates
+- Field Manual, Battle Manual will not affect exp rates
 - Vending
 - Warp Portal
