@@ -52,6 +52,8 @@
 | Red Lantern [1] | 2976 | Accessory | Required level 20<br> Equippable by All except Novice, Taekwon, Star Gladiator | 
 | Evil Glove [1] | 2980 | Accessory | MAX HP +300<br>MAX SP +50<br>INT +2<br>No level requirement.<br>Equippable by all Trans jobs except Novice. |
 | Celine's Ribbon [1] | 18849 | Upper Headgear | DEX +3<br>MATK +20<br>MATK +1 per refine level<br>25 HP drain every 5 seconds<br>Equippable by all Trans classes |
+| Wounded Heart [1] | 2977 | Accessory | DEX +2<br>AGI +1<br>+5% damage to all races<br>Required level 90<br>Equippable by all Trans jobs except Novice |
+| Gentle Heart [1] | 2978 | Accessory | STR +2<br>DEX +1<br>+5% damage to all races<br>Required level 90<br>Equippable by all Trans jobs except Novice |
 
 
 ### Extended Classes
