@@ -108,3 +108,6 @@ The following gear is equippable by Super Novice.
 | Card Name | Change Description |
 |---|---|
 | Isilla Card | Now applies to both AoE and Single Target magic. |
+
+### Renewal Cards
+Renewal enemies drop their cards as-is unless otherwise mentioned.
