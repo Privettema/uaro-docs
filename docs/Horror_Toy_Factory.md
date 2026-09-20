@@ -6,10 +6,13 @@ The instance offers unique rewards, including rare items and equipment, making i
 !!! info
     Read [Instance Guide](Instance_Guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
 
-## Requirements
+## Rules
 
-**Base Level:** 90  
-**Party:** At least 3 members
+| Rule | Detail |
+|------|--------|
+| **Party Size** | `3` person minimum |
+| **Base Level** | `90` |
+| **Time Limit** | `1` hour |
 
 ## How to get there
 

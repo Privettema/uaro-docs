@@ -10,16 +10,15 @@ This instance offers not only a challenging PvE experience, but also valuable re
 
 ---
 
-## Requirements
+## Rules
 
-**Base Level:** 85  
-**Party:** At least 6 members
-
-- All party members must be present on Misty Island at the time the Party Leader clicks to stone to initiate the dungeon start.
-- Any member who attempts to join an in progress party will automatically be kicked out of the instance.
-- Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon. 
-- If all members exit, **the instance will be deleted** and the weekly run is consumed.
-- Monsters remaining per floor will be announced starting with 5 remaining.
+| Rule | Detail |
+|------|--------|
+| **Party Size** | `6` person minimum |
+| **Base Level** | `85` |
+| **Time Limit** | `4` hours |
+| **Re-entry** | Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon. If all members exit, **the instance will be deleted** and the weekly run is consumed. |
+| **Monster Count** | Monsters remaining per floor will be announced starting with 5 remaining. | 
 
 ---
 
@@ -27,7 +26,7 @@ This instance offers not only a challenging PvE experience, but also valuable re
 
 ![EC-Captain-Janssen](img/EC-Captain-Janssen.png)<br>
 
-To begin the instance, talk to **Captain Janssen** in Prontera  
+To get to the instance starting point, talk to **Captain Janssen** in Prontera  
 (**/navi prontera 217/187**). Speak with him multiple times to initiate the journey.
 
 !!! info 
@@ -39,7 +38,7 @@ A **Kafra NPC** on the island provides:
 - Guild Storage
 - Return to Prontera
 
-On Misty Island, locate the **Cellar Protection Stone** NPC and select **Enter Endless Cellar**.
+On Misty Island, locate the **Cellar Protection Stone** NPC and select **Enter Endless Cellar**. All party members must be present on Misty Island at the time the Party Leader clicks to stone to initiate the dungeon start.
 
 !!! note
     After the instance is initiated, the party has **60 seconds** for all members to type `!ready` in public chat. Failure to do so will return the entire party to their save point and the instance must be restarted.
@@ -130,5 +129,3 @@ After defeating Pori Pori, the NPC Arc Pori Pori will appear and provide a rewar
 !!! warning
     Before returning to Prontera, don't forget to claim your reward! Talking to
     **Arc Pori Pori** to exit naturally is required to unlock your next weekly run.
-
-**Good game and have fun!**

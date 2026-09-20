@@ -55,7 +55,7 @@ Instances require **full clears** to unlock subsequent run count up to the limit
 | **Endless Cellar** | Speak to Arc Pori Pori |
 | **Horror Toy Factory** | Enter warp portal at end of map |
 | **Nidhoggur's Nest** | Speak to Yggdrasiliad |
-| **Sealed Shrine** | ... |
+| **Sealed Shrine** | - |
 | **Wolfchev's Laboratory** | Speak to Wolfchev |
 
 ### Run Statistics
