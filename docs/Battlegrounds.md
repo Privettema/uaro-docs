@@ -31,7 +31,8 @@ to your own base marker to score:
 | Change | Description | 
 | - | - |
 | Party Buffs | Party buffs cast on a battleground map now reach every teammate in range, whether or not you are grouped with them |
-| Devotion | Works in BG without the need for a party. |
+| **Skills** |
+| Devotion | Works in BG without the need for a party |
 | High Jump | Works in BG |
 | Running | Works in BG |
 | Potion Pitcher | Does not work on battleground barricades, objectives and flags |

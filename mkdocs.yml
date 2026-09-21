@@ -84,7 +84,10 @@ nav:
     # - Endless Tower: Endless_Tower.md 
     - 🎁 Horror Toy Factory: Horror_Toy_Factory.md 
     - ⚔️ Eternal Bastion: Eternal_Bastion.md
+    # - Wolfchev's Laboratory: Wolfchevs_Lab.md 
+    # - Sealed Shrine: Sealed_Shrine.md
   - New World:
+    # - New World Guide: New_World_Guide.md
     - 🏛️ El Dicastes: El_Dicastes.md
   - Events & Activities:
     - 🎰 Roulette System: Roulette-System.md
@@ -95,6 +98,7 @@ nav:
     - 🏯 Pre-Trans WoE: Pre_Trans_WoE.md
     - 🏰 King of Emperium (KoE): King_of_Emperium_(KoE).md
     - ⚔️ PvP Arena: PvP_Arena.md
+    # - Battlegrounds: Battlegrounds.md
   
 # Markdown extensions
 markdown_extensions:
