@@ -3,42 +3,16 @@
 Horror Toy Factory is an instance where players explore a sinister toy factory filled with aggressive monsters and ghosts. The main objective is to defeat the final boss, Celine Kimi, while overcoming traps and powerful enemies along the way.  
 The instance offers unique rewards, including rare items and equipment, making it popular among players.
 
-### Requirements
-**Base Level:** 90  
-**Party:** At least 3 members
+!!! info
+    Read [Instance Guide](Instance_Guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
 
-!!! note "**`3` runs per week** per account. The weekly run counter resets at `06:00 Server Time` every **Monday**."
+## Rules
 
-### Lockout Mechanics
-
-- Account/UniqueID locked upon start of instance initiation
-- All mechanics still the same for loot, MVP structure etc.
-- A successful full clear of the dungeon is required to unlock your next run;
-  without one you stay locked out until the weekly reset. The account still
-  consumes one of its weekly runs (Free to utilize same PC but different account)
-- To unlock subsequent runs after a full clear, you must exit naturally through
-  the warp portal at the end of the map. There are no manual resets for people
-  who fail to follow mechanics
-- BBG will remain blocked
-- Each account has `3` runs per week. Once all weekly runs are used, the
-  instance will be reported as already completed this week; the counter
-  resets weekly
-
-
-!!! warning "Anti-Circumvention Policy"
-    Attempts to bypass these mechanics will result in all associated accounts banned.
-
-### End of Instance Specific UniqueID Unlock Points
-
-| Instance | Unlock Action |
-|----------|---------------|
-| **HTF** | Warp portal at end of map (Touch and exit) |
-
-!!! note "Run Statistics"
-    When the final boss dies, a copy of every party member appears at the exit showing
-    their **Damage Dealt**, **Damage Taken**, **Heal Done**, **Heal Taken**, **Deaths**
-    and **Mob Kills** for the whole run. The stats stay up for a few minutes before the
-    instance closes.
+| Rule | Detail |
+|------|--------|
+| **Party Size** | `3` person minimum |
+| **Base Level** | `90` |
+| **Time Limit** | `1` hour |
 
 ## How to get there
 

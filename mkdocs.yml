@@ -26,7 +26,7 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
       primary: black
-      accent: purple 
+      accent: blue 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
@@ -77,24 +77,28 @@ nav:
     - 🐣 Remastered Novice Grounds: Remastered_Novice_Location.md 
   - Dungeons: 
     - 🧪 Biolabs 4: Biolab4.md 
+    - 👻 Old Glast Heim: Old_Glast_Heim.md
+  - Instances:
+    - 🗂️ Instance Guide: Instance_Guide.md
     - ⏳ Endless Cellar: Endless_Cellar.md 
     # - Endless Tower: Endless_Tower.md 
     - 🎁 Horror Toy Factory: Horror_Toy_Factory.md 
-    - 👻 Old Glast Heim: Old_Glast_Heim.md
     - ⚔️ Eternal Bastion: Eternal_Bastion.md
+    # - Wolfchev's Laboratory: Wolfchevs_Lab.md 
+    # - Sealed Shrine: Sealed_Shrine.md
   - New World:
+    # - New World Guide: New_World_Guide.md
     - 🏛️ El Dicastes: El_Dicastes.md
-  - Events & Activites:
+  - Events & Activities:
     - 🎰 Roulette System: Roulette-System.md
     - 🎲 Comodo Casino: Comodo-Casino.md
-    - ☀️ Summer Festival 2026: Summer_Event_2026.md
-    - 🌸 Spring Festival 2026: Spring_Event_2026.md
     - 🍀 Auto Events: Auto_Events.md
     - 🐎 Hugel Mini Games: Hugel_Mini_Game.md
     - 🏰 War of Emperium: WoE.md
     - 🏯 Pre-Trans WoE: Pre_Trans_WoE.md
     - 🏰 King of Emperium (KoE): King_of_Emperium_(KoE).md
     - ⚔️ PvP Arena: PvP_Arena.md
+    # - Battlegrounds: Battlegrounds.md
   
 # Markdown extensions
 markdown_extensions:

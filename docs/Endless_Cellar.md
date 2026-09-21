@@ -1,8 +1,3 @@
----
-hide:
-  - toc
----
-
 # Endless Cellar
 
 **Endless Cellar** is one of the most popular instances on uaRO, designed for coordinated, team-based gameplay.  
@@ -10,58 +5,20 @@ It belongs to the category of *endless instances*, where parties progress throug
 
 This instance offers not only a challenging PvE experience, but also valuable rewards and a true test of teamwork, coordination, and endurance. The Cellar is always ready to challenge those seeking adventure in the world of **Your Dreams**.
 
-!!! note "**`3` runs per week** per account. The weekly run counter resets at `06:00 Server Time` every **Monday**."
+!!! info
+    Read [Instance Guide](Instance_Guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
 
 ---
 
-## Mechanics
+## Rules
 
-- All party members must be present on Misty Island at the time the Party Leader clicks to stone to initiate the dungeon start.
-- Any member who attempts to join an in progress party will automatically be kicked out of the instance.
-- Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon (If all members exit, the instance will be deleted and the weekly run is consumed)
-- Create a party of atleast 6, and as many as 12 to take on the spiral into madness!
-- Experience and loot and obtained per kill and will be issued depending on party share options
-- Bubble Gum and EXP manuals do not effect drop rate and/or exp rates
-- Loot/EXP is accounted based
-- Level 85+ to enter
-- Monsters remaining per floor will be announced starting with 5 remaining
-
----
-
-## 🔐 Instance Start & Readiness Rules
-
-- After the instance is initiated, **all party members must type `!ready` within 60 seconds**
-- The instance begins **only when all members are marked as ready**
-- Players who disconnect may **rejoin the instance and use `!ready` again**
-- If readiness fails, the party will be **automatically returned to their save point**
-- All existing **safeguards and run-limit mechanics remain unchanged**
-
----
-
-### Lockout Mechanics
-
-- Account / **UniqueID** is locked upon instance initiation
-- All mechanics for loot distribution, MVP structure, and progression remain unchanged
-- A **successful full clear** is required to unlock your next run; without one you stay
-  locked out until the weekly reset  
-  (The account still consumes one of its weekly runs; the same PC may be used with a different account)
-- To unlock subsequent runs after a full clear, you **must** talk to **Arc Pori Pori** at the
-  end of the dungeon to exit naturally. There are **no manual resets** for people who fail
-  to follow mechanics
-- **BBG remains blocked**
-- Each account has **`3` runs per week**. Once all weekly runs are used, the instance will be
-  reported as already completed this week; the counter resets weekly
-
-!!! warning "Anti-Circumvention Policy"
-    Any attempt to bypass these mechanics will result in **all associated accounts being permanently banned**.
-
----
-
-### End of Instance – UniqueID Unlock Points
-
-| Instance | Unlock Action |
-|----------|---------------|
-| **Endless Cellar** | Talk to **Arc Pori Pori** |
+| Rule | Detail |
+|------|--------|
+| **Party Size** | `6` person minimum |
+| **Base Level** | `85` |
+| **Time Limit** | `4` hours |
+| **Re-entry** | Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon. If all members exit, **the instance will be deleted** and the weekly run is consumed. |
+| **Monster Count** | Monsters remaining per floor will be announced starting with 5 remaining. | 
 
 ---
 
@@ -69,22 +26,22 @@ This instance offers not only a challenging PvE experience, but also valuable re
 
 ![EC-Captain-Janssen](img/EC-Captain-Janssen.png)<br>
 
-To begin the instance, talk to **Captain Janssen** in Prontera  
+To get to the instance starting point, talk to **Captain Janssen** in Prontera  
 (**/navi prontera 217/187**). Speak with him multiple times to initiate the journey.
 
-- Travel cost to Misty Island: **10,000 Zeny**
-- A **Kafra NPC** on the island provides:
-  - Personal Storage
-  - Guild Storage
-  - Return to Prontera (moved here from the stones)
+!!! info 
+    Once you unlock the Warp Helper on the island, you can use Warpra for no cost to get to Misty Island.
 
-On Misty Island, locate the **Cellar Protection Stone** NPC and select  
-**Enter Endless Cellar**.
+A **Kafra NPC** on the island provides:
+
+- Personal Storage
+- Guild Storage
+- Return to Prontera
+
+On Misty Island, locate the **Cellar Protection Stone** NPC and select **Enter Endless Cellar**. All party members must be present on Misty Island at the time the Party Leader clicks to stone to initiate the dungeon start.
 
 !!! note
-    After the instance is initiated, the party has **60 seconds** for all members to type  
-    **`!ready`** in general chat.  
-    Failure to do so will return the entire party to their save point and the instance must be restarted.
+    After the instance is initiated, the party has **60 seconds** for all members to type `!ready` in public chat. Failure to do so will return the entire party to their save point and the instance must be restarted.
 
 ![EC-Cellar-Protection-Stone](img/EC-Cellar%20Prot-Stone.png)  
 ![EC-Cellar-Protection-Stone-2](img/EC-Cellar%20Prot-Stone1.png)
@@ -153,14 +110,13 @@ On Misty Island, locate the **Cellar Protection Stone** NPC and select
 !!! note
     (2) RANDOM Bio Labs 3 MVPs will be spawned with full drop-rate. The rest are reduced.
 
+---
 
-### Finish
+## Finish
 
 ![EC-ArcPoriPori](img/EC-ArcPoriPori.png)<br>
 
-
 After defeating Pori Pori, the NPC Arc Pori Pori will appear and provide a reward for completing the instance to each party member:<br>
-
 
 | Name | Amount |
 |------|--------|
@@ -173,11 +129,3 @@ After defeating Pori Pori, the NPC Arc Pori Pori will appear and provide a rewar
 !!! warning
     Before returning to Prontera, don't forget to claim your reward! Talking to
     **Arc Pori Pori** to exit naturally is required to unlock your next weekly run.
-
-!!! note "Run Statistics"
-    When the final boss dies, a copy of every party member appears at the exit showing
-    their **Damage Dealt**, **Damage Taken**, **Heal Done**, **Heal Taken**, **Deaths**
-    and **Mob Kills** for the whole run. The stats stay up for a few minutes before the
-    instance closes.
-
-**Good game and have fun!**

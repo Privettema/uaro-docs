@@ -1,8 +1,3 @@
----
-hide:
-  - toc
----
-
 # Eternal Bastion
 
 ![Eternal Bastion](img/eternal_bastion_promo.webp){ .wiki-screenshot }
@@ -11,14 +6,14 @@ hide:
 fight through 100 waves of escalating enemies — culminating in a randomly selected final boss.
 No gimmicks, no distractions — just pure combat and teamwork.
 
+!!! info
+    Read [Instance Guide](Instance_Guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
+
 ---
 
 ## How to Enter
 
-- Form a party of **12** players
-- Talk to the Bastion NPC in **Veins, the Canyon Village** (`/navi veins 218/136`) to initiate the instance
-- All 12 members must type `!ready` within **60 seconds** or the instance closes
-- **2 runs per week** account-bound limit after entry, no resets
+Talk to the Bastion NPC in **Veins, the Canyon Village** (`/navi veins 218/136`) to initiate the instance.
 
 ---
 
@@ -27,14 +22,12 @@ No gimmicks, no distractions — just pure combat and teamwork.
 | Rule | Detail |
 |------|--------|
 | **Party Size** | `12` person minimum |
-| **Run Limit** | `2` runs per week, account-bound, no resets |
 | **Duration** | `4 hours` max — instance fails if the timer runs out |
 | **Mob Loot** | No loot drops from wave mobs |
 | **Death** | Permadeath — warped out of the instance, no resurrection inside |
 | **Storage** | Accessible waves 1–79, NPC destroyed at wave 80+ |
 | **Party Lock** | If party composition changes at any point, the instance resets and is destroyed |
 | **Re-entry** | Once you leave or die out, you cannot return to the instance — disconnects are the exception: if the run is still active and a party member is still inside, you are returned to your party when you log back in |
-| **Run Statistics** | When the final boss dies, a copy of every party member appears at the exit showing their damage dealt/taken, healing done/taken, deaths and mob kills for the run |
 
 !!! note "Run Unlock"
     Unlike other instances, Eternal Bastion has no end-of-dungeon NPC requirement.

@@ -1,25 +1,23 @@
 
 # uaRO Beginner's Info & Quick Start Guide
-This is a player-written guide for new uaRO players.
+This is a player-written guide for new uaRO players, originally written by Angebo. There have been edits by the Wiki maintainers.
 
-**Original Author**: Angebo  
-**Author Discord**: angebo (formerly Angebo#0332)  
-
+Discord is your best resource for player guides. Check out the "Class Theory" category. [Join Discord](https://discord.gg/Zn6jrQy9x).
 
 
 ## 📘 About this Guide  
 This guide will contain basic information on how to have a good start at uaRO. It provides an overview about important features and where to find information. There is a short class overview and a Quick Starter guide which can push you up to 60+ within a short time. It ends with some suggestions where to make your first small funds.
 
-
+---
 
 ## 🛠️ Important uaRO Features  
 
 ### Autoloot
-An important feature to know about is `@autoloot`. If you want to know more about how to configure it, look in the **[commands list](Commands.md#database-commands)**. This feature really boosts the farming ability and efficiency of ranged and or AoE based classes a lot: After killing a target, they do not need to close the distance to collect the loot. This is 1-4 seconds less time to spend after killing.
+An important feature to know about is `@autoloot`, which is configured with `@lootconfig`. If you want to know more about how to configure it, look in the **[commands list](Commands.md)**. This feature really boosts the farming ability and efficiency of ranged and or AoE based classes a lot: After killing a target, they do not need to close the distance to collect the loot. This is 1-4 seconds less time to spend after killing.
 
 
 ### Increased Sight
-The sight range is increased so you are allowed to scroll out further than usually.
+The sight range is increased so you are allowed to scroll out further than usual.
 This allows you to use ranged skills like DS to its fullest, buffing Bow classes. In addition it's easier to mob and avoid enemies you dislike.
 
 !!! note
@@ -27,10 +25,12 @@ This allows you to use ranged skills like DS to its fullest, buffing Bow classes
 
 
 ### Rodex Mail System
-You can send Items from and to everywhere for a small fee of 2.5k per item stack. So you can restock consumables and send your loot away wherever you want. You have to care less for weight limit because your solution is only a few seconds away. You can send more than one mail and open them one after the other when you want, they are stored for 14 days. You can only send tradeable items this way, not account bound ones.
+You can send items to and from everywhere for a small fee of 2.5k per item stack. So you can restock consumables and send your loot away wherever you want. You have to care less for weight limit because your solution is only a few seconds away. You can send more than one mail and open them one after the other when you want, they are stored for 14 days. You can only send tradeable items this way, not account bound ones.
 
-!!! note
-     It is said that it is possible to lose the items in the mail system. If this happens, go to the Discord, and use the Channel `#submit-ticket`. Do not send important or expensive items this way.
+[Read more about the Mail System](Improvements.md#rodex-mail-system).
+
+!!! warning
+     It is said that it is possible to lose the items in the mail system. If this happens, go to the Discord, and use the channel `#submit-ticket`. Do not send important or expensive items this way.
 
 !!! note
      You can not send Great Nature this way.
@@ -38,11 +38,11 @@ You can send Items from and to everywhere for a small fee of 2.5k per item stack
 ### ![7539](img/7539.gif) [Poring Coins (PC)](Poring_Coins_System.md)
 Most enemies have a 5% Chance to drop an item called Poring Coin, making high kill count valuable by itself. They have various use cases.  
 
-#### Money
-They sell well to players and always will. Sell them whenever you need some money fast.
+#### Zeny
+They sell well to players and always will. Sell them whenever you need some zeny fast.
 
 
-#### ![Field Manual 100%](img/12263_1.png) Field Manual  
+#### ![Field Manual 100%](img/12263_1.png) Field Manual - 100%
 Doubles your base exp. A great help while leveling. They double exp gained through quests as well, important for repeatable EXP quests. 
 
 
@@ -59,7 +59,7 @@ There are various powerful headgears you can craft using Poring Coins, for examp
 
 
 ### [Elemental Converter](https://irowiki.org/w/index.php?title=Create_Elemental_Converter&oldid=47391)
-The item “Elemental Converter” endows your weapon with one of the four elements, fire, water, wind or earth - like Endow. Other than the item description they last for 30 minutes and are sold by players for around 10k. These allow you to not care for elemental weapons or arrows, except some rare use cases (or f.e. Holy).  
+The item “Elemental Converter” endows your weapon with one of the four elements, fire, water, wind or earth - like Endow. Other than the item description they last for 30 minutes and are sold by players for around 5-10k. These allow you to not care for elemental weapons or arrows, except some rare use cases (or f.e. Holy).  
 
 
 ### [Card Exchanger](Card_Exchange.md)
@@ -90,11 +90,8 @@ For every member in the party, all get a +15% Exp Bonus. So at a full party, all
 This change values the party size: filling a party with classes that don't contribute much still is an improvement. For example, the 12th person takes 1/12 = -8.3% Exp. Their bonus alone offers 280/265-1 = +5.7% exp.
 One special use case are parties like Sleeper Parties, where everyone levels on their own (and items are not shared) but they share Exp - even If the kill count differs, everyone levels faster than on their own.
 
-
 #### Idle Mechanic
-Exp and Item sharing is disabled for idle members after 60 seconds. You are idle when you don't make an input, like moving or skill usage.
-This mechanic punishes standing parties, so most are moving ones.
-
+Exp and Item sharing is disabled for idle members after 60 seconds. You are idle when you don't make an input, like moving or skill usage. In order to be counted as active, you need to use a skill other than First Aid and move at least one cell.
 
 ### [Repeatable EXP Quests](Repeatable_Quests.md)
 These are important for three reasons:
@@ -103,12 +100,10 @@ These are important for three reasons:
 - The Killing Quests can help you to level faster (namely Alligator, Dryad, and Remover).
 - Once you rebirth, you will have a lot of Huge and Sharp Leaf (Pinguicula drop them). They will help you to become a higher level really quick.  
 
-
-
 ### ![Reset NPC](img/JP_ARUNA.gif) Reset NPC
 This NPC is located in the Prontera Main Office and allows you to reset your skills, your stats, or your skills and stats. You can do it as often as you like for a fee, with the first time being free. This allows you to first choose a beginners friendly build and once you own the money (and equipment) you can change to a late game one.
 
-
+---
 
 ## 🔗 Sources of Information
 
@@ -123,7 +118,7 @@ There is interesting information in it, and is recommended to read.
 ### [Classic Wiki](https://irowiki.org/classic/Main_Page)
 Note: Always take care if there is “classic” in the link. If not, if it’s called “wiki”, the information is related to the Renewal version and often incorrect.
 
-This site contains a ton of information about game mechanics and quests. Aside that, it has a builds chapter for every class where you can read informations about common (and less common) builds, which stats and skills they rely on, and which advantages and disadvantages they have.  
+This site contains a ton of information about game mechanics and quests. Aside that, it has a builds chapter for every class where you can read information about common (and less common) builds, which stats and skills they rely on, and which advantages and disadvantages they have.  
 
 
 ### [RMS – Rate My Server](https://ratemyserver.net/)
@@ -131,81 +126,164 @@ This site is a big database for items, monsters, skills and quests. Most of thes
 
 
 ### [Rocalc](https://rocalc.com/)
-This is the best calculator I know, and most of the time fits to uaRO. If you want to compare equipment, builds and ideas, this is your way to go.   
+This is the best calculator I know, and generally fits to uaRO with some exceptions. If you want to compare equipment, builds and ideas, this is your way to go. 
 
 
 ### [Skillsim](https://skillsim.irowiki.org)
 You can plan your skill tree at this site. Please note that it has a renewal skill tree, but they are mostly correct pre renewal as well. The only known change is: Lord Knight needs Spear Mastery 10 (instead of 5) for Spiral Pierce.  
 
 
+---
+
 
 ## 🧙 Choosing Your First Class
+Beginner friendly classes are considered classes that do not need good, expensive equipment to perform but have either access to cheap-and-good stuff (Archer and Swordman) or don’t rely on equipment (SL, Ninja, Priest). 
 
-### Beginner Friendly Classes
-Beginner friendly classes are considered classes that do not need good, expensive equipment to perform but have either access to cheap-and-good stuff (Archer and Swordman Class) or don’t rely on equipment (SL, Ninja, Priest). 
+In order, these classes are recommended for solo beginners:
+
+1. Hunter
+2. Knight 
+3. Rogue
+
+For magic classes:
+
+1. Ninja
+2. Soul Linker (Esma)
+3. Priest (TU)
+
+!!! Disclaimer
+    This information is highly subjective! You should explore and try out different classes that interest you. This is just a series of suggestions on how you could start on this server. Ask questions and find out what you like.
+
+!!! Warning
+    The recommended guides are player written and not verified to be the latest and most accurate information at your time of reading. Confirm the information before making expensive commitments.
+
+### Swordsman 
+
+#### Knight
+[Recommended: Griever's LK Leveling Guide](https://discord.com/channels/702960460168953946/1517220731908526261)
+
+A Knight is a very beginner friendly farming character. The weapon Ahlspiess is cheap and allows you to kill high DEF characters very fast. You can level fast and earn money by going to Sleepers. A good build is STR / AGI based - as a beginner, the Flee will help you more than VIT will do. Skills to use are either Bowling Bash (BB) or Brandish Spear.
+Sleeper is a very common farming map for raw Zeny: They drop Great Nature which can be split up into Green Live ([Ore Downgrading Quest](https://irowiki.org/classic/Ore_Downgrading)) and sold to an NPC. Transcends to Lord Knight (LK).
+
+#### Crusader
+[Recommended: Acadiano's GC Paladin Guide](https://discord.com/channels/702960460168953946/1513593872159342822)
+
+Crusaders are less beginner friendly than Knights. Their build typically focuses on Grand Cross (GC), a skill with a large AoE that damages you in return. It's less intuitive, but by following a good guide you can quickly become effective with Crusader. Transcends to Paladin.
+
+
+### Archer 
+
+#### Hunter
+[Recommended: SoEpic's DS Sniper Guide for Beginners](https://discord.com/channels/702960460168953946/1507939786860527666)
+
+Hunter is a generally good starting character: the weapon Orc Archer Bow is cheap and powerful, especially combined with Elemental Converter. Double Strafe Hunter (high DEX, medium AGI, medium INT) is a good choice for beginners; it deals a lot of damage in a short period of time and can one-hit several targets. A good starting place for EXP and Zeny is Hill Winds. Transcends to Sniper.
+
+#### Bard / Dancer
+[Recommended: Laude's FS Gypsy/Clown Guide](https://discord.com/channels/702960460168953946/1535596146724970496)
+
+Bard and Dancer are similar to Hunter, but have a higher SP pool and play support songs. Usually they are heavily requested in leveling parties, so they easy and fast to level. Transcends to Clown / Gypsy.
+
+
+### Thief
+[Recommended: Angebo's ⁠Starting from Scratch](https://discord.com/channels/702960460168953946/1442687152872886323).
+
+#### Rogue
+[Recommended: Angebo's Rogue Leveling Guide](https://discord.com/channels/702960460168953946/1242465780499611721)
+
+Often said to be a good farming character for beginners, it loses to Archer class: there isn’t a cheap but good weapon for thief class, and range is a huge advantage thanks to autoloot. There are still ways to level fast (either Bow with BB or Magic Build) and become stalker. But others are more friendly to beginners. Transcends to Stalker.
+
+#### Assassin
+[Recommended: Angebo's Assassin Guide](https://discord.com/channels/702960460168953946/1235750571638521977)
+
+While end builds are expensive there are still cheap, rather beginner friendly options to start: Grimtooth requires nothing but a weapon, and DA-Katar starts fine with a rather cheap weapon, but it is not recommended to start as crit or dagger with no funds. Transcends to Assassin Cross (Sinx).
+
 
 ### Merchant
 Everyone needs a Merchant: Overcharge and Discount spare you quite some money in the long run. Only stat STR with it and don’t play it as the main class. If you want to, start a different Merchant Class for that.
 
-### Knight
-A Knight is a very beginner friendly farming character. The weapon Ahlspiess allows you to kill high DEF characters very fast. You can level fast and earn money by going to Sleepers. A good build is STR / AGI based - as a beginner, the Flee will help you more than VIT will do. Skills to use are either Bowling Bash or Brandish Spear.
-Sleeper is a very common farming map for raw Zeny: They drop Great Nature which can be split up into Green Live ([Ore Downgrading Quest](https://irowiki.org/classic/Ore_Downgrading)) and sold to an NPC.
+#### Blacksmith
+[Recommended: Amalusta's White Smith Guide](https://discord.com/channels/702960460168953946/1491175245800017982)
 
-!!! note
-     There is a feature or bug which Brandish Spear allows to deal damage twice. This makes it possible to onehit sleeper with it. 
+Not recommended over Knight or Hunter. Relies on auto attack, which is slower, otherwise its primary attack skill costs zeny. Transcends to Whitesmith.
 
-### Crusader
-Crusader is kinda similar to Knight. You can equip an Ahlspiess, but instead of Bowling Bash or Brandish Spear, you use Spear Quicken and fast auto attacks. It kills slower than Knight, but does not rely on SP.
+#### Alchemist
+[Recommended: Alice's Alchemist Adventure Record](https://discord.com/channels/702960460168953946/1530194537589510195)
 
-### Hunter
-Hunter is a generally good starting character: the weapon Orc Archer Bow is cheap and powerful, especially combined with Elemental Converter. Double Strafe Hunter (high DEX, medium AGI, medium INT) is a good choice for beginners; it deals a lot of damage in a short period of time and can onehit several targets. A good starting place for EXP and Zeny are Hill Winds.
+Involves a number of complex and expensive mechanics that are not considered beginner friendly. Transcends to Creator.
 
-### Bard / Dancer
-Bard and Dancer are similar to Hunter, but have a higher SP pool. The disadvantage is that they do not rebirth into a Sniper. Usually they are heavily requested in mass parties, so easy and fast to level.
 
-### Soul Linker (Esma)
-An Esma Bolt SL has its own play style. They can survive quite a bit and deal a huge amount of single target damage without any equipment. The time until you have Esma, you need to rely on Mercenaries, but after you can go to a lot of places. Fastest leveling and some money will be at Pinguicula. At higher levels you can explore the world, including Glast Heim for example.
+### Mage 
+[Recommended: Marito's How to Easy Mage](https://discord.com/channels/702960460168953946/1442641145891913899)
 
-### Ninja (Magic)
-The magic Ninja deals good magic damage on range and have some protection skills, so they do not need to rely on equipment or consumables (except their stones, which are cheap and you can buy them in the left Inn in Prontera). Fastest leveling and some money will be at Pinguicula.
+#### Wizard
+[Recommended: Chomp's Wiz Farming](https://discord.com/channels/702960460168953946/1459831652522922249)
 
-### Priest
-This class is hard to classify. On the one hand, they do not need equipment and are heavily requested for parties, so can level fast. And they are capable of using mercenaries much longer than other classes due to their support abilities. On the other hand, they need some experience to play. But the most disadvantage is that you can’t do much with it except playing and leveling. You will not earn much money or hunt items with it. You are a high level priest - that is all.
+You can level in parties and solo with vertical fire wall. But aside from that, you are limited - Ninja and Soul Linker are more beginner friendly magic damage dealers. Transcends to High Wizard.
 
-### Rogue
-Often said to be a good farming character for beginners, it loses to Archer class: there isn’t a cheap but good weapon for thief class, and range is a huge advantage thanks to autoloot. There are still ways to level fast (either Bow with BB or Magic Build) and become stalker. But others are more friendly to beginners. [Read Angebo’s Rogue Speed Leveling and Limited Stalker Guide](https://docs.google.com/document/d/1l5XiVfiEh7FTHiY2rwxheL9lsTIcwgcirpmcIPHKT04/edit?tab=t.0).
+#### Sage
+[Recommended: Angebo's Support Prof](https://discord.com/channels/702960460168953946/1510303611563806852)
 
-### Assassin
-Never been beginner friendly, and they still are not. Same disadvantages as Rogue. They suffer even more thanks to a change at the Monster Stacking behavior making it hard to properly grimtooth. [Read Angebo’s Assassin and Assassin Cross Guides](https://drive.google.com/drive/folders/1vJGmkgGDUGizd23kBIeRAoeTjgje_hPN).
+Even worse than the Wizard as a starting class. Best utilized as a support class in parties in the mid to late game. Transcends to Professor.
 
-### Wizard
-Yes, you can level in parties and with vertical fire wall. But aside from that, you are limited - Ninja and Soul Linker are more beginner friendly magic damage dealers. 
 
-### Sage
-Even worse than the Wizard. There is no dual clienting allowed, so you better not try to make an auto-bolt Sage, except with a reliable friend.
+### Acolyte
 
-### Blacksmith
-Lacks proper beginner weapons.
+#### Priest
+[Recommended: Komomo's Way of the Priest](https://discord.com/channels/702960460168953946/1472985081328177193)
 
-### Alchemist
-Never been beginner friendly, never will be.
+Priest is primarily a support class and relies on party play, so it is not recommended as your first class. However, they can level quickly in specialized areas and capable of using mercenaries much longer than other classes due to their support abilities. With little gear, Priest can learn Turn Undead (TU) and level in Anubis and later even high level maps like Old Glast Heim (OGH). Transcends to High Priest (HP).
 
-### Monk
-Investigation Monk can be useful at Sleeper, but need notable funds to perform well. Better choose Knight over them. And combo Monk lacks a proper beginner weapon. Steel Body makes you a medium requested Tank for mass parties.
+#### Monk
+[Recommended: Kuu's thread of builds](https://discord.com/channels/702960460168953946/1199400754310545599)
 
+Investigation Monk can be useful at Sleeper, but need notable funds to perform well. Better choose Knight over them. And combo Monk lacks a proper beginner weapon. Steel Body makes you a medium requested Tank for mass parties. Transcends to Champion.
+
+
+### Taekwon 
+
+#### Soul Linker
+[Recommended: Acadiano's Soul Linker Guide](https://discord.com/channels/702960460168953946/1522653888786857994)
+
+Changes jobs from Taekwon Kid. An Esma Bolt SL has its own play style. They can survive well and deal a huge amount of single target damage without any equipment. Until you have Esma you need to rely on Mercenaries, but after you can go to a lot of places. Fastest leveling and some money will be at Pinguicula. At higher levels you can explore the world, including Glast Heim (GH) for example.
+
+#### Star Gladiator (SG)
+Changes jobs from Taekwon Kid. Popular as a later game farming class. In the early game, other classes like Hunter or Knight would be better.
+
+
+### Other Expanded Classes
+
+#### Ninja (Magic) 
+[Recommended: Lord Knight Necri's Magic Ninja from Zero (Non-UaRO)](https://www.youtube.com/watch?v=QoWpbmxxxIA)
+
+The magic Ninja deals good magic damage on range and have some protection skills, so they do not need to rely on equipment or consumables (except their stones, which are cheap and you can buy them in the left Inn in Prontera). Fastest leveling and some money will be at Pinguicula. 
+
+#### Gunslinger
+[Recommended: Morisakura's Early Gunslinger Farm](https://discord.com/channels/702960460168953946/1543702504787673098)
+
+Gunslinger works a lot like Hunter and can start farming certain areas really quickly. With the right strategies, it has the potential to be just as effective as Hunter in the same applications.
+
+#### Super Novice
+[Recommended: Pirika's Super Novice Guide](https://discord.com/channels/702960460168953946/1453772909507121183)
+
+Super Novice, or (Suno) is a very unique class. There are a lot of interesting things you can do with it, but it may have a learning curve that isn't necessarily the easiest first character.
+
+
+---
 
 
 ## 🚀 Quick Start Guide
 This chapter focuses on leveling up to 50-60+ fast so you can become your second class soon. It can be done with any class, because it uses Mercenaries.
 
-They are a helpful tool for beginners because they offer quite some strength in early levels, but they drop off soon around level 60. That is when you can begin to stand on your own.
+Mercenaries are a helpful tool for beginners because they offer quite some strength in early levels, but they drop off soon around level 60. That is when you can begin to stand on your own.
 
+!!! note
+    This guide focuses on using mercenaries from the start. You can start immediately with [Repeatable EXP Quests](Repeatable_Quests.md) instead if you prefer.
 
 ### Create Your Character
 First decide which job you want to take. Then create a new character, choose name and hair style. Start.
 
 !!! note
-     Check your hairstyle in game, it might vary. You can change it freely [in Prontera at the Stylist](Custom_NPC.md) after the Novice Grounds.
+     Check your hairstyle in game, it might vary. You can change your hair style and color freely [in Prontera at the Stylist](Custom_NPC.md) later on. Changing cloth color costs zeny.
 
 
 ### Novice Grounds
@@ -213,7 +291,7 @@ Start with the [Novice Grounds](Remastered_Novice_Location.md). You can collect 
 
 
 ### First Class Job Change Quest
-Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job. [Read the Classes Job List](https://irowiki.org/classic/Classes).
+Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job. [Read the Classes Job List](https://irowiki.org/classic/Classes) and familiarize yourself with server [class changes](Class_Changes.md).
 
 
 ### Short Information about Mercenaries
@@ -231,7 +309,7 @@ There are three types of Mercenaries:
 ### Level 15 - 35
 After your job change, talk to the Kafra and warp to Prontera. We have 2 things to do there:
 
-1. Enter the [Main Office](Main_Office.md) (south-west from prontera fountain; left to where you spawn) and talk to the Platinum Skill NPC. You will receive the Quest Skills without further quest. At least Back Slide is something you might need.
+1. Enter the [Main Office](Main_Office.md) (south-west from prontera fountain; left to where you spawn) and talk to the Platinum Skill NPC. You will receive the Quest Skills without further quest. For example: As a Thief, you want Back Slide and as Merchant you want Cart Revolution.
 2. Go to the north-west corner of Prontera and talk to the Mercenary Manager.
 
 !!! Hint
@@ -242,14 +320,14 @@ That’s what you saved up 7k zeny for: Hire Mercenary -> 1st Grade Spear Mercen
 !!! Hint
      If you have some more zeny, you can talk to the Mercenary Merchant left of it and buy one Mercenary Concentration Potion.
 
-After you picked up the Skills and one Scroll, go back to any Kafra (or use one of your Novice Butterfly Wings). There are a few areas to go now, I recommend going to Spores, one map south of Payon. Now let your mercenary rage on for 30 minutes. Do not attack on your own, because you risk dying and losing your mercenary.
+After you picked up the Skills and one Scroll, go back to any Kafra (or use one of your Novice Butterfly Wings if you saved in town already). There are a few areas to go now, I recommend going to Spores, one map south of Payon. Now let your mercenary rage on for 30 minutes. Do not attack on your own, because you risk dying and losing your mercenary.
 
 After that, you will be level 25 or higher and have some Strawberry.  
 
 Sell these to players using `@wb Strawberry`. Every single one of them will give you more than 1k zeny and provide enough funds to buy your next Scroll: go to Prontera, buy a level 2 scroll, and go back to Payon. Repeat this until you are level 35.
 
 !!! Hint
-     A level 2 Spearman can survive at Wolves (2 maps south of payon) for a while. They will die but kill some of them. This is faster EXP, but you might need a new one sooner.
+     A level 2 Spearman can survive at Wolves (2 maps south of Payon) for a while. They will die but kill some of them. This is faster EXP, but you might need a new one sooner.
 
 
 ### Sidestep: Your first Merchant
@@ -279,12 +357,13 @@ Your Stat is still STR only for weight limit. After you hit job 24 you can let i
 
 
 ### Level 35+
-Once you hit base 35, go to Prontera and buy 1 - 2 level 3 Spearman Scrolls and restock some Fly Wings from the Tool Dealer. You should have enough Money to look for your first equipment now:  
+Once you hit base 35, go to Prontera and buy 1 - 2 level 3 Spearman Scrolls and restock some Fly Wings from the Tool Dealer. You should have enough zeny to look for your first equipment now:  
 
 `@ws Pantie` 
 `@ws Undershirt` 
 
 Now you can go to Wolves, two maps south of Payon. Your Mercenary can deal with them easily and well, and your job again is to move around so they can kill for you. Continue this for 30 minutes until your Mercenary expires. You should be around 45-50 now.
+
 An alternative leveling spot is Payon Cave first floor. Some of them are aggressive, so care for your life. And they do not provide good standard loot.
 
 
@@ -293,7 +372,7 @@ Either you go on for another round of Wolves to gather some Strawberries or you 
 
 It’s suggested to buy some Meat with your Merchant. It is heavy but the best item in terms of zeny to health ratio.
 
-You can go to Morroc and move to `/navi moc_fild17 208/346`, killing hodes, but watch out for Frilldoras. Don’t forget to take the [Repeatable EXP Quest](Repeatable_Quests.md).
+You can go to Morroc and move to `/navi moc_fild17 208/346`, killing Hodes, but watch out for Frilldoras. Don’t forget to take the [Repeatable EXP Quest](Repeatable_Quests.md).
 
 Ideas for alternative leveling spots:  
 
@@ -319,8 +398,10 @@ Every class article in the external classic wiki has a job change guide included
 ### Leveling as Second Job
 You can continue with Mercenaries for a while, but soon you’ll have to level on your own. The how and where now depends a lot on your class, build and equipment. This is the point where the Quick Start Guide has to end. You can take a look in class specific guides and the Discord channels to find your way further.
 
-Once you’re 90+ you can give the Quick Rebirth Guide a read. With some preparation you can become 85+ in less than one hour after your rebirth.
+Once you’re 90+ you can give the [Quick Rebirth Guide](https://discord.com/channels/702960460168953946/1443235036999712811) a read. With some preparation you can become 85+ in less than one hour after your rebirth.
 
+
+---
 
 
 ## 💰 Beginner Money-Making
@@ -353,16 +434,21 @@ Sleeper drop GNs by 75%. Either sell them to players or split them yourself. The
 
 
 #### Split GNs
-As soon as you have basic funds, you can make the quest, buy some GNs (4k z or less) and split them. The Green Lives per GN sells for avg 5k to NPCs with Overcharge 10. It's a safe 20% return on investment. Just care for your mental health. Here, the Utan Shaman is much less chatty!
+As soon as you have basic funds, you can make the quest, buy some GNs from players (3,250z or less) and [split them](https://irowiki.org/wiki/Ore_Downgrading). The Green Lives per GN sells for avg 4k to NPCs on a Merchant with Overcharge 10. It's a safe 20% return on investment. Here, the Utan Shaman is much less chatty!
+
+!!! note
+    When you farm for items to sell to NPC, check the [Modified Sales Prices](Modified_Sales_Prices.md), as uaRO has some adjustments to item prices.
 
 
 ### Hill Winds 
-Bow classes can kill them onehit with DS and have a solid income by selling the standard loot to the NPC. Melee classes will have a hard time there because of the lack in range.
+Bow classes can kill these one-hit with DS and have a solid income by selling the standard loot to the NPC. Melee classes will have a hard time there because of the lack in range.
 
 
 ### Thors Volcano 2
 It’s hard to get there, but Knockers are easy to kill and they drop Thorny Buckler, Elven Ears and their card. 
 
+
+---
 
 
 ## 🔧 Notable Features
@@ -372,20 +458,17 @@ The chats **#main**, **#trade** and **#party** can be accessed everywhere by eve
 
 ![Main-chat](img/Beginner_Guide/main-chat.png)
 
-You can leave and join them with the [commands](Commands.md):  
-
-`@channel leave #main`
-`@channel join #main`
+You can easily control what channel you are on [with the command](Commands.md): `@channel`. 
 
 
 ### Selling and Stuff
 
-[ Learn about the Vendor System ](Vendor_System.md). The command `@autotrade` allows you to set up a store from a different account and play your main one:  
+[Learn about the Vendor System](Vendor_System.md). The command `@autotrade` allows you to set up a store from a different account and play your main one:  
 
 - Log into your trading account  
 - Open your store  
 - Type `@autotrade` or `@at` 
-- You get logged out while your merchant stays ingame  
+- You get logged out while your merchant stays in-game  
 - Log into your main (or other) account and play  
   
 To open a buying store, [you need to do a small quest](Vendor_System.md#create-a-buying-store).
@@ -397,10 +480,9 @@ To open a buying store, [you need to do a small quest](Vendor_System.md#create-a
 
 ### Bank System
 
-The second icon in the third row, or CTRL + B. You can store and transfer zeny between all your characters without a fee to everywhere. I recommend having at least some zeny on every character to use services like Kafra Storage and Teleport, but to store the main zeny in your bank account, so you can access it easily at any time.
+The second icon in the third row, or `CTRL + B`. You can store and transfer zeny between all your characters without a fee to everywhere. I recommend having at least some zeny on every character to use services like Kafra Storage and Teleport, but to store the main zeny in your bank account, so you can access it easily at any time.
 
-
-### Guild Storage
+### Guild Storage & Bank
 
 Requirements:  
 - ![714](img/Beginner_Guide/714.gif) Emperium   
@@ -414,11 +496,11 @@ How to do it:
 4. Level up “Guild Storage Expansion”
 5. Assign a rank with the “Strg Permit” to all characters, who shall access the guild storage
    
-Now you can easily share items between characters of different accounts.  
+Now you can easily share items between characters of different accounts. There is a guild bank NPC to share zeny found in the market and in Prontera.
 
 ### Replay and Screenshot for Reports and Troubleshooting
 
-**[ More informarion about Replay and Screenshot for Reports and Troubleshooting ](FAQ.md#screenshot-for-reports-and-troubleshooting)**
+**[ More information about Replay and Screenshot for Reports and Troubleshooting ](FAQ.md#screenshot-for-reports-and-troubleshooting)**
 
 
 ### Settings
@@ -454,10 +536,4 @@ Everything that is inside the box will be sent to your chat immediately. You can
 
 
 ### Game Settings
-You can change some settings ingame, but you have more and better options using the `setup.exe` in your uaRO folder. Just don’t push your screen resolution higher than 1920 x 1080 without having a workaround prepared.
-
-
-## 📜 Disclaimer
-Copyright – all rights reserved.
-
-This guide is made to help people. If you want to use any of it for your own work, feel free to do so. If you want to add something, feel free to do so. If you want to transport it to another server, feel free to do so.
+You can change some settings in-game, but you have more and better options using the `setup.exe` in your uaRO folder. Just don’t push your screen resolution higher than 1920 x 1080 without having a workaround prepared.
