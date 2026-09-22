@@ -1,4 +1,4 @@
-# 🏰 King of Emperium (KoE)
+# King of Emperium (KoE)
 
 **King of Emperium (KoE)** is a guild-based PvP event where guilds compete for control of the Emperium and the title of King of Emperium.
 
@@ -6,7 +6,7 @@ The main objective is to hold the Emperium for the longest duration during the e
 
 ---
 
-## ⏰ Schedule
+## Schedule
 
 KoE is held **twice per day** for **30 minutes** (Server Time - GMT):
 
@@ -20,7 +20,7 @@ There is no KoE on Sundays. There is a 5 minute timer announcement prior to the 
 
 ---
 
-## 🎟 Participation
+## Participation
 
 To participate, speak with the **Sir Albrecht** near the Prontera equipment shop.
 
@@ -34,7 +34,7 @@ To participate, speak with the **Sir Albrecht** near the Prontera equipment shop
   
 ---
 
-## ⚔️ Arena Mechanics
+## Arena Mechanics
 
 ### General Rules
 
@@ -55,7 +55,7 @@ To participate, speak with the **Sir Albrecht** near the Prontera equipment shop
 
 ---
 
-## 👑 Winning Condition
+## Winning Condition
 
 - The guild that holds the Emperium for the **longest continuous time** becomes the King of Emperium
 - Defense time is **not cumulative**
@@ -65,7 +65,7 @@ To participate, speak with the **Sir Albrecht** near the Prontera equipment shop
 
 ---
 
-## 🎁 Rewards
+## Rewards
 
 Rewards are distributed as follows:
 
@@ -79,7 +79,7 @@ Rewards will be automatically mailed to winners after the event ends.
 
 ---
 
-## 🏆 KoE Rankings
+## KoE Rankings
 
 Use `@koerank` to view:
 
