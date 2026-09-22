@@ -1,4 +1,4 @@
-# ⚔️ Battlegrounds
+# Battlegrounds
 
 Battlegrounds (BG) are team-based PvP matches where two teams compete to complete objectives and earn **Valor Badges**.
 
@@ -15,7 +15,7 @@ Join Battlegrounds from the **Battlegrounds NPC** in Prontera: `/navi prontera 1
 
 ---
 
-## 🕐 BG Happy Hour
+## BG Happy Hour
 
 Battlegrounds have **3 daily Happy Hours** (Server Time - GMT):
 
@@ -30,9 +30,9 @@ During Happy Hour, **Valor Badge rewards are doubled**. Use Happy Hour to get th
 
 ---
 
-## 🎮 Battleground Modes
+## Battleground Modes
 
-### 🏰 Tierra Gorge
+### Tierra Gorge
 
 Destroy the opposing team's **Food Storage**.
 
@@ -41,7 +41,7 @@ Destroy the opposing team's **Food Storage**.
 * Capture the **Neutrality Flag** to gain a forward position.
 * The team that destroys the enemy Food Storage wins.
 
-### 💎 Flavius
+### Flavius
 
 Destroy the opposing team's **Crystal**.
 
@@ -49,7 +49,7 @@ Destroy the opposing team's **Crystal**.
 * Destroying a Crystal scores a point.
 * The first team to reach **2 points** wins.
 
-### ⚔️ Team Deathmatch
+### Team Deathmatch
 
 Eliminate the opposing team.
 
@@ -57,7 +57,7 @@ Eliminate the opposing team.
 * Deaths are important, so stay with your team.
 * The team with the most surviving players wins if the timer expires.
 
-### 🚩 Capture the Flag
+### Capture the Flag
 
 Carry the enemy flag back to your team's base to score.
 
@@ -81,7 +81,7 @@ While carrying a flag:
 
 ---
 
-## 🏅 Rewards
+## Rewards
 
 Battlegrounds reward **Valor Badges** based on the match result.
 
@@ -95,7 +95,7 @@ These rewards apply to **Flavius, Team Deathmatch, and Capture the Flag**. -->
 
 ---
 
-## 🌟 Maroll's Blessing
+## Maroll's Blessing
 
 **Maroll's Blessing** provides a reward bonus for players who have not participated in Battlegrounds for a while.
 
@@ -103,7 +103,7 @@ If you have been away from BG for some time, you may receive **additional reward
 
 ---
 
-## 🛒 BG Shop
+## BG Shop
 
 The **BG Shop** is available through the Battlegrounds NPC in Prontera.
 
@@ -123,7 +123,7 @@ Some equipment purchased with Valor Badges can also be used outside Battleground
 
 ---
 
-## 🔧 Battleground Changes
+## Battleground Changes
 
 | Change | Description |
 | - | - |
@@ -136,7 +136,7 @@ Some equipment purchased with Valor Badges can also be used outside Battleground
 
 ---
 
-## 📢 BG Announcements
+## BG Announcements
 
 Battleground announcements can be muted from:
 
