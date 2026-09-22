@@ -7,6 +7,31 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "September 22"
+        **September 22, 2026**
+
+        - Scaraba Hole is now a Cat Hand destination for
+          19,000 zeny, and both floors joined the @mapexp
+          rotation.
+        - Splendide, Manuk and the Midgard Expedition Camp
+          now count as towns; the camp gained an inn with
+          Hobota and a Tool Dealer.
+        - Light of El Dicastes grants Return to El Dicastes
+          on a 16 minute 40 second cooldown.
+        - The 10 item cap on monster kill drops is lifted;
+          duplicates of the same card or gear still do not
+          stack.
+        - Queen Scaraba Card adds 100% of the target's MDEF
+          on top of your magic damage.
+        - Scarabas and Dolomedes added to Hunting Missions
+          and the Expanded Token Fragment drop table.
+        - Mercenaries are dismissed on castle entry; WoE SE
+          castles are unrestricted outside WoE hours.
+        - Fixes: Ahat's room Certificate check, Chesire's
+          Call now account-wide, School of Fish restored.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09222026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "September 15"
         **September 15, 2026**
 

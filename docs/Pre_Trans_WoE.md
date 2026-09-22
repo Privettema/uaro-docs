@@ -81,7 +81,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 - **All MVP cards have no effect**  
   (They can be equipped but provide no bonuses)
 - **Alliances are removed within castles during active Pre-Trans WoE**
-- Buffs applied by **Trans or Extended classes** are automatically removed upon castle entry
+- Buffs applied by **Trans or Extended classes** and all stat food buffs are automatically removed upon castle entry
 - Using **FCP outside castles** prior to entering Pre-Trans WoE is strictly forbidden and will result in a ban
 - `@GuildHP` can be toggled via `@settings`
 - Guild emblems **must be visible** to participate

@@ -47,8 +47,12 @@ The appearance and naming of these NPCs may vary by town.
 | El Dicastes | `/navi dic_in01 31/114` |
 | Manuk | — |
 | Splendide | — |
+| Midgard Expedition Camp | — |
 
 
 In the New World, **Inn Attendants** provide inn services in **El Dicastes**, **Manuk** and **Splendide**.
 
-There currently no inn in Louyang, or Umbala.
+The **Midgard Expedition Camp** also has an inn, with **Hobota** for [Hunting Missions](Hunting_Mission.md)
+and an [Enhanced Tool Dealer](Dealers.md#enhanced-tool-dealer).
+
+There is currently no inn in Louyang or Umbala.

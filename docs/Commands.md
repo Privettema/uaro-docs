@@ -204,7 +204,7 @@ These commands can speed up your interaction with storage for consumable and mis
   Configures quick store command for items to put into storage.
 
 ### Limitations
-- Only works inside towns  
+- Only works inside towns, including **Midgard Expedition Camp**, **Manuk** and **Splendide** in the New World  
 - Must be used within a Kafra (Card or NPC), storage must be open
 - Only works with consumable and miscellaneous items, does not work with equips
 - **Restock**: Works under 90% weight (current or target %) 
