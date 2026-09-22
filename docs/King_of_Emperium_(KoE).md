@@ -1,9 +1,4 @@
----
-hide:
-  - toc
----
-
-# 🏰 King of Emperium (KoE)
+# King of Emperium (KoE)
 
 **King of Emperium (KoE)** is a guild-based PvP event where guilds compete for control of the Emperium and the title of King of Emperium.
 
@@ -11,47 +6,47 @@ The main objective is to hold the Emperium for the longest duration during the e
 
 ---
 
-## ⏰ Schedule
+## Schedule
 
-KoE is held **three times per day** (Server Time — GMT):
+KoE is held **twice per day** for **30 minutes** (Server Time - GMT):
 
-- **16:00**
-- **22:00**
-- **06:00**
+1. **09:00** – **09:30**
+2. **21:00** – **21:30**
 
-### ⏳ Duration
-20 minutes
+There is no KoE on Sundays. There is a 5 minute timer announcement prior to the scheduled time.
+
+!!! note
+    Reminder you can check the current server time with `@time`.
 
 ---
 
-## 🎟 Participation
+## Participation
 
-To participate, speak with the **Koeer NPC** near Prontera Inn.
+To participate, speak with the **Sir Albrecht** near the Prontera equipment shop.
 
-![Koeer NPC](img/KoE/Sir-Albrecht.png)
+![KoE NPC](img/KoE/Sir-Albrecht.png)
 
-### 📋 Requirements
+### Requirements
 
 - You must be a guild member
 - Maximum **12 players (1 party)**
 - You must remain inside the arena for **at least 180 seconds** to receive rewards
-
+  
 ---
 
-## ⚔️ Arena Mechanics
+## Arena Mechanics
 
-### 🏟 General Rules
+### General Rules
 
 - The Emperium spawns **at the center of the arena at the start of the event**
 - **GvG reductions** are applied
 - **Battleground restrictions** apply
 - **BG consumables** are allowed
 - Respawn delay after death: **30 seconds**
-- Emergency Call is available (10-minute cooldown)
+- Emergency Call is available with a 10-minute cooldown
+- Ownership is reset every KoE 
 
----
-
-### 🧱 Barricade System
+### Barricade System
 
 - After consecutive Emperium breaks, **4 barricades** will spawn
 - Barricades function as protective walls
@@ -60,25 +55,17 @@ To participate, speak with the **Koeer NPC** near Prontera Inn.
 
 ---
 
-## 👑 Winning Condition
+## Winning Condition
 
 - The guild that holds the Emperium for the **longest continuous time** becomes the King of Emperium
 - Defense time is **not cumulative**
 - Defense must be **continuous**
 - If the current Emperium holder at the end of the event is not the longest defender, ownership will transfer to the guild with the longest continuous defense time
-- You can check the timer using the command: **@koerank**
+- You can check the timer using the command `@koerank`
 
 ---
 
-## 🔄 Reset Rules
-
-- At the next KoE schedule:
-  - Ownership is reset
-  - Rankings are reset
-
----
-
-## 🎁 Rewards
+## Rewards
 
 Rewards are distributed as follows:
 
@@ -86,8 +73,19 @@ Rewards are distributed as follows:
 - 🥈 **2nd Place — 30 Poring Coins**
 - 🥉 **3rd Place — 15 Poring Coins**
 
-Rewards are handed out **once per account** and **once per hardware ID**, so alts can no longer
-collect the same placement twice within the same match.
+Rewards are handed out **once per account** and **once per hardware ID**, so alts can no longer collect the same placement twice within the same match.
 
 Rewards will be automatically mailed to winners after the event ends.
+
+---
+
+## KoE Rankings
+
+Use `@koerank` to view:
+
+- Longest Emperium Defenders
+- Top Guilds by Kills
+- Top Players by Kills
+- Top Emperium Breakers
+
 **Good luck and have fun!**
