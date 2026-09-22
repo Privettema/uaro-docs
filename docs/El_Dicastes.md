@@ -69,8 +69,8 @@ Register first with **Adventure Clerk Rhawyne** (`/navi dic_in01 42/264`, entere
 
 !!! info "Return to El Dicastes"
     The **Light of El Dicastes** grants the skill **Return to El Dicastes**, which warps you back to the
-    city. It has a `16` minute `40` second cooldown and cannot be used in Battlegrounds, GvG, or on maps
-    where warping or teleporting is disabled.
+    city. It has a `10` minute cooldown and cannot be used in Battlegrounds, GvG, or on maps where
+    warping or teleporting is disabled.
 
 | NPC | Location | Function |
 |---|---|---|

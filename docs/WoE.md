@@ -147,7 +147,6 @@ WoE Tokens can be exchanged with the following NPCs, located **under the WoE sig
 - Guild Emblems must be visible and clearly identifiable to participate<br>
 - RODEX is now blocked<br>
 - Butterfly Wing teleport delay: using a Butterfly Wing, Novice Butterfly Wing, or Infinite Butterfly Wing on GvG maps (including castles during WoE and KoE) starts a `3` second countdown before you return to your save point, regardless of combat status.<br>
-- Mercenaries can no longer be used in WoE. Entering a castle dismisses your mercenary and returns the scroll to your inventory.<br>
 - Castle restrictions are applied when WoE starts and cleared when it ends. WoE SE castles are no longer restricted outside of WoE hours.<br>
 
 ### Item Restrictions:

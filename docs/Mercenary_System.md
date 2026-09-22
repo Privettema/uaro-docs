@@ -18,10 +18,6 @@ There are three types of mercenaries, each found in different towns:
 !!! note
      1-7  level of scroll can be placed in storage. 8-10  level of scroll can not and will be locked to character
 
-!!! warning "Not Available in WoE"
-     Mercenaries cannot be used in [War of Emperium](WoE.md). Entering a castle dismisses your mercenary and
-     returns the scroll to your inventory.
-
 ## :bar_chart: Leveling, Cost, and Loyalty
 
 ### :scroll: Contract Details

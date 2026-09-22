@@ -17,14 +17,14 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           now count as towns; the camp gained an inn with
           Hobota and a Tool Dealer.
         - Light of El Dicastes grants Return to El Dicastes
-          on a 16 minute 40 second cooldown.
+          on a 10 minute cooldown.
         - The 10 item cap on monster kill drops is lifted;
           duplicates of the same card or gear still do not
           stack.
         - Scarabas and Dolomedes added to Hunting Missions
           and the Expanded Token Fragment drop table.
-        - Mercenaries are dismissed on castle entry; WoE SE
-          castles are unrestricted outside WoE hours.
+        - WoE SE castles are no longer restricted outside
+          WoE hours.
         - Fixes: Ahat's room Certificate check, Chesire's
           Call now account-wide, School of Fish restored.
 
