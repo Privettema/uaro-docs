@@ -56,7 +56,7 @@
 | Gentle Heart [1] | 2978 | Accessory | STR +2<br>DEX +1<br>+5% damage to all races<br>Required level 90<br>Equippable by all Trans jobs except Novice |
 
 
-### Extended Classes
+## Extended Classes
 The following gear is equippable by all extended classes: Taekwon, Star Gladiator, Soul Linker, Ninja, and Gunslinger.
 
 | Armor Name | Equip Position |
@@ -93,16 +93,8 @@ The following gear is equippable by all extended classes: Taekwon, Star Gladiato
 | Wool Scarf [1] | Garment |
 | Magic Bible Vol. 1 | Shield |
 
-### Super Novice
-The following gear is equippable by Super Novice.
-
-| Item | Equip Position |
-|---|---|
-| Gentle Heart [1] | Accessory |
-| Wounded Heart [1] | Accessory |
-| Orlean's Glove [1] | Accessory |
-| Linen Glove [1] | Accessory |
-| Valkyrie Knife | Weapon |
+## Super Novice
+Super Novice can equip all armor listed as equippable by "All Transcendent Jobs" or similar.
 
 ## Cards
 | Card Name | Change Description |
@@ -111,3 +103,6 @@ The following gear is equippable by Super Novice.
 
 ### Renewal Cards
 Renewal enemies drop their cards as-is unless otherwise mentioned.
+
+## Reporting Issues
+Find an error or some item not mentioned here? Report it in [#wiki-errors on Discord](https://discord.com/channels/702960460168953946/1456450631584846011).

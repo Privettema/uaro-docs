@@ -1001,3 +1001,6 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
         </tbody>
     </table>
 </div>
+
+## Reporting Issues
+Find an error or some item not mentioned here? Report it in [#wiki-errors on Discord](https://discord.com/channels/702960460168953946/1456450631584846011).
