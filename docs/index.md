@@ -21,8 +21,6 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - The 10 item cap on monster kill drops is lifted;
           duplicates of the same card or gear still do not
           stack.
-        - Queen Scaraba Card adds 100% of the target's MDEF
-          on top of your magic damage.
         - Scarabas and Dolomedes added to Hunting Missions
           and the Expanded Token Fragment drop table.
         - Mercenaries are dismissed on castle entry; WoE SE
