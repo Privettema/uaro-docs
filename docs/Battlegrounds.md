@@ -6,6 +6,7 @@ Join Battlegrounds from the **Battlegrounds NPC** in Prontera: `/navi prontera 1
 
 * Check the NPC to see the **currently active BG**, join a match, or browse the **BG Shop**.
 * You can also use `@bg` to join the BG queue from anywhere.
+* Each mode has a minimum number of players that must queue before the round will start.
 * Once enough players have joined, you will automatically be placed into the match and warped to the BG map.
 * After the match, you will be returned to your **previous location**, not your save point.
 
