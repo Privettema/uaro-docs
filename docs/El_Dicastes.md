@@ -51,10 +51,14 @@ The [Warper](Warper_System.md) stops at the Midgard Expedition Camp. All travel 
 | Teleport - El Dicastes | `24,000` **Zeny** |
 | Teleport - Manuk / Mora / Eclage | `22,000` / `17,000` / `17,000` **Zeny** |
 | Teleport - Splendide | `17,000` **Zeny** |
+| Teleport - Scaraba Hole | `19,000` **Zeny** |
 
 Agents are located in El Dicastes (`/navi dicastes01 200/194`), Manuk, Splendide, Mora, Eclage and the camp.
 Midgard-city teleports are sold at the camp only, and a New World city must be visited on foot once before you
 can teleport to it. [**Inn Attendants**](Inns.md) are available in El Dicastes, Manuk and Splendide.
+**Scaraba Hole** is sold once you have visited the agent spot at the entrance to its first floor. The
+**Midgard Expedition Camp**, **Manuk** and **Splendide** count as towns, so town-only conveniences such as
+[`@restock`](Commands.md#restock-qstore-fast-storage) work there.
 
 ---
 
@@ -62,6 +66,11 @@ can teleport to it. [**Inn Attendants**](Inns.md) are available in El Dicastes, 
 
 Register first with **Adventure Clerk Rhawyne** (`/navi dic_in01 42/264`, entered through
 `/navi dicastes01 198/353`). Registration is free and gives you the **Light of El Dicastes**.
+
+!!! info "Return to El Dicastes"
+    The **Light of El Dicastes** grants the skill **Return to El Dicastes**, which warps you back to the
+    city. It has a `16` minute `40` second cooldown and cannot be used in Battlegrounds, GvG, or on maps
+    where warping or teleporting is disabled.
 
 | NPC | Location | Function |
 |---|---|---|
@@ -141,6 +150,9 @@ and Rake Scaraba teleport away when hit from range while idle. **Queen Scaraba**
 `1,304,459` HP) heals and summons escorts, silences the party below `80%` HP and takes only `25%` of the damage
 dealt to her.
 
+Both floors are part of the rotating bonus EXP zones, which you can check with
+[`@mapexp`](Commands.md#general-commands).
+
 !!! danger "Field Maps"
     **dic_fild01** and **dic_fild02** are full of aggressive Centipedes and Dolomedes that detect hiding and hit
     for up to `16,000`. Carry Fly Wings.
@@ -167,6 +179,7 @@ The following items drop only in Scaraba Hole.
 - **Imperial Spear** - `+20%` Shield Boomerang and Shield Charge damage, plus `+1%` each per refine.
 - **Imperial Guard** - MDEF `+5`, `+20%` Shield Chain damage plus `+1%` per refine. At `+8` or higher, Shield
   Chain's cast time is halved. With the **Imperial Spear**, Shield Chain costs `20` less SP.
+- **Bone Plate** - can be enchanted at the **Apprentice Craftsman** High Grade Armor service in Prontera.
 
 ### Queen Scaraba
 
@@ -180,8 +193,8 @@ The following items drop only in Scaraba Hole.
 | <img src="../img/4507.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Queen Scaraba Card** | `0.01%` |
 
 MVP drops: **Old Card Album** (`60%`), **Yggdrasilberry** (`60%`) or **Old Blue Box** (`90%`), plus `75,000` MVP
-EXP. **Queen Scaraba Card** grants `+30%` damage against all Scaraba Hole monsters and a small chance of a
-**Scaraba Scroll** from any kill.
+EXP. **Queen Scaraba Card** grants `+30%` damage against all Scaraba Hole monsters, adds `100%` of the
+target's MDEF on top of your magic damage, and gives a small chance of a **Scaraba Scroll** from any kill.
 
 ---
 
@@ -191,7 +204,7 @@ Four **untradeable and unrefinable** items, base level `75` to wear:
 
 | Item | Slot | Where | Bound to |
 |---|---|---|---|
-| **Light of El Dicastes** | Accessory | Free, from registration (it does not teleport you) | Your **character** |
+| **Light of El Dicastes** | Accessory | Free, from registration | Your **character** |
 | <img src="../img/2463.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Feral Boots** | Shoes | **Jahbong**, `/navi dic_fild01 228/159` - `1` Certificate | Your **account** |
 | <img src="../img/2564.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Feral Tail** | Garment | **Jahbong** - `1` Certificate | Your **account** |
 | **Golden Trinket** | Accessory | **Jahbong** - `1` Certificate | Your **account** |

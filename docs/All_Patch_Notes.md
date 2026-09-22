@@ -1,7 +1,8 @@
 # Patch Notes
 
 ## 2026
-**[🍂 September 15, 2026](patch-notes/2026/patches09152026.md) (⭐ Latest Patch ⭐)**<br>
+**[🍂 September 22, 2026](patch-notes/2026/patches09222026.md) (⭐ Latest Patch ⭐)**<br>
+[🍂 September 15, 2026](patch-notes/2026/patches09152026.md)<br>
 [🍂 September 8, 2026](patch-notes/2026/patches09082026.md)<br>
 [☀️ August 25, 2026](patch-notes/2026/patches08252026.md)<br>
 [☀️ August 18, 2026](patch-notes/2026/patches08182026.md)<br>

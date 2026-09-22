@@ -82,6 +82,7 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 | **Action Prompts** | Fishing and mining spots ask for confirmation instead of automatically activating. Default option will cancel the action. |
 | **Ninja Ammo Balance** | Cost and weight rebalanced for fairer gameplay. |
 | **Increased weight limit for rebirth** | Increased weight limit from 0 to 500. |
+| **On-Kill Drop Bonuses** | The 10 item cap on drop-on-kill items and cards is lifted. Duplicates of the same card or equipment still do not stack, only the highest chance applies. |
 
 
 ### Guild Refinements
