@@ -61,8 +61,11 @@ The site uses MkDocs admonitions for callout boxes. Preferred format:
 
 ### Patch Notes Structure
 - Individual patch files live in `docs/patch-notes/YYYY/patchesMMDDYYYY.md`
-- The main index `docs/All_Patch_Notes.md` lists all patches with links
-- Latest patch is marked with ⭐ in `All_Patch_Notes.md`
+- Each patch starts with front matter: `date: YYYY-MM-DD`, optional `hotfix: true`, and `highlights:` (3 to 5 short,
+  player-facing bullets, see `scripts/patch_highlights_prompt.md`)
+- `docs/All_Patch_Notes.md`, the per-year pages, the sidebar Archive and the home page preview are generated from the
+  patch files by `hooks/patch_notes.py`. Do not edit them by hand; a new patch is just a new dated file
+- A new year needs a copy of `docs/patch-notes/YYYY/index.md`
 - Patches include standard sections: General, Quality of Life, Items, NPC, Commands, Skills, Fixes, etc.
 
 ## Repository Architecture
@@ -76,7 +79,6 @@ The navigation structure is defined in the `nav:` section of `mkdocs.yml`. When 
 ### Custom Styling
 `docs/css/custom.css` contains page-specific styles:
 - `.class-changes-table` for `Class_Changes.md`
-- `#index-patch-notes` for `index.md` patch note tabs
 - `#main-features-cards` for feature cards
 - All styles use REM units (based on 16px) and CSS variables from the Material theme
 
