@@ -20,7 +20,7 @@ New to uaRO? Start here.
 
     The quality of life changes that set uaRO apart.
 
-- [**🎁 Guild Starter Support System**](../Guild-Starter-Support-System.md)
+- [**📢 Guild Starter Support System**](../Guild-Starter-Support-System.md)
 
     Extra help for newly created guilds.
 

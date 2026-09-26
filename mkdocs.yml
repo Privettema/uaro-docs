@@ -54,7 +54,7 @@ nav:
     - ⚙️ Commands: Commands.md
     - 🌱 Beginner Guide: Beginner_Guide.md
     - 🦋 QOL Improvements: Improvements.md
-    - 🎁 Guild Starter Support System: Guild-Starter-Support-System.md
+    - 📢 Guild Starter Support System: Guild-Starter-Support-System.md
     - 🛟 Troubleshooting: Troubleshooting.md
     - 💬 FAQ: FAQ.md
   - Features & Enhancements:
@@ -62,7 +62,7 @@ nav:
     - Key Features:
       - 🏡 Main Office: Main_Office.md
       - 🐱 Cute Pet System: Pet_System.md
-      - ⚔️ Hunting Missions: Hunting_Mission.md
+      - 🎯 Hunting Missions: Hunting_Mission.md
       - 💖 Poring Coin System: Poring_Coins_System.md
       - 🎉 Repeatable Quests: Repeatable_Quests.md
       - 💰 Vendor System: Vendor_System.md
@@ -92,7 +92,7 @@ nav:
       - 🗂️ Instance Guide: Instance_Guide.md
       - ⏳ Endless Cellar: Endless_Cellar.md
       - 🎁 Horror Toy Factory: Horror_Toy_Factory.md
-      - ⚔️ Eternal Bastion: Eternal_Bastion.md
+      - 🛡️ Eternal Bastion: Eternal_Bastion.md
       # - Wolfchev's Laboratory: Wolfchevs_Lab.md
       # - Sealed Shrine: Sealed_Shrine.md
     - New World:
@@ -108,7 +108,7 @@ nav:
     - 🏯 Pre-Trans WoE: Pre_Trans_WoE.md
     - 🏆 King of Emperium (KoE): King_of_Emperium_(KoE).md
     - ⚔️ PvP Arena: PvP_Arena.md
-    - 🫯 Battlegrounds: Battlegrounds.md
+    - 🚩 Battlegrounds: Battlegrounds.md
   # The sidebar for this tab (Latest Patches + yearly Archive) is generated from the patch files by hooks/patch_notes.py
   - Patch Notes: All_Patch_Notes.md
 

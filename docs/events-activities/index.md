@@ -36,7 +36,7 @@ Guild wars, PvP, scheduled events and games.
 
     Duel other players.
 
-- [**🫯 Battlegrounds**](../Battlegrounds.md)
+- [**🚩 Battlegrounds**](../Battlegrounds.md)
 
     Team matches for Valor Badges.
 
