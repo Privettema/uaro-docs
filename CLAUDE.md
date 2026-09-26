@@ -22,9 +22,10 @@ This validates the configuration and builds the static site. The build must comp
 
 ### Serve locally (if needed)
 ```bash
-mkdocs serve
+scripts/serve.sh
 ```
-This starts a local development server at `http://127.0.0.1:8000/`.
+This starts a local development server on a port unique to the checkout (8100-8999, printed on start), so several
+worktrees can serve at once. Plain `mkdocs serve` uses `http://127.0.0.1:8000/`, which only one checkout can hold.
 
 ### Check git status
 ```bash
