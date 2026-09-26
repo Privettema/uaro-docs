@@ -60,7 +60,7 @@ Seasonal events run for a limited time and may return in the future.
 
     Ended. May return in the future.
 
-- [**🎄 Christmas Event 2025**](../patch-notes/2025/Christmas_2025_Event_Guide.md)
+- [**🎄 Christmas Event 2025**](../Christmas_Event_2025.md)
 
     Ended. May return in the future.
 

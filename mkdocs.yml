@@ -122,7 +122,7 @@ nav:
     - Seasonal Festivals:
       - 🏖️ Summer Festival 2026: Summer_Event_2026.md
       - 🐰 Spring Festival 2026: Spring_Event_2026.md
-      - 🎄 Christmas Event 2025: patch-notes/2025/Christmas_2025_Event_Guide.md
+      - 🎄 Christmas Event 2025: Christmas_Event_2025.md
       - 🐠 Twilight Festival 2025: Twilight_Festival.md
   # The sidebar for this tab (Latest Patches + yearly Archive) is generated from the patch files by hooks/patch_notes.py
   - Patch Notes: All_Patch_Notes.md
@@ -201,6 +201,11 @@ markdown_extensions:
 # Plugins
 plugins:
   - search  # Built-in search functionality for MkDocs
+  - redirects:
+      redirect_maps:
+        # Pages moved out of patch-notes/. Keep old links working.
+        patch-notes/2025/Christmas_2025_Event_Guide.md: Christmas_Event_2025.md
+        patch-notes/2025/halloween2025.md: Halloween_Event_2025.md
 
 # Extra configurations (logo, favicon, social links, analytics)
 extra:
