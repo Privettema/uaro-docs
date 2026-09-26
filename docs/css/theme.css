@@ -1,0 +1,100 @@
+/* uaRO brand theme: purple, yellow and black (colours estimated from the logo, refine once exact values are sampled).
+   Dev Note: change brand colours here only. Everything else should use Material's --md-* variables. */
+
+:root {
+    --uaro-purple: #4b4fb5;
+    --uaro-purple-light: #a3a7ff;
+    --uaro-purple-dark: #35388a;
+    --uaro-yellow: #f7c600;
+    --uaro-yellow-dark: #b38f00;
+    --uaro-black: #111018;
+}
+
+/* Header and tabs: always dark with yellow highlights, in both colour schemes */
+[data-md-color-primary="custom"] {
+    --md-primary-fg-color: var(--uaro-black);
+    --md-primary-fg-color--light: var(--uaro-purple);
+    --md-primary-fg-color--dark: #000;
+    --md-primary-bg-color: #fff;
+    --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
+}
+
+[data-md-color-accent="custom"] {
+    --md-accent-fg-color: var(--uaro-purple);
+    --md-accent-fg-color--transparent: rgba(75, 79, 181, 0.1);
+    --md-accent-bg-color: #fff;
+    --md-accent-bg-color--light: rgba(255, 255, 255, 0.7);
+}
+
+/* Light scheme: white page, purple links (yellow is too light for text on white) */
+[data-md-color-scheme="default"] {
+    --md-typeset-a-color: var(--uaro-purple);
+    --md-default-bg-color: #fff;
+}
+
+/* Dark scheme: near-black page with a slight purple tint, light purple links, yellow accent */
+[data-md-color-scheme="slate"] {
+    --md-hue: 245;
+    --md-default-bg-color: #14131c;
+    --md-default-bg-color--light: rgba(20, 19, 28, 0.54);
+    --md-default-fg-color: rgba(255, 255, 255, 0.87);
+    --md-code-bg-color: #1c1b28;
+    --md-footer-bg-color: var(--uaro-black);
+    --md-footer-bg-color--dark: #000;
+    --md-typeset-a-color: var(--uaro-purple-light);
+    --md-accent-fg-color: var(--uaro-yellow);
+    --md-accent-fg-color--transparent: rgba(247, 198, 0, 0.1);
+}
+
+/* Yellow underline on the header bar, echoing the logo */
+.md-header {
+    border-bottom: 0.1875rem solid var(--uaro-yellow); /* 3px */
+}
+
+.md-header__title,
+.md-header__button.md-logo {
+    color: #fff;
+}
+
+/* Headings use the heavier weight of the body font */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+    font-weight: 800;
+    letter-spacing: -0.01em;
+}
+
+.md-typeset h1 {
+    color: var(--md-default-fg-color);
+}
+
+.md-typeset h2 {
+    border-bottom: 0.125rem solid var(--uaro-yellow); /* 2px */
+    padding-bottom: 0.25rem; /* 4px */
+}
+
+/* Active nav item and search highlight use the yellow accent */
+[data-md-color-scheme="slate"] .md-nav__item .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-nav__link:is(:focus, :hover) {
+    color: var(--uaro-yellow);
+}
+
+[data-md-color-scheme="default"] .md-nav__item .md-nav__link--active {
+    color: var(--uaro-purple);
+    font-weight: 700;
+}
+
+.md-typeset mark {
+    background-color: rgba(247, 198, 0, 0.35);
+    color: inherit;
+}
+
+/* Buttons and grid cards pick up the brand accent on hover */
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .md-button:hover {
+    border-color: var(--uaro-yellow);
+}
+
+.md-typeset .md-button {
+    border-radius: 0.5rem; /* 8px */
+}

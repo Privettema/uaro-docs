@@ -20,19 +20,21 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
+  font:
+    text: Nunito
   palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: black
-      accent: blue 
-    - scheme: slate 
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: black
-      accent: blue
+        name: Switch to light mode
+      primary: custom
+      accent: custom
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: custom
+      accent: custom
 
 # Navigation setup
 nav: 
@@ -198,6 +200,7 @@ extra:
     property: G-7XD6KF8G73
 
 extra_css:
+  - css/theme.css
   - css/custom.css
 
 extra_javascript:
