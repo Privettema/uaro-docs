@@ -64,6 +64,10 @@ Seasonal events run for a limited time and may return in the future.
 
     Ended. May return in the future.
 
+- [**🎃 Halloween Event 2025**](../Halloween_Event_2025.md)
+
+    Ended. May return in the future.
+
 - [**🐠 Twilight Festival 2025**](../Twilight_Festival.md)
 
     Ended. May return in the future.
