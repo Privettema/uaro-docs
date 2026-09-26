@@ -173,7 +173,7 @@ The following items drop only in Scaraba Hole.
 | <img src="../img/4505.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Scaraba Card** | Card | all four adult Scaraba | `0.05%` |
 
 - **Forbidden Grimoire** - ASPD `+5%`, INT `+2`. At `+7` or higher, `+20%` magic damage against Earth-element
-  targets. With a **Death Note**, `+10` MATK per refine of the Death Note and `-10%` cast time at `+10`.
+  targets. With a **Death Note**, `+1%` MATK per refine of the Death Note and `-10%` cast time at `+10`.
 - **Ghost Whisper** - STR `+3`. At `+7` or higher, `+10%` Meteor Assault damage. At `+9` or higher, a further
   STR `+2` and `+10%` Meteor Assault damage.
 - **Imperial Spear** - `+20%` Shield Boomerang and Shield Charge damage, plus `+1%` each per refine.
