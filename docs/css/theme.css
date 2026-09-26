@@ -61,15 +61,21 @@
 }
 
 /* Content links are always underlined so they are easy to spot */
-.md-typeset a:not(.headerlink):not(.md-button):not(.md-icon):not(.md-annotation__index) {
+.md-typeset a:not(.headerlink, .md-button, .md-icon, .md-annotation__index) {
     text-decoration: underline;
     text-decoration-thickness: 0.0625rem; /* 1px */
     text-underline-offset: 0.18em;
     text-decoration-color: color-mix(in srgb, currentcolor 45%, transparent);
 }
 
-.md-typeset a:not(.headerlink):not(.md-button):hover {
+.md-typeset a:not(.headerlink, .md-button):hover {
     text-decoration-color: currentcolor;
+}
+
+/* Content tab labels and card titles are already styled as controls, so they get no underline */
+.md-typeset .tabbed-labels a,
+.md-typeset .grid.cards > ul > li > p:first-child a {
+    text-decoration: none;
 }
 
 /* Headings */

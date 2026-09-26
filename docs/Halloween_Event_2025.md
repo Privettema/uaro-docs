@@ -95,12 +95,12 @@
 
     **Required materials:**
 
-    - 120 ![Bone](img/Halloween/bone.gif){ width="20" } Skelion Bone Fragment
-    - 300 ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
-    - 100 ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } Deviling Coins
-    - 250 ![Black Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul
-    - 25 ![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } Captured Soul
-    - 200 ![Pumpkin Cake](img/Halloween/PumpkinCake.png){ width="20" } Pumpkin Cake
+    - ![Bone](img/Halloween/bone.gif){ width="20" } 120 Skelion Bone Fragment
+    - ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 300 Halloween Coins
+    - ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 100 Deviling Coins
+    - ![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 250 Black Soul
+    - ![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } 25 Captured Soul
+    - ![Pumpkin Cake](img/Halloween/PumpkinCake.png){ width="20" } 200 Pumpkin Cake
     - `500,000` Zeny
 
     **Reward:** Scatelon Crate, containing the Scatelon pet.
@@ -180,21 +180,26 @@
 
 ??? note "All costume recipes"
 
-    | Tier | Costume | Slot | Materials |
-    |------|---------|------|-----------|
-    | Premium | **Spider Seduction** | Upper Headgear | 200 Halloween Coins + 80 Deviling Coins + 350 Black Soul + 35 Captured Soul + 400 Pumpkin Cake + 400k Zeny |
-    | Premium | **Camellia Demon Ribbon** | Upper Headgear | 200 Halloween Coins + 80 Deviling Coins + 380 Black Soul + 30 Captured Soul + 20 Red Transform Candy + 400k Zeny |
-    | High | **Halloween Pumpkin** | Lower Headgear | 190 Halloween Coins + 70 Deviling Coins + 280 Pumpkin Decor + 300 Black Soul + 100 Captured Soul + 200k Zeny |
-    | High | **Devil Whisper** | Mid Headgear | 180 Halloween Coins + 70 Deviling Coins + 320 Black Soul + 28 Captured Soul + 360 Pumpkin Decor + 400k Zeny |
-    | High | **Vampire Familiar** | Mid Headgear | 180 Halloween Coins + 70 Deviling Coins + 340 Black Soul + 32 Captured Soul + 360 Pumpkin Cake + 400k Zeny |
-    | Medium | **Zombie Mask** | Mid Headgear | 160 Halloween Coins + 65 Deviling Coins + 300 Black Soul + 25 Captured Soul + 200 Pumpkin Cake + 400k Zeny |
-    | Medium | **Witch's Pumpkin Hat** | Upper Headgear | 160 Halloween Coins + 65 Deviling Coins + 320 Black Soul + 28 Captured Soul + 400 Pumpkin Cake + 400k Zeny |
-    | Normal | **Jjakk** | Upper Headgear | 110 Halloween Coins + 40 Deviling Coins + 280 Pumpkin Decor + 180 Black Soul + 15 Captured Soul + 200k Zeny |
-    | Normal | **Pumpkin Poring Bag** | Backpack | 110 Halloween Coins + 40 Deviling Coins + 240 Pumpkin Cake + 160 Black Soul + 12 Captured Soul + 200k Zeny |
-    | Budget | **Blink Eyes Halloween** | Mid Headgear | 95 Halloween Coins + 35 Deviling Coins + 280 Cookie Bat + 140 Black Soul + 10 Captured Soul + 200k Zeny |
-    | Budget | **Jack Castle Bat** | Upper Headgear | 80 Halloween Coins + 25 Deviling Coins + 280 Cookie Bat + 240 Pumpkin Decor + 100 Black Soul + 100k Zeny |
-    | Budget | **Halloween Candy Hair** | Upper Headgear | 65 Halloween Coins + 20 Deviling Coins + 240 Cookie Bat + 200 Pumpkin Decor + 80 Black Soul + 100k Zeny |
-    | Budget | **Halloween Candypouch** | Lower Headgear | 65 Halloween Coins + 20 Deviling Coins + 240 Cookie Bat + 160 White Thin Stem + 65 Black Soul + 100k Zeny |
+    | Costume | Slot | Materials |
+    |---------|------|-----------|
+    | **Premium tier** | | |
+    | **Spider Seduction** | Upper Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 200 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 80 Deviling Coins<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 350 Black Soul<br>![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } 35 Captured Soul<br>![Pumpkin Cake](img/Halloween/PumpkinCake.png){ width="20" } 400 Pumpkin Cake<br>`400,000` Zeny |
+    | **Camellia Demon Ribbon** | Upper Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 200 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 80 Deviling Coins<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 380 Black Soul<br>![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } 30 Captured Soul<br>![Red Transform Candy](img/Halloween/TransCandyR.png){ width="20" } 20 Red Transform Candy<br>`400,000` Zeny |
+    | **High tier** | | |
+    | **Halloween Pumpkin** | Lower Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 190 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 70 Deviling Coins<br>![Pumpkin Decor](img/Halloween/PumpkinDecor.png){ width="20" } 280 Pumpkin Decor<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 300 Black Soul<br>![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } 100 Captured Soul<br>`200,000` Zeny |
+    | **Devil Whisper** | Mid Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 180 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 70 Deviling Coins<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 320 Black Soul<br>![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } 28 Captured Soul<br>![Pumpkin Decor](img/Halloween/PumpkinDecor.png){ width="20" } 360 Pumpkin Decor<br>`400,000` Zeny |
+    | **Vampire Familiar** | Mid Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 180 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 70 Deviling Coins<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 340 Black Soul<br>![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } 32 Captured Soul<br>![Pumpkin Cake](img/Halloween/PumpkinCake.png){ width="20" } 360 Pumpkin Cake<br>`400,000` Zeny |
+    | **Medium tier** | | |
+    | **Zombie Mask** | Mid Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 160 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 65 Deviling Coins<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 300 Black Soul<br>![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } 25 Captured Soul<br>![Pumpkin Cake](img/Halloween/PumpkinCake.png){ width="20" } 200 Pumpkin Cake<br>`400,000` Zeny |
+    | **Witch's Pumpkin Hat** | Upper Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 160 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 65 Deviling Coins<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 320 Black Soul<br>![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } 28 Captured Soul<br>![Pumpkin Cake](img/Halloween/PumpkinCake.png){ width="20" } 400 Pumpkin Cake<br>`400,000` Zeny |
+    | **Normal tier** | | |
+    | **Jjakk** | Upper Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 110 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 40 Deviling Coins<br>![Pumpkin Decor](img/Halloween/PumpkinDecor.png){ width="20" } 280 Pumpkin Decor<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 180 Black Soul<br>![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } 15 Captured Soul<br>`200,000` Zeny |
+    | **Pumpkin Poring Bag** | Backpack | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 110 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 40 Deviling Coins<br>![Pumpkin Cake](img/Halloween/PumpkinCake.png){ width="20" } 240 Pumpkin Cake<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 160 Black Soul<br>![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } 12 Captured Soul<br>`200,000` Zeny |
+    | **Budget tier** | | |
+    | **Blink Eyes Halloween** | Mid Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 95 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 35 Deviling Coins<br>![Cookie Bat](img/Halloween/CookieBat.gif){ width="20" } 280 Cookie Bat<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 140 Black Soul<br>![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } 10 Captured Soul<br>`200,000` Zeny |
+    | **Jack Castle Bat** | Upper Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 80 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 25 Deviling Coins<br>![Cookie Bat](img/Halloween/CookieBat.gif){ width="20" } 280 Cookie Bat<br>![Pumpkin Decor](img/Halloween/PumpkinDecor.png){ width="20" } 240 Pumpkin Decor<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 100 Black Soul<br>`100,000` Zeny |
+    | **Halloween Candy Hair** | Upper Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 65 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 20 Deviling Coins<br>![Cookie Bat](img/Halloween/CookieBat.gif){ width="20" } 240 Cookie Bat<br>![Pumpkin Decor](img/Halloween/PumpkinDecor.png){ width="20" } 200 Pumpkin Decor<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 80 Black Soul<br>`100,000` Zeny |
+    | **Halloween Candypouch** | Lower Headgear | ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 65 Halloween Coins<br>![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 20 Deviling Coins<br>![Cookie Bat](img/Halloween/CookieBat.gif){ width="20" } 240 Cookie Bat<br>![White Thin Stem](img/Halloween/whiteStem.png){ width="20" } 160 White Thin Stem<br>![Black Soul](img/Halloween/blackSoul.gif){ width="20" } 65 Black Soul<br>`100,000` Zeny |
 
 ![Costume Shop](img/Halloween/halloween-costumes.webp)
 
@@ -226,8 +231,8 @@
 
 **Cost per Spin:**
 
-- 5 ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } Deviling Coins
-- 5 ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
+- ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } 5 Deviling Coins
+- ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } 5 Halloween Coins
 - `100,000` Zeny
 
 ![Gacha Machine](img/Halloween/halloween-gatcha.webp)
@@ -258,39 +263,41 @@
 
 ---
 
-## Tips and FAQ
+## Tips
 
-??? tip "Tips by level"
+| Level | Suggested plan |
+|-------|----------------|
+| 50-70 | Start the main quest to unlock dailies, farm the fields for Skelion and Garling, and save coins for budget costumes (65-95). |
+| 70-90 | Farm Dungeon F1 for better spawn density, do all 4 Normal dailies, and start collecting materials for medium-tier costumes and the Scatelon quest. |
+| 95+ | Party up for Hard dailies in F2, farm Black Soul there, and aim for premium costumes. |
 
-    | Level | Suggested plan |
-    |-------|----------------|
-    | 50-70 | Start the main quest to unlock dailies, farm the fields for Skelion and Garling, and save coins for budget costumes (65-95). |
-    | 70-90 | Farm Dungeon F1 for better spawn density, do all 4 Normal dailies, and start collecting materials for medium-tier costumes and the Scatelon quest. |
-    | 95+ | Party up for Hard dailies in F2, farm Black Soul there, and aim for premium costumes. |
+- **Halloween Coins:** do all 4 dailies every day.
+- **Skelion materials:** farm the fields (`nif_fild01`/`nif_fild02`).
+- **Black Soul:** Ghost Cube in F1, or Disguiser and Pierrotzoist in F2.
+- **Pumpkin Decor and Cookie Bat:** Garling in the fields or F1.
 
-    - **Halloween Coins:** do all 4 dailies every day.
-    - **Skelion materials:** farm the fields (`nif_fild01`/`nif_fild02`).
-    - **Black Soul:** Ghost Cube in F1, or Disguiser and Pierrotzoist in F2.
-    - **Pumpkin Decor and Cookie Bat:** Garling in the fields or F1.
+---
 
-??? question "Frequently asked questions"
+## FAQ
 
-    **Can I do the main quest on multiple characters?**
-    No, only one character per account can complete it.
+**Can I do the main quest on multiple characters?**<br>
+No, only one character per account can complete it.
 
-    **Can all my characters do dailies?**
-    Yes, once the main quest is done on one character. Only one character can have an active daily at a time.
+**Can all my characters do dailies?**<br>
+Yes, once the main quest is done on one character. Only one character can have an active daily at a time.
 
-    **How many Scatelon pets can I get?**
-    One per account. It is the rarest pet of the event.
+**How many Scatelon pets can I get?**<br>
+One per account. It is the rarest pet of the event.
 
-    **Should I save coins or buy costumes now?**
-    If you want the Scatelon pet, keep 300 Halloween Coins for its quest. Costumes are permanent rewards.
+**Should I save coins or buy costumes now?**<br>
+If you want the Scatelon pet, keep 300 Halloween Coins for its quest. Costumes are permanent rewards.
 
-    **Is F2 soloable?**
-    The monsters are level 108-115 and very strong. Some classes can manage, but a party is strongly recommended.
+**Is F2 soloable?**<br>
+The monsters are level 108-115 and very strong. Some classes can manage, but a party is strongly recommended.
 
-    **Can I abandon and retake a daily?**
-    Yes, but you lose its progress, and you can only complete 4 per day.
+**Can I abandon and retake a daily?**<br>
+Yes, but you lose its progress, and you can only complete 4 per day.
+
+---
 
 **Happy Halloween!** 🎃
