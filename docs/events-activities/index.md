@@ -52,15 +52,19 @@ Seasonal events run for a limited time and may return in the future.
 
 <div class="grid cards" markdown>
 
-- [**🐰 Spring Festival 2026 (Ended)**](../Spring_Event_2026.md)
+- [**🏖️ Summer Festival 2026**](../Summer_Event_2026.md)
 
     Ended. May return in the future.
 
-- [**🏖️ Summer Festival 2026 (Ended)**](../Summer_Event_2026.md)
+- [**🐰 Spring Festival 2026**](../Spring_Event_2026.md)
 
     Ended. May return in the future.
 
-- [**🐠 Twilight Festival 2025 (Ended)**](../Twilight_Festival.md)
+- [**🎄 Christmas Event 2025**](../patch-notes/2025/Christmas_2025_Event_Guide.md)
+
+    Ended. May return in the future.
+
+- [**🐠 Twilight Festival 2025**](../Twilight_Festival.md)
 
     Ended. May return in the future.
 

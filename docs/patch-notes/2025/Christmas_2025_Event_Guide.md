@@ -1,5 +1,9 @@
 # Christmas 2025 Event Guide
 
+!!! warning "Event Concluded"
+    The Christmas Event 2025 has ended. All Christmas activities and NPCs are gone for now, but the event may
+    return in the future.
+
 ![Christmas Event Cover](img/Christmas/christmas2025_cover.webp)
 
 Welcome to the Christmas Event! Here's everything you need to know.

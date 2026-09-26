@@ -2,16 +2,21 @@
 
 Pages in the nav are listed with the section they live in. Pages that exist but are not in the nav
 (for example sub-pages linked from other pages) are listed too, so removing something from the sidebar
-never makes it unfindable. Patch notes and Dev pages are skipped.
+never makes it unfindable. Individual patch notes and Dev pages are skipped.
 """
 import re
 from collections import defaultdict
 
 PLACEHOLDER = "<!-- ALL_PAGES -->"
-SKIP_PREFIXES = ("patch-notes/", "Dev/")
+SKIP_PREFIXES = ("Dev/",)
 SKIP_FILES = {"all-pages.md"}
 
 _nav_titles = {}
+
+
+def _is_patch(file):
+    """The individual patch notes have their own listing under Patch Notes."""
+    return re.match(r"patch-notes/\d{4}/(patches|index)", file.src_uri) is not None
 
 
 def _is_hub(file):
@@ -46,7 +51,7 @@ def on_page_markdown(markdown, page, config, files):
     entries = []
     for file in files.documentation_pages():
         uri = file.src_uri
-        if uri in SKIP_FILES or uri.startswith(SKIP_PREFIXES) or _is_hub(file):
+        if uri in SKIP_FILES or uri.startswith(SKIP_PREFIXES) or _is_hub(file) or _is_patch(file):
             continue
         if uri in _nav_titles:
             title, section = _nav_titles[uri]
