@@ -18,7 +18,7 @@ theme:
     - navigation.instant
     - navigation.indexes
     - navigation.path
-    - toc.follow
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs
