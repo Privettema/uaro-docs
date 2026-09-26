@@ -22,6 +22,7 @@ import re
 RECENT = 8
 SKIP_TAGS = ("we need your support", "important")
 TAGS_SHOWN = 4
+MAX_TAG = 28  # longer headings are descriptive sentences, not topics
 SEASONS = {12: "❄️", 1: "❄️", 2: "❄️", 3: "🌸", 4: "🌸", 5: "🌸", 6: "☀️", 7: "☀️", 8: "☀️", 9: "🍂", 10: "🍂", 11: "🍂"}
 
 _patches = []  # newest first
@@ -43,7 +44,7 @@ def _tags(text):
     for heading in re.findall(r"^## (.+)$", text, re.MULTILINE):
         name = re.sub(r"^[^A-Za-z0-9]+", "", heading.replace("*", "")).strip()
         name = re.sub(r"[^A-Za-z0-9)]+$", "", name)
-        if name and not name.lower().startswith(SKIP_TAGS) and name not in tags:
+        if name and len(name) <= MAX_TAG and not name.lower().startswith(SKIP_TAGS) and name not in tags:
             tags.append(name)
     return tags[:TAGS_SHOWN]
 
