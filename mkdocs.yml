@@ -6,7 +6,8 @@ site_url: https://wiki.uaro.net
 
 # Theme configuration
 theme:
-  logo: img/logo.png
+  logo: img/logo-horizontal.webp
+  favicon: img/favicon.ico
   name: material
   features:
     - navigation.top
@@ -20,19 +21,21 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
+  font:
+    text: Inter
   palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: black
-      accent: blue 
-    - scheme: slate 
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: black
-      accent: blue
+        name: Switch to light mode
+      primary: custom
+      accent: custom
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: custom
+      accent: custom
 
 # Navigation setup
 nav: 
@@ -198,6 +201,7 @@ extra:
     property: G-7XD6KF8G73
 
 extra_css:
+  - css/theme.css
   - css/custom.css
 
 extra_javascript:

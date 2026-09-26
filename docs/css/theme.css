@@ -1,0 +1,297 @@
+/* uaRO brand theme: purple first, with yellow used sparingly for small highlights.
+   Dev Note: change brand colours here only. Everything else should use Material's --md-* variables. */
+
+:root {
+    --uaro-ink: #1b1b25;          /* near-black, page background in dark mode */
+    --uaro-purple: #3f46ab;       /* main brand colour */
+    --uaro-purple-dark: #2d3382;
+    --uaro-purple-light: #cdcff2; /* tints, dark-mode links and surfaces */
+    --uaro-purple-tint: #eceefb;  /* very light surface for light mode */
+    --uaro-yellow: #ffcf00;       /* accent only: highlights, key buttons */
+}
+
+/* Header and tabs: purple in both colour schemes */
+[data-md-color-primary="custom"] {
+    --md-primary-fg-color: var(--uaro-purple);
+    --md-primary-fg-color--light: var(--uaro-purple-light);
+    --md-primary-fg-color--dark: var(--uaro-purple-dark);
+    --md-primary-bg-color: #fff;
+    --md-primary-bg-color--light: rgba(255, 255, 255, 0.75);
+}
+
+[data-md-color-accent="custom"] {
+    --md-accent-fg-color: var(--uaro-purple);
+    --md-accent-fg-color--transparent: rgba(63, 70, 171, 0.1);
+    --md-accent-bg-color: #fff;
+    --md-accent-bg-color--light: rgba(255, 255, 255, 0.75);
+}
+
+/* Light scheme: white page, purple links and a soft purple tint for surfaces */
+[data-md-color-scheme="default"] {
+    --md-default-bg-color: #fff;
+    --md-typeset-a-color: var(--uaro-purple);
+    --md-code-bg-color: var(--uaro-purple-tint);
+    --md-typeset-table-color: rgba(63, 70, 171, 0.14);
+}
+
+/* Dark scheme: brand ink background, light purple links and accent */
+[data-md-color-scheme="slate"] {
+    --md-default-bg-color: var(--uaro-ink);
+    --md-default-bg-color--light: rgba(27, 27, 37, 0.54);
+    --md-default-fg-color: rgba(255, 255, 255, 0.87);
+    --md-code-bg-color: #262636;
+    --md-footer-bg-color: #14141c;
+    --md-footer-bg-color--dark: #0e0e14;
+    --md-typeset-a-color: var(--uaro-purple-light);
+    --md-accent-fg-color: var(--uaro-purple-light);
+    --md-accent-fg-color--transparent: rgba(205, 207, 242, 0.1);
+    --md-typeset-table-color: rgba(205, 207, 242, 0.14);
+}
+
+/* Dark mode header is deeper purple so it does not glare against the dark page */
+[data-md-color-scheme="slate"] .md-header,
+[data-md-color-scheme="slate"] .md-tabs {
+    background-color: var(--uaro-purple-dark);
+}
+
+/* Logo in the header: the horizontal logo is wider than Material's default icon slot */
+.md-header__button.md-logo img {
+    height: 2rem; /* 32px */
+    width: auto;
+}
+
+/* Content links are always underlined so they are easy to spot */
+.md-typeset a:not(.headerlink):not(.md-button):not(.md-icon):not(.md-annotation__index) {
+    text-decoration: underline;
+    text-decoration-thickness: 0.0625rem; /* 1px */
+    text-underline-offset: 0.18em;
+    text-decoration-color: color-mix(in srgb, currentcolor 45%, transparent);
+}
+
+.md-typeset a:not(.headerlink):not(.md-button):hover {
+    text-decoration-color: currentcolor;
+}
+
+/* Headings */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+    font-weight: 700;
+    letter-spacing: -0.01em;
+}
+
+.md-typeset h1 {
+    color: var(--md-default-fg-color);
+}
+
+.md-typeset h2 {
+    border-bottom: 0.125rem solid var(--uaro-purple); /* 2px */
+    padding-bottom: 0.25rem; /* 4px */
+}
+
+[data-md-color-scheme="slate"] .md-typeset h2 {
+    border-bottom-color: var(--uaro-purple);
+}
+
+/* Nav: active item in brand purple, no yellow */
+[data-md-color-scheme="default"] .md-nav__item .md-nav__link--active {
+    color: var(--uaro-purple);
+    font-weight: 700;
+}
+
+[data-md-color-scheme="slate"] .md-nav__item .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-nav__link:is(:focus, :hover) {
+    color: var(--uaro-purple-light);
+}
+
+/* Yellow is reserved for small highlights: search matches and marked text */
+.md-typeset mark {
+    background-color: rgba(255, 207, 0, 0.4);
+    color: inherit;
+}
+
+/* Cards and buttons */
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .md-button:hover {
+    border-color: var(--uaro-purple);
+}
+
+.md-typeset .md-button {
+    border-radius: 0.5rem; /* 8px */
+}
+
+/* Admonitions (note, warning, ...): one hue per type, tuned to sit alongside the purple brand colour.
+   Note is the brand purple, warning is amber so it stays distinct from the brand yellow. */
+:root {
+    --adm-note: #3f46ab;
+    --adm-abstract: #2f6fd6;
+    --adm-info: #0b8fb5;
+    --adm-tip: #0e9f8a;
+    --adm-success: #2f9e44;
+    --adm-question: #6a9b1f;
+    --adm-warning: #d98200;
+    --adm-failure: #d64545;
+    --adm-danger: #c2255c;
+    --adm-bug: #a61e4d;
+    --adm-example: #a03fc9;
+    --adm-quote: #6b7280;
+}
+
+[data-md-color-scheme="slate"] {
+    --adm-note: #9096ee;
+    --adm-abstract: #6ea0ff;
+    --adm-info: #4cc3e0;
+    --adm-tip: #3ed1b8;
+    --adm-success: #5fd07a;
+    --adm-question: #a4d65a;
+    --adm-warning: #ffb238;
+    --adm-failure: #ff7b7b;
+    --adm-danger: #ff6b9a;
+    --adm-bug: #f783ac;
+    --adm-example: #d28aff;
+    --adm-quote: #9ca3af;
+}
+
+.md-typeset .admonition.note, .md-typeset details.note {
+    border-color: var(--adm-note);
+}
+
+.md-typeset .note > .admonition-title, .md-typeset .note > summary {
+    background-color: color-mix(in srgb, var(--adm-note) 12%, transparent);
+}
+
+.md-typeset .note > .admonition-title::before, .md-typeset .note > summary::before {
+    background-color: var(--adm-note);
+}
+
+.md-typeset .admonition.abstract, .md-typeset details.abstract, .md-typeset .admonition.summary, .md-typeset details.summary, .md-typeset .admonition.tldr, .md-typeset details.tldr {
+    border-color: var(--adm-abstract);
+}
+
+.md-typeset .abstract > .admonition-title, .md-typeset .abstract > summary, .md-typeset .summary > .admonition-title, .md-typeset .summary > summary, .md-typeset .tldr > .admonition-title, .md-typeset .tldr > summary {
+    background-color: color-mix(in srgb, var(--adm-abstract) 12%, transparent);
+}
+
+.md-typeset .abstract > .admonition-title::before, .md-typeset .abstract > summary::before, .md-typeset .summary > .admonition-title::before, .md-typeset .summary > summary::before, .md-typeset .tldr > .admonition-title::before, .md-typeset .tldr > summary::before {
+    background-color: var(--adm-abstract);
+}
+
+.md-typeset .admonition.info, .md-typeset details.info, .md-typeset .admonition.todo, .md-typeset details.todo {
+    border-color: var(--adm-info);
+}
+
+.md-typeset .info > .admonition-title, .md-typeset .info > summary, .md-typeset .todo > .admonition-title, .md-typeset .todo > summary {
+    background-color: color-mix(in srgb, var(--adm-info) 12%, transparent);
+}
+
+.md-typeset .info > .admonition-title::before, .md-typeset .info > summary::before, .md-typeset .todo > .admonition-title::before, .md-typeset .todo > summary::before {
+    background-color: var(--adm-info);
+}
+
+.md-typeset .admonition.tip, .md-typeset details.tip, .md-typeset .admonition.hint, .md-typeset details.hint, .md-typeset .admonition.important, .md-typeset details.important {
+    border-color: var(--adm-tip);
+}
+
+.md-typeset .tip > .admonition-title, .md-typeset .tip > summary, .md-typeset .hint > .admonition-title, .md-typeset .hint > summary, .md-typeset .important > .admonition-title, .md-typeset .important > summary {
+    background-color: color-mix(in srgb, var(--adm-tip) 12%, transparent);
+}
+
+.md-typeset .tip > .admonition-title::before, .md-typeset .tip > summary::before, .md-typeset .hint > .admonition-title::before, .md-typeset .hint > summary::before, .md-typeset .important > .admonition-title::before, .md-typeset .important > summary::before {
+    background-color: var(--adm-tip);
+}
+
+.md-typeset .admonition.success, .md-typeset details.success, .md-typeset .admonition.check, .md-typeset details.check, .md-typeset .admonition.done, .md-typeset details.done {
+    border-color: var(--adm-success);
+}
+
+.md-typeset .success > .admonition-title, .md-typeset .success > summary, .md-typeset .check > .admonition-title, .md-typeset .check > summary, .md-typeset .done > .admonition-title, .md-typeset .done > summary {
+    background-color: color-mix(in srgb, var(--adm-success) 12%, transparent);
+}
+
+.md-typeset .success > .admonition-title::before, .md-typeset .success > summary::before, .md-typeset .check > .admonition-title::before, .md-typeset .check > summary::before, .md-typeset .done > .admonition-title::before, .md-typeset .done > summary::before {
+    background-color: var(--adm-success);
+}
+
+.md-typeset .admonition.question, .md-typeset details.question, .md-typeset .admonition.help, .md-typeset details.help, .md-typeset .admonition.faq, .md-typeset details.faq {
+    border-color: var(--adm-question);
+}
+
+.md-typeset .question > .admonition-title, .md-typeset .question > summary, .md-typeset .help > .admonition-title, .md-typeset .help > summary, .md-typeset .faq > .admonition-title, .md-typeset .faq > summary {
+    background-color: color-mix(in srgb, var(--adm-question) 12%, transparent);
+}
+
+.md-typeset .question > .admonition-title::before, .md-typeset .question > summary::before, .md-typeset .help > .admonition-title::before, .md-typeset .help > summary::before, .md-typeset .faq > .admonition-title::before, .md-typeset .faq > summary::before {
+    background-color: var(--adm-question);
+}
+
+.md-typeset .admonition.warning, .md-typeset details.warning, .md-typeset .admonition.caution, .md-typeset details.caution, .md-typeset .admonition.attention, .md-typeset details.attention {
+    border-color: var(--adm-warning);
+}
+
+.md-typeset .warning > .admonition-title, .md-typeset .warning > summary, .md-typeset .caution > .admonition-title, .md-typeset .caution > summary, .md-typeset .attention > .admonition-title, .md-typeset .attention > summary {
+    background-color: color-mix(in srgb, var(--adm-warning) 12%, transparent);
+}
+
+.md-typeset .warning > .admonition-title::before, .md-typeset .warning > summary::before, .md-typeset .caution > .admonition-title::before, .md-typeset .caution > summary::before, .md-typeset .attention > .admonition-title::before, .md-typeset .attention > summary::before {
+    background-color: var(--adm-warning);
+}
+
+.md-typeset .admonition.failure, .md-typeset details.failure, .md-typeset .admonition.fail, .md-typeset details.fail, .md-typeset .admonition.missing, .md-typeset details.missing {
+    border-color: var(--adm-failure);
+}
+
+.md-typeset .failure > .admonition-title, .md-typeset .failure > summary, .md-typeset .fail > .admonition-title, .md-typeset .fail > summary, .md-typeset .missing > .admonition-title, .md-typeset .missing > summary {
+    background-color: color-mix(in srgb, var(--adm-failure) 12%, transparent);
+}
+
+.md-typeset .failure > .admonition-title::before, .md-typeset .failure > summary::before, .md-typeset .fail > .admonition-title::before, .md-typeset .fail > summary::before, .md-typeset .missing > .admonition-title::before, .md-typeset .missing > summary::before {
+    background-color: var(--adm-failure);
+}
+
+.md-typeset .admonition.danger, .md-typeset details.danger, .md-typeset .admonition.error, .md-typeset details.error {
+    border-color: var(--adm-danger);
+}
+
+.md-typeset .danger > .admonition-title, .md-typeset .danger > summary, .md-typeset .error > .admonition-title, .md-typeset .error > summary {
+    background-color: color-mix(in srgb, var(--adm-danger) 12%, transparent);
+}
+
+.md-typeset .danger > .admonition-title::before, .md-typeset .danger > summary::before, .md-typeset .error > .admonition-title::before, .md-typeset .error > summary::before {
+    background-color: var(--adm-danger);
+}
+
+.md-typeset .admonition.bug, .md-typeset details.bug {
+    border-color: var(--adm-bug);
+}
+
+.md-typeset .bug > .admonition-title, .md-typeset .bug > summary {
+    background-color: color-mix(in srgb, var(--adm-bug) 12%, transparent);
+}
+
+.md-typeset .bug > .admonition-title::before, .md-typeset .bug > summary::before {
+    background-color: var(--adm-bug);
+}
+
+.md-typeset .admonition.example, .md-typeset details.example {
+    border-color: var(--adm-example);
+}
+
+.md-typeset .example > .admonition-title, .md-typeset .example > summary {
+    background-color: color-mix(in srgb, var(--adm-example) 12%, transparent);
+}
+
+.md-typeset .example > .admonition-title::before, .md-typeset .example > summary::before {
+    background-color: var(--adm-example);
+}
+
+.md-typeset .admonition.quote, .md-typeset details.quote, .md-typeset .admonition.cite, .md-typeset details.cite {
+    border-color: var(--adm-quote);
+}
+
+.md-typeset .quote > .admonition-title, .md-typeset .quote > summary, .md-typeset .cite > .admonition-title, .md-typeset .cite > summary {
+    background-color: color-mix(in srgb, var(--adm-quote) 12%, transparent);
+}
+
+.md-typeset .quote > .admonition-title::before, .md-typeset .quote > summary::before, .md-typeset .cite > .admonition-title::before, .md-typeset .cite > summary::before {
+    background-color: var(--adm-quote);
+}
