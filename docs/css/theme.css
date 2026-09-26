@@ -301,3 +301,14 @@
 .md-typeset .quote > .admonition-title::before, .md-typeset .quote > summary::before, .md-typeset .cite > .admonition-title::before, .md-typeset .cite > summary::before {
     background-color: var(--adm-quote);
 }
+
+/* Cards on landing pages and the home page are clickable as a whole: the first link stretches over the card */
+.md-typeset .grid.cards > ul > li {
+    position: relative;
+}
+
+.md-typeset .grid.cards > ul > li a:first-of-type::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+}

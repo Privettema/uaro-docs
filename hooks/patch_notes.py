@@ -50,6 +50,32 @@ def _tags(text):
     return tags[:TAGS_SHOWN]
 
 
+def _highlights(text, per_section=3, max_sections=4):
+    """Pick a few named items from the first sections, e.g. ("NPC", ["Town Mapflags", ...]), for the home preview."""
+    body = re.sub(r"\A---\r?\n.*?\r?\n---\r?\n", "", text, flags=re.DOTALL)
+    result = []
+    for section in re.split(r"^## ", body, flags=re.MULTILINE)[1:]:
+        heading, _, rest = section.partition("\n")
+        name = re.sub(r"^[^A-Za-z0-9]+", "", heading.replace("*", "")).strip()
+        name = re.sub(r"^\d+\.\s*", "", name)
+        if not name or name.lower().startswith(SKIP_TAGS + ("fixes",)):
+            continue
+        items = []
+        for line in rest.split("\n"):
+            match = re.match(r"^\|\s*\*\*(.+?)\*\*\s*\|", line) or re.match(r"^\s*[-*]\s+\*\*(.+?)\*\*", line)
+            if match:
+                item = re.sub(r"[`*]", "", match.group(1)).strip().rstrip(":")
+                if item and len(item) <= 48:
+                    items.append(item)
+            if len(items) >= per_section:
+                break
+        if items:
+            result.append((name, items))
+        if len(result) >= max_sections:
+            break
+    return result
+
+
 def _scan(docs_dir):
     _patches.clear()
     root = os.path.join(docs_dir, "patch-notes")
@@ -71,6 +97,7 @@ def _scan(docs_dir):
                 "hotfix": meta.get("hotfix", "").lower() == "true",
                 "summary": meta.get("summary", ""),
                 "tags": _tags(text),
+                "highlights": _highlights(text),
             })
     _patches.sort(key=lambda p: (p["date"], p["uri"]), reverse=True)
 
@@ -131,15 +158,23 @@ def _latest(from_uri):
     return "\n".join(lines)
 
 
+HOME_PREVIEW = 3
+
+
 def _home(from_uri):
-    """One line for the home page: the latest patch, its topics, and a link to all patch notes."""
-    if not _patches:
-        return ""
-    latest = _patches[0]
-    topics = f" ({' · '.join(latest['tags'])})" if latest["tags"] else ""
+    """The home page preview: tabs for the latest patches, each with a few highlights and a link to the full notes."""
+    lines = []
+    for patch in _patches[:HOME_PREVIEW]:
+        date = patch["date"]
+        lines.append(f'=== "{date.strftime("%B")} {date.day}"\n')
+        lines.append(f"    **{_label(patch)}**\n")
+        for name, items in patch["highlights"]:
+            lines.append(f"    - **{name}:** {', '.join(items)}")
+        lines.append("")
+        lines.append(f"    [:octicons-arrow-right-24: Full patch notes]({_link(patch, from_uri)})\n")
     all_notes = os.path.relpath("All_Patch_Notes.md", os.path.dirname(from_uri) or ".")
-    return (f"**[{_label(latest)}]({_link(latest, from_uri)})**{topics}  \n"
-            f"[:octicons-arrow-right-24: All patch notes]({all_notes})")
+    lines.append(f"[:octicons-arrow-right-24: All patch notes]({all_notes})")
+    return "\n".join(lines)
 
 
 def _year(year, from_uri):
