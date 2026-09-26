@@ -56,6 +56,7 @@ nav:
     - ⭐ How to start: How_To_Start.md
     - ⚙️ Commands: Commands.md
     - 🌱 Beginner Guide: Beginner_Guide.md
+    - 📘 The Beginner's Guide: The_Beginner's_Guide.md
     - 🦋 QOL Improvements: Improvements.md
     - 📢 Guild Starter Support System: Guild-Starter-Support-System.md
     - 🛟 Troubleshooting: Troubleshooting.md
@@ -66,6 +67,8 @@ nav:
       - 🏡 Main Office: Main_Office.md
       - 🐱 Cute Pet System: Pet_System.md
       - 🎯 Hunting Missions: Hunting_Mission.md
+      - 🎀 Taming Gift Set: Taming_Gift_Set.md
+      - 💍 Jewelry Box: Jewelry_Box.md
       - 💖 Poring Coin System: Poring_Coins_System.md
       - 🎉 Repeatable Quests: Repeatable_Quests.md
       - 💰 Vendor System: Vendor_System.md
@@ -79,6 +82,7 @@ nav:
       - 🧚 Custom NPCs: Custom_NPC.md
       - 🎭 Costume Converter: Costume_Converter.md
       - 👒 Headgear Quests: Dimonka_Headgear_Quest.md
+      - 🐸 King Frog Hat: King_Frog_Hat.md
       - 🕥 Hourly Rewards: Hourly_Rewards_System.md
       - 👕 Item Changes: Item_Changes.md
       - 📦 Expanded Class Weapons: Expanded-Class-Weapons.md
@@ -86,6 +90,7 @@ nav:
       - 💎 Modified Sales Prices: Modified_Sales_Prices.md
       - 🗺️ Navigation System: Navigation_System.md
       - 🐣 Remastered Novice Grounds: Remastered_Novice_Location.md
+      - 🛠️ Build Manager NPC: Build-Manager-NPC.md
   - Dungeons & Instances:
     - dungeons-instances/index.md
     - Dungeons:
@@ -105,6 +110,7 @@ nav:
     - events-activities/index.md
     - 🎰 Roulette System: Roulette-System.md
     - 🎲 Comodo Casino: Comodo-Casino.md
+    - 🎫 Lottery: Lottery_NPC.md
     - 🍀 Auto Events: Auto_Events.md
     - 🐎 Hugel Mini Games: Hugel_Mini_Game.md
     - 🏰 War of Emperium: WoE.md
@@ -112,6 +118,10 @@ nav:
     - 🏆 King of Emperium (KoE): King_of_Emperium_(KoE).md
     - ⚔️ PvP Arena: PvP_Arena.md
     - 🚩 Battlegrounds: Battlegrounds.md
+    - Seasonal Festivals:
+      - 🐰 Spring Festival 2026: Spring_Event_2026.md
+      - 🏖️ Summer Festival 2026 (Ended): Summer_Event_2026.md
+      - 🐠 Twilight Festival 2025 (Ended): Twilight_Festival.md
   # The sidebar for this tab (Latest Patches + yearly Archive) is generated from the patch files by hooks/patch_notes.py
   - Patch Notes: All_Patch_Notes.md
 

@@ -1,6 +1,6 @@
-# The Twilight Festival
+# The Twilight Festival 2025
 
-!!! warning "The Twilight Festival has ended. Hope to see you again next summer!"
+!!! warning "The Twilight Festival 2025 has ended. It may return in the future."
 
 ![Twilight Festival](img/Twilight_Festival/twilight-cover@2x.webp)
 

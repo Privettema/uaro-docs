@@ -18,6 +18,14 @@ The main systems and services on uaRO, plus the improvements made to the standar
 
     Track monsters for zeny, EXP and Mission Points.
 
+- [**🎀 Taming Gift Set**](../Taming_Gift_Set.md)
+
+    A Hunting Mission reward that gives a random taming item.
+
+- [**💍 Jewelry Box**](../Jewelry_Box.md)
+
+    A Hunting Mission reward. Details coming soon.
+
 - [**💖 Poring Coin System**](../Poring_Coins_System.md)
 
     Earn and spend Poring Coins.
@@ -72,6 +80,10 @@ The main systems and services on uaRO, plus the improvements made to the standar
 
     Practical headgears from Dimonka.
 
+- [**🐸 King Frog Hat**](../King_Frog_Hat.md)
+
+    Craft the King Frog Hat.
+
 - [**🕥 Hourly Rewards**](../Hourly_Rewards_System.md)
 
     Playtime rewards on a timer.
@@ -99,5 +111,9 @@ The main systems and services on uaRO, plus the improvements made to the standar
 - [**🐣 Remastered Novice Grounds**](../Remastered_Novice_Location.md)
 
     The training ground for new characters.
+
+- [**🛠️ Build Manager NPC**](../Build-Manager-NPC.md)
+
+    Save and load stat and skill builds.
 
 </div>

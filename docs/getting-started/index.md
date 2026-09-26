@@ -16,6 +16,10 @@ New to uaRO? Start here.
 
     A player-written quick start guide for new adventurers.
 
+- [**📘 The Beginner's Guide**](../The_Beginner's_Guide.md)
+
+    What to expect when you first log in.
+
 - [**🦋 QOL Improvements**](../Improvements.md)
 
     The quality of life changes that set uaRO apart.
