@@ -14,6 +14,11 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.indexes
+    - navigation.path
     - toc.integrate
     - search.suggest
     - search.highlight
@@ -38,71 +43,82 @@ theme:
       accent: custom
 
 # Navigation setup
-nav: 
-  - 👋 Welcome to uaRO: index.md
-  - ℹ️ Server Information: Server_Info.md
-  - 📖 Server Rules ↗: https://uaro.net/cp/?module=service&action=tos
-  - 🌳 Donations: Donations.md 
-  - 🧵 Patch Notes: All_Patch_Notes.md 
-  - 🚀 Download uaRO ↗: https://www.uaro.net/cp/?module=service&action=downloads
-  - 👾 Join us on Discord ↗: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
-  - Getting Started: 
-    - ⭐ How to start: How_To_Start.md 
+nav:
+  - Welcome:
+    - index.md
+    - ℹ️ Server Information: Server_Info.md
+    - 📖 Server Rules ↗: https://uaro.net/cp/?module=service&action=tos
+    - 🌳 Donations: Donations.md
+    - 🚀 Download uaRO ↗: https://www.uaro.net/cp/?module=service&action=downloads
+    - 👾 Join us on Discord ↗: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
+    - 🔎 All Pages (A-Z): all-pages.md
+  - Getting Started:
+    - getting-started/index.md
+    - ⭐ How to start: How_To_Start.md
     - ⚙️ Commands: Commands.md
-    - 🌱 Beginner Guide: Beginner_Guide.md 
+    - 🌱 Beginner Guide: Beginner_Guide.md
     - 🦋 QOL Improvements: Improvements.md
-    - 🎁 Guild Starter Support System: Guild-Starter-Support-System.md
+    - 📢 Guild Starter Support System: Guild-Starter-Support-System.md
     - 🛟 Troubleshooting: Troubleshooting.md
     - 💬 FAQ: FAQ.md
-  - Key Features:
-    - 🏡 Main Office: Main_Office.md
-    - 🐱 Cute Pet System: Pet_System.md
-    - ⚔️ Hunting Missions: Hunting_Mission.md
-    - 💖 Poring Coin System: Poring_Coins_System.md
-    - 🎉 Repeatable Quests: Repeatable_Quests.md 
-    - 💰 Vendor System: Vendor_System.md
-    - 🌀 Warper System: Warper_System.md
-  - Enhancements: 
-    - 💤 Adventurer Inns: Inns.md
-    - 🔔 Attendance Rewards: Attendance_System.md
-    - 🎟️ Card Exchange: Card_Exchange.md 
-    - 🔮 Class Changes: Class_Changes.md
-    - 🍬 Convenient Dealers: Dealers.md
-    - 🧚 Custom NPCs: Custom_NPC.md
-    - 🎭 Costume Converter: Costume_Converter.md
-    - 👒 Headgear Quests: Dimonka_Headgear_Quest.md 
-    - 🕥 Hourly Rewards: Hourly_Rewards_System.md 
-    - 👕 Item Changes: Item_Changes.md
-    - 📦 Expanded Class Weapons: Expanded-Class-Weapons.md
-    - 🔪 Mercenary System: Mercenary_System.md 
-    - 💎 Modified Sales Prices: Modified_Sales_Prices.md 
-    - 🗺️ Navigation System: Navigation_System.md 
-    - 🐣 Remastered Novice Grounds: Remastered_Novice_Location.md 
-  - Dungeons: 
-    - 🧪 Biolabs 4: Biolab4.md 
-    - 👻 Old Glast Heim: Old_Glast_Heim.md
-  - Instances:
-    - 🗂️ Instance Guide: Instance_Guide.md
-    - ⏳ Endless Cellar: Endless_Cellar.md 
-    # - Endless Tower: Endless_Tower.md 
-    - 🎁 Horror Toy Factory: Horror_Toy_Factory.md 
-    - ⚔️ Eternal Bastion: Eternal_Bastion.md
-    # - Wolfchev's Laboratory: Wolfchevs_Lab.md 
-    # - Sealed Shrine: Sealed_Shrine.md
-  - New World:
-    # - New World Guide: New_World_Guide.md
-    - 🏛️ El Dicastes: El_Dicastes.md
+  - Features & Enhancements:
+    - features-enhancements/index.md
+    - Key Features:
+      - 🏡 Main Office: Main_Office.md
+      - 🐱 Cute Pet System: Pet_System.md
+      - 🎯 Hunting Missions: Hunting_Mission.md
+      - 💖 Poring Coin System: Poring_Coins_System.md
+      - 🎉 Repeatable Quests: Repeatable_Quests.md
+      - 💰 Vendor System: Vendor_System.md
+      - 🌀 Warper System: Warper_System.md
+    - Enhancements:
+      - 💤 Adventurer Inns: Inns.md
+      - 🔔 Attendance Rewards: Attendance_System.md
+      - 🎟️ Card Exchange: Card_Exchange.md
+      - 🔮 Class Changes: Class_Changes.md
+      - 🍬 Convenient Dealers: Dealers.md
+      - 🧚 Custom NPCs: Custom_NPC.md
+      - 🎭 Costume Converter: Costume_Converter.md
+      - 👒 Headgear Quests: Dimonka_Headgear_Quest.md
+      - 🕥 Hourly Rewards: Hourly_Rewards_System.md
+      - 👕 Item Changes: Item_Changes.md
+      - 📦 Expanded Class Weapons: Expanded-Class-Weapons.md
+      - 🔪 Mercenary System: Mercenary_System.md
+      - 💎 Modified Sales Prices: Modified_Sales_Prices.md
+      - 🗺️ Navigation System: Navigation_System.md
+      - 🐣 Remastered Novice Grounds: Remastered_Novice_Location.md
+  - Dungeons & Instances:
+    - dungeons-instances/index.md
+    - Dungeons:
+      - 🧪 Biolabs 4: Biolab4.md
+      - 👻 Old Glast Heim: Old_Glast_Heim.md
+    - Instances:
+      - 🗂️ Instance Guide: Instance_Guide.md
+      - ⏳ Endless Cellar: Endless_Cellar.md
+      - 🎁 Horror Toy Factory: Horror_Toy_Factory.md
+      - 🛡️ Eternal Bastion: Eternal_Bastion.md
+      # - Wolfchev's Laboratory: Wolfchevs_Lab.md
+      # - Sealed Shrine: Sealed_Shrine.md
+    - New World:
+      # - New World Guide: New_World_Guide.md
+      - 🏛️ El Dicastes: El_Dicastes.md
   - Events & Activities:
+    - events-activities/index.md
     - 🎰 Roulette System: Roulette-System.md
     - 🎲 Comodo Casino: Comodo-Casino.md
     - 🍀 Auto Events: Auto_Events.md
     - 🐎 Hugel Mini Games: Hugel_Mini_Game.md
     - 🏰 War of Emperium: WoE.md
     - 🏯 Pre-Trans WoE: Pre_Trans_WoE.md
-    - 🏆  King of Emperium (KoE): King_of_Emperium_(KoE).md
+    - 🏆 King of Emperium (KoE): King_of_Emperium_(KoE).md
     - ⚔️ PvP Arena: PvP_Arena.md
-    - 🫯 Battlegrounds: Battlegrounds.md
-  
+    - 🚩 Battlegrounds: Battlegrounds.md
+  - 🧵 Patch Notes: All_Patch_Notes.md
+
+# Build hooks
+hooks:
+  - hooks/all_pages.py
+
 # Markdown extensions
 markdown_extensions:
   # Table of contents with anchor links
