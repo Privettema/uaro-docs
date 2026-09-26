@@ -32,7 +32,7 @@ Dungeons, party instances and the New World.
 
     A sinister factory full of ghosts.
 
-- [**⚔️ Eternal Bastion**](../Eternal_Bastion.md)
+- [**🛡️ Eternal Bastion**](../Eternal_Bastion.md)
 
     100 waves and a random final boss.
 

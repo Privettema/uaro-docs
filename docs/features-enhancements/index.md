@@ -14,7 +14,7 @@ The main systems and services on uaRO, plus the improvements made to the standar
 
     Feeding, evolution, auto-feed and pet items.
 
-- [**⚔️ Hunting Missions**](../Hunting_Mission.md)
+- [**🎯 Hunting Missions**](../Hunting_Mission.md)
 
     Track monsters for zeny, EXP and Mission Points.
 

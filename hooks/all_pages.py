@@ -29,6 +29,11 @@ def on_nav(nav, config, files):
     return nav
 
 
+def _sort_key(title):
+    """Sort and group by the first letter or digit, ignoring any leading emoji or symbols."""
+    return re.sub(r"^[^A-Za-z0-9]+", "", title).lower()
+
+
 def _h1(file):
     match = re.search(r"^# (.+)$", file.content_string, re.MULTILINE)
     return match.group(1).strip() if match else None
@@ -52,8 +57,9 @@ def on_page_markdown(markdown, page, config, files):
         entries.append((title, section, uri))
 
     groups = defaultdict(list)
-    for title, section, uri in sorted(entries, key=lambda e: e[0].lower()):
-        letter = title[:1].upper() if title[:1].isalpha() else "#"
+    for title, section, uri in sorted(entries, key=lambda e: _sort_key(e[0])):
+        key = _sort_key(title)
+        letter = key[:1].upper() if key[:1].isalpha() else "#"
         groups[letter].append((title, section, uri))
 
     lines = []
