@@ -110,11 +110,16 @@ nav:
     - 🏆 King of Emperium (KoE): King_of_Emperium_(KoE).md
     - ⚔️ PvP Arena: PvP_Arena.md
     - 🫯 Battlegrounds: Battlegrounds.md
-  - 🧵 Patch Notes: All_Patch_Notes.md
+  - 🧵 Patch Notes:
+    - 🧵 Latest Patches: All_Patch_Notes.md
+    - 📅 2026: patch-notes/2026/index.md
+    - 📅 2025: patch-notes/2025/index.md
+    - 📅 2024: patch-notes/2024/index.md
 
 # Build hooks
 hooks:
   - hooks/all_pages.py
+  - hooks/patch_notes.py
 
 # Markdown extensions
 markdown_extensions:
