@@ -17,7 +17,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.tabs
-    - content.code.annotation
+    - content.code.annotate
     - content.code.copy
   language: en
   palette:
@@ -153,10 +153,6 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
 
-  # Critic markup for tracking changes
-  - pymdownx.critic:
-      mode: view
-
   # Collapsible sections
   - pymdownx.details
 
@@ -164,10 +160,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-  # Arithmatex for mathematical typesetting
-  - pymdownx.arithmatex:
-      generic: true
 
   # Support for content tabs
   - pymdownx.tabbed:
@@ -179,8 +171,6 @@ plugins:
 
 # Extra configurations (logo, favicon, social links, analytics)
 extra:
-  logo: img/logo.png  # Your custom logo
-  favicon: img/favicon.ico
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
@@ -199,9 +189,5 @@ extra:
 
 extra_css:
   - css/custom.css
-
-extra_javascript:
-  - javascripts/mathjax.js
-  - javascripts/tablesort.js
 
 copyright: © 2023-2026 World of Your Dream / uaRO

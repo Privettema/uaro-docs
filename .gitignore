@@ -173,3 +173,9 @@ AGENTS.md
 .github/copilot-instructions.md
 .copilotignore
 .vscode/settings.json
+
+# Local build environment and OS junk
+mkdocs-venv/
+.DS_Store
+Thumbs.db
+desktop.ini
