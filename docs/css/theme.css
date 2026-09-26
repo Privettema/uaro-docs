@@ -1,66 +1,82 @@
-/* uaRO brand theme: purple, yellow and black (colours estimated from the logo, refine once exact values are sampled).
+/* uaRO brand theme: purple first, with yellow used sparingly for small highlights.
    Dev Note: change brand colours here only. Everything else should use Material's --md-* variables. */
 
 :root {
-    --uaro-purple: #4b4fb5;
-    --uaro-purple-light: #a3a7ff;
-    --uaro-purple-dark: #35388a;
-    --uaro-yellow: #f7c600;
-    --uaro-yellow-dark: #b38f00;
-    --uaro-black: #111018;
+    --uaro-ink: #1b1b25;          /* near-black, page background in dark mode */
+    --uaro-purple: #3f46ab;       /* main brand colour */
+    --uaro-purple-dark: #2d3382;
+    --uaro-purple-light: #cdcff2; /* tints, dark-mode links and surfaces */
+    --uaro-purple-tint: #eceefb;  /* very light surface for light mode */
+    --uaro-yellow: #ffcf00;       /* accent only: highlights, key buttons */
 }
 
-/* Header and tabs: always dark with yellow highlights, in both colour schemes */
+/* Header and tabs: purple in both colour schemes */
 [data-md-color-primary="custom"] {
-    --md-primary-fg-color: var(--uaro-black);
-    --md-primary-fg-color--light: var(--uaro-purple);
-    --md-primary-fg-color--dark: #000;
+    --md-primary-fg-color: var(--uaro-purple);
+    --md-primary-fg-color--light: var(--uaro-purple-light);
+    --md-primary-fg-color--dark: var(--uaro-purple-dark);
     --md-primary-bg-color: #fff;
-    --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
+    --md-primary-bg-color--light: rgba(255, 255, 255, 0.75);
 }
 
 [data-md-color-accent="custom"] {
     --md-accent-fg-color: var(--uaro-purple);
-    --md-accent-fg-color--transparent: rgba(75, 79, 181, 0.1);
+    --md-accent-fg-color--transparent: rgba(63, 70, 171, 0.1);
     --md-accent-bg-color: #fff;
-    --md-accent-bg-color--light: rgba(255, 255, 255, 0.7);
+    --md-accent-bg-color--light: rgba(255, 255, 255, 0.75);
 }
 
-/* Light scheme: white page, purple links (yellow is too light for text on white) */
+/* Light scheme: white page, purple links and a soft purple tint for surfaces */
 [data-md-color-scheme="default"] {
-    --md-typeset-a-color: var(--uaro-purple);
     --md-default-bg-color: #fff;
+    --md-typeset-a-color: var(--uaro-purple);
+    --md-code-bg-color: var(--uaro-purple-tint);
+    --md-typeset-table-color: rgba(63, 70, 171, 0.14);
 }
 
-/* Dark scheme: near-black page with a slight purple tint, light purple links, yellow accent */
+/* Dark scheme: brand ink background, light purple links and accent */
 [data-md-color-scheme="slate"] {
-    --md-hue: 245;
-    --md-default-bg-color: #14131c;
-    --md-default-bg-color--light: rgba(20, 19, 28, 0.54);
+    --md-default-bg-color: var(--uaro-ink);
+    --md-default-bg-color--light: rgba(27, 27, 37, 0.54);
     --md-default-fg-color: rgba(255, 255, 255, 0.87);
-    --md-code-bg-color: #1c1b28;
-    --md-footer-bg-color: var(--uaro-black);
-    --md-footer-bg-color--dark: #000;
+    --md-code-bg-color: #262636;
+    --md-footer-bg-color: #14141c;
+    --md-footer-bg-color--dark: #0e0e14;
     --md-typeset-a-color: var(--uaro-purple-light);
-    --md-accent-fg-color: var(--uaro-yellow);
-    --md-accent-fg-color--transparent: rgba(247, 198, 0, 0.1);
+    --md-accent-fg-color: var(--uaro-purple-light);
+    --md-accent-fg-color--transparent: rgba(205, 207, 242, 0.1);
+    --md-typeset-table-color: rgba(205, 207, 242, 0.14);
 }
 
-/* Yellow underline on the header bar, echoing the logo */
-.md-header {
-    border-bottom: 0.1875rem solid var(--uaro-yellow); /* 3px */
+/* Dark mode header is deeper purple so it does not glare against the dark page */
+[data-md-color-scheme="slate"] .md-header,
+[data-md-color-scheme="slate"] .md-tabs {
+    background-color: var(--uaro-purple-dark);
 }
 
-.md-header__title,
-.md-header__button.md-logo {
-    color: #fff;
+/* Logo in the header: the horizontal logo is wider than Material's default icon slot */
+.md-header__button.md-logo img {
+    height: 2rem; /* 32px */
+    width: auto;
 }
 
-/* Headings use the heavier weight of the body font */
+/* Content links are always underlined so they are easy to spot */
+.md-typeset a:not(.headerlink):not(.md-button):not(.md-icon):not(.md-annotation__index) {
+    text-decoration: underline;
+    text-decoration-thickness: 0.0625rem; /* 1px */
+    text-underline-offset: 0.18em;
+    text-decoration-color: color-mix(in srgb, currentcolor 45%, transparent);
+}
+
+.md-typeset a:not(.headerlink):not(.md-button):hover {
+    text-decoration-color: currentcolor;
+}
+
+/* Headings */
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3 {
-    font-weight: 800;
+    font-weight: 700;
     letter-spacing: -0.01em;
 }
 
@@ -69,30 +85,35 @@
 }
 
 .md-typeset h2 {
-    border-bottom: 0.125rem solid var(--uaro-yellow); /* 2px */
+    border-bottom: 0.125rem solid var(--uaro-purple); /* 2px */
     padding-bottom: 0.25rem; /* 4px */
 }
 
-/* Active nav item and search highlight use the yellow accent */
-[data-md-color-scheme="slate"] .md-nav__item .md-nav__link--active,
-[data-md-color-scheme="slate"] .md-nav__link:is(:focus, :hover) {
-    color: var(--uaro-yellow);
+[data-md-color-scheme="slate"] .md-typeset h2 {
+    border-bottom-color: var(--uaro-purple);
 }
 
+/* Nav: active item in brand purple, no yellow */
 [data-md-color-scheme="default"] .md-nav__item .md-nav__link--active {
     color: var(--uaro-purple);
     font-weight: 700;
 }
 
+[data-md-color-scheme="slate"] .md-nav__item .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-nav__link:is(:focus, :hover) {
+    color: var(--uaro-purple-light);
+}
+
+/* Yellow is reserved for small highlights: search matches and marked text */
 .md-typeset mark {
-    background-color: rgba(247, 198, 0, 0.35);
+    background-color: rgba(255, 207, 0, 0.4);
     color: inherit;
 }
 
-/* Buttons and grid cards pick up the brand accent on hover */
+/* Cards and buttons */
 .md-typeset .grid.cards > ul > li:hover,
 .md-typeset .md-button:hover {
-    border-color: var(--uaro-yellow);
+    border-color: var(--uaro-purple);
 }
 
 .md-typeset .md-button {

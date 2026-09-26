@@ -6,7 +6,8 @@ site_url: https://wiki.uaro.net
 
 # Theme configuration
 theme:
-  logo: img/logo.png
+  logo: img/logo-horizontal.webp
+  favicon: img/favicon.ico
   name: material
   features:
     - navigation.top
@@ -21,7 +22,7 @@ theme:
     - content.code.copy
   language: en
   font:
-    text: Nunito
+    text: Inter
   palette:
     - scheme: slate
       toggle:
