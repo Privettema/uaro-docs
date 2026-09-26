@@ -28,6 +28,10 @@ Dungeons, party instances and the New World.
 
     Climb floor after floor with your party.
 
+- [**🗼 Endless Tower**](../Endless_Tower.md)
+
+    Coming soon.
+
 - [**🎁 Horror Toy Factory**](../Horror_Toy_Factory.md)
 
     A sinister factory full of ghosts.

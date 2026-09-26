@@ -52,9 +52,9 @@ Seasonal events run for a limited time and may return in the future.
 
 <div class="grid cards" markdown>
 
-- [**🐰 Spring Festival 2026**](../Spring_Event_2026.md)
+- [**🐰 Spring Festival 2026 (Ended)**](../Spring_Event_2026.md)
 
-    Eggrings, recipes and the Wandering Merchant.
+    Ended. May return in the future.
 
 - [**🏖️ Summer Festival 2026 (Ended)**](../Summer_Event_2026.md)
 
