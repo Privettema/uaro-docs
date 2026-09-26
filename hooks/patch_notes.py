@@ -25,7 +25,7 @@ TAGS_SHOWN = 4
 MAX_TAG = 28  # longer headings are descriptive sentences, not topics
 SEASONS = {12: "❄️", 1: "❄️", 2: "❄️", 3: "🌸", 4: "🌸", 5: "🌸", 6: "☀️", 7: "☀️", 8: "☀️", 9: "🍂", 10: "🍂", 11: "🍂"}
 
-_patches = []  # newest first
+_patches = []  # newest first, filled by _scan() when the config loads
 
 
 def _front_matter(text):
@@ -49,25 +49,52 @@ def _tags(text):
     return tags[:TAGS_SHOWN]
 
 
-def on_files(files, config):
+def _scan(docs_dir):
     _patches.clear()
-    for file in files.documentation_pages():
-        if not re.match(r"patch-notes/\d{4}/patches[^/]*\.md$", file.src_uri):
+    root = os.path.join(docs_dir, "patch-notes")
+    for year in sorted(os.listdir(root)) if os.path.isdir(root) else []:
+        folder = os.path.join(root, year)
+        if not (year.isdigit() and os.path.isdir(folder)):
             continue
-        text = file.content_string
-        meta = _front_matter(text)
-        if "date" not in meta:
-            continue
-        date = datetime.date.fromisoformat(meta["date"])
-        _patches.append({
-            "uri": file.src_uri,
-            "date": date,
-            "hotfix": meta.get("hotfix", "").lower() == "true",
-            "summary": meta.get("summary", ""),
-            "tags": _tags(text),
-        })
+        for name in os.listdir(folder):
+            if not (name.startswith("patches") and name.endswith(".md")):
+                continue
+            with open(os.path.join(folder, name), encoding="utf-8") as handle:
+                text = handle.read()
+            meta = _front_matter(text)
+            if "date" not in meta:
+                continue
+            _patches.append({
+                "uri": f"patch-notes/{year}/{name}",
+                "date": datetime.date.fromisoformat(meta["date"]),
+                "hotfix": meta.get("hotfix", "").lower() == "true",
+                "summary": meta.get("summary", ""),
+                "tags": _tags(text),
+            })
     _patches.sort(key=lambda p: (p["date"], p["uri"]), reverse=True)
-    return files
+
+
+def _nav_label(patch):
+    date = patch["date"]
+    emoji = "🔧" if patch["hotfix"] else SEASONS[date.month]
+    return f"{emoji} {date.strftime('%b')} {date.day}" + (" (Hotfix)" if patch["hotfix"] else "")
+
+
+def on_config(config):
+    """Build the sidebar for the Patch Notes tab from the files: Latest Patches, then an Archive of years.
+
+    The year holding the page you are reading is expanded; the other years stay collapsed but clickable.
+    """
+    _scan(config["docs_dir"])
+    for item in config["nav"]:
+        if isinstance(item, dict) and "Patch Notes" in item:
+            years = []
+            for year in sorted({p["date"].year for p in _patches}, reverse=True):
+                pages = [f"patch-notes/{year}/index.md"]
+                pages += [{_nav_label(p): p["uri"]} for p in _patches if p["date"].year == year]
+                years.append({str(year): pages})
+            item["Patch Notes"] = [{"Latest Patches": "All_Patch_Notes.md"}, {"Archive": years}]
+    return config
 
 
 def _label(patch):
@@ -120,6 +147,9 @@ def on_page_markdown(markdown, page, config, files):
         if patch["uri"] == uri:
             newer = _patches[i - 1] if i > 0 else None
             older = _patches[i + 1] if i + 1 < len(_patches) else None
+            # The nav label is a short "Sep 22"; keep the full date as the browser/page title.
+            long_date = _label(patch)[2:].replace(" (Hotfix)", "")
+            page.meta["title"] = f"{'Hotfix' if patch['hotfix'] else 'Patch Notes'} - {long_date}"
             parts = []
             if older:
                 parts.append(f"[← {_label(older)[2:]}]({_link(older, uri)})")
