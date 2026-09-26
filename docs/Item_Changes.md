@@ -61,7 +61,6 @@
 | Ghost Whisper [1] | 400396 | Upper Headgear | STR +3<br>At +7, +10% Meteor Assault damage<br>At +9, STR +2 and a further +10% Meteor Assault damage |
 | Imperial Guard [1] | 2153 | Shield | MDEF +5<br>Increases Shield Chain damage by 20%, plus 1% per refine<br>At +8, halves Shield Chain cast time |
 | Bone Plate | 15000 | Armor | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
-| Meteo Plate Armor [1] | 2364 | Armor | 30% Stun and Freeze resistance |
 | Feral Boots | 2463 | Footgear | Untradeable and unrefinable, account bound<br>Enchantable at the El Dicastes cat merchants |
 | Feral Tail | 2564 | Garment | Untradeable and unrefinable, account bound<br>Enchantable at the El Dicastes cat merchants |
 | Golden Trinket | 2842 | Accessory | Untradeable and unrefinable, account bound<br>Enchantable at the El Dicastes cat merchants |
