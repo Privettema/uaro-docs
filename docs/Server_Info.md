@@ -3,10 +3,10 @@
 ## Rates
 
 ### Basic Rates
-- x5 / x5 / x5
+--8<-- "server-facts.md:basic-rates"
 
 ### Weekend Rates
-- x7.5 / x7.5 / x5 - [Details](#about-weekend-rates)
+--8<-- "server-facts.md:weekend-rates"
 
 ### Static Rates
 - Normal Cards: x5 (0.05%)
@@ -16,8 +16,8 @@
 - Pet/Homunculus Intimacy: x3
 
 ## Details
-- Episode 13.1: Ash Vacuum
-- Server mode: Classic Pre-renewal
+--8<-- "server-facts.md:episode"
+--8<-- "server-facts.md:mode"
 - Max. Base Level / Job Level: 99/70
 - Max. Stats: 99
 - Max ASPD: 190

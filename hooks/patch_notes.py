@@ -10,6 +10,7 @@ Each patch file lives in docs/patch-notes/YYYY/ and starts with front matter:
 
 Placeholders replaced at build time:
     <!-- PATCH_LATEST -->     latest patch card + the most recent patches (All_Patch_Notes.md)
+    <!-- PATCH_HOME -->       the latest patch on one line, for the home page (index.md)
     <!-- PATCH_YEAR -->       every patch of the year, newest first (docs/patch-notes/YYYY/index.md)
 
 Every patch page also gets Previous / All / Next links appended. Adding a patch is just adding one dated file.
@@ -130,6 +131,17 @@ def _latest(from_uri):
     return "\n".join(lines)
 
 
+def _home(from_uri):
+    """One line for the home page: the latest patch, its topics, and a link to all patch notes."""
+    if not _patches:
+        return ""
+    latest = _patches[0]
+    topics = f" ({' · '.join(latest['tags'])})" if latest["tags"] else ""
+    all_notes = os.path.relpath("All_Patch_Notes.md", os.path.dirname(from_uri) or ".")
+    return (f"**[{_label(latest)}]({_link(latest, from_uri)})**{topics}  \n"
+            f"[:octicons-arrow-right-24: All patch notes]({all_notes})")
+
+
 def _year(year, from_uri):
     items = [_item(p, from_uri) for p in _patches if p["date"].year == year]
     return "\n".join(items)
@@ -139,6 +151,8 @@ def on_page_markdown(markdown, page, config, files):
     uri = page.file.src_uri
     if "<!-- PATCH_LATEST -->" in markdown:
         markdown = markdown.replace("<!-- PATCH_LATEST -->", _latest(uri))
+    if "<!-- PATCH_HOME -->" in markdown:
+        markdown = markdown.replace("<!-- PATCH_HOME -->", _home(uri))
     if "<!-- PATCH_YEAR -->" in markdown:
         year = int(re.search(r"patch-notes/(\d{4})/", uri).group(1))
         markdown = markdown.replace("<!-- PATCH_YEAR -->", _year(year, uri))

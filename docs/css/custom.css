@@ -45,30 +45,6 @@
     margin-left: 0 !important;
 }
 
-/* index.md: Styles the links at the bottom of each patch note */
-#index-patch-notes .tabbed-block p a {
-    display: inline-block;
-    font-weight: bold;
-}
-
-/* index.md: Adds space between links at the bottom of each patch note */
-#index-patch-notes .tabbed-block p a:last-of-type {
-    margin-left: 0.75rem; /* 12px */
-}
-
-/* index.md: Insets the tab content */
-#index-patch-notes .tabbed-block {
-   padding: 0.5rem 1rem; /* 8px 16px */
-   background: var(--md-default-fg-color--lightest);
-   font-family: monospace;
-}
-
-/* index.md: Removes extra space from <ul> in patch notes */
-#index-patch-notes .tabbed-block ul {
-    margin: 1rem 0; /* 16px 0px */
-    padding-left: 0.25rem; /* 4px */
-}
-
 /* index.md: Links in the main features cards have their own line */
 #main-features-cards a {
     display: block;
