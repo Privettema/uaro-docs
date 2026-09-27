@@ -185,10 +185,10 @@ The following items drop only in Scaraba Hole.
 
 | Drop | Rate |
 |---|---|
-| <img src="../img/6326.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Queen Wing Piece** | `35%` |
+| <img src="../img/6326.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Piece of Queen's Wing** | `35%` |
 | <img src="../img/1191.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Alca Bringer** - `Atk 280` two-handed sword, Knight/Crusader Lv `85`, unbreakable, ASPD `+1` per `2` refine | `15%` |
-| <img src="../img/2364.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Meteo Plate Armor** - `Def 10`, `1` slot, Lv `55`, `30%` Stun and Freeze resistance | `15%` |
-| <img src="../img/1196.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Two-Handed Chrome Metal Sword** - `Atk 280`, unbreakable, AGI `+3`, max HP `-10%` | `6%` |
+| <img src="../img/2364.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Meteor Plate** - `Def 10`, `1` slot, Lv `55`, `30%` Stun and Freeze resistance | `15%` |
+| <img src="../img/1196.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Chrome Metal Two-Handed Sword** - `Atk 280`, unbreakable, AGI `+3`, max HP `-10%` | `6%` |
 | <img src="../img/25731.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Zelunium** | `1.5%` |
 | <img src="../img/4507.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Queen Scaraba Card** | `0.01%` |
 
