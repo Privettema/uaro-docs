@@ -37,6 +37,9 @@ server's systems work, event details and the latest patch notes.
 
 ## Server at a glance
 
+<div class="glance-grid" markdown>
+
+<div class="glance-card" markdown>
 **Rates**
 
 --8<-- "server-facts.md:basic-rates"
@@ -44,13 +47,18 @@ server's systems work, event details and the latest patch notes.
 **Weekend rates**
 
 --8<-- "server-facts.md:weekend-rates"
+</div>
 
+<div class="glance-card" markdown>
 **Version**
 
 --8<-- "server-facts.md:episode"
 --8<-- "server-facts.md:mode"
+</div>
 
-[:octicons-arrow-right-24: Full server information](Server_Info.md)
+</div>
+
+[Full server information](Server_Info.md){ .md-button }
 
 ## Popular systems
 

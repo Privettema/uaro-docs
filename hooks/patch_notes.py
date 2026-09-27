@@ -207,7 +207,8 @@ HOME_PREVIEW = 3
 
 
 def _home(from_uri):
-    """The home page preview: tabs for the latest patches, each with a few highlights and a link to the full notes."""
+    """The home page preview: tabs for the latest patches, each with a few highlights and buttons to the notes."""
+    all_notes = os.path.relpath("All_Patch_Notes.md", os.path.dirname(from_uri) or ".")
     lines = []
     for patch in _patches[:HOME_PREVIEW]:
         date = patch["date"]
@@ -216,9 +217,8 @@ def _home(from_uri):
         for highlight in patch["highlights"]:
             lines.append(f"    - {highlight}")
         lines.append("")
-        lines.append(f"    [:octicons-arrow-right-24: Full patch notes]({_link(patch, from_uri)})\n")
-    all_notes = os.path.relpath("All_Patch_Notes.md", os.path.dirname(from_uri) or ".")
-    lines.append(f"[:octicons-arrow-right-24: All patch notes]({all_notes})")
+        lines.append(f"    [Full patch notes]({_link(patch, from_uri)}){{ .md-button .md-button--primary }}")
+        lines.append(f"    [All patch notes]({all_notes}){{ .md-button }}\n")
     return "\n".join(lines)
 
 
