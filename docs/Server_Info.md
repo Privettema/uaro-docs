@@ -70,19 +70,22 @@
 - Does not increase EXP earned from [Hunting Missions](Hunting_Mission.md)
 - Bonuses EXP earned stacks with Weekend Rates
 - Manuals cannot be traded, dropped, mailed, put in cart, stored in guild storage, or sold to NPC 
+  
+#### Battle Manual (`@ii 12208`)
+- Increases **Base *and* Job EXP** earned by 50%
+- Earned from [Novice Grounds](Remastered_Novice_Location.md)
+- Earned from [Welcome Package](Custom_NPC.md#key-helpers)
+- Cannot be stored
 
 #### Field Manual (`@ii 12263`)
-- Increases Base EXP earned by 50%
+- Increases **Base EXP** earned by 50%
+- Job EXP is not affected
 - Earned from [Attendance Rewards](Attendance_System.md)
-- Cannot be stored
+- Can be stored in personal storage
   
 #### Field Manual 100% (`@ii 14533`)
-- Increases Base EXP earned by 100%
+- Increases **Base EXP** earned by 100%
+- Job EXP is not affected
 - Can be purchased with [Poring Coins](Poring_Coins_System.md)
 - Earned from [Attendance Rewards](Attendance_System.md)
 - Can be stored in personal storage
-
-#### Battle Manual (`@ii 12208`)
-- Increases Base *and* Job EXP earned by 50%
-- Earned from [Novice Grounds](Remastered_Novice_Location.md)
-- Earned from [Welcome Package](Custom_NPC.md#key-helpers)
