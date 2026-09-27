@@ -58,6 +58,10 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 | ![2476](img/OGH/2476.gif) **Amdarais (MVP)** | 1 | @mi 2476 |
 
 !!! Note
+    Resurrection cannot one-hit kill Corrupted Monk. Some monsters in this instance have modified behavior compared to
+    their original versions.
+
+!!! Note
     Corrupted Soul and Amdarais have 16 hour spawn timer, 1 hour spawn variance.
 
 ## Temporal Boots

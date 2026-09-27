@@ -447,6 +447,15 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
                 </td>
             </tr>
             <tr>
+                <td>Mace Class Weapons</td>
+                <td>
+                    Priests suffer an ASPD penalty when using mace type weapons.
+                </td>
+                <td>
+                    ASPD penalty with mace type weapons is reduced.
+                </td>
+            </tr>
+            <tr>
                 <td>Impositio Manus</td>
                 <td>
                     Blesses a weapon, increasing its ATK by 5 per skill level.
