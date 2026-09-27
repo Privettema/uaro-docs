@@ -57,7 +57,7 @@
 | Celine's Ribbon [1] | 18849 | Upper Headgear | DEX +3<br>MATK +20<br>MATK +1 per refine level<br>25 HP drain every 5 seconds<br>Equippable by all Trans classes |
 | Wounded Heart [1] | 2977 | Accessory | DEX +2<br>AGI +1<br>+5% damage to all races<br>Required level 90<br>Equippable by all Trans jobs except Novice |
 | Gentle Heart [1] | 2978 | Accessory | STR +2<br>DEX +1<br>+5% damage to all races<br>Required level 90<br>Equippable by all Trans jobs except Novice |
-| Forbidden Grimoire [1] | 28984 | Shield | ASPD +5%, INT +2<br>At +7, +20% magic damage against Earth element<br>With Death Note: +1% MATK per refine of the Death Note, and -10% cast time at +10 | 
+| Forbidden Grimoire [1] | 28984 | Shield | ASPD +5%, INT +2<br>Refine Level +7 or Higher: Increases damage of Magic Elemental Earth Skills by 20%<br>With Death Note: +1% MATK per refine of the Death Note, and -10% cast time at +10 | 
 | Ghost Whisper [1] | 400396 | Upper Headgear | STR +3<br>At +7, +10% Meteor Assault damage<br>At +9, STR +2 and a further +10% Meteor Assault damage |
 | Imperial Guard [1] | 2153 | Shield | MDEF +5<br>Increases Shield Chain damage by 20%, plus 1% per refine<br>At +8, halves Shield Chain cast time |
 | Bone Plate | 15000 | Armor | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
