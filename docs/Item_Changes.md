@@ -22,6 +22,9 @@
 | Stem Whip [1] | 1984 | Increases Arrow Vulcan damage by 30%<br>At +7, increase damage of Arrow Vulcan by 10%<br>At +10, increase damage of Arrow Vulcan by 20%<br>Decreases cast time of Arrow Vulcan by 2 seconds | Biolabs Shop |
 | Noble Cross [1] | 16029 | MATK +125<br>Adds a 5% chance to cast Turn Undead (Level 6) when dealing physical attack<br> Additional 1% chance for every refine +5 or above<br>Recover 1 SP each time you hit an Undead monster<br>Recover 12 SP each time you kill and Undead monster with physical attack<br> Equippable by Champion and High Priest | Horror Toy Factory |
 | Old Parasol [3] | 13442 | +5 ATK per refine level<br> Holy element | Horror Toy Factory | 
+| Imperial Spear [1] | 1433 | Increases Shield Boomerang and Shield Charge damage by 20%, plus 1% each per refine<br>Shield Chain SP cost -20 when combined with Imperial Guard | [El Dicastes](El_Dicastes.md#gear-and-drops): One-Horned Scaraba |
+| Alca Bringer [2] | 1191 | Unbreakable<br>ASPD +1 per 2 refine levels<br>Equippable by Knight and Crusader | [El Dicastes](El_Dicastes.md#queen-scaraba): Queen Scaraba |
+| Two-Handed Chrome Metal Sword [2] | 1196 | Unbreakable<br>AGI +3<br>MAX HP -10% | [El Dicastes](El_Dicastes.md#queen-scaraba): Queen Scaraba |
 
 
 [Expanded Class Weapons](Expanded-Class-Weapons.md)
@@ -54,6 +57,14 @@
 | Celine's Ribbon [1] | 18849 | Upper Headgear | DEX +3<br>MATK +20<br>MATK +1 per refine level<br>25 HP drain every 5 seconds<br>Equippable by all Trans classes |
 | Wounded Heart [1] | 2977 | Accessory | DEX +2<br>AGI +1<br>+5% damage to all races<br>Required level 90<br>Equippable by all Trans jobs except Novice |
 | Gentle Heart [1] | 2978 | Accessory | STR +2<br>DEX +1<br>+5% damage to all races<br>Required level 90<br>Equippable by all Trans jobs except Novice |
+| Forbidden Grimoire [1] | 28984 | Shield | ASPD +5%, INT +2<br>Refine Level +7 or Higher: Increases damage of Magic Elemental Earth Skills by 20%<br>With Death Note: +1% MATK per refine of the Death Note, and -10% cast time at +10 | 
+| Ghost Whisper [1] | 400396 | Upper Headgear | STR +3<br>At +7, +10% Meteor Assault damage<br>At +9, STR +2 and a further +10% Meteor Assault damage |
+| Imperial Guard [1] | 2153 | Shield | MDEF +5<br>Increases Shield Chain damage by 20%, plus 1% per refine<br>At +8, halves Shield Chain cast time |
+| Bone Plate | 15000 | Armor | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
+| Feral Boots | 2463 | Footgear | Untradeable and unrefinable, account bound<br>Enchantable at the El Dicastes cat merchants |
+| Feral Tail | 2564 | Garment | Untradeable and unrefinable, account bound<br>Enchantable at the El Dicastes cat merchants |
+| Golden Trinket | 2842 | Accessory | Untradeable and unrefinable, account bound<br>Enchantable at the El Dicastes cat merchants |
+| Light of El Dicastes | 2844 | Accessory | Untradeable and unrefinable, character bound<br>Enchantable by Kareka in El Dicastes<br>Grants Return to El Dicastes |
 
 
 ## Extended Classes
