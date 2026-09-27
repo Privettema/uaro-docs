@@ -23,7 +23,7 @@
 - Max ASPD: 190
 - Instant Cast: 150 DEX
 - Party Share Range: 15 Levels
-- Minimum Skill Delay: 200ms
+- Minimum Skill Delay: 100ms
 - Minimum Usable Items Delay: 50ms
 - International Server
 - Server Language: English
