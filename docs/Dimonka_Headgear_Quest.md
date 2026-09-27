@@ -208,7 +208,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 </tr>
 <tr>
 <td><img src="../img/5208.png" alt="Rideword Hat [1]"><br>Rideword Hat [1]</td>
-<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 2000<br><img src="../img/7015.png" alt="Bookclip in Memory"> Bookclip in Memory - 200<br><img src="../img/1006.png" alt="Old Magicbook"> Old Magicbook - 2</td>
+<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 2000<br><img src="../img/7015.png" alt="Bookclip in Memory"> Bookclip in Memory - 200<br><img src="../img/1006.png" alt="Old Magic Book"> Old Magic Book - 2</td>
 <td>A hat designed to mimic the look of a terrible magic book which attacks people.<br>Randomly absorbs 8% physical damage inflicted into HP.<br>Randomly absorbs 4% physical damage inflicted into SP.<br>Drains 10 HP every 5 seconds while equipped.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 2<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 30<br><strong>Level Requirement</strong>: 40<br><strong>Jobs</strong>: All</td>
 </tr>

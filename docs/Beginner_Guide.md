@@ -66,8 +66,8 @@ The item “Elemental Converter” endows your weapon with one of the four eleme
 Cards can be traded for points and exchanged for Bloody Branches or Old Card Album. So any card has at least a basic value.  
 
 
-### ![Myst Case card](img/4227.png) Myst Case card
-The drop chance for ![644](img/Beginner_Guide/644.gif) Gift boxes from Myst Case card is increased, making it a good farming item - the more you kill, the better.
+### ![Myst Case Card](img/4227.png) Myst Case Card
+The drop chance for ![644](img/Beginner_Guide/644.gif) Gift boxes from Myst Case Card is increased, making it a good farming item - the more you kill, the better.
 
 
 ### [Warper System](Warper_System.md)

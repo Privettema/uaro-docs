@@ -107,7 +107,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
             <tr>
                 <td>Shield Swapping</td>
                 <td>Swapping a shield while a skill is active cancels the skill.</td>
-                <td>Swapping sheilds will no longer interrupt the skill. Removing shield will stll cancel the skill.</td>
+                <td>Swapping shields will no longer interrupt the skill. Removing shield will still cancel the skill.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/cr_reflectshield.gif" alt="">Shield Reflect</td>
@@ -155,7 +155,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
         <tbody>
             <tr>
                 <td><img src="../img/Class_Changes/wz_icewall.gif" alt="">Ice Wall</td>
-                <td>Cannot be used in Cannot be used in GvG, Battlegrounds, Endless Tower, or Nidhoggur's Nest.</td>
+                <td>Cannot be used in GvG, Battlegrounds, Endless Tower, or Nidhoggur's Nest.</td>
                 <td>Additionally cannot be used on MVP maps. </td>
             </tr>
             <tr>
@@ -509,7 +509,7 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
 <!---------------------------------------------------------------------------->
 
 ## Thief
-A selection of arrows can be found [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
+A selection of arrows can be found at [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 ### Assassin / Assassin Cross
 Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in addition to typical locations.
@@ -594,7 +594,7 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
 <!---------------------------------------------------------------------------->
 
 ## Archer
-A selection of arrows can be found [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
+A selection of arrows can be found at [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 ### Hunter / Sniper
 Traps are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in additional to typical locations.
@@ -629,7 +629,7 @@ No other changes to Hunter skills.
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/cg_hermode.gif" alt="">Wand of Hermode</td>
-                <td>Skill is an ensamble and requires both a Clown and Gypsy to perform.</td>
+                <td>Skill is an ensemble and requires both a Clown and Gypsy to perform.</td>
                 <td>Skill can be performed solo.</td>
             </tr>
             <tr>
@@ -959,7 +959,7 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
                 <td>
                     Decreased after cast delay to 0.75 seconds.<br>
                     Decreased SP cost of level 1-10 to 12-20.<br>
-                    Modified bullet consumpion: 1 ammo at level 1/2, 2 ammo at 3/4, 3 ammo at 5/6, 4 ammo at 7/8, and 5 ammo at 9/10.
+                    Modified bullet consumption: 1 ammo at level 1/2, 2 ammo at 3/4, 3 ammo at 5/6, 4 ammo at 7/8, and 5 ammo at 9/10.
                 </td>
             </tr>
             <tr>

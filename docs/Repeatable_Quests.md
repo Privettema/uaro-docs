@@ -30,7 +30,7 @@ Because you decide where and how to farm, item quests are flexible—use them to
 | **Private Jeremy** | `/navi moc_fild11 57/138` | 25 | 60 | 25 Stone Heart | 28,000 | 18,000 | 1,120 | 720 |
 | **Shone** | `/navi moc_fild17 208/346` | 25 | 60 | 25 Earthworm Peeling | 39,438 | 28,120 | 1,577 | 1,124 |
 | **Lemly** | `/navi moc_fild17 66/273` | 30 | 65 | 25 Frill | 60,000 | 46,000 | 2,400 | 1,840 |
-| **Li** | `/navi pay_fild10 108/357` | 35 | 70 | 50 Dokebi Horns | 84,000 | 72,000 | 1,680 | 1,440 |
+| **Li** | `/navi pay_fild10 108/357` | 35 | 70 | 50 Dokebi Horn | 84,000 | 72,000 | 1,680 | 1,440 |
 | **Lella** | `/navi ayo_fild01 44/241` | 36 | 65 | 50 Huge Leaf | 51,480 | 63,024 | 1,029 | 1,260 |
 | **Cuir** | `/navi cmd_fild01 362/256` | 45 | 80 | 20 Anolian Skin | 137,900 | 86,600 | 6,895 | 4,330 |
 | **Local Villager** | `/navi ein_fild01 43/249` | 60 | 74 | 50 Bacillus | 500,532 | 288,904 | 10,010 | 5,778 |

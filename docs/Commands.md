@@ -113,7 +113,7 @@ The options in this menu are currently:
 10. **Item from Storage Weight Limit** - Determine how much weight you can carry from storage when moving items or using `@restock`
 11. **Anouncement Config** - Options for visibility of overhead announcements
 12. **Channel Config** - Options for visibility of active server chat channels
-13. **Headgears & Costumes (WoE)** - Toggle costume visiblity on/off for WoE only
+13. **Headgears & Costumes (WoE)** - Toggle costume visibility on/off for WoE only
 
 ### Hide Pets
 Finding pets distracting? Access these options through the menu, or via commands. 
