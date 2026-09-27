@@ -5,6 +5,10 @@ hide:
 
 # Spring Festival 2026
 
+!!! warning "Event Concluded"
+    The Spring Festival 2026 has ended. All spring activities and NPCs are gone for now, but the festival may
+    return in the future.
+
 <!-- Recommended: 800x450px webp - Spring Festival promo banner -->
 ![Spring Festival 2026](img/spring_event_2026.webp){ .wiki-screenshot }
 
