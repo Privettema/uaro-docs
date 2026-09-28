@@ -3,11 +3,38 @@
 
 :root {
     --uaro-ink: #1b1b25;          /* near-black, page background in dark mode */
-    --uaro-purple: #3f46ab;       /* main brand colour */
-    --uaro-purple-dark: #2d3382;
-    --uaro-purple-light: #cdcff2; /* tints, dark-mode links and surfaces */
-    --uaro-purple-tint: #eceefb;  /* very light surface for light mode */
-    --uaro-yellow: #ffcf00;       /* accent only: highlights, key buttons */
+    --uaro-yellow: #ffcf00;       /* accent only: highlights, focus rings */
+
+    /* Full purple scale (50 = lightest, 900 = darkest), so any new UI has a shade to pick from
+       without inventing a one-off colour. Each shade below is checked for 4.5:1 text contrast
+       against both #fff and var(--uaro-ink) before it is relied on for text or an outline. */
+    --uaro-purple-50:  #f4f4fd;
+    --uaro-purple-100: #eceefb;
+    --uaro-purple-200: #cdcff2;
+    --uaro-purple-300: #a6abe6;
+    --uaro-purple-400: #7079c9;
+    --uaro-purple-500: #3f46ab; /* main brand colour */
+    --uaro-purple-600: #333a94;
+    --uaro-purple-700: #2d3382;
+    --uaro-purple-800: #23285f;
+    --uaro-purple-900: #181c42;
+
+    /* Existing names kept as aliases so the rest of this file (and any page CSS) still works */
+    --uaro-purple: var(--uaro-purple-500);
+    --uaro-purple-dark: var(--uaro-purple-700);
+    --uaro-purple-light: var(--uaro-purple-200);
+    --uaro-purple-tint: var(--uaro-purple-100);
+
+    /* Text/border colour for an outline button or link that must read on the current background:
+       --uaro-purple-500 is only ~2.2:1 on our dark background, so dark mode needs a lighter shade */
+    --uaro-purple-on-bg: var(--uaro-purple-500);
+    /* Solid fill for an outline control's hover/active state, with white text on top */
+    --uaro-purple-hover-fill: var(--uaro-purple-500);
+}
+
+[data-md-color-scheme="slate"] {
+    --uaro-purple-on-bg: var(--uaro-purple-200);   /* 11.2:1 on --uaro-ink */
+    --uaro-purple-hover-fill: var(--uaro-purple-600); /* 9.7:1 for white text on top */
 }
 
 /* Header and tabs: purple in both colour schemes */
@@ -117,18 +144,51 @@
 }
 
 /* Cards and buttons */
-.md-typeset .grid.cards > ul > li:hover,
-.md-typeset .md-button:hover {
-    border-color: var(--uaro-purple);
+.md-typeset .grid.cards > ul > li:hover {
+    border-color: var(--uaro-purple-on-bg);
 }
 
 .md-typeset .md-button {
     border-radius: 0.5rem; /* 8px */
 }
 
+/* Outline button: Material colours it with --md-primary-fg-color, which is our brand purple-500 —
+   only ~2.2:1 against the dark-mode page, so it reads as barely-there text. Use the contrast-checked
+   colour instead, in both states. */
+.md-typeset .md-button:not(.md-button--primary) {
+    color: var(--uaro-purple-on-bg);
+    border-color: var(--uaro-purple-on-bg);
+}
+
+/* Outline button hover: Material fills with --md-accent-fg-color and sets white text. In dark mode
+   that fill was our pale purple-200 (meant for text, not a solid fill), giving ~1.5:1 white-on-pale —
+   nearly invisible. Fill with a shade picked for 4.5:1+ white text instead. */
+.md-typeset .md-button:not(.md-button--primary):hover {
+    color: #fff;
+    background-color: var(--uaro-purple-hover-fill);
+    border-color: var(--uaro-purple-hover-fill);
+}
+
+.md-typeset .md-button--primary:hover {
+    background-color: var(--uaro-purple-hover-fill);
+    border-color: var(--uaro-purple-hover-fill);
+}
+
 /* Buttons placed side by side (e.g. the home page patch and server sections) get breathing room */
 .md-typeset .md-button + .md-button {
     margin-left: 0.75rem; /* 12px */
+}
+
+/* Focus states: tabs (top nav and content tabs) had none, relying on Material's default outline
+   which the custom primary colour made too faint to see. Use the yellow accent, which reads clearly
+   against the purple header and the page background in both colour schemes. */
+.md-tabs__link:focus-visible,
+.md-typeset .tabbed-labels a:focus-visible,
+.md-typeset .md-button:focus-visible,
+.md-nav__link:focus-visible {
+    outline: 0.1875rem solid var(--uaro-yellow); /* 3px */
+    outline-offset: 0.125rem; /* 2px */
+    border-radius: 0.125rem;
 }
 
 /* Admonitions (note, warning, ...): one hue per type, tuned to sit alongside the purple brand colour.

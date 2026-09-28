@@ -58,7 +58,7 @@ server's systems work, event details and the latest patch notes.
 
 </div>
 
-[Full server information](Server_Info.md){ .md-button }
+[View full server info](Server_Info.md){ .md-button }
 
 ## Popular systems
 

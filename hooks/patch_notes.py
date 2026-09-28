@@ -203,7 +203,7 @@ def _latest(from_uri):
     return "\n".join(lines)
 
 
-HOME_PREVIEW = 3
+HOME_PREVIEW = 5
 
 
 def _home(from_uri):
@@ -217,8 +217,8 @@ def _home(from_uri):
         for highlight in patch["highlights"]:
             lines.append(f"    - {highlight}")
         lines.append("")
-        lines.append(f"    [Full patch notes]({_link(patch, from_uri)}){{ .md-button .md-button--primary }}")
-        lines.append(f"    [All patch notes]({all_notes}){{ .md-button }}\n")
+        lines.append(f"    [Read full patch notes]({_link(patch, from_uri)}){{ .md-button .md-button--primary }}")
+        lines.append(f"    [View all patch notes]({all_notes}){{ .md-button }}\n")
     return "\n".join(lines)
 
 
