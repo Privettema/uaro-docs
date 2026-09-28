@@ -4,45 +4,57 @@ We appreciate your consideration of making a donation to support uaRO.
 
 While playing on the server is free, donations assist with covering expenses such as server and hosting fees, upgrades, advertising, and other costs associated with running the server.
 
-**Current donation rate**: $10 = 100 Cash Points.
+**Current donation rate**: $10 = 100 Cash Points (CP).
 
 **Minimum donation**: $10
 
 ---
 
-## 🎟️ Cart Coupons
+## Cash Shop
+The Cash Shop contains a wide variety of **cosmetic items** for every style and taste. Costume Headgears, Accessories, and Garments can be traded, stored, and sold to other players. New items are added regularly!
 
-Cart Coupons allow you to unlock new cart appearances for your character.
+Look for the icon in the top right of your window to browse and purchase: ![Cash Shop](img/32px-Cash-shop.png)
 
-- Coupons are purchased using **Cash Points**
-- **1 coupon = 1 cart**
-- Once unlocked, the cart is **permanently available**
-- You can purchase multiple coupons to unlock different carts
+!!! hint
+    If you can't see the icon, use `/cashshop` to bring it back.
 
-### 🔄 Usage
-After unlocking:
-- all carts remain available forever
-- you can **freely switch between them at any time**
+![Cash Shop Preview](img/400px-Cash-shop-preview.png)
 
+---
 
-## 🦅 Falcon Coupons
+## Coupons & Vouchers
 
-Falcon Coupons allow you to unlock new falcon appearances.
+In addition to cosmetics, Coupons and Vouchers let you change your character's name or gender, or unlock unique styles. These items can be traded, stored, and sold to other players.
 
-- Coupons are purchased using **Cash Points**
-- **1 coupon = 1 falcon**
-- Once unlocked, the falcon is **permanently available**
-- You can unlock multiple falcons
+### Voucher Redeemer
 
-### 🔄 Usage
-After unlocking:
-- all falcons remain available forever
-- you can **switch between them anytime**
+Redeem these vouchers in Prontera at the [Voucher Redeemer NPC](Custom_NPC.md#style).
 
+- **Name Change Voucher** changes one character's name
+- **Gender Change Voucher** changes one character's gender (not available to Bard/Clown or Dancer/Gypsy)
+- **Guild Name Change Voucher** changes your guild's name once
+- **Character Slot Voucher** adds one character slot to your account
 
-### Donation Rules
+### Cart & Falcon Coupons
 
-- Donations to our service are entirely optional, and any benefits received from donations are non-refundable.
+- **Cart Unlock Coupon** unlocks 1 of 5 additional cart appearances
+- **Falcon Coupon** unlocks 1 of 3 additional falcon appearances for Snipers
+
+Unlocks are permanent and apply to one character, not your whole account. See
+[Cart & Falcon Coupons](Cart_and_Falcon_Coupons.md) for how to redeem them and the available appearances.
+
+### Color Change Voucher
+
+Redeem these clothing color vouchers at the [Stylist](Custom_NPC.md#style).
+
+- **Color Change Voucher** pays for one clothing color change
+- **Infinite Color Change Voucher** makes all clothing color changes free while it's in your inventory
+
+---
+
+## Donation Rules
+
+- Donations to our service are entirely optional, and any benefits received from donations are **non-refundable**.
 - Attempting to open a dispute, chargeback, or using stolen payment methods (carding) will result in the suspension of your account on uaRO.
 - Your personal information provided during the donation process will be kept confidential.
 - Please note that making a donation does not excuse you from following the server rules.
@@ -50,15 +62,7 @@ After unlocking:
 
 ---
 
-### Donation Options
-
-At this time, we are manually processing additional donation methods. The following donation methods are available. Create ticket #submit-ticket:
-
-- PayPal
-- Cryptocurrency USDT
-- GCash
-
----
+## Donation Options
 
 ### Donation with Stripe
 
@@ -68,17 +72,24 @@ At this time, we are manually processing additional donation methods. The follow
 4. Cash points will be added to your account.
 5. Login to the game or relog if current online and use the ![Cash Shop](img/32px-Cash-shop.png) to buy items.
    
-   ![Cash Shop Preview](img/400px-Cash-shop-preview.png)
+!!! note
+    If you pay with Stripe, it is not necessary to submit a ticket. The points are credited to your account when you relog. 
 
----
 
 ### How to make a donation using different method
 
-Contact via #Support and create a ticket at #submit-ticket.
+At this time, we are manually processing several donation methods. The following donation methods are available:
 
-!!! Important
-    *(Remember, we will NEVER write to you about donations ourselves. If you're not sure it's us, we can always confirm it in the game.)*
+- PayPal
+- Cryptocurrency USDT
+- GCash
 
-- Depending on the payment method you select, we will provide you with the necessary information.
-- Please provide us with proof of payment, such as a screenshot of a completed transaction or a link to [bscscan.com](https://bscscan.com).
+Create a ticket on Discord at [#submit-ticket](https://discord.com/channels/702960460168953946/1079132601467543654) and we can assist you.
+
+!!! warning
+    Remember, we will **NEVER** write to you about donations ourselves. If you're not sure it's us, we can always confirm it in the game.
+
+- Depending on the payment method you select, we will provide you with the necessary information in the ticket.
+- In the ticket, provide us with proof of payment, such as a screenshot of a completed transaction or a link to [bscscan.com](https://bscscan.com).
 - Upon receipt of payment, we will promptly credit the corresponding number of cash points to your account.
+
