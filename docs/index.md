@@ -94,6 +94,30 @@ server's systems work, event details and the latest patch notes.
 
 </div>
 
+## Need help or found a problem?
+
+Reach the team on our [Discord](https://discord.gg/uaro-the-world-of-your-dream-702960460168953946):
+
+<div class="grid cards" id="support-cards" markdown>
+
+- **[🙋 General Player Support ↗](https://discord.com/channels/702960460168953946/1056663954895679549)**
+
+    Questions about the server, your account or anything else.
+
+- **[🎫 GM Issues (Ticket) ↗](https://discord.com/channels/702960460168953946/1079132601467543654)**
+
+    Need a GM, or reporting another player? Open a ticket.
+
+- **[🐛 Wiki Errors ↗](https://discord.com/channels/702960460168953946/1456450631584846011)**
+
+    Spot a mistake or outdated info on this wiki? Let us know here.
+
+- **[💡 Wiki Suggestions ↗](https://discord.com/channels/702960460168953946/1456450913857175582)**
+
+    Have an idea for a page or feature this wiki is missing? Suggest it here.
+
+</div>
+
 ## Looking for something else?
 
 Use the tabs at the top of the page to browse by topic, use the search box, or open the
