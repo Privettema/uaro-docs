@@ -46,7 +46,7 @@ server's systems work, event details and the latest patch notes.
 <div class="glance-grid" markdown>
 
 <div class="glance-card" markdown>
-**📈 Rates**
+**Rates**
 
 --8<-- "server-facts.md:basic-rates"
 
@@ -56,14 +56,14 @@ server's systems work, event details and the latest patch notes.
 </div>
 
 <div class="glance-card" markdown>
-**🗓️ Version**
+**Server details**
 
 --8<-- "server-facts.md:episode"
 --8<-- "server-facts.md:mode"
 </div>
 
 <div class="glance-card" markdown>
-**📊 Character caps**
+**Character info**
 
 --8<-- "server-facts.md:max-level"
 --8<-- "server-facts.md:max-stats"
@@ -71,7 +71,7 @@ server's systems work, event details and the latest patch notes.
 </div>
 
 <div class="glance-card" markdown>
-**🌍 Community**
+**Community**
 
 --8<-- "server-facts.md:international"
 
@@ -132,11 +132,11 @@ Reach the team on our [Discord](https://discord.gg/uaro-the-world-of-your-dream-
 
 - **[🙋 General Player Support ↗](https://discord.com/channels/702960460168953946/1056663954895679549)**
 
-    Questions about the server, your account or anything else.
+    Community run help with general questions and technical issues.
 
-- **[🎫 GM Issues (Ticket) ↗](https://discord.com/channels/702960460168953946/1079132601467543654)**
+- **[🎫 Open a Ticket ↗](https://discord.com/channels/702960460168953946/1079132601467543654)**
 
-    Need a GM, or reporting another player? Open a ticket.
+    Account issues, reports, donations, more complex asks for GMs.
 
 - **[🐛 Wiki Errors ↗](https://discord.com/channels/702960460168953946/1456450631584846011)**
 

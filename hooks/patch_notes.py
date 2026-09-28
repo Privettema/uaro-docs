@@ -207,9 +207,9 @@ HOME_PREVIEW = 5
 
 
 def _home(from_uri):
-    """The home page preview: tabs for the latest patches, each with a few highlights and a button to the full
-    notes. A single "View all patch notes" link lives once in the section heading (docs/index.md), not repeated
-    per tab, so this only needs the one, tab-specific action."""
+    """The home page preview: tabs for the latest patches, each with a few highlights and a closing bullet
+    linking to that patch's full notes. A single "View all patch notes" link lives once in the section
+    heading (docs/index.md), not repeated per tab, so no button is needed here too."""
     lines = []
     for patch in _patches[:HOME_PREVIEW]:
         date = patch["date"]
@@ -217,8 +217,8 @@ def _home(from_uri):
         lines.append(f"    **{_label(patch)}**\n")
         for highlight in patch["highlights"]:
             lines.append(f"    - {highlight}")
+        lines.append(f"    - & more, [read the full patch notes]({_link(patch, from_uri)})")
         lines.append("")
-        lines.append(f"    [Read full patch notes]({_link(patch, from_uri)}){{ .md-button .md-button--primary }}\n")
     return "\n".join(lines)
 
 
