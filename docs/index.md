@@ -40,7 +40,7 @@ server's systems work, event details and the latest patch notes.
 <div class="glance-grid" markdown>
 
 <div class="glance-card" markdown>
-**Rates**
+:material-sword-cross:{ .glance-icon } **Rates**
 
 --8<-- "server-facts.md:basic-rates"
 
@@ -50,10 +50,32 @@ server's systems work, event details and the latest patch notes.
 </div>
 
 <div class="glance-card" markdown>
-**Version**
+:material-tag-outline:{ .glance-icon } **Version**
 
 --8<-- "server-facts.md:episode"
 --8<-- "server-facts.md:mode"
+
+**Server time**
+
+- [UTC+0](https://dayspedia.com/time/zones/utc+0/)
+</div>
+
+<div class="glance-card" markdown>
+:material-account-star-outline:{ .glance-icon } **Character caps**
+
+--8<-- "server-facts.md:max-level"
+--8<-- "server-facts.md:max-stats"
+--8<-- "server-facts.md:max-aspd"
+</div>
+
+<div class="glance-card" markdown>
+:material-earth:{ .glance-icon } **Community**
+
+--8<-- "server-facts.md:international"
+
+**Always active**
+
+- [WoE](WoE.md) & [Battlegrounds](Battlegrounds.md)
 </div>
 
 </div>

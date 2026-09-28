@@ -191,6 +191,22 @@
     margin-left: 0.75rem; /* 12px */
 }
 
+/* Content tabs (=== "Tab" ===): Material draws only an underline below the label row and lets the
+   panel content trail off with no container, so the tab, its text and its buttons read as separate
+   things floating on the page. Box the panel so the whole component reads as one unit. */
+.md-typeset .tabbed-content {
+    border: 0.05rem solid var(--md-default-fg-color--lightest); /* 1px */
+    border-top: none;
+    border-radius: 0 0 0.3rem 0.3rem;
+    padding: 1.25rem 1.5rem;
+}
+
+/* A tab panel that ends in a button row (e.g. "Read full patch notes") gets clear air above the
+   buttons instead of them crowding straight under the last line of text. */
+.md-typeset .tabbed-block > p:last-child:has(> .md-button) {
+    margin-top: 1.5rem;
+}
+
 /* Focus rings: one consistent treatment (colour, width, offset) for every keyboard-focusable
    control on the site — top tabs, nav links, and cards (below). Buttons are the one exception:
    their :focus fill above (matching Material's original behaviour) already doubles as the focus
@@ -445,6 +461,15 @@
     text-transform: uppercase;
     letter-spacing: 0.04rem;
     color: var(--md-default-fg-color--light);
+}
+
+/* The icon marking each card's topic, e.g. :material-earth:{ .glance-icon } **Community** */
+.md-typeset .glance-card .glance-icon svg {
+    width: 1rem;
+    height: 1rem;
+    vertical-align: -0.15em;
+    margin-right: 0.25rem;
+    fill: var(--uaro-purple-on-bg);
 }
 
 .md-typeset .glance-card p + ul {

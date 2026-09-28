@@ -18,15 +18,14 @@
 ## Details
 --8<-- "server-facts.md:episode"
 --8<-- "server-facts.md:mode"
-- Max. Base Level / Job Level: 99/70
-- Max. Stats: 99
-- Max ASPD: 190
+--8<-- "server-facts.md:max-level"
+--8<-- "server-facts.md:max-stats"
+--8<-- "server-facts.md:max-aspd"
 - Instant Cast: 150 DEX
 - Party Share Range: 15 Levels
 - Minimum Skill Delay: 100ms
 - Minimum Usable Items Delay: 50ms
-- International Server
-- Server Language: English
+--8<-- "server-facts.md:international"
 - Server Time: [UTC+0](https://dayspedia.com/time/zones/utc+0/)
 
 ## Server Features
