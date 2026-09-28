@@ -6,100 +6,134 @@ site_url: https://wiki.uaro.net
 
 # Theme configuration
 theme:
-  logo: img/logo.png
+  logo: img/logo-horizontal.webp
+  favicon: img/favicon.ico
   name: material
   features:
     - navigation.top
     - navigation.sections
-    - navigation.expand
     - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.indexes
+    - navigation.path
     - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs
-    - content.code.annotation
+    - content.code.annotate
     - content.code.copy
   language: en
+  font:
+    text: Inter
   palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: black
-      accent: blue 
-    - scheme: slate 
+    - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: black
-      accent: blue
+        name: Switch to light mode
+      primary: custom
+      accent: custom
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: custom
+      accent: custom
 
 # Navigation setup
-nav: 
-  - 👋 Welcome to uaRO: index.md
-  - ℹ️ Server Information: Server_Info.md
-  - 📖 Server Rules ↗: https://uaro.net/cp/?module=service&action=tos
-  - 🌳 Donations: Donations.md 
-  - 🧵 Patch Notes: All_Patch_Notes.md 
-  - 🚀 Download uaRO ↗: https://www.uaro.net/cp/?module=service&action=downloads
-  - 👾 Join us on Discord ↗: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
-  - Getting Started: 
-    - ⭐ How to start: How_To_Start.md 
+nav:
+  - Welcome:
+    - index.md
+    - ℹ️ Server Information: Server_Info.md
+    - 📖 Server Rules ↗: https://uaro.net/cp/?module=service&action=tos
+    - 🌳 Donations: Donations.md
+    - 🚀 Download uaRO ↗: https://www.uaro.net/cp/?module=service&action=downloads
+    - 👾 Join us on Discord ↗: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
+    - 🔎 All Pages (A-Z): all-pages.md
+  - Getting Started:
+    - getting-started/index.md
+    - ⭐ How to start: How_To_Start.md
     - ⚙️ Commands: Commands.md
-    - 🌱 Beginner Guide: Beginner_Guide.md 
+    - 🌱 Beginner Guide: Beginner_Guide.md
+    - 📘 The Beginner's Guide: The_Beginner's_Guide.md
     - 🦋 QOL Improvements: Improvements.md
-    - 🎁 Guild Starter Support System: Guild-Starter-Support-System.md
+    - 📢 Guild Starter Support System: Guild-Starter-Support-System.md
     - 🛟 Troubleshooting: Troubleshooting.md
     - 💬 FAQ: FAQ.md
-  - Key Features:
-    - 🏡 Main Office: Main_Office.md
-    - 🐱 Cute Pet System: Pet_System.md
-    - ⚔️ Hunting Missions: Hunting_Mission.md
-    - 💖 Poring Coin System: Poring_Coins_System.md
-    - 🎉 Repeatable Quests: Repeatable_Quests.md 
-    - 💰 Vendor System: Vendor_System.md
-    - 🌀 Warper System: Warper_System.md
-  - Enhancements: 
-    - 💤 Adventurer Inns: Inns.md
-    - 🔔 Attendance Rewards: Attendance_System.md
-    - 🎟️ Card Exchange: Card_Exchange.md 
-    - 🔮 Class Changes: Class_Changes.md
-    - 🍬 Convenient Dealers: Dealers.md
-    - 🧚 Custom NPCs: Custom_NPC.md
-    - 🎭 Costume Converter: Costume_Converter.md
-    - 👒 Headgear Quests: Dimonka_Headgear_Quest.md 
-    - 🕥 Hourly Rewards: Hourly_Rewards_System.md 
-    - 👕 Item Changes: Item_Changes.md
-    - 📦 Expanded Class Weapons: Expanded-Class-Weapons.md
-    - 🔪 Mercenary System: Mercenary_System.md 
-    - 💎 Modified Sales Prices: Modified_Sales_Prices.md 
-    - 🗺️ Navigation System: Navigation_System.md 
-    - 🐣 Remastered Novice Grounds: Remastered_Novice_Location.md 
-  - Dungeons: 
-    - 🧪 Biolabs 4: Biolab4.md 
-    - 👻 Old Glast Heim: Old_Glast_Heim.md
-  - Instances:
-    - 🗂️ Instance Guide: Instance_Guide.md
-    - ⏳ Endless Cellar: Endless_Cellar.md 
-    # - Endless Tower: Endless_Tower.md 
-    - 🎁 Horror Toy Factory: Horror_Toy_Factory.md 
-    - ⚔️ Eternal Bastion: Eternal_Bastion.md
-    # - Wolfchev's Laboratory: Wolfchevs_Lab.md 
-    # - Sealed Shrine: Sealed_Shrine.md
-  - New World:
-    # - New World Guide: New_World_Guide.md
-    - 🏛️ El Dicastes: El_Dicastes.md
+  - Features & Enhancements:
+    - features-enhancements/index.md
+    - Key Features:
+      - 🏡 Main Office: Main_Office.md
+      - 🐱 Cute Pet System: Pet_System.md
+      - 🎯 Hunting Missions: Hunting_Mission.md
+      - 🎀 Taming Gift Set: Taming_Gift_Set.md
+      - 💍 Jewelry Box: Jewelry_Box.md
+      - 💖 Poring Coin System: Poring_Coins_System.md
+      - 🎉 Repeatable Quests: Repeatable_Quests.md
+      - 💰 Vendor System: Vendor_System.md
+      - 🌀 Warper System: Warper_System.md
+    - Enhancements:
+      - 💤 Adventurer Inns: Inns.md
+      - 🔔 Attendance Rewards: Attendance_System.md
+      - 🎟️ Card Exchange: Card_Exchange.md
+      - 🔮 Class Changes: Class_Changes.md
+      - 🍬 Convenient Dealers: Dealers.md
+      - 🧚 Custom NPCs: Custom_NPC.md
+      - 🎭 Costume Converter: Costume_Converter.md
+      - 👒 Headgear Quests: Dimonka_Headgear_Quest.md
+      - 🐸 King Frog Hat: King_Frog_Hat.md
+      - 🕥 Hourly Rewards: Hourly_Rewards_System.md
+      - 👕 Item Changes: Item_Changes.md
+      - 📦 Expanded Class Weapons: Expanded-Class-Weapons.md
+      - 🔪 Mercenary System: Mercenary_System.md
+      - 💎 Modified Sales Prices: Modified_Sales_Prices.md
+      - 🗺️ Navigation System: Navigation_System.md
+      - 🐣 Remastered Novice Grounds: Remastered_Novice_Location.md
+      - 🛠️ Build Manager NPC: Build-Manager-NPC.md
+  - Dungeons & Instances:
+    - dungeons-instances/index.md
+    - Dungeons:
+      - 🧪 Biolabs 4: Biolab4.md
+      - 👻 Old Glast Heim: Old_Glast_Heim.md
+    - Instances:
+      - 🗂️ Instance Guide: Instance_Guide.md
+      - ⏳ Endless Cellar: Endless_Cellar.md
+      - 🗼 Endless Tower: Endless_Tower.md
+      - 🎁 Horror Toy Factory: Horror_Toy_Factory.md
+      - 🛡️ Eternal Bastion: Eternal_Bastion.md
+      # - Wolfchev's Laboratory: Wolfchevs_Lab.md
+      # - Sealed Shrine: Sealed_Shrine.md
+    - New World:
+      # - New World Guide: New_World_Guide.md
+      - 🏛️ El Dicastes: El_Dicastes.md
   - Events & Activities:
+    - events-activities/index.md
     - 🎰 Roulette System: Roulette-System.md
     - 🎲 Comodo Casino: Comodo-Casino.md
+    - 🎫 Lottery: Lottery_NPC.md
     - 🍀 Auto Events: Auto_Events.md
     - 🐎 Hugel Mini Games: Hugel_Mini_Game.md
     - 🏰 War of Emperium: WoE.md
     - 🏯 Pre-Trans WoE: Pre_Trans_WoE.md
-    - 🏆  King of Emperium (KoE): King_of_Emperium_(KoE).md
+    - 🏆 King of Emperium (KoE): King_of_Emperium_(KoE).md
     - ⚔️ PvP Arena: PvP_Arena.md
-    - 🫯 Battlegrounds: Battlegrounds.md
-  
+    - 🚩 Battlegrounds: Battlegrounds.md
+    - Seasonal Festivals:
+      - 🏖️ Summer Festival 2026: Summer_Event_2026.md
+      - 🐰 Spring Festival 2026: Spring_Event_2026.md
+      - 🎄 Christmas Event 2025: Christmas_Event_2025.md
+      - 🎃 Halloween Event 2025: Halloween_Event_2025.md
+      - 🐠 Twilight Festival 2025: Twilight_Festival.md
+  # The sidebar for this tab (Latest Patches + yearly Archive) is generated from the patch files by hooks/patch_notes.py
+  - Patch Notes: All_Patch_Notes.md
+
+# Build hooks
+hooks:
+  - hooks/all_pages.py
+  - hooks/patch_notes.py
+  - hooks/toc.py
+
 # Markdown extensions
 markdown_extensions:
   # Table of contents with anchor links
@@ -153,10 +187,6 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
 
-  # Critic markup for tracking changes
-  - pymdownx.critic:
-      mode: view
-
   # Collapsible sections
   - pymdownx.details
 
@@ -165,10 +195,6 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
-  # Arithmatex for mathematical typesetting
-  - pymdownx.arithmatex:
-      generic: true
-
   # Support for content tabs
   - pymdownx.tabbed:
       alternate_style: true
@@ -176,11 +202,15 @@ markdown_extensions:
 # Plugins
 plugins:
   - search  # Built-in search functionality for MkDocs
+  - redirects:
+      redirect_maps:
+        # Pages moved out of patch-notes/. Keep old links working.
+        patch-notes/2025/Christmas_2025_Event_Guide.md: Christmas_Event_2025.md
+        patch-notes/2025/halloween2025.md: Halloween_Event_2025.md
+        patch-notes/2025/Halloween_2025_Event_Guide.md: Halloween_Event_2025.md
 
 # Extra configurations (logo, favicon, social links, analytics)
 extra:
-  logo: img/logo.png  # Your custom logo
-  favicon: img/favicon.ico
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
@@ -198,10 +228,7 @@ extra:
     property: G-7XD6KF8G73
 
 extra_css:
+  - css/theme.css
   - css/custom.css
-
-extra_javascript:
-  - javascripts/mathjax.js
-  - javascripts/tablesort.js
 
 copyright: © 2023-2026 World of Your Dream / uaRO

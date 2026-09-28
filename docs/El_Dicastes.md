@@ -172,8 +172,8 @@ The following items drop only in Scaraba Hole.
 | <img src="../img/15000.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bone Plate** | Armor | Rake Scaraba | `0.10%` |
 | <img src="../img/4505.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Scaraba Card** | Card | all four adult Scaraba | `0.05%` |
 
-- **Forbidden Grimoire** - ASPD `+5%`, INT `+2`. At `+7` or higher, `+20%` magic damage against Earth-element
-  targets. With a **Death Note**, `+10` MATK per refine of the Death Note and `-10%` cast time at `+10`.
+- **Forbidden Grimoire** - ASPD `+5%`, INT `+2`. At `+7` or higher, increases damage of Magic Elemental Earth
+  Skills by `20%`. With a **Death Note**, `+1%` MATK per refine of the Death Note and `-10%` cast time at `+10`.
 - **Ghost Whisper** - STR `+3`. At `+7` or higher, `+10%` Meteor Assault damage. At `+9` or higher, a further
   STR `+2` and `+10%` Meteor Assault damage.
 - **Imperial Spear** - `+20%` Shield Boomerang and Shield Charge damage, plus `+1%` each per refine.
@@ -185,10 +185,10 @@ The following items drop only in Scaraba Hole.
 
 | Drop | Rate |
 |---|---|
-| <img src="../img/6326.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Queen Wing Piece** | `35%` |
+| <img src="../img/6326.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Piece of Queen's Wing** | `35%` |
 | <img src="../img/1191.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Alca Bringer** - `Atk 280` two-handed sword, Knight/Crusader Lv `85`, unbreakable, ASPD `+1` per `2` refine | `15%` |
-| <img src="../img/2364.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Meteo Plate Armor** - `Def 10`, `1` slot, Lv `55`, `30%` Stun and Freeze resistance | `15%` |
-| <img src="../img/1196.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Two-Handed Chrome Metal Sword** - `Atk 280`, unbreakable, AGI `+3`, max HP `-10%` | `6%` |
+| <img src="../img/2364.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Meteor Plate** - `Def 10`, `1` slot, Lv `55`, `30%` Stun and Freeze resistance | `15%` |
+| <img src="../img/1196.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Chrome Metal Two-Handed Sword** - `Atk 280`, unbreakable, AGI `+3`, max HP `-10%` | `6%` |
 | <img src="../img/25731.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Zelunium** | `1.5%` |
 | <img src="../img/4507.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Queen Scaraba Card** | `0.01%` |
 
