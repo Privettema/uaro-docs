@@ -132,14 +132,16 @@
 }
 
 /* A section heading with a right-aligned action, e.g. "## Latest patch" plus a "View all patch
-   notes" link. The underline moves from the h2 to the row, so it still spans the full width. */
+   notes" link. The underline moves from the h2 to the row, so it still spans the full width.
+   Uses the same fixed var(--uaro-purple) every other h2 underline uses (not the scheme-aware
+   --uaro-purple-on-bg, which goes pale in dark mode) so this underline always matches the rest. */
 .md-typeset .section-heading {
     display: flex;
     align-items: baseline;
     justify-content: space-between;
     gap: 1rem;
     margin: 2rem 0 0.8rem;
-    border-bottom: 0.125rem solid var(--uaro-purple-on-bg); /* 2px */
+    border-bottom: 0.125rem solid var(--uaro-purple); /* 2px */
     padding-bottom: 0.25rem;
 }
 
@@ -512,6 +514,7 @@
 .md-typeset .glance-card p {
     margin: 0 0 0.25rem;
     font-weight: 700;
+    color: var(--md-default-fg-color--light);
 }
 
 .md-typeset .glance-card p + ul {
@@ -537,4 +540,10 @@
 
 .md-typeset .glance-card li + li {
     margin-top: 0.25rem;
+}
+
+/* Material leaves only ~1.2rem below the page content before the footer bar starts, so long pages
+   end abruptly. Give the content more room to breathe before that boundary. */
+.md-content__inner {
+    padding-bottom: 2rem;
 }

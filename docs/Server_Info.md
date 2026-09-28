@@ -7,6 +7,7 @@
 
 ### Weekend Rates
 --8<-- "server-facts.md:weekend-rates"
+- [Details](#about-weekend-rates)
 
 ### Static Rates
 - Normal Cards: x5 (0.05%)
