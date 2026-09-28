@@ -31,7 +31,13 @@ server's systems work, event details and the latest patch notes.
 
 </div>
 
+<div class="section-heading" markdown>
+
 ## Latest patch
+
+[:octicons-arrow-right-24: View all patch notes](All_Patch_Notes.md){ .section-heading__action }
+
+</div>
 
 <!-- PATCH_HOME -->
 
@@ -40,7 +46,7 @@ server's systems work, event details and the latest patch notes.
 <div class="glance-grid" markdown>
 
 <div class="glance-card" markdown>
-:material-sword-cross:{ .glance-icon } **Rates**
+**📈 Rates**
 
 --8<-- "server-facts.md:basic-rates"
 
@@ -50,18 +56,14 @@ server's systems work, event details and the latest patch notes.
 </div>
 
 <div class="glance-card" markdown>
-:material-tag-outline:{ .glance-icon } **Version**
+**🗓️ Version**
 
 --8<-- "server-facts.md:episode"
 --8<-- "server-facts.md:mode"
-
-**Server time**
-
-- [UTC+0](https://dayspedia.com/time/zones/utc+0/)
 </div>
 
 <div class="glance-card" markdown>
-:material-account-star-outline:{ .glance-icon } **Character caps**
+**📊 Character caps**
 
 --8<-- "server-facts.md:max-level"
 --8<-- "server-facts.md:max-stats"
@@ -69,18 +71,24 @@ server's systems work, event details and the latest patch notes.
 </div>
 
 <div class="glance-card" markdown>
-:material-earth:{ .glance-icon } **Community**
+**🌍 Community**
 
 --8<-- "server-facts.md:international"
 
-**Always active**
+**Server time**
 
-- [WoE](WoE.md) & [Battlegrounds](Battlegrounds.md)
+- [UTC+0](https://dayspedia.com/time/zones/utc+0/)
 </div>
 
 </div>
 
 [View full server info](Server_Info.md){ .md-button }
+
+!!! tip "Good to know"
+
+    - **Classic ruleset** — no custom items, no job changer, and no free healer or buffer NPCs
+    - **Transcendent classes only** — no 3rd or 4th jobs, and no new job sprites
+    - **An active, lively community**, every day
 
 ## Popular systems
 

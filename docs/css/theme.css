@@ -131,6 +131,30 @@
     border-bottom-color: var(--uaro-purple);
 }
 
+/* A section heading with a right-aligned action, e.g. "## Latest patch" plus a "View all patch
+   notes" link. The underline moves from the h2 to the row, so it still spans the full width. */
+.md-typeset .section-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin: 2rem 0 0.8rem;
+    border-bottom: 0.125rem solid var(--uaro-purple-on-bg); /* 2px */
+    padding-bottom: 0.25rem;
+}
+
+.md-typeset .section-heading h2 {
+    margin: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.md-typeset .section-heading__action {
+    flex-shrink: 0;
+    white-space: nowrap;
+    font-weight: 700;
+}
+
 /* Nav: active item in brand purple, no yellow */
 [data-md-color-scheme="default"] .md-nav__item .md-nav__link--active {
     color: var(--uaro-purple);
@@ -441,35 +465,53 @@
     outline: none;
 }
 
-/* Home page: "Server at a glance" cards */
+/* Home page: "Server at a glance". A plain 2x2 grid of facts, not another set of clickable cards —
+   no border around each cell, just a divider where they meet, forming a cross at the centre. The
+   divider is a touch stronger in light mode, where a low-alpha line is easy to lose against white. */
+:root {
+    --uaro-divider: rgba(0, 0, 0, 0.14);
+}
+
+[data-md-color-scheme="slate"] {
+    --uaro-divider: rgba(255, 255, 255, 0.12);
+}
+
 .md-typeset .glance-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
-    gap: 1rem;
-    margin: 1rem 0;
+    grid-template-columns: 1fr 1fr;
+    margin: 1.5rem 0;
 }
 
 .md-typeset .glance-card {
-    border: 0.05rem solid var(--md-default-fg-color--lightest);
-    border-radius: 0.2rem;
-    padding: 0.75rem 1rem;
+    padding: 1.25rem 1.5rem;
 }
 
+@media screen and (max-width: 30rem) {
+    .md-typeset .glance-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .md-typeset .glance-card:not(:last-child) {
+        border-bottom: 0.05rem solid var(--uaro-divider); /* 1px */
+    }
+}
+
+@media screen and (min-width: 30.0625rem) {
+    .md-typeset .glance-card:nth-child(odd) {
+        border-right: 0.05rem solid var(--uaro-divider); /* 1px */
+    }
+
+    .md-typeset .glance-card:nth-child(-n+2) {
+        border-bottom: 0.05rem solid var(--uaro-divider); /* 1px */
+    }
+}
+
+/* Card header, e.g. "**📈 Rates**": bold like any other emphasis on the site, not a small-caps
+   eyebrow label (the earlier all-uppercase, letter-spaced, separately-coloured treatment matched
+   nothing else here) — it just inherits the normal text size and colour. */
 .md-typeset .glance-card p {
     margin: 0 0 0.25rem;
-    font-size: 0.75rem; /* 12px */
-    text-transform: uppercase;
-    letter-spacing: 0.04rem;
-    color: var(--md-default-fg-color--light);
-}
-
-/* The icon marking each card's topic, e.g. :material-earth:{ .glance-icon } **Community** */
-.md-typeset .glance-card .glance-icon svg {
-    width: 1rem;
-    height: 1rem;
-    vertical-align: -0.15em;
-    margin-right: 0.25rem;
-    fill: var(--uaro-purple-on-bg);
+    font-weight: 700;
 }
 
 .md-typeset .glance-card p + ul {
