@@ -25,16 +25,21 @@
     --uaro-purple-light: var(--uaro-purple-200);
     --uaro-purple-tint: var(--uaro-purple-100);
 
-    /* Text/border colour for an outline button or link that must read on the current background:
-       --uaro-purple-500 is only ~2.2:1 on our dark background, so dark mode needs a lighter shade */
-    --uaro-purple-on-bg: var(--uaro-purple-500);
-    /* Solid fill for an outline control's hover/active state, with white text on top */
-    --uaro-purple-hover-fill: var(--uaro-purple-500);
+    /* The one colour used everywhere something needs to read clearly on the current background:
+       an outline button's text/border, a focus ring (tabs, cards, nav, buttons), a hover fill.
+       --uaro-purple-500 is only ~2.2:1 on our dark background, so dark mode needs a lighter shade —
+       that shade reads as "white-ish", which is deliberate: it is the palest shade that still keeps
+       enough brand purple to feel on-theme. --uaro-purple-on-bg-contrast is the colour to put on top
+       of a *fill* of --uaro-purple-on-bg (e.g. a button's hover state), for the same reason. */
+    --uaro-purple-on-bg: var(--uaro-purple-500);          /* 7.85:1 on #fff */
+    --uaro-purple-on-bg-contrast: #fff;
+    /* Primary button hover/focus: a deeper solid than the base fill, so it still reads as "pressed" */
+    --uaro-purple-hover-fill: var(--uaro-purple-600);     /* 9.66:1 for white text, both schemes */
 }
 
 [data-md-color-scheme="slate"] {
-    --uaro-purple-on-bg: var(--uaro-purple-200);   /* 11.2:1 on --uaro-ink */
-    --uaro-purple-hover-fill: var(--uaro-purple-600); /* 9.7:1 for white text on top */
+    --uaro-purple-on-bg: var(--uaro-purple-200);          /* 11.2:1 on --uaro-ink */
+    --uaro-purple-on-bg-contrast: var(--uaro-ink);        /* 11.2:1 on --uaro-purple-200 */
 }
 
 /* Header and tabs: purple in both colour schemes */
@@ -152,26 +157,33 @@
     border-radius: 0.5rem; /* 8px */
 }
 
-/* Outline button: Material colours it with --md-primary-fg-color, which is our brand purple-500 —
-   only ~2.2:1 against the dark-mode page, so it reads as barely-there text. Use the contrast-checked
-   colour instead, in both states. */
+/* Outline ("ghost") button: Material colours it with --md-primary-fg-color, our brand purple-500 —
+   only ~2.2:1 against the dark-mode page, so the text/border read as barely-there. Use the
+   contrast-checked colour instead. */
 .md-typeset .md-button:not(.md-button--primary) {
     color: var(--uaro-purple-on-bg);
     border-color: var(--uaro-purple-on-bg);
 }
 
-/* Outline button hover: Material fills with --md-accent-fg-color and sets white text. In dark mode
-   that fill was our pale purple-200 (meant for text, not a solid fill), giving ~1.5:1 white-on-pale —
-   nearly invisible. Fill with a shade picked for 4.5:1+ white text instead. */
+/* Material also swaps in --md-accent-fg-color/--md-accent-bg-color on *both* :hover and :focus
+   (clicking a button focuses it too), which in dark mode filled the button with our pale
+   purple-200 (meant for text, not a fill) under white text — ~1.5:1, so the label vanished.
+   Replace both states for both button styles with pairings we've checked for contrast:
+   - Outline button: fills with the *same* colour as its own border/text (no jarring colour swap,
+     just "solid" instead of "outline"), with a contrasting label on top.
+   - Primary button: already-solid, so it deepens to a richer shade instead. */
+.md-typeset .md-button:not(.md-button--primary):focus,
 .md-typeset .md-button:not(.md-button--primary):hover {
-    color: #fff;
-    background-color: var(--uaro-purple-hover-fill);
-    border-color: var(--uaro-purple-hover-fill);
+    background-color: var(--uaro-purple-on-bg);
+    border-color: var(--uaro-purple-on-bg);
+    color: var(--uaro-purple-on-bg-contrast);
 }
 
+.md-typeset .md-button--primary:focus,
 .md-typeset .md-button--primary:hover {
     background-color: var(--uaro-purple-hover-fill);
     border-color: var(--uaro-purple-hover-fill);
+    color: #fff;
 }
 
 /* Buttons placed side by side (e.g. the home page patch and server sections) get breathing room */
@@ -179,15 +191,37 @@
     margin-left: 0.75rem; /* 12px */
 }
 
-/* Focus states: tabs (top nav and content tabs) had none, relying on Material's default outline
-   which the custom primary colour made too faint to see. Use the yellow accent, which reads clearly
-   against the purple header and the page background in both colour schemes. */
+/* Focus rings: one consistent treatment (colour, width, offset) for every keyboard-focusable
+   control on the site — top tabs, nav links, and cards (below). Buttons are the one exception:
+   their :focus fill above (matching Material's original behaviour) already doubles as the focus
+   indicator, so they keep no separate ring. Uses the same contrast-checked colour as everything
+   else driven by --uaro-purple-on-bg, so "the focus ring" always means the same colour, just
+   applied per control. */
 .md-tabs__link:focus-visible,
 .md-typeset .tabbed-labels a:focus-visible,
-.md-typeset .md-button:focus-visible,
 .md-nav__link:focus-visible {
-    outline: 0.1875rem solid var(--uaro-yellow); /* 3px */
+    outline: 0.1875rem solid var(--uaro-purple-on-bg); /* 3px */
     outline-offset: 0.125rem; /* 2px */
+    border-radius: 0.125rem;
+}
+
+/* Content tabs (=== "Tab" ===): the visible label is an <a tabindex="-1"> that cannot itself take
+   focus — the real, focusable element is a visually-hidden radio input before .tabbed-labels in the
+   DOM, associated with its label only by matching position. Material styles that pairing by index
+   (nth-child 1..20); we do the same to draw our ring on the right label. Covers every tabbed block
+   on the site, e.g. the home page's patch preview and the Halloween page's quest/hunting tabs. */
+.md-typeset .tabbed-set > input:focus-visible ~ .tabbed-labels > :nth-child(1),
+.md-typeset .tabbed-set > input:nth-child(2):focus-visible ~ .tabbed-labels > :nth-child(2),
+.md-typeset .tabbed-set > input:nth-child(3):focus-visible ~ .tabbed-labels > :nth-child(3),
+.md-typeset .tabbed-set > input:nth-child(4):focus-visible ~ .tabbed-labels > :nth-child(4),
+.md-typeset .tabbed-set > input:nth-child(5):focus-visible ~ .tabbed-labels > :nth-child(5),
+.md-typeset .tabbed-set > input:nth-child(6):focus-visible ~ .tabbed-labels > :nth-child(6),
+.md-typeset .tabbed-set > input:nth-child(7):focus-visible ~ .tabbed-labels > :nth-child(7),
+.md-typeset .tabbed-set > input:nth-child(8):focus-visible ~ .tabbed-labels > :nth-child(8),
+.md-typeset .tabbed-set > input:nth-child(9):focus-visible ~ .tabbed-labels > :nth-child(9),
+.md-typeset .tabbed-set > input:nth-child(10):focus-visible ~ .tabbed-labels > :nth-child(10) {
+    outline: 0.1875rem solid var(--uaro-purple-on-bg); /* 3px */
+    outline-offset: -0.1875rem; /* drawn inward, so it doesn't collide with the next tab label */
     border-radius: 0.125rem;
 }
 
@@ -376,6 +410,19 @@
     content: "";
     position: absolute;
     inset: 0;
+}
+
+/* A card's real focusable element is its title link, a short line of text — the browser's default
+   ring would only wrap that text, not the clickable card the ::after above stretches over. Ring the
+   whole card instead, and suppress the link's own (now-redundant) ring. */
+.md-typeset .grid.cards > ul > li:has(a:focus-visible) {
+    outline: 0.1875rem solid var(--uaro-purple-on-bg); /* 3px */
+    outline-offset: 0.125rem; /* 2px */
+    border-radius: 0.3rem;
+}
+
+.md-typeset .grid.cards > ul > li a:focus-visible {
+    outline: none;
 }
 
 /* Home page: "Server at a glance" cards */
