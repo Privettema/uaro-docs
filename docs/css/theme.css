@@ -126,6 +126,11 @@
     border-radius: 0.5rem; /* 8px */
 }
 
+/* Buttons placed side by side (e.g. the home page patch and server sections) get breathing room */
+.md-typeset .md-button + .md-button {
+    margin-left: 0.75rem; /* 12px */
+}
+
 /* Admonitions (note, warning, ...): one hue per type, tuned to sit alongside the purple brand colour.
    Note is the brand purple, warning is amber so it stays distinct from the brand yellow. */
 :root {
