@@ -102,26 +102,33 @@ server's systems work, event details and the latest patch notes.
 
 <div class="grid cards" id="main-features-cards" markdown>
 
-- **[💖 Poring Coin System](Poring_Coins_System.md)**  
-  Monsters have a 5% chance to drop Poring Coins, which can also be earned through quests and events.
+- **[💖 Poring Coin System](Poring_Coins_System.md)**
 
-- **[🌀 Warper System](Warper_System.md)**  
-  Dungeon Warper provides easy access to quest locations for all characters on your account.
+    Monsters have a 5% chance to drop Poring Coins, which can also be earned through quests and events.
 
-- **[🐱 Cute Pet System](Pet_System.md)**  
-  Collect evolved pets with unique bonuses to assist you in the game.
+- **[🌀 Warper System](Warper_System.md)**
 
-- **[🎯 Hunting Missions](Hunting_Mission.md)**  
-  Complete missions for Experience, Zeny, and Mission Points. Available at every Inn.
+    Dungeon Warper provides easy access to quest locations for all characters on your account.
 
-- **[🎉 Repeatable Quests](Repeatable_Quests.md)**  
-  Hunt monsters or collect specific items to earn EXP rewards. These items are tradable and valuable.
+- **[🐱 Cute Pet System](Pet_System.md)**
 
-- **[🏡 Main Office](Main_Office.md)**  
-  Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items.
+    Collect evolved pets with unique bonuses to assist you in the game.
 
-- **[📢 Guild Starter Support System](Guild-Starter-Support-System.md)**  
-  Extra support for newly created guilds, so they can progress through PvE at a smooth pace.
+- **[🎯 Hunting Missions](Hunting_Mission.md)**
+
+    Complete missions for Experience, Zeny, and Mission Points. Available at every Inn.
+
+- **[🎉 Repeatable Quests](Repeatable_Quests.md)**
+
+    Hunt monsters or collect specific items to earn EXP rewards. These items are tradable and valuable.
+
+- **[🏡 Main Office](Main_Office.md)**
+
+    Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items.
+
+- **[📢 Guild Starter Support System](Guild-Starter-Support-System.md)**
+
+    Extra support for newly created guilds, so they can progress through PvE at a smooth pace.
 
 </div>
 

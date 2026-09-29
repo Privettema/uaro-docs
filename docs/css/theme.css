@@ -547,3 +547,15 @@
 .md-content__inner {
     padding-bottom: 2rem;
 }
+
+/* EXPERIMENT — an NPC sprite to the left of a feature card's text, tried on just the first
+   "Popular systems" card (Hobota, picked arbitrarily) to see how it reads before doing it properly
+   everywhere. CSS-only so it's cheap to drop or extend to the rest of the cards. Remove this rule,
+   or lift it into a real per-card mechanism, once a decision is made. */
+#main-features-cards > ul > li:first-child {
+    background-image: url("../img/NPC/hobota.gif");
+    background-repeat: no-repeat;
+    background-position: 0.75rem center;
+    background-size: 2.75rem auto;
+    padding-left: 4.25rem;
+}
