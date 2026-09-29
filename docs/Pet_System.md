@@ -182,6 +182,17 @@ The vast majority of taming items drop from monsters according to the RMS databa
 
 ---
 
+## Pet Switch
+
+Use a **Pet Incubator** while a pet is out to swap directly to another pet egg.
+
+!!! info "How It Works"
+    - Your current pet returns to its egg. This requires **1 free inventory slot**.
+    - The Pet Incubator is only consumed when you select an egg. Closing the list does not waste it.
+    - Your [Pet Stylist](#pet-stylist) skin is kept when switching pets.
+
+---
+
 ## Pet Stylist
 
 Talk to the **Pet Stylist** NPC, located in **Prontera (218, 224)** — directly north of the Pet Groomer — to permanently swap your pet's skin.
@@ -193,10 +204,12 @@ Talk to the **Pet Stylist** NPC, located in **Prontera (218, 224)** — directly
       turned back into egg form at any time afterwards.
     - The unlocked skin is permanently available **account wide** and can be applied to any pet.
     - The skin persists through logout.
+    - The applied skin is kept when you switch pets with a Pet Incubator (see [Pet Switch](#pet-switch)).
 
 !!! warning "Reverting to Egg"
     Returning a pet to egg form — regardless of the skin applied — will revert it to the default
-    appearance when the pet is rehatched.
+    appearance when the pet is rehatched. Switching pets with a Pet Incubator keeps your applied skin
+    (see [Pet Switch](#pet-switch)).
 
 ---
 
