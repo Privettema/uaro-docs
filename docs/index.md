@@ -41,7 +41,14 @@ server's systems work, event details and the latest patch notes.
 
 <!-- PATCH_HOME -->
 
+
+<div class="section-heading" markdown>
+
 ## Server at a glance
+
+[:octicons-arrow-right-24: View full server info](Server_Info.md){ .section-heading__action }
+
+</div>
 
 <div class="glance-grid" markdown>
 
@@ -56,21 +63,6 @@ server's systems work, event details and the latest patch notes.
 </div>
 
 <div class="glance-card" markdown>
-**Server details**
-
-- Episode 13.1: Ash Vacuum
-- Server mode: Classic Pre-renewal
-</div>
-
-<div class="glance-card" markdown>
-**Character info**
-
-- Max. Base Level / Job Level: 99/70
-- Max. Stats: 99
-- Max ASPD: 190
-</div>
-
-<div class="glance-card" markdown>
 **Community**
 
 - International Server, English language
@@ -80,9 +72,25 @@ server's systems work, event details and the latest patch notes.
 - [UTC+0](https://dayspedia.com/time/zones/utc+0/)
 </div>
 
+<div class="glance-card" markdown>
+**Server details**
+
+- Episode 13.1: Ash Vacuum
+- Classic Pre-renewal experience
+- Select rebalanced renewal content
+- Quality of life enhancements 
 </div>
 
-[View full server info](Server_Info.md){ .md-button }
+<div class="glance-card" markdown>
+**Character info**
+
+- Max Level: 99/70
+- Max Stats: 99
+- Max ASPD: 190
+- Instant Cast: 150 DEX
+</div>
+
+</div>
 
 !!! tip "Good to know"
 
@@ -94,39 +102,30 @@ server's systems work, event details and the latest patch notes.
 
 <div class="grid cards" id="main-features-cards" markdown>
 
-- **💖 Poring Coin System**  
-  Monsters have a 5% chance to drop Poring Coins, which can also be earned through quests and events.  
-  [:octicons-arrow-right-24: Read More](Poring_Coins_System.md)
+- **[💖 Poring Coin System](Poring_Coins_System.md)**  
+  Monsters have a 5% chance to drop Poring Coins, which can also be earned through quests and events.
 
-- **🌀 Warper System**  
-  Dungeon Warper provides easy access to quest locations for all characters on your account.  
-  [:octicons-arrow-right-24: Read More](Warper_System.md)
+- **[🌀 Warper System](Warper_System.md)**  
+  Dungeon Warper provides easy access to quest locations for all characters on your account.
 
-- **🐱 Cute Pet System**  
-  Collect evolved pets with unique bonuses to assist you in the game.  
-  [:octicons-arrow-right-24: Read More](Pet_System.md)
+- **[🐱 Cute Pet System](Pet_System.md)**  
+  Collect evolved pets with unique bonuses to assist you in the game.
 
-- **🎯 Hunting Missions**  
-  Complete missions for Experience, Zeny, and Mission Points. Available at every Inn.  
-  [:octicons-arrow-right-24: Read More](Hunting_Mission.md)
+- **[🎯 Hunting Missions](Hunting_Mission.md)**  
+  Complete missions for Experience, Zeny, and Mission Points. Available at every Inn.
 
-- **🎉 Repeatable Quests**  
-  Hunt monsters or collect specific items to earn EXP rewards. These items are tradable and valuable.  
-  [:octicons-arrow-right-24: Read More](Repeatable_Quests.md)
+- **[🎉 Repeatable Quests](Repeatable_Quests.md)**  
+  Hunt monsters or collect specific items to earn EXP rewards. These items are tradable and valuable.
 
-- **🏡 Main Office**  
-  Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items.  
-  [:octicons-arrow-right-24: Read More](Main_Office.md)
+- **[🏡 Main Office](Main_Office.md)**  
+  Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items.
 
-- **📢 Guild Starter Support System**  
-  Extra support for newly created guilds, so they can progress through PvE at a smooth pace.  
-  [:octicons-arrow-right-24: Read More](Guild-Starter-Support-System.md)
+- **[📢 Guild Starter Support System](Guild-Starter-Support-System.md)**  
+  Extra support for newly created guilds, so they can progress through PvE at a smooth pace.
 
 </div>
 
 ## Need help or found a problem?
-
-Reach the team on our [Discord](https://discord.gg/uaro-the-world-of-your-dream-702960460168953946):
 
 <div class="grid cards" id="support-cards" markdown>
 
