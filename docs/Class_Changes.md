@@ -33,9 +33,23 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
                 <td>Adjusted to prevent players from landing on a map portal.</td>
             </tr>
             <tr>
+                <td><img src="../img/Class_Changes/al_warp.gif" alt="">Warp Portal</td>
+                <td>Cannot be used in GvG maps or Battleground maps.</td>
+                <td>Additionally cannot be used on MVP maps.</td>
+            </tr>
+            <tr>
                 <td>Party Buff Animations</td>
                 <td>Buffs cast by party members play their full animation delay on every recipient.</td>
                 <td>Animation delay removed for party members - the buff lands instantly with just the effect and a floating skill name over their head. The caster still sees the full animation.<br>Covers Angelus, Magnificat, Gloria, Wind Walk, Adrenaline Rush, Full Adrenaline Rush, Weapon Perfection, Over Thrust, Help Angel and the Cash Shop Blessing, Increase AGI and Assumptio.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/skill_270.png" alt="">Fury / Critical Explosion</td>
+                <td>Natural SP recovery is disabled while in Fury.</td>
+                <td>
+                    Natural HP and SP recovery work while in Fury.<br>
+                    Does not apply to Monk or Champion. Other characters, such as those who get Fury from an item,
+                    can take advantage of it.
+                </td>
             </tr>
         </tbody>
     </table>
@@ -142,6 +156,33 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
 
 ## Mage
 
+### Mage
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>Original Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/mg_soulstrike.gif" alt="">Soul Strike</td>
+                <td>5% MATK per level.</td>
+                <td>7% MATK per level.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/mg_napalmbeat.gif" alt="">Napalm Beat</td>
+                <td>Damage is split between the targets it hits.</td>
+                <td>Full damage applies to each monster hit.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
 ### Wizard / High Wizard
 <div class="class-changes-table">
     <table>
@@ -215,6 +256,11 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
                 <td><img src="../img/Class_Changes/pf_mindbreaker.gif" alt="">Mind Breaker</td>
                 <td>Attack the mind of the enemy to cause mental breakdown. This decreases enemy's INT MDEF, but it ups their MATK. This is basically Provoke for Magicians.</td>
                 <td>Reduces the target's hard MDEF (the percentage reduction from equipment) everywhere except WoE and GvG castles, where it keeps reducing soft MDEF (the flat reduction from INT).<br>Adds a debuff icon for the receiver. Updates stats to show impact.</td>
+            </tr>
+            <tr>
+                <td>Create Elemental Converter</td>
+                <td>Crafts one converter at a time.</td>
+                <td>Mass production of up to 300 at a time.</td>
             </tr>
         </tbody>
     </table>
@@ -293,8 +339,8 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/ws_overthrustmax.gif" alt="">Maximum Power Thrust</td>
-                <td>There is a 0.1% chance to break your weapon with each hit.</td>
-                <td>No longer breaks weapons.</td>
+                <td>There is a 0.1% chance to break your weapon with each hit.<br>Does not persist through logout.</td>
+                <td>No longer breaks weapons.<br>Persists through logout.</td>
             </tr>
              <tr>
                 <td>Forging System</td>
@@ -395,26 +441,6 @@ Platinum Skill NPC.
 ## Acolyte
 Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in additional to typical locations.
 
-
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="../img/Class_Changes/al_warp.gif" alt="">Warp Portal</td>
-                <td>Cannot be used in GvG maps or Battleground maps.</td>
-                <td>Additionally cannot be used on MVP maps. </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
 ### Priest / High Priest
 <div class="class-changes-table">
     <table>
@@ -463,6 +489,11 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
                 <td>
                     Additionally grants 1% MATK per skill level, up to 5% at level 5.<br>No effect on WoE and GvG castle maps.
                 </td>
+            </tr>
+            <tr>
+                <td>Holy Water</td>
+                <td>Crafts one at a time.</td>
+                <td>Mass production of up to 300 at a time, if you have the empty bottles.</td>
             </tr>
         </tbody>
     </table>
@@ -535,8 +566,8 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
         <tbody>
             <tr>
                 <td><img src="../img/Class_Changes/asc_edp.gif" alt="">Enchant Deadly Poison</td>
-                <td>Skill duration is 60 seconds.</td>
-                <td>Increased duration to 90 seconds.</td>
+                <td>Skill duration is 60 seconds.<br>Does not persist through logout.</td>
+                <td>Increased duration to 90 seconds.<br>Persists through logout.</td>
             </tr>
              <tr>
                 <td><img src="../img/Class_Changes/asc_cdp.gif" alt="">Create Deadly Poison</td>
@@ -688,7 +719,7 @@ No other changes to Hunter skills.
                 </td>
             </tr>
             <tr>
-                <td><img src="../img/Class_Changes/nv_transcend" alt="">Super Blessing</td>
+                <td><img src="../img/Class_Changes/nv_transcendence.png" alt="">Super Blessing</td>
                 <td>N/A</td>
                 <td>
                    Grants Inc Agi and Blessing status.<br>
@@ -697,8 +728,9 @@ No other changes to Hunter skills.
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/nv_helpangel.png" alt="">Angel, Help me!</td>
-                <td>Angel, Help me! is an Expanded Super Novice skill that has been adjusted for Pre-Renewal. <strong>This is a Platinum skill, see Platinum Skill NPC in Main Office</strong></td>
+                <td>Angel, Help me! is an Expanded Super Novice skill that is not available to Super Novice.</td>
                 <td>
+                    Skill has been adjusted for Pre-Renewal and added as a platinum skill (see Platinum Skill NPC in Main Office).<br>
                     Restores HP and SP for you and your party members in a 15x15 cells around you.<br><br>
                     HP per second 500, SP per second 100. Duration of 20 seconds. Cooldown of 300 seconds.
                 </td>
@@ -843,10 +875,11 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
                 <td>Decreased SP Cost for Level 1–10: 4–40</td>
             </tr>
             <tr>
-                <td><img src="../img/Class_Changes/sl_ske.gif" alt="">Eska</td>
+                <td><img src="../img/Class_Changes/sl_ske.gif" alt="">Eske</td>
                 <td>Increases monster's ATK by +300%, but halves their DEF. You can cast Esma within 3 seconds after using Eske.
-                "Es" type magic can only be used on monsters. If it is used on a player character, nothing happens and the caster will be stunned for 0.5 sec (not reduced by VIT).</td>
-                <td>Eske no longer affects Boss-type monsters</td>
+                "Es" type magic can only be used on monsters. If it is used on a player character, nothing happens and the caster will be stunned for 0.5 sec (not reduced by VIT).<br>
+                Can be used on Boss-type monsters.</td>
+                <td>Cannot be used on Boss-type monsters.</td>
             </tr>
         </tbody>
     </table>
@@ -970,6 +1003,19 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
                     Decreased SP cost of level 1-10 to 12-20.<br>
                     Modified bullet consumption: 1 ammo at level 1/2, 2 ammo at 3/4, 3 ammo at 5/6, 4 ammo at 7/8, and 5 ammo at 9/10.
                 </td>
+            </tr>
+            <tr>
+                <td><img src="../img/skill_504.png" alt="">Madness Canceller</td>
+                <td>
+                    Costs 4 coins and 30 SP.<br>
+                    Lasts 15 seconds, during which the player cannot do anything until it is over.
+                </td>
+                <td>Costs 2 coins and 15 SP.</td>
+            </tr>
+            <tr>
+                <td>Madness Break</td>
+                <td>N/A</td>
+                <td>New platinum skill that cancels the Madness Canceller buff.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/gs_fullbuster.gif" alt="">Full Buster</td>
