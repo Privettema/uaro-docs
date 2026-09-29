@@ -3,10 +3,10 @@
 ## Rates
 
 ### Basic Rates
---8<-- "server-facts.md:basic-rates"
+- x5 / x5 / x5
 
 ### Weekend Rates
---8<-- "server-facts.md:weekend-rates"
+- x7.5 / x7.5 / x5
 - [Details](#about-weekend-rates)
 
 ### Static Rates
@@ -17,16 +17,16 @@
 - Pet/Homunculus Intimacy: x3
 
 ## Details
---8<-- "server-facts.md:episode"
---8<-- "server-facts.md:mode"
---8<-- "server-facts.md:max-level"
---8<-- "server-facts.md:max-stats"
---8<-- "server-facts.md:max-aspd"
+- Episode 13.1: Ash Vacuum
+- Server mode: Classic Pre-renewal
+- Max. Base Level / Job Level: 99/70
+- Max. Stats: 99
+- Max ASPD: 190
 - Instant Cast: 150 DEX
 - Party Share Range: 15 Levels
 - Minimum Skill Delay: 100ms
 - Minimum Usable Items Delay: 50ms
---8<-- "server-facts.md:international"
+- International Server, English language
 - Server Time: [UTC+0](https://dayspedia.com/time/zones/utc+0/)
 
 ## Server Features

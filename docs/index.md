@@ -48,32 +48,32 @@ server's systems work, event details and the latest patch notes.
 <div class="glance-card" markdown>
 **Rates**
 
---8<-- "server-facts.md:basic-rates"
+- x5 / x5 / x5
 
 **Weekend rates**
 
---8<-- "server-facts.md:weekend-rates"
+- x7.5 / x7.5 / x5
 </div>
 
 <div class="glance-card" markdown>
 **Server details**
 
---8<-- "server-facts.md:episode"
---8<-- "server-facts.md:mode"
+- Episode 13.1: Ash Vacuum
+- Server mode: Classic Pre-renewal
 </div>
 
 <div class="glance-card" markdown>
 **Character info**
 
---8<-- "server-facts.md:max-level"
---8<-- "server-facts.md:max-stats"
---8<-- "server-facts.md:max-aspd"
+- Max. Base Level / Job Level: 99/70
+- Max. Stats: 99
+- Max ASPD: 190
 </div>
 
 <div class="glance-card" markdown>
 **Community**
 
---8<-- "server-facts.md:international"
+- International Server, English language
 
 **Server time**
 
