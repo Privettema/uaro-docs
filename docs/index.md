@@ -130,6 +130,10 @@ server's systems work, event details and the latest patch notes.
 
     Extra support for newly created guilds, so they can progress through PvE at a smooth pace.
 
+- **[💰 Vendor System](Vendor_System.md)**
+
+    Find, buy and trade items with other players, with safeguards to keep the economy stable.
+
 </div>
 
 ## Need help or found a problem?

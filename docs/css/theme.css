@@ -564,72 +564,61 @@
    see how it reads before doing this properly (e.g. a per-page `npc:` front-matter field feeding
    a build hook) rather than hardcoding it by card position like this. Cards, in order: Poring
    Coin System, Warper System, Cute Pet System, Hunting Missions, Repeatable Quests, Main Office,
-   Guild Starter Support System.
+   Guild Starter Support System, Vendor System.
 
    All the sprites used here live together in docs/img/NPC/ (except Deviruchi - not an NPC, see
    below), whatever their original location, so they're easy to find and swap as a set.
 
-   Sized by HEAD height, not total height, and bottom-aligned so everyone stands on the same
-   ground line. Lydia, Dimonka and the beige traveller are drawn "chibi" (short body, same-size
-   head as everyone else); Warpra, Hobota and the knight are drawn at full "player character"
-   height. Matching total height would have shrunk the PC-height sprites' heads to fit the chibis,
-   or blown the chibis' heads up too big - matching head height instead keeps every head the same
-   size and lets the chibi characters come out properly shorter, same as in-game. Head heights
-   were measured by eye (~22-29px depending on the sprite) against each sprite's own canvas
-   height, scaled to a common ~20px rendered head; sizes below are the result per sprite. Deviruchi
-   is the deliberate exception to all of this - a small pet icon, not a person - sized and centred
-   on its own further down. */
+   A per-head-size, bottom-aligned version of this was tried (matching each sprite's head height
+   rather than its total height, so the "chibi"-proportioned NPCs came out shorter than the
+   full-height ones) but it read as too small and was reverted in favour of this simpler, bigger,
+   vertically-centred, uniform sizing. */
 #main-features-cards > ul > li {
     background-repeat: no-repeat;
-    background-position: 1.25rem bottom;
+    background-position: 1.25rem center;
+    background-size: auto 5.5rem;
     padding-left: 4.75rem;
 }
 
 /* 1: Poring Coin System -> Lydia (she hands out the exchange). Uses a still, centred crop
-   (docs/img/NPC/lydia.png) instead of her walking sprite, which is off-centre in its own frame.
-   Chibi-proportioned, so shorter than the PC-height sprites even at a matching head size. */
+   (docs/img/NPC/lydia.png) instead of her walking sprite, which is off-centre in its own frame. */
 #main-features-cards > ul > li:nth-child(1) {
     background-image: url("../img/NPC/lydia.png");
-    background-size: auto 4.45rem;
 }
 
-/* 2: Warper System -> Warpra. Full PC height. */
+/* 2: Warper System -> Warpra */
 #main-features-cards > ul > li:nth-child(2) {
     background-image: url("../img/NPC/warpra.gif");
-    background-size: auto 4.65rem;
 }
 
-/* 3: Cute Pet System -> Deviruchi (not an NPC - a pet). Small pet icon, kept vertically centred
-   rather than bottom-aligned like the humans, and nudged right: at its size, a fixed left
-   position sits its narrower frame visually further left than the humans' centres. */
+/* 3: Cute Pet System -> Deviruchi (not an NPC - a pet). Smaller and on its own sizing, on
+   purpose: a small creature icon rather than a person. */
 #main-features-cards > ul > li:nth-child(3) {
     background-image: url("../img/1109.gif");
     background-size: auto 3.5rem;
-    background-position: 1.6rem center;
 }
 
-/* 4: Hunting Missions -> Hobota. Full PC height. */
+/* 4: Hunting Missions -> Hobota */
 #main-features-cards > ul > li:nth-child(4) {
     background-image: url("../img/NPC/hobota.gif");
-    background-size: auto 4.6rem;
 }
 
-/* 5: Repeatable Quests -> trying the beige traveller sprite. Chibi-proportioned. */
+/* 5: Repeatable Quests -> trying the beige traveller sprite */
 #main-features-cards > ul > li:nth-child(5) {
     background-image: url("../img/NPC/beige-traveler.png");
-    background-size: auto 4.3rem;
 }
 
-/* 6: Main Office -> Dimonka. Chibi-proportioned, and the shortest head-to-canvas ratio of the
-   six, so ends up the shortest overall once heads match. */
+/* 6: Main Office -> Dimonka */
 #main-features-cards > ul > li:nth-child(6) {
     background-image: url("../img/NPC/dimonka.gif");
-    background-size: auto 4.25rem;
 }
 
-/* 7: Guild Starter Support System -> trying the blue-haired knight sprite. Full PC height, and
-   the tallest of the six once heads match (it was undersized before). */
+/* 7: Guild Starter Support System -> trying the blue-haired knight sprite */
 #main-features-cards > ul > li:nth-child(7) {
     background-image: url("../img/NPC/blue-haired-knight.png");
-    background-size: auto 4.75rem;
+}
+
+/* 8: Vendor System -> new sprite, fills the grid so the last row isn't left with a gap */
+#main-features-cards > ul > li:nth-child(8) {
+    background-image: url("../img/NPC/vendor-npc.png");
 }
