@@ -159,3 +159,13 @@
     font-size: 0.875rem; /* 14px */
 }
 
+.uaro-404__suggestions {
+    margin: 1rem 0 0; /* 16px 0 0 */
+    font-size: 0.9375rem; /* 15px */
+}
+
+.uaro-404__suggestions-label {
+    color: var(--md-default-fg-color--light);
+    margin-right: 0.375rem; /* 6px */
+}
+
