@@ -4,7 +4,7 @@ Need supplies? Our Convenient NPC Dealers carry the essentials without changing 
 <!-- TODO: Add item sprites -->
 
 ## Enhanced Tool Dealer
-Located within [every inn](Inns.md), the Enhanced Tool Dealer stocks basic supplies and consumables to keep you prepared for any adventure. From potions and fly wings to arrows and potions, you’ll find all the core items here in one place. 
+Located within [every inn](inns.md), the Enhanced Tool Dealer stocks basic supplies and consumables to keep you prepared for any adventure. From potions and fly wings to arrows and potions, you’ll find all the core items here in one place. 
 
 | <div style="width:7.5rem">NPC</div> | <div style="width:14rem">Location</div> |
 |:---:|---|
@@ -51,7 +51,7 @@ Located within [every inn](Inns.md), the Enhanced Tool Dealer stocks basic suppl
 
 
 ## Ninja Materials
-Practicing ninjutsu takes plenty of tools. Jackie is located at the [Prontera West inn location](Inns.md). He provides a full range of ninja-exclusive items like shuriken, kunai, and elemental stones, so you’ll never be caught unprepared.
+Practicing ninjutsu takes plenty of tools. Jackie is located at the [Prontera West inn location](inns.md). He provides a full range of ninja-exclusive items like shuriken, kunai, and elemental stones, so you’ll never be caught unprepared.
 
 | <div style="width:7.5rem">NPC</div> | <div style="width:14rem">Location</div> |
 |:---:|---|
@@ -78,7 +78,7 @@ Practicing ninjutsu takes plenty of tools. Jackie is located at the [Prontera We
 | Shadow Orb | 7524 | 30 Z |
 
 ## Gunslinger Materials
-Vincenzo keeps every marksman armed and ready, located at the [Prontera West inn location](Inns.md). Stock up on bullets of every type or pick up elemental spheres to unleash powerful shots in battle.
+Vincenzo keeps every marksman armed and ready, located at the [Prontera West inn location](inns.md). Stock up on bullets of every type or pick up elemental spheres to unleash powerful shots in battle.
 
 | <div style="width:7.5rem">NPC</div> | <div style="width:14rem">Location</div> |
 |:---:|---|
@@ -103,7 +103,7 @@ Vincenzo keeps every marksman armed and ready, located at the [Prontera West inn
 
 ## Pet Dealer
 Everything your companion needs: pet incubators, pet food, and the special foods used to tame and feed pets.
-See the [Pet System](Pet_System.md) for which pet eats what.
+See the [Pet System](pet-system.md) for which pet eats what.
 
 | <div style="width:10rem">Name</div> | <div style="width:5rem;">Item ID</div> | <div style="width:5rem;">Cost</div> |
 |---|---|---|

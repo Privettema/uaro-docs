@@ -30,16 +30,16 @@ The regeneration is based on a fixed percentage, rather than a fixed value, so i
 
 Inns have always been a safe stop between adventures, giving players a place to recover and get ready for what’s ahead. On uaRO, we’ve expanded on that idea to make inns even more useful by adding features that support both newcomers and veterans.
 
-For **10,000z**, inns will fully restore your HP/SP and provide Blessing and Increase Agility buffs for 10 minutes. Every inn also includes Hobota for [Hunting Missions](Hunting_Mission.md) and our [Enhanced Tool Dealer](Dealers.md#enhanced-tool-dealer) for quick access to supplies.
+For **10,000z**, inns will fully restore your HP/SP and provide Blessing and Increase Agility buffs for 10 minutes. Every inn also includes Hobota for [Hunting Missions](hunting-mission.md) and our [Enhanced Tool Dealer](dealers.md#enhanced-tool-dealer) for quick access to supplies.
 
-[:octicons-arrow-right-24: Rest and recover at an inn](Inns.md)
+[:octicons-arrow-right-24: Rest and recover at an inn](inns.md)
 
 
 
 ## Enhanced Tool Dealer
 Every town has a Tool Dealer located inside the inn, offering a wide range of supplies for your journey. Arrows of many types — including Iron, Silver, and Fire — plus traps are no longer limited to specific shops, so you can pick them up wherever you go. You’ll also find essentials like Berserk Potions, Yggdrasil Leaves, and Blue Gemstones, making it easy to stay stocked as you progress.
 
-[:octicons-arrow-right-24: Check the available supplies](Dealers.md#enhanced-tool-dealer)
+[:octicons-arrow-right-24: Check the available supplies](dealers.md#enhanced-tool-dealer)
 
 
 
@@ -51,7 +51,7 @@ Our server features an enhanced Training Grounds built with the latest renewal m
 
 This lets new players focus on honing skills and learning core mechanics without the stress of early complex decisions about character development. Quests from the Job NPCs provide valuable supplies and EXP for those who invest a bit of time, making it a simple and rewarding way to progress while gaining a deeper understanding of the game’s systems.
 
-[:octicons-arrow-right-24: Start your adventure right](Dealers.md#enhanced-tool-dealer)
+[:octicons-arrow-right-24: Start your adventure right](dealers.md#enhanced-tool-dealer)
 
 
 
@@ -75,8 +75,8 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 | **Minimap Recall** | Track your previous teleport or fly wing location by configuring in `@settings`.  |
 | **Stacking Monsters** | Monster stack limit is increased from 1 to 7. |
 | **Rotating Bonus EXP Maps** | Two bonus areas are selected every 48-72 hours to receive an 20-30% EXP boost until the next rotation. You can check the current areas with `@mapexp`. |
-| **Test Your Build** | [Target Dummy](Custom_NPC.md#combat) NPCs are available to test our your equipment and build against most scenarios. |
-| **Safe Card Removal** | [Mysterious Granny](Custom_NPC.md#cards) can remove cards from equipment with 100% success for a significant fee. |
+| **Test Your Build** | [Target Dummy](custom-npc.md#combat) NPCs are available to test our your equipment and build against most scenarios. |
+| **Safe Card Removal** | [Mysterious Granny](custom-npc.md#cards) can remove cards from equipment with 100% success for a significant fee. |
 | **Buying Shop: Cards** | Buying shops can trade Cards in addition to Consumables and Etc items. | |
 | **Summon Timeout** | Monsters spawned from Dead Branch, Bloody Branch, Azeroth, Abracadabra, etc will now auto-kill with no EXP or loot after 4 hours. |
 | **Action Prompts** | Fishing and mining spots ask for confirmation instead of automatically activating. Default option will cancel the action. |
@@ -90,8 +90,8 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 |---|---|
 | **Guild Storage Access** | Guild storage can be accessed from most Kafras. |
 | **Guild Storage Logs** | Guild leader can check `@guild` to see who accessed storage, when they accessed it, and permit others to see the logs based on position. |
-| **Optimized WoE** | [Weekly FE and SE WoE](WoE.md) gives flexibility in guild-based war. uaRO works closely with guild war leaders to optimize the WoE experience. |
-| **Pre-Trans WoE** | [Special weekly WoE mode](Pre_Trans_WoE.md) just for Pre-Trans Classes and Extended Classes. |
+| **Optimized WoE** | [Weekly FE and SE WoE](woe.md) gives flexibility in guild-based war. uaRO works closely with guild war leaders to optimize the WoE experience. |
+| **Pre-Trans WoE** | [Special weekly WoE mode](pre-trans-woe.md) just for Pre-Trans Classes and Extended Classes. |
 | **Guild Bank** | Guild Bank NPC for zeny storage and transfers. |
 
 

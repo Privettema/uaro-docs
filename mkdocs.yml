@@ -45,88 +45,88 @@ theme:
 nav:
   - Welcome:
     - index.md
-    - ℹ️ Server Information: Server_Info.md
+    - ℹ️ Server Information: server-info.md
     - 📖 Server Rules ↗: https://uaro.net/cp/?module=service&action=tos
-    - 🌳 Donations: Donations.md
+    - 🌳 Donations: donations.md
     - 🚀 Download uaRO ↗: https://www.uaro.net/cp/?module=service&action=downloads
     - 👾 Join us on Discord ↗: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
     - 🔎 All Pages (A-Z): all-pages.md
   - Getting Started:
     - getting-started/index.md
-    - ⭐ How to start: How_To_Start.md
-    - ⚙️ Commands: Commands.md
-    - 🌱 Beginner Guide: Beginner_Guide.md
-    - 📘 The Beginner's Guide: The_Beginner's_Guide.md
-    - 🦋 QOL Improvements: Improvements.md
-    - 📢 Guild Starter Support System: Guild-Starter-Support-System.md
-    - 🛟 Troubleshooting: Troubleshooting.md
-    - 💬 FAQ: FAQ.md
+    - ⭐ How to start: how-to-start.md
+    - ⚙️ Commands: commands.md
+    - 🌱 Beginner Guide: beginner-guide.md
+    - 📘 The Beginner's Guide: the-beginners-guide.md
+    - 🦋 QOL Improvements: improvements.md
+    - 📢 Guild Starter Support System: guild-starter-support-system.md
+    - 🛟 Troubleshooting: troubleshooting.md
+    - 💬 FAQ: faq.md
   - Features & Enhancements:
     - features-enhancements/index.md
     - Key Features:
-      - 🏡 Main Office: Main_Office.md
-      - 🐱 Cute Pet System: Pet_System.md
-      - 🎯 Hunting Missions: Hunting_Mission.md
-      - 🎀 Taming Gift Set: Taming_Gift_Set.md
-      - 💍 Jewelry Box: Jewelry_Box.md
-      - 💖 Poring Coin System: Poring_Coins_System.md
-      - 🎉 Repeatable Quests: Repeatable_Quests.md
-      - 💰 Vendor System: Vendor_System.md
-      - 🌀 Warper System: Warper_System.md
+      - 🏡 Main Office: main-office.md
+      - 🐱 Cute Pet System: pet-system.md
+      - 🎯 Hunting Missions: hunting-mission.md
+      - 🎀 Taming Gift Set: taming-gift-set.md
+      - 💍 Jewelry Box: jewelry-box.md
+      - 💖 Poring Coin System: poring-coins-system.md
+      - 🎉 Repeatable Quests: repeatable-quests.md
+      - 💰 Vendor System: vendor-system.md
+      - 🌀 Warper System: warper-system.md
     - Enhancements:
-      - 💤 Adventurer Inns: Inns.md
-      - 🔔 Attendance Rewards: Attendance_System.md
-      - 🎟️ Card Exchange: Card_Exchange.md
-      - 🔮 Class Changes: Class_Changes.md
-      - 🍬 Convenient Dealers: Dealers.md
-      - 🧚 Custom NPCs: Custom_NPC.md
-      - 🎭 Costume Converter: Costume_Converter.md
-      - 👒 Headgear Quests: Dimonka_Headgear_Quest.md
-      - 🐸 King Frog Hat: King_Frog_Hat.md
-      - 🕥 Hourly Rewards: Hourly_Rewards_System.md
-      - 👕 Item Changes: Item_Changes.md
-      - 📦 Expanded Class Weapons: Expanded-Class-Weapons.md
-      - 🔪 Mercenary System: Mercenary_System.md
-      - 💎 Modified Sales Prices: Modified_Sales_Prices.md
-      - 🗺️ Navigation System: Navigation_System.md
-      - 🐣 Remastered Novice Grounds: Remastered_Novice_Location.md
-      - 🛠️ Build Manager NPC: Build-Manager-NPC.md
+      - 💤 Adventurer Inns: inns.md
+      - 🔔 Attendance Rewards: attendance-system.md
+      - 🎟️ Card Exchange: card-exchange.md
+      - 🔮 Class Changes: class-changes.md
+      - 🍬 Convenient Dealers: dealers.md
+      - 🧚 Custom NPCs: custom-npc.md
+      - 🎭 Costume Converter: costume-converter.md
+      - 👒 Headgear Quests: dimonka-headgear-quest.md
+      - 🐸 King Frog Hat: king-frog-hat.md
+      - 🕥 Hourly Rewards: hourly-rewards-system.md
+      - 👕 Item Changes: item-changes.md
+      - 📦 Expanded Class Weapons: expanded-class-weapons.md
+      - 🔪 Mercenary System: mercenary-system.md
+      - 💎 Modified Sales Prices: modified-sales-prices.md
+      - 🗺️ Navigation System: navigation-system.md
+      - 🐣 Remastered Novice Grounds: remastered-novice-location.md
+      - 🛠️ Build Manager NPC: build-manager-npc.md
   - Dungeons & Instances:
     - dungeons-instances/index.md
     - Dungeons:
-      - 🧪 Biolabs 4: Biolab4.md
-      - 👻 Old Glast Heim: Old_Glast_Heim.md
+      - 🧪 Biolabs 4: biolab4.md
+      - 👻 Old Glast Heim: old-glast-heim.md
     - Instances:
-      - 🗂️ Instance Guide: Instance_Guide.md
-      - ⏳ Endless Cellar: Endless_Cellar.md
-      - 🗼 Endless Tower: Endless_Tower.md
-      - 🎁 Horror Toy Factory: Horror_Toy_Factory.md
-      - 🛡️ Eternal Bastion: Eternal_Bastion.md
+      - 🗂️ Instance Guide: instance-guide.md
+      - ⏳ Endless Cellar: endless-cellar.md
+      - 🗼 Endless Tower: endless-tower.md
+      - 🎁 Horror Toy Factory: horror-toy-factory.md
+      - 🛡️ Eternal Bastion: eternal-bastion.md
       # - Wolfchev's Laboratory: Wolfchevs_Lab.md
       # - Sealed Shrine: Sealed_Shrine.md
     - New World:
       # - New World Guide: New_World_Guide.md
-      - 🏛️ El Dicastes: El_Dicastes.md
+      - 🏛️ El Dicastes: el-dicastes.md
   - Events & Activities:
     - events-activities/index.md
-    - 🎰 Roulette System: Roulette-System.md
-    - 🎲 Comodo Casino: Comodo-Casino.md
-    - 🎫 Lottery: Lottery_NPC.md
-    - 🍀 Auto Events: Auto_Events.md
-    - 🐎 Hugel Mini Games: Hugel_Mini_Game.md
-    - 🏰 War of Emperium: WoE.md
-    - 🏯 Pre-Trans WoE: Pre_Trans_WoE.md
-    - 🏆 King of Emperium (KoE): King_of_Emperium_(KoE).md
-    - ⚔️ PvP Arena: PvP_Arena.md
-    - 🚩 Battlegrounds: Battlegrounds.md
+    - 🎰 Roulette System: roulette-system.md
+    - 🎲 Comodo Casino: comodo-casino.md
+    - 🎫 Lottery: lottery-npc.md
+    - 🍀 Auto Events: auto-events.md
+    - 🐎 Hugel Mini Games: hugel-mini-game.md
+    - 🏰 War of Emperium: woe.md
+    - 🏯 Pre-Trans WoE: pre-trans-woe.md
+    - 🏆 King of Emperium (KoE): king-of-emperium.md
+    - ⚔️ PvP Arena: pvp-arena.md
+    - 🚩 Battlegrounds: battlegrounds.md
     - Seasonal Festivals:
-      - 🏖️ Summer Festival 2026: Summer_Event_2026.md
-      - 🐰 Spring Festival 2026: Spring_Event_2026.md
-      - 🎄 Christmas Event 2025: Christmas_Event_2025.md
-      - 🎃 Halloween Event 2025: Halloween_Event_2025.md
-      - 🐠 Twilight Festival 2025: Twilight_Festival.md
+      - 🏖️ Summer Festival 2026: summer-event-2026.md
+      - 🐰 Spring Festival 2026: spring-event-2026.md
+      - 🎄 Christmas Event 2025: christmas-event-2025.md
+      - 🎃 Halloween Event 2025: halloween-event-2025.md
+      - 🐠 Twilight Festival 2025: twilight-festival.md
   # The sidebar for this tab (Latest Patches + yearly Archive) is generated from the patch files by hooks/patch_notes.py
-  - Patch Notes: All_Patch_Notes.md
+  - Patch Notes: all-patch-notes.md
 
 # Build hooks
 hooks:
@@ -205,9 +205,62 @@ plugins:
   - redirects:
       redirect_maps:
         # Pages moved out of patch-notes/. Keep old links working.
-        patch-notes/2025/Christmas_2025_Event_Guide.md: Christmas_Event_2025.md
-        patch-notes/2025/halloween2025.md: Halloween_Event_2025.md
-        patch-notes/2025/Halloween_2025_Event_Guide.md: Halloween_Event_2025.md
+        patch-notes/2025/Christmas_2025_Event_Guide.md: christmas-event-2025.md
+        patch-notes/2025/halloween2025.md: halloween-event-2025.md
+        patch-notes/2025/Halloween_2025_Event_Guide.md: halloween-event-2025.md
+        # Renamed to a consistent lowercase-hyphenated style. Keep old links working.
+        # A handful of old names that differed from the new one only by letter case
+        # (Battlegrounds.md -> battlegrounds.md, FAQ.md -> faq.md, etc.) are deliberately not
+        # listed here: on a case-insensitive filesystem (macOS, Windows) that redirect and the
+        # real page resolve to the same path, and the stub silently overwrites the real page.
+        # Case-sensitive hosts don't need the redirect for these, since almost nothing links to
+        # a page by a different letter case than the one it was written with.
+        All_Patch_Notes.md: all-patch-notes.md
+        Attendance_System.md: attendance-system.md
+        Auto_Events.md: auto-events.md
+        Beginner_Guide.md: beginner-guide.md
+        Card_Exchange.md: card-exchange.md
+        Cart_and_Falcon_Coupons.md: cart-and-falcon-coupons.md
+        Christmas_Event_2025.md: christmas-event-2025.md
+        Class_Changes.md: class-changes.md
+        Costume_Converter.md: costume-converter.md
+        Custom_NPC.md: custom-npc.md
+        Dimonka_Headgear_Quest.md: dimonka-headgear-quest.md
+        El_Dicastes.md: el-dicastes.md
+        Endless_Cellar.md: endless-cellar.md
+        Endless_Tower.md: endless-tower.md
+        Eternal_Bastion.md: eternal-bastion.md
+        Halloween_Event_2025.md: halloween-event-2025.md
+        Horror_Toy_Factory.md: horror-toy-factory.md
+        Hourly_Rewards_System.md: hourly-rewards-system.md
+        How_To_Start.md: how-to-start.md
+        Hugel_Mini_Game.md: hugel-mini-game.md
+        Hunting_Mission.md: hunting-mission.md
+        Instance_Guide.md: instance-guide.md
+        Item_Changes.md: item-changes.md
+        Jewelry_Box.md: jewelry-box.md
+        King_Frog_Hat.md: king-frog-hat.md
+        King_of_Emperium_(KoE).md: king-of-emperium.md
+        Lottery_NPC.md: lottery-npc.md
+        Main_Office.md: main-office.md
+        Mercenary_System.md: mercenary-system.md
+        Modified_Sales_Prices.md: modified-sales-prices.md
+        Navigation_System.md: navigation-system.md
+        Old_Glast_Heim.md: old-glast-heim.md
+        Pet_System.md: pet-system.md
+        Poring_Coins_System.md: poring-coins-system.md
+        Pre_Trans_WoE.md: pre-trans-woe.md
+        PvP_Arena.md: pvp-arena.md
+        Remastered_Novice_Location.md: remastered-novice-location.md
+        Repeatable_Quests.md: repeatable-quests.md
+        Server_Info.md: server-info.md
+        Spring_Event_2026.md: spring-event-2026.md
+        Summer_Event_2026.md: summer-event-2026.md
+        Taming_Gift_Set.md: taming-gift-set.md
+        The_Beginner's_Guide.md: the-beginners-guide.md
+        Twilight_Festival.md: twilight-festival.md
+        Vendor_System.md: vendor-system.md
+        Warper_System.md: warper-system.md
 
 # Extra configurations (logo, favicon, social links, analytics)
 extra:

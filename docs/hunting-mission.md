@@ -109,8 +109,8 @@ Mission Points earned from Hunting Missions can be spent at the **Mission Shop**
 | ![Elite Siege Supply Box](img/Hunting_Mission/14003-elite-supply-box.gif) | Elite Siege Supply Box | 25 Mission Points |
 | ![Enriched Elunium Box](img/Hunting_Mission/14219-enriched-elunium-box-5.gif) | Enriched Elunium Box (5) | 70 Mission Points |
 | ![Enriched Oridecon Box](img/Hunting_Mission/14220-enriched-oridecon-box-5.gif) | Enriched Oridecon Box (5) | 70 Mission Points |
-| ![Taming Gift Set](img/Hunting_Mission/12105-taming-gift-set.gif) | [Taming Gift Set](Taming_Gift_Set.md) | 35 Mission Points |
-| ![Jewelry Box](img/Hunting_Mission/12106-jewelry-box.gif) | [Jewelry Box](Jewelry_Box.md) | 50 Mission Points |
+| ![Taming Gift Set](img/Hunting_Mission/12105-taming-gift-set.gif) | [Taming Gift Set](taming-gift-set.md) | 35 Mission Points |
+| ![Jewelry Box](img/Hunting_Mission/12106-jewelry-box.gif) | [Jewelry Box](jewelry-box.md) | 50 Mission Points |
 | ![Costume Hibram Evil Spirit](img/Hunting_Mission/480473.png) | Costume Hibram Evil Spirit | 1,000 Mission Points |
 | ![Costume Radiant Rainbow Wings](img/Hunting_Mission/31527.png) | Costume Radiant Rainbow Wings | 1,000 Mission Points |
 | ![Costume Majestic Goat of Dawn](img/Hunting_Mission/400124-costume-majestic-goat-of-dawn.png) | Costume Majestic Goat of Dawn | 1,200 Mission Points |

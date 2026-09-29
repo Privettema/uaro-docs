@@ -6,11 +6,11 @@ Dungeons, party instances and the New World.
 
 <div class="grid cards" markdown>
 
-- [**🧪 Biolabs 4**](../Biolab4.md)
+- [**🧪 Biolabs 4**](../biolab4.md)
 
     One of the toughest dungeons on the server.
 
-- [**👻 Old Glast Heim**](../Old_Glast_Heim.md)
+- [**👻 Old Glast Heim**](../old-glast-heim.md)
 
     An advanced dungeon instance.
 
@@ -20,23 +20,23 @@ Dungeons, party instances and the New World.
 
 <div class="grid cards" markdown>
 
-- [**🗂️ Instance Guide**](../Instance_Guide.md)
+- [**🗂️ Instance Guide**](../instance-guide.md)
 
     Rules, limits and resets for all instances.
 
-- [**⏳ Endless Cellar**](../Endless_Cellar.md)
+- [**⏳ Endless Cellar**](../endless-cellar.md)
 
     Climb floor after floor with your party.
 
-- [**🗼 Endless Tower**](../Endless_Tower.md)
+- [**🗼 Endless Tower**](../endless-tower.md)
 
     Coming soon.
 
-- [**🎁 Horror Toy Factory**](../Horror_Toy_Factory.md)
+- [**🎁 Horror Toy Factory**](../horror-toy-factory.md)
 
     A sinister factory full of ghosts.
 
-- [**🛡️ Eternal Bastion**](../Eternal_Bastion.md)
+- [**🛡️ Eternal Bastion**](../eternal-bastion.md)
 
     100 waves and a random final boss.
 
@@ -46,7 +46,7 @@ Dungeons, party instances and the New World.
 
 <div class="grid cards" markdown>
 
-- [**🏛️ El Dicastes**](../El_Dicastes.md)
+- [**🏛️ El Dicastes**](../el-dicastes.md)
 
     The New World expedition.
 

@@ -28,7 +28,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Fixes: Ahat's room Certificate check, Chesire's
           Call now account-wide, School of Fish restored.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09222026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09222026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "September 15"
         **September 15, 2026**
@@ -45,7 +45,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Fixes: Bradium Ring, costume layers, Thor dead cells,
           @ws/@wb enchant display, Wolfchev, Horror Toy Factory.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09152026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09152026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "September 8"
         **September 8, 2026**
@@ -70,7 +70,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           the Hunting Missions shop checks weight and inventory
           space before taking Mission Points.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09082026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09082026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "August 25"
         **August 25, 2026**
@@ -92,7 +92,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           Private Arena warps, Izlude and Morroc arena maps,
           leftover instance timers.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08252026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08252026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "August 18"
         **August 18, 2026**
@@ -116,7 +116,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           Jamadhar crit damage; KoE rewards once per account
           and hardware ID.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08182026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08182026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "August 11"
         **August 11, 2026**
@@ -134,7 +134,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Fixes: Tierra Gorge barricade repairs and walls, KvM
           wipe-outs, Eternal Bastion extra lives.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08112026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08112026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "August 4"
         **August 4, 2026**
@@ -154,7 +154,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Fixes: Baby job change skill points; Luna Bow DEF;
           Bombring round-end revive; costume fixes.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08042026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "July 28"
         **July 28, 2026**
@@ -179,7 +179,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           connections; Lord Knight skill reset for the Berserk
           changes; false "No winners" Dice announcement.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07282026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07282026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "July 21"
         **July 21, 2026**
@@ -202,7 +202,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Summer Event: Ghostring Journal (Hard mode) with the new
           Costume Sun Rune Helm; Muff's Loan quest repaired.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07212026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07212026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "July 14"
         **July 14, 2026**
@@ -224,7 +224,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - WoE: 3 second post-combat delay on save-point warps.
         - Fixes: rare server error with area-damage skills fixed.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07142026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07142026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "July 7"
         **July 7, 2026**
@@ -246,7 +246,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           Battlegrounds Happy Hour now grants its bonus rewards for
           the full extra 30 minutes.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07072026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches07072026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "July 1"
         **July 1, 2026**
@@ -254,14 +254,14 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Summer Festival 2026 is live! Six activities, hidden Porings,
           a server-wide Sunring hunt, and a wandering merchant with
           exclusive costumes and pets —
-          [Event Guide](Summer_Event_2026.md).
+          [Event Guide](summer-event-2026.md).
         - Gameplay: New Direct Message safeguard against scammers;
           /guildinvite now works on offline players (invites expire
           after 2 hours).
         - Fixes: Icewall change from the previous patch reverted;
           King of Emperium duration now properly 30 minutes.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches01072026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches01072026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "June 24"
         **June 24, 2026**
@@ -280,7 +280,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Fixes: @showexp toggles correctly; casting Icewall on
           yourself no longer negates incoming AoE damage.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches24062026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches24062026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "June 9"
         **June 9, 2026**
@@ -296,7 +296,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           armor of current sprite; Violet Starlight costume reverted
           back to middle due to client restriction.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09062026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09062026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "June 3"
         **June 3, 2026**
@@ -313,7 +313,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Fixes: Baby Ninja palette, Eternal Bastion floor 99 → 100
           transition.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches03062026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches03062026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "May 26"
         **May 26, 2026**
@@ -331,7 +331,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           4 new Token Redemption boxes.
         - Cash Shop: New costumes added.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches26052026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches26052026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "May 20"
         **May 20, 2026**
@@ -343,7 +343,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           Golden Wrench axe buffed, dungeon teleport scrolls no longer
           consumed on failed warp.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches20052026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches20052026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "May 13"
         **May 13, 2026**
@@ -361,7 +361,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - NPC: Baby class transition without parents, bullet NPC restructured,
           Mewry the Collector NPC added.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches13052026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches13052026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "April 30"
         **April 30, 2026**
@@ -378,7 +378,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           Yellow Larva costume trade restrictions lifted.
         - Cash Shop: `18` new costumes added.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches30042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches30042026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "April 15"
         **April 15, 2026**
@@ -390,7 +390,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Skills: Mammonite free in BG, Madness Canceler toggle, Holy Cross 2x with 2H spear.
         - Fixes: Throw Huuma Shuriken split damage, First Aid AFK status, Lord of Death training dummy.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches15042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches15042026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "April 2 — Hotfix"
         **April 2, 2026 — Hotfix**
@@ -403,7 +403,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Economy: Gold Roulette Coin added to Hunting Missions shop,
           Level 4 weapon refine cost corrected.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches02042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches02042026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "April 1"
         **April 1, 2026**
@@ -413,7 +413,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Skills: Backstab static cooldown, Fury HP/SP regen fix, Ice Wall blocked at Bio 3/4 entrances.
         - Fixes: Fluttering Feather positioning, Cart Termination batkrate, Old Mitra slot, BG consumables with KoE.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches01042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches01042026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "March 9"
         **March 9, 2026**
@@ -422,7 +422,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Skills: Sphere Mine `7` cell fix, Chase Walk STR buff at `5`s, Priest Mace Mastery `+1` crit/level, Sacrifice status icon.
         - Fixes: Moonlight Flower egg regen, autoloot save for new characters, Glorious staves MATK %.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09032026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09032026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "March 3"
         **March 3, 2026**
@@ -434,7 +434,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Battlegrounds: AFK penalty reduced to `15` minutes, BG box weight checks.
         - Items: Two new Priest items (Old Mitra, Valkyrie Drop). New Cash Shop costumes.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches03032026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches03032026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "February 16"
         **February 16, 2026**
@@ -446,7 +446,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Items: Puppy Hat [0] buff (`agi 77+` 3% → 5%), Fire Golem Card added to OCA.
         - Cash Shop: Falcon skins (Owl/Hawk) for Sniper, 15 additional character slots.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches16022026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches16022026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "January 30"
         **January 30, 2026**
@@ -460,7 +460,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Items: Advanced Assassin Mask all jobs, new costumes in Hunting Missions and Gold Coin NPC.
         - Pet Fixes: Vanilmirth bonus, Bacsojin pet food, Sniping Suit ACD fix.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches30012026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches30012026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "January 21"
         **January 21, 2026**
@@ -474,7 +474,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Commands: New @hideloot to hide trash loot, @noks aggro release on death.
         - Cash Shop: New costumes, 13 effect-only costumes moved to Accessory slot.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches21012026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches21012026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "December 29"
         **December 29, 2025**
@@ -487,7 +487,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - NPC: Gemstone/Putty barter conversion, Haruna swap NPC, Geffen forge dealer.
         - Fixes: Instance lockout, Maximize Power SP, @dice event, WoE flags.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches29122025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches29122025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "December 11"
         **December 11, 2025**
@@ -499,7 +499,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Pet Fixes: Teddy pet command and stat bonus issues resolved.
         - Cash Shop: New festive costumes available for the holiday season.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches11122025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches11122025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "December 1"
         **December 1, 2025**
@@ -512,7 +512,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Super Baby: Soul link equipment now persists through death/map changes like Super Novice.
         - Assump Boxes: Now tradable (scrolls remain trade-locked).
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01122025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01122025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "November 24"
         **November 24, 2025**
@@ -526,7 +526,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Pet System: New Hornet → Mistress evolution path with taming items and food.
         - Items: BG Plant/Marine Sphere Bottles, Convex Mirror 60min cooldown, Sedora Card drops.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches24112025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches24112025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "October 31"
         **October 31, 2025**
@@ -540,7 +540,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Homunculus AFK protection: no exp/loot when owner idle 60+ seconds, autofeed enabled.
         - Storage extended stack capacity, card drop announcements shortened, Storm Gust LP fix.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches31102025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches31102025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "October 9"
         **October 9, 2025**
@@ -556,7 +556,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Ninja physical skill range: 9→12. Twilight Alchemy cooldown: 3s→2s.
         - Multiple fixes: Kraken MVP, mercury riser, Pot Dofle Card, brandish spear knockback.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches09102025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches09102025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "September 5"
         **September 5, 2025**
@@ -569,7 +569,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Multiple fixes: Blood Sucker sprite, Payon inn, Infinite Fly Wing, descriptions, HM script, Izlude PvP map.
         - All Katryn/Cash Shop costumes now properly store in Costume tab.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches09052025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches09052025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "September 1"
         **September 1, 2025**
@@ -582,7 +582,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Items: Bag of Gold Coins weight reduced, Snake Hat rare drop, OCA pool cleanup.
         - Skills/NPCs: New hairstyles, reset NPC improvements, Super Novice skill changes.
         
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches09012025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches09012025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "July 25"
 
@@ -595,7 +595,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Stylist and dye system revamped with presets.
         - Dozens of fixes, skill tweaks, item balance updates.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches07252025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches07252025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "July 7, 2025"
 
@@ -608,7 +608,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Surf Board/Poring Aura in Event Wheel
         - Deviling Coin event + vending rewards
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches07072025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches07072025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "June 25"
 
@@ -621,7 +621,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **New Pets**: Wandering Duck, Dark Lord, and more companions.
         - **Gameplay Tweaks**: Biolab 4 AI buffed and repeatable quests give more EXP.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches06252025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches06252025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "May 20, 2025"
 
@@ -634,7 +634,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Costumes**: Animated effects restored for multiple visuals (Melody Wing, Valhalla Idol, more).
         - **WoE**: Kill Count tracking for castle defenders now fixed.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches05202025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches05202025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "May 12"
 
@@ -650,7 +650,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Fixes/QoL**: Fame decay, @restock upgrades, costume convert refinements, BG/job fixes, OGH portal logic.
         - **New Costumes**: Major additions to the Cash Shop!
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches05122025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches05122025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "April 18"
 
@@ -664,7 +664,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Mob Spawns**: Bradium Golem now appears on Manuk fields.
         - **WoE**: Aldebaran Castle removed from Pre-Trans rotation.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches04182025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches04182025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "April 10"
 
@@ -678,7 +678,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **UI / CP Fixes**: Control Panel overhaul, better @whobuy/@whosell formatting, and SN-link gear persistence.
         - **Item Changes**: Abandoned Teddy Card reworked, new loot for Bradium Golem.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches10042025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches10042025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "March 21"
 
@@ -690,7 +690,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Class changes for Smiths & Ninjas; Kiel ASPD pet bonus fixed.
         - Control Panel now fully functional; QoL and bug fixes applied.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches03212025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)  
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches03212025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)  
 
     === "February 27"
 
@@ -705,7 +705,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **New Cash Shop Items**: Short Hair Costume Set & Megaphone.
         - **Website Updates**: Merchant list, database fixes, and optimizations.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches02272025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches02272025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "January 31"
 
@@ -721,7 +721,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Instance Adjustments**: Fixes and improvements for Horror Toy Factory and Old Glast Heim instances.
         - **Gameplay Adjustments**: Adjustments to skill descriptions, BG cooldowns, kill-steal mechanics, and new item shop additions.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01312025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01312025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "January 17"
 
@@ -731,7 +731,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Horror Toy Factory**: New instanced dungeon available in Lutie, adapted for **Pre-Renewal mechanics**.
         - **New Cash Shop Costumes**: Visit the **Cash Shop NPC** in Prontera for the latest additions.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01172025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01172025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "January 7"
 
@@ -744,7 +744,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Battlegrounds**: Adjusted prices and cooldowns, blocked certain cards, added penalties for relogging/AFKing.
         - **Dungeons/Instances**: Fixed Corrupted Soul MVP behavior, auto-die for Maggots, reduced monster chat spam.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01072025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01072025.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "December 24"
 
@@ -757,7 +757,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Miscellaneous**: Added #Main Chat delay and Mysterious Dyestuff options.
         - **New Costumes**: 18 fresh arrivals in the Cash Shop.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches12242024.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches12242024.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "December 6"
 
@@ -772,7 +772,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Class Reworks**: Skill tweaks for Gunslinger, Ninja, Star Gladiator, and Soul Linker.
         - **Event NPC**: Token exchanger added in the Main Office.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches12062024.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches12062024.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "November 19"
 
@@ -787,7 +787,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **New Costumes**: Fresh costume arrivals in the cash shop.
         - **Endless Cellar**: Temporarily closed for adjustments.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches11192024.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches11192024.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "November 04"
 
@@ -800,7 +800,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Note**: Due to the update complexity, you will need to re-setup your merchants.
         - **Client Update**: Fresh client download links will be updated within 12 hours.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches11042024.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches11042024.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "November 01"
 
@@ -812,7 +812,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Battleground Fixes**: Tierra Gorge and NPC Shop issues resolved.
         - **Quality of Life**: Clickable item links for @iteminfo and @mobinfo.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches11012024.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches11012024.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "October 30"
 
@@ -822,7 +822,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **New Pet Evolutions**: Alicel, Aliot, Baphomet, and more.
         - **Bug Fixes and Improvements**: Endless Cellar reset, skill tweaks, and visual updates.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches10302024.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches10302024.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "September 18"
 
@@ -832,7 +832,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **General Bugfixes**: Wiki engine and gameplay updates.
         - **New Additions**: Twilight Festival costumes and Cash Shop items.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches09182024.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches09182024.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "August 31"
 
@@ -841,7 +841,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Website CP Update**: Stability and performance improvements.
         - **General Bugfixes**: Minor gameplay fixes.
 
-        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "August 24"
 
@@ -849,7 +849,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
         - **Twilight Festival**: End-of-summer mini-games and rewards.
 
-        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "July 24"
 
@@ -859,7 +859,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Winter Maps**: Dewata area restored.
         - **Shop Fixes**: No forced vending.
 
-        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
 </div>
 
@@ -871,31 +871,31 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 - **Poring Coin System**  
   Monsters have a 5% chance to drop Poring Coins, which can also be earned through quests and events. 
-  [:octicons-arrow-right-24: Read More](Poring_Coins_System.md)
+  [:octicons-arrow-right-24: Read More](poring-coins-system.md)
 
 - **Warper System**  
   Dungeon Warper provides easy access to quest locations for all characters on your account. 
-  [:octicons-arrow-right-24: Read More](Warper_System.md)
+  [:octicons-arrow-right-24: Read More](warper-system.md)
 
 - **Cute Pet System**  
   Collect evolved pets with unique bonuses to assist you in the game. 
-  [:octicons-arrow-right-24: Read More](Pet_System.md)
+  [:octicons-arrow-right-24: Read More](pet-system.md)
 
 - **Hunting Missions**  
   Complete missions for Experience, Zeny, and Mission Points. Available at every Inn. 
-  [:octicons-arrow-right-24: Read More](Hunting_Mission.md)
+  [:octicons-arrow-right-24: Read More](hunting-mission.md)
 
 - **Repeatable Quests**  
   Hunt monsters or collect specific items to earn EXP rewards. These items are tradable and valuable. 
-  [:octicons-arrow-right-24: Read More](Repeatable_Quests.md)
+  [:octicons-arrow-right-24: Read More](repeatable-quests.md)
 
 - **Main Office**  
   Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items. 
-  [:octicons-arrow-right-24: Read More](Main_Office.md)
+  [:octicons-arrow-right-24: Read More](main-office.md)
 
 - **Guild Starter Support System**  
   Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items. 
-  [:octicons-arrow-right-24: Read More](Guild-Starter-Support-System.md)
+  [:octicons-arrow-right-24: Read More](guild-starter-support-system.md)
 
 </div>
 
@@ -907,89 +907,89 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 -   
 
-    [:octicons-arrow-right-24: Attendance System](Attendance_System.md)
+    [:octicons-arrow-right-24: Attendance System](attendance-system.md)
 
-    [:octicons-arrow-right-24: Auto Events](Auto_Events.md)
+    [:octicons-arrow-right-24: Auto Events](auto-events.md)
 
-    [:octicons-arrow-right-24: Beginner Guide](Beginner_Guide.md)
+    [:octicons-arrow-right-24: Beginner Guide](beginner-guide.md)
 
-    [:octicons-arrow-right-24: Biolab 4](Biolab4.md)
+    [:octicons-arrow-right-24: Biolab 4](biolab4.md)
 
-    [:octicons-arrow-right-24: Card Exchange](Card_Exchange.md)
+    [:octicons-arrow-right-24: Card Exchange](card-exchange.md)
 
-    [:octicons-arrow-right-24: Class Changes](Class_Changes.md)
+    [:octicons-arrow-right-24: Class Changes](class-changes.md)
 
-    [:octicons-arrow-right-24: Commands](Commands.md)
+    [:octicons-arrow-right-24: Commands](commands.md)
 
-    [:octicons-arrow-right-24: Costume Converter](Costume_Converter.md)
+    [:octicons-arrow-right-24: Costume Converter](costume-converter.md)
 
-    [:octicons-arrow-right-24: Custom NPC](Custom_NPC.md)
+    [:octicons-arrow-right-24: Custom NPC](custom-npc.md)
 
-    [:octicons-arrow-right-24: Donations](Donations.md)
+    [:octicons-arrow-right-24: Donations](donations.md)
 
-    [:octicons-arrow-right-24: El Dicastes](El_Dicastes.md)
+    [:octicons-arrow-right-24: El Dicastes](el-dicastes.md)
 
-    [:octicons-arrow-right-24: Endless Cellar](Endless_Cellar.md)
+    [:octicons-arrow-right-24: Endless Cellar](endless-cellar.md)
 
-    [:octicons-arrow-right-24: FAQ](FAQ.md)
+    [:octicons-arrow-right-24: FAQ](faq.md)
 
-    [:octicons-arrow-right-24: Headgear Quest](Dimonka_Headgear_Quest.md)
+    [:octicons-arrow-right-24: Headgear Quest](dimonka-headgear-quest.md)
 
-    [:octicons-arrow-right-24: Horror Toy Factory ](Horror_Toy_Factory.md)
+    [:octicons-arrow-right-24: Horror Toy Factory ](horror-toy-factory.md)
 
-    [:octicons-arrow-right-24: Hourly Rewards System](Hourly_Rewards_System.md)
+    [:octicons-arrow-right-24: Hourly Rewards System](hourly-rewards-system.md)
 
-    [:octicons-arrow-right-24: How to Start](How_To_Start.md)
+    [:octicons-arrow-right-24: How to Start](how-to-start.md)
 
-    [:octicons-arrow-right-24: Hugel Mini Games](Hugel_Mini_Game.md)
+    [:octicons-arrow-right-24: Hugel Mini Games](hugel-mini-game.md)
 
-    [:octicons-arrow-right-24: Hunting Missions](Hunting_Mission.md)
+    [:octicons-arrow-right-24: Hunting Missions](hunting-mission.md)
 
-    [:octicons-arrow-right-24: Jewelry Box](Jewelry_Box.md)
+    [:octicons-arrow-right-24: Jewelry Box](jewelry-box.md)
 
-    [:octicons-arrow-right-24: King Frog Hat](King_Frog_Hat.md)
+    [:octicons-arrow-right-24: King Frog Hat](king-frog-hat.md)
        
 -   
 
-    [:octicons-arrow-right-24: Roulette System](Roulette-System.md)
+    [:octicons-arrow-right-24: Roulette System](roulette-system.md)
 
-    [:octicons-arrow-right-24: Comodo Casino](Comodo-Casino.md)
+    [:octicons-arrow-right-24: Comodo Casino](comodo-casino.md)
     
-    [:octicons-arrow-right-24: Main Office](Main_Office.md)
+    [:octicons-arrow-right-24: Main Office](main-office.md)
 
-    [:octicons-arrow-right-24: Mercenary System ](Mercenary_System.md)  
+    [:octicons-arrow-right-24: Mercenary System ](mercenary-system.md)  
 
-    [:octicons-arrow-right-24: Modified Sales Prices](Modified_Sales_Prices.md)
+    [:octicons-arrow-right-24: Modified Sales Prices](modified-sales-prices.md)
 
-    [:octicons-arrow-right-24: Navigation System](Navigation_System.md)
+    [:octicons-arrow-right-24: Navigation System](navigation-system.md)
 
-    [:octicons-arrow-right-24: Old Glast Heim](Old_Glast_Heim.md)
+    [:octicons-arrow-right-24: Old Glast Heim](old-glast-heim.md)
 
-    [:octicons-arrow-right-24: Pre-Trans WoE](Pre_Trans_WoE.md)
+    [:octicons-arrow-right-24: Pre-Trans WoE](pre-trans-woe.md)
 
-    [:octicons-arrow-right-24: Pet System](Pet_System.md)
+    [:octicons-arrow-right-24: Pet System](pet-system.md)
 
-    [:octicons-arrow-right-24: Poring Coin System](Poring_Coins_System.md)
+    [:octicons-arrow-right-24: Poring Coin System](poring-coins-system.md)
 
-    [:octicons-arrow-right-24: QOL Improvements](Improvements.md)
+    [:octicons-arrow-right-24: QOL Improvements](improvements.md)
 
-    [:octicons-arrow-right-24: Remastered Novice Location](Remastered_Novice_Location.md)
+    [:octicons-arrow-right-24: Remastered Novice Location](remastered-novice-location.md)
      
-    [:octicons-arrow-right-24: Repeatable Quests](Repeatable_Quests.md)
+    [:octicons-arrow-right-24: Repeatable Quests](repeatable-quests.md)
 
-    [:octicons-arrow-right-24: Server Info](Server_Info.md)
+    [:octicons-arrow-right-24: Server Info](server-info.md)
 
-    [:octicons-arrow-right-24: Taming Gift Set](Taming_Gift_Set.md)
+    [:octicons-arrow-right-24: Taming Gift Set](taming-gift-set.md)
 
-    [:octicons-arrow-right-24: Troubleshooting](Troubleshooting.md)
+    [:octicons-arrow-right-24: Troubleshooting](troubleshooting.md)
 
-    [:octicons-arrow-right-24: Twilight Festival](Twilight_Festival.md)
+    [:octicons-arrow-right-24: Twilight Festival](twilight-festival.md)
 
-    [:octicons-arrow-right-24: Vendor System](Vendor_System.md)
+    [:octicons-arrow-right-24: Vendor System](vendor-system.md)
 
-    [:octicons-arrow-right-24: Warper System](Warper_System.md)
+    [:octicons-arrow-right-24: Warper System](warper-system.md)
 
-    [:octicons-arrow-right-24: WoE](WoE.md)
+    [:octicons-arrow-right-24: WoE](woe.md)
 
 -
 

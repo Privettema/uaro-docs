@@ -4,7 +4,7 @@ Horror Toy Factory is an instance where players explore a sinister toy factory f
 The instance offers unique rewards, including rare items and equipment, making it popular among players.
 
 !!! info
-    Read [Instance Guide](Instance_Guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
+    Read [Instance Guide](instance-guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
 
 ## Rules
 

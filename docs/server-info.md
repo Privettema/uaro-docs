@@ -12,7 +12,7 @@
 - Normal Cards: x5 (0.05%)
 - MvP Drop: x3
 - MvP/Mini-Boss Cards: x1 (0.01%)
-- Quest EXP Rate: x2 - [x5 for select quests](Improvements.md#quest-improvements)
+- Quest EXP Rate: x2 - [x5 for select quests](improvements.md#quest-improvements)
 - Pet/Homunculus Intimacy: x3
 
 ## Details
@@ -33,17 +33,17 @@
 - No Custom Items
 - No Job Changer
 - No Free Healer or Buffer
-- [Welcome Package](Custom_NPC.md#key-helpers)
-- [Quest-based Dungeon Warper](Warper_System.md)
-- [Poring Coin System](Poring_Coins_System.md)
-- [Daily Rewards System](Attendance_System.md)
-- [Enhanced Cute Pet System](Pet_System.md)
-- [Hunting Missions](Hunting_Mission.md)
-- [Quality of Life Improvements](Improvements.md)
-- [Class Balancing](Class_Changes.md) 
-- Balanced Renewal dungeons [Horror Toy Factory](Horror_Toy_Factory.md), [Old Glast Heim](Old_Glast_Heim.md), and [Biolabs 4](Biolab4.md)
-- New World: [El Dicastes](El_Dicastes.md)
-- Active War of Emperium: [WoE 1.0 / 2.0](WoE.md) and [Pre-Trans WoE](Pre_Trans_WoE.md)
+- [Welcome Package](custom-npc.md#key-helpers)
+- [Quest-based Dungeon Warper](warper-system.md)
+- [Poring Coin System](poring-coins-system.md)
+- [Daily Rewards System](attendance-system.md)
+- [Enhanced Cute Pet System](pet-system.md)
+- [Hunting Missions](hunting-mission.md)
+- [Quality of Life Improvements](improvements.md)
+- [Class Balancing](class-changes.md) 
+- Balanced Renewal dungeons [Horror Toy Factory](horror-toy-factory.md), [Old Glast Heim](old-glast-heim.md), and [Biolabs 4](biolab4.md)
+- New World: [El Dicastes](el-dicastes.md)
+- Active War of Emperium: [WoE 1.0 / 2.0](woe.md) and [Pre-Trans WoE](pre-trans-woe.md)
 - Active Battlegrounds with queuing system
 - Treasure Hunter Guild
 - Lots of classic quests
@@ -61,31 +61,31 @@
 
 ### About Weekend Rates
 - Runs Saturday 00:00 to Sunday 23:59 server time 
-- Increases EXP earned from [Repeatable EXP Quests](Repeatable_Quests.md) and Quests
-- Does not increase EXP earned from [Hunting Missions](Hunting_Mission.md)
+- Increases EXP earned from [Repeatable EXP Quests](repeatable-quests.md) and Quests
+- Does not increase EXP earned from [Hunting Missions](hunting-mission.md)
 
 ### About Manuals
 - Manuals last for 30 minutes
-- Increases EXP earned from [Repeatable EXP Quests](Repeatable_Quests.md) and Quests
-- Does not increase EXP earned from [Hunting Missions](Hunting_Mission.md)
+- Increases EXP earned from [Repeatable EXP Quests](repeatable-quests.md) and Quests
+- Does not increase EXP earned from [Hunting Missions](hunting-mission.md)
 - Bonuses EXP earned stacks with Weekend Rates
 - Manuals cannot be traded, dropped, mailed, put in cart, stored in guild storage, or sold to NPC 
   
 #### Battle Manual (`@ii 12208`)
 - Increases **Base *and* Job EXP** earned by 50%
-- Earned from [Novice Grounds](Remastered_Novice_Location.md)
-- Earned from [Welcome Package](Custom_NPC.md#key-helpers)
+- Earned from [Novice Grounds](remastered-novice-location.md)
+- Earned from [Welcome Package](custom-npc.md#key-helpers)
 - Cannot be stored
 
 #### Field Manual (`@ii 12263`)
 - Increases **Base EXP** earned by 50%
 - Job EXP is not affected
-- Earned from [Attendance Rewards](Attendance_System.md)
+- Earned from [Attendance Rewards](attendance-system.md)
 - Can be stored in personal storage
   
 #### Field Manual 100% (`@ii 14533`)
 - Increases **Base EXP** earned by 100%
 - Job EXP is not affected
-- Can be purchased with [Poring Coins](Poring_Coins_System.md)
-- Earned from [Attendance Rewards](Attendance_System.md)
+- Can be purchased with [Poring Coins](poring-coins-system.md)
+- Earned from [Attendance Rewards](attendance-system.md)
 - Can be stored in personal storage

@@ -318,7 +318,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
 
 
 ### Alchemist / Creator
-Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in addition to typical locations.
+Medicine Bowls can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
 <div class="class-changes-table">
     <table>
@@ -393,7 +393,7 @@ Platinum Skill NPC.
 <!---------------------------------------------------------------------------->
 
 ## Acolyte
-Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in additional to typical locations.
+Blue Gems are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in additional to typical locations.
 
 
 <div class="class-changes-table">
@@ -518,10 +518,10 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
 <!---------------------------------------------------------------------------->
 
 ## Thief
-A selection of arrows can be found at [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
+A selection of arrows can be found at [Inn Tool Dealers](dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 ### Assassin / Assassin Cross
-Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in addition to typical locations.
+Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
 <div class="class-changes-table">
     <table>
@@ -569,7 +569,7 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
                 <td><img src="../img/Class_Changes/rg_plagiarism.gif" alt="">Plagiarism</td>
                 <td>Skills must be copied from another player.</td>
                 <td>
-                    <a href="Custom_NPC.md">Plagiarism NPC</a> allows Rogues/Stalkers to copy skills for a fee.<br>
+                    <a href="custom-npc.md">Plagiarism NPC</a> allows Rogues/Stalkers to copy skills for a fee.<br>
                     A skill you already know can be overwritten when a higher version is offered (applies to normal in-combat Plagiarism as well).<br>
                     The NPC refuses the trade while Preserve is active.
                 </td>
@@ -603,10 +603,10 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
 <!---------------------------------------------------------------------------->
 
 ## Archer
-A selection of arrows can be found at [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
+A selection of arrows can be found at [Inn Tool Dealers](dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 ### Hunter / Sniper
-Traps are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in additional to typical locations.
+Traps are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in additional to typical locations.
 
 No other changes to Hunter skills.
 
@@ -667,7 +667,7 @@ No other changes to Hunter skills.
             <tr>
                 <td>Death Count</td>
                 <td>If a Super Novice can manage to avoid even a single death until job 70 and onwards, you will get +10 for all stats. If you die anytime afterwards, you will lose that bonus.</td>
-                <td>Super Novice death count can be reset for free at <a href="../Custom_NPC/#other">Lupita, south of Prontera</a>. The reset also grants a 10 second Super Novice Spirit status (Super Novice and Super Baby only), long enough to swap into gear unlocked by the link.</td>
+                <td>Super Novice death count can be reset for free at <a href="../custom-npc/#other">Lupita, south of Prontera</a>. The reset also grants a 10 second Super Novice Spirit status (Super Novice and Super Baby only), long enough to swap into gear unlocked by the link.</td>
             </tr>
             <tr>
                 <td>Soul Link Equips</td>
@@ -741,7 +741,7 @@ No other changes to Hunter skills.
 ---
 
 ## Extended Classes
-Many previously unequippable items are now accessible to Extended Classes: [see the full list](Item_Changes.md#extended-classes).
+Many previously unequippable items are now accessible to Extended Classes: [see the full list](item-changes.md#extended-classes).
 
 
 <!---------------------------------------------------------------------------->
@@ -790,12 +790,12 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
             <tr>
                 <td><img src="../img/Class_Changes/sg_feel.gif" alt="">Feeling of the Sun, Moon, and Stars</td>
                 <td>Permanently memorize a map for bonuses for "Place of the Sun", "Place of the Moon", and/or "Place of the Stars".</td>
-                <td>An <a href="../Custom_NPC/#skills">NPC named Salvia</a> is available in the <a href="../Inns.md/#locations">Prontera West inn</a> to reset Feeling for a fee.</td>
+                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns.md/#locations">Prontera West inn</a> to reset Feeling for a fee.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/sg_hate.gif" alt="">Hatred of the Sun, Moon, and Stars</td>
                 <td>Permanently memorize a monster for bonuses for "Target of the Sun", "Target of the Moon", or "Target of the Stars".</td>
-                <td>An <a href="../Custom_NPC/#skills">NPC named Salvia</a> is available in the <a href="../Inns.md/#locations">Prontera West inn</a> to reset Hatred for a fee.</td>
+                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns.md/#locations">Prontera West inn</a> to reset Hatred for a fee.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/sj_document.gif" alt="">Miracle of the Sun, Moon, and Stars</td>
@@ -857,7 +857,7 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
 <!---------------------------------------------------------------------------->
 
 ### Ninja 
-Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Dealers.md#ninja-materials) in addition to their typical locations. Weapons and other gear are not sold at this NPC.
+Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](dealers.md#ninja-materials) in addition to their typical locations. Weapons and other gear are not sold at this NPC.
 
 <div class="class-changes-table">
     <table>
@@ -917,7 +917,7 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Deal
 <!---------------------------------------------------------------------------->
 
 ### Gunslinger
-Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Dealers.md#gunslinger-materials) in addition to their typical locations. Weapons and other gear are not sold at this NPC.
+Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers](dealers.md#gunslinger-materials) in addition to their typical locations. Weapons and other gear are not sold at this NPC.
 
 <div class="class-changes-table">
     <table>

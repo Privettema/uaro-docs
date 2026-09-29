@@ -6,39 +6,39 @@ The main systems and services on uaRO, plus the improvements made to the standar
 
 <div class="grid cards" markdown>
 
-- [**🏡 Main Office**](../Main_Office.md)
+- [**🏡 Main Office**](../main-office.md)
 
     The Prontera hub for most useful NPCs.
 
-- [**🐱 Cute Pet System**](../Pet_System.md)
+- [**🐱 Cute Pet System**](../pet-system.md)
 
     Feeding, evolution, auto-feed and pet items.
 
-- [**🎯 Hunting Missions**](../Hunting_Mission.md)
+- [**🎯 Hunting Missions**](../hunting-mission.md)
 
     Track monsters for zeny, EXP and Mission Points.
 
-- [**🎀 Taming Gift Set**](../Taming_Gift_Set.md)
+- [**🎀 Taming Gift Set**](../taming-gift-set.md)
 
     A Hunting Mission reward that gives a random taming item.
 
-- [**💍 Jewelry Box**](../Jewelry_Box.md)
+- [**💍 Jewelry Box**](../jewelry-box.md)
 
     A Hunting Mission reward. Details coming soon.
 
-- [**💖 Poring Coin System**](../Poring_Coins_System.md)
+- [**💖 Poring Coin System**](../poring-coins-system.md)
 
     Earn and spend Poring Coins.
 
-- [**🎉 Repeatable Quests**](../Repeatable_Quests.md)
+- [**🎉 Repeatable Quests**](../repeatable-quests.md)
 
     Reliable EXP and loot.
 
-- [**💰 Vendor System**](../Vendor_System.md)
+- [**💰 Vendor System**](../vendor-system.md)
 
     Find, buy and trade items with other players.
 
-- [**🌀 Warper System**](../Warper_System.md)
+- [**🌀 Warper System**](../warper-system.md)
 
     Quick travel and quest warps.
 
@@ -48,71 +48,71 @@ The main systems and services on uaRO, plus the improvements made to the standar
 
 <div class="grid cards" markdown>
 
-- [**💤 Adventurer Inns**](../Inns.md)
+- [**💤 Adventurer Inns**](../inns.md)
 
     Rest, heal and buff in towns across Rune-Midgard.
 
-- [**🔔 Attendance Rewards**](../Attendance_System.md)
+- [**🔔 Attendance Rewards**](../attendance-system.md)
 
     Log in daily for a reward.
 
-- [**🎟️ Card Exchange**](../Card_Exchange.md)
+- [**🎟️ Card Exchange**](../card-exchange.md)
 
     Trade cards with Putty.
 
-- [**🔮 Class Changes**](../Class_Changes.md)
+- [**🔮 Class Changes**](../class-changes.md)
 
     Skill and mechanic adjustments for every class.
 
-- [**🍬 Convenient Dealers**](../Dealers.md)
+- [**🍬 Convenient Dealers**](../dealers.md)
 
     Supplies at standard prices, where you need them.
 
-- [**🧚 Custom NPCs**](../Custom_NPC.md)
+- [**🧚 Custom NPCs**](../custom-npc.md)
 
     Helpful NPCs added by uaRO.
 
-- [**🎭 Costume Converter**](../Costume_Converter.md)
+- [**🎭 Costume Converter**](../costume-converter.md)
 
     Turn headgears into costumes.
 
-- [**👒 Headgear Quests**](../Dimonka_Headgear_Quest.md)
+- [**👒 Headgear Quests**](../dimonka-headgear-quest.md)
 
     Practical headgears from Dimonka.
 
-- [**🐸 King Frog Hat**](../King_Frog_Hat.md)
+- [**🐸 King Frog Hat**](../king-frog-hat.md)
 
     Craft the King Frog Hat.
 
-- [**🕥 Hourly Rewards**](../Hourly_Rewards_System.md)
+- [**🕥 Hourly Rewards**](../hourly-rewards-system.md)
 
     Playtime rewards on a timer.
 
-- [**👕 Item Changes**](../Item_Changes.md)
+- [**👕 Item Changes**](../item-changes.md)
 
     Modified equipment and item effects.
 
-- [**📦 Expanded Class Weapons**](../Expanded-Class-Weapons.md)
+- [**📦 Expanded Class Weapons**](../expanded-class-weapons.md)
 
     More weapon choices for each class.
 
-- [**🔪 Mercenary System**](../Mercenary_System.md)
+- [**🔪 Mercenary System**](../mercenary-system.md)
 
     Hire, use and optimise mercenaries.
 
-- [**💎 Modified Sales Prices**](../Modified_Sales_Prices.md)
+- [**💎 Modified Sales Prices**](../modified-sales-prices.md)
 
     Reduced sell prices to protect the economy.
 
-- [**🗺️ Navigation System**](../Navigation_System.md)
+- [**🗺️ Navigation System**](../navigation-system.md)
 
     Find your way with /navi and the world map.
 
-- [**🐣 Remastered Novice Grounds**](../Remastered_Novice_Location.md)
+- [**🐣 Remastered Novice Grounds**](../remastered-novice-location.md)
 
     The training ground for new characters.
 
-- [**🛠️ Build Manager NPC**](../Build-Manager-NPC.md)
+- [**🛠️ Build Manager NPC**](../build-manager-npc.md)
 
     Save and load stat and skill builds.
 

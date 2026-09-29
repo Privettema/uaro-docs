@@ -1,7 +1,7 @@
 # Cart & Falcon Coupons
 
 Cart Unlock Coupons and Falcon Coupons unlock new cart and falcon appearances. Buy them with
-**Cash Points** in the [Cash Shop](Donations.md#cash-shop).
+**Cash Points** in the [Cash Shop](donations.md#cash-shop).
 
 - **1 coupon = 1 appearance**
 - Unlocks are **permanent**, but only for the **character** you unlock them on, not your account
@@ -49,7 +49,7 @@ Snipers start with the **Eagle**. Coupons unlock three more: the Hunter default 
 
 - A cart rented from a **Kafra** (**Merchant** classes and **Super Novice**)
 - The **Change Cart 2** platinum skill, from the **Platinum Skill** NPC in the
-  [Main Office](Main_Office.md)
+  [Main Office](main-office.md)
 - A **Cart Unlock Coupon** in your inventory
 
 ### How to Redeem
