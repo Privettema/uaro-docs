@@ -552,11 +552,20 @@
    see how it reads before doing this properly (e.g. a per-page `npc:` front-matter field feeding
    a build hook) rather than hardcoding it by card position like this. Cards, in order: Poring
    Coin System, Warper System, Cute Pet System, Hunting Missions, Repeatable Quests, Main Office,
-   Guild Starter Support System. */
+   Guild Starter Support System.
+
+   All the sprites used here live together in docs/img/NPC/, whatever their original location, so
+   they're easy to find and swap as a set.
+
+   Sized by a fixed HEIGHT (not width): each sprite's own canvas has a slightly different amount
+   of empty padding baked in, so a fixed *width* left every character a visibly different height
+   (their content ranged from ~84px to ~95px tall at the old sizing). A fixed height makes them
+   read as one consistent cast. Deviruchi is the deliberate exception - a small pet icon, not a
+   person, sized on its own further down. */
 #main-features-cards > ul > li {
     background-repeat: no-repeat;
     background-position: 1.25rem center;
-    background-size: 2.5rem auto;
+    background-size: auto 5.5rem;
     padding-left: 4.75rem;
 }
 
@@ -571,9 +580,10 @@
     background-image: url("../img/NPC/warpra.gif");
 }
 
-/* 3: Cute Pet System -> Deviruchi */
+/* 3: Cute Pet System -> Deviruchi. Smaller and on its own sizing, on purpose (see note above). */
 #main-features-cards > ul > li:nth-child(3) {
-    background-image: url("../img/1109.gif");
+    background-image: url("../img/NPC/deviruchi.gif");
+    background-size: auto 3.5rem;
 }
 
 /* 4: Hunting Missions -> Hobota */
@@ -581,17 +591,17 @@
     background-image: url("../img/NPC/hobota.gif");
 }
 
-/* 5: Repeatable Quests -> Hobota again, for now */
+/* 5: Repeatable Quests -> trying the beige traveller sprite */
 #main-features-cards > ul > li:nth-child(5) {
-    background-image: url("../img/NPC/hobota.gif");
+    background-image: url("../img/NPC/beige-traveler.png");
 }
 
 /* 6: Main Office -> Dimonka */
 #main-features-cards > ul > li:nth-child(6) {
-    background-image: url("../img/4_F_JP_NOAH.gif");
+    background-image: url("../img/NPC/dimonka.gif");
 }
 
-/* 7: Guild Starter Support System -> the Retired Ranger (closest thing to a guard we have on hand) */
+/* 7: Guild Starter Support System -> trying the blue-haired knight sprite */
 #main-features-cards > ul > li:nth-child(7) {
-    background-image: url("../img/Coupons/Retired-Ranger-NPC.png");
+    background-image: url("../img/NPC/blue-haired-knight.png");
 }
