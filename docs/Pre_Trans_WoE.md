@@ -75,7 +75,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 
 ## WoE Mechanics (Pre-Trans)
 
-- **24-player cap** per castle  
+- **26-player cap** per castle  
   (Recall prioritizes highest-ranked members until the cap is reached)
 - **Extended, Baby, and Trans classes cannot move** inside Pre-Trans castles
 - **All MVP cards have no effect**  
@@ -101,14 +101,23 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
   or Infinite Butterfly Wing starts a `3` second countdown before you return to
   your save point, regardless of combat status
   (Closes an escape that let players bail out mid-engagement)
-- **Trap limit:** maximum **25 traps per player**
-- Placing additional traps beyond the limit removes the **oldest active trap**
-- **Dispel does NOT remove Snare effects**, regardless of caster
-- **Quagmire no longer affects friendly guild members**
 - **Gym Pass – Enlarge Weight Limit** has no effect during Pre-Trans WoE  
   Merchant base skill behavior remains unchanged
 - **Blocked equipment inside castles:**
   - All enchant effects
+
+### Skill Changes
+
+| Skill | Change |
+|-|-|
+| Traps | Maximum **25 traps per player**. Placing more removes the **oldest active trap**.<br>Traps no longer affect guild members or the caster. |
+| ![sa_dispell](img/Class_Changes/sa_dispell.png) Dispel | Does **not** remove Snare effects, regardless of caster. |
+| ![wz_quagmire](img/Class_Changes/wz_quagmire.gif) Quagmire | No longer affects friendly guild members. |
+| ![sm_magnum](img/Class_Changes/sm_magnum.png) Magnum Break | Reverted to its pre-Episode 8 behavior: a 3×3 cell range that does not affect nearby traps. |
+| ![mo_bodyrelocation](img/Class_Changes/mo_bodyrelocation.png) Snap / Body Relocation | Monks can no longer use them past or out of traps. |
+| ![bd_rokisweil](img/WoE/bd_rokisweil.gif) Loki's Veil | Blocked. |
+| ![tk_highjump](img/WoE/tk_highjump.gif) High Jump | Blocked. |
+| ![hp_assumptio](img/WoE/hp_assumptio.gif) Assumptio | Blocked. |
 
 ## Item Block Lists	
 
@@ -134,12 +143,6 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 !!! note
     All consumables, items, and card effects have been reviewed for proper blocking within Pre-Trans WoE.
     Barred items are now unequipped automatically when you enter a castle.
-
-### Skill Restrictions:
-
-![bd_rokisweil](img/WoE/bd_rokisweil.gif) Loki's Veil<br>
-![tk_highjump](img/WoE/tk_highjump.gif) High Jump<br>
-![tk_highjump](img/WoE/hp_assumptio.gif) Assumptio<br>
 
 <!-- ### Card Restrictions:
 
