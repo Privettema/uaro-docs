@@ -452,6 +452,19 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
                 <td>Summon or recall an already created Homunculus.</td>
                 <td>Calls your most recently selected homc. Your active choice will not show on your "Bioethics" list of storage.</td>
             </tr>
+                    <tr>
+                <td><img src="../img/Class_Changes/hlif_change.png" alt="">Mental Change (Lif)</td>
+                <td>
+                    Duration of 1, 2 and 3 minutes for levels 1-3.<br>
+                    Cooldown of 10, 15 and 20 minutes.
+                </td>
+                <td>
+                    Duration of 1, 3 and 5 minutes for levels 1-3.<br>
+                    Cooldown of 5 minutes at every level.<br>
+                    Effects carry through Fly Wing and Teleport for the full duration.<br>
+                    Follows the normal HP/SP requirements, so it cannot be used to auto-heal after every skill.
+                </td>
+            </tr>
              <tr>
                 <td><img src="../img/Class_Changes/cr_cultivation.png" alt="">Plant Cultivation</td>
                 <td>Can be used on any walkable cell.</td>
@@ -729,6 +742,11 @@ No other changes to Hunter skills.
             </tr>
         </thead>
         <tbody>
+                    <tr>
+                <td>Weapon Swap</td>
+                <td>Swapping to a weapon of the same type does not cancel songs.</td>
+                <td>Swapping to a weapon of the same type cancels songs.</td>
+            </tr>
             <tr>
                 <td><img src="../img/Class_Changes/cg_arrowvulcan.gif" alt="">Arrow Vulcan</td>
                 <td>Cast delay: 3 seconds.</td>
