@@ -548,14 +548,44 @@
     padding-bottom: 2rem;
 }
 
-/* EXPERIMENT — an NPC sprite to the left of a feature card's text, tried on just the first
-   "Popular systems" card (Hobota, picked arbitrarily) to see how it reads before doing it properly
-   everywhere. CSS-only so it's cheap to drop or extend to the rest of the cards. Remove this rule,
-   or lift it into a real per-card mechanism, once a decision is made. */
-#main-features-cards > ul > li:first-child {
-    background-image: url("../img/NPC/hobota.gif");
+/* EXPERIMENT — an NPC sprite to the left of most "Popular systems" cards' text, one per card, to
+   see how it reads before doing this properly (e.g. a per-page `npc:` front-matter field feeding
+   a build hook) rather than hardcoding it by card position like this. Cards, in order: Poring Coin
+   System (no sprite yet), Warper System, Cute Pet System, Hunting Missions, Repeatable Quests,
+   Main Office, Guild Starter Support System. */
+#main-features-cards > ul > li:nth-child(n+2) {
     background-repeat: no-repeat;
-    background-position: 0.75rem center;
-    background-size: 2.75rem auto;
-    padding-left: 4.25rem;
+    background-position: 1.25rem center;
+    background-size: 2.5rem auto;
+    padding-left: 4.75rem;
+}
+
+/* 2: Warper System -> Warpra */
+#main-features-cards > ul > li:nth-child(2) {
+    background-image: url("../img/NPC/warpra.gif");
+}
+
+/* 3: Cute Pet System -> Deviruchi */
+#main-features-cards > ul > li:nth-child(3) {
+    background-image: url("../img/1109.gif");
+}
+
+/* 4: Hunting Missions -> Hobota */
+#main-features-cards > ul > li:nth-child(4) {
+    background-image: url("../img/NPC/hobota.gif");
+}
+
+/* 5: Repeatable Quests -> Hobota again, for now */
+#main-features-cards > ul > li:nth-child(5) {
+    background-image: url("../img/NPC/hobota.gif");
+}
+
+/* 6: Main Office -> Lydia */
+#main-features-cards > ul > li:nth-child(6) {
+    background-image: url("../img/4_F_NFLOSTGIRL.gif");
+}
+
+/* 7: Guild Starter Support System -> the Retired Ranger (closest thing to a guard we have on hand) */
+#main-features-cards > ul > li:nth-child(7) {
+    background-image: url("../img/Coupons/Retired-Ranger-NPC.png");
 }
