@@ -581,9 +581,11 @@
 }
 
 /* 1: Poring Coin System -> Lydia (she hands out the exchange). Uses a still, centred crop
-   (docs/img/NPC/lydia.png) instead of her walking sprite, which is off-centre in its own frame. */
+   (docs/img/NPC/lydia.png) instead of her walking sprite, which is off-centre in its own frame.
+   Slightly smaller than the shared size - she reads a bit too large at the same height as the rest. */
 #main-features-cards > ul > li:nth-child(1) {
     background-image: url("../img/NPC/lydia.png");
+    background-size: auto 4.75rem;
 }
 
 /* 2: Warper System -> Warpra */
