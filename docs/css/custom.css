@@ -124,3 +124,38 @@
     margin: 1rem 0; /* 16px 0 — left-aligned */
 }
 
+/* overrides/404.html: centered not-found page */
+.uaro-404 {
+    max-width: 30rem; /* 480px */
+    margin: 3rem auto; /* 48px auto */
+    padding: 0 1rem; /* 0 16px */
+    text-align: center;
+}
+
+.uaro-404__art {
+    width: 100%;
+    max-width: 20rem; /* 320px */
+    height: auto;
+    border-radius: 0.75rem; /* 12px */
+    margin-bottom: 1.5rem; /* 24px */
+}
+
+.uaro-404 h1 {
+    margin-bottom: 0.5rem; /* 8px */
+}
+
+.uaro-404__links {
+    font-size: 1.125rem; /* 18px */
+}
+
+.uaro-404__links span {
+    margin: 0 0.5rem; /* 0 8px */
+    opacity: 0.5;
+}
+
+.uaro-404__report {
+    margin-top: 1.5rem; /* 24px */
+    color: var(--md-default-fg-color--light);
+    font-size: 0.875rem; /* 14px */
+}
+
