@@ -133,6 +133,12 @@ Some equipment purchased with Valor Badges can also be used outside Battleground
 | High Jump | Works in BG. |
 | Running | Works in BG. |
 | Potion Pitcher | Does not work on battleground barricades, objectives, and flags. |
+| **Status Effects** |
+| Slow Grace | Cleared on death and when a battleground ends. |
+| Full Strip | Cleared on death and when a battleground ends. |
+| Stone Curse | Dispelled automatically when you leave a battleground. |
+| Decrease AGI | Dispelled automatically when you leave a battleground. |
+| Entering and leaving | You are fully dispelled when you enter and when you leave. |
 
 ---
 
