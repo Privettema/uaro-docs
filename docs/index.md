@@ -29,6 +29,10 @@ server's systems work, event details and the latest patch notes.
 
     Fixes for client, antivirus and connection problems.
 
+- **[👾 Join our Discord ↗](https://discord.gg/uaro-the-world-of-your-dream-702960460168953946)**
+
+    Chat with the community, get help, and follow announcements.
+
 </div>
 
 <div class="section-heading" markdown>
@@ -92,7 +96,7 @@ server's systems work, event details and the latest patch notes.
 
 </div>
 
-!!! tip "Good to know"
+!!! tip "Before you dive in"
 
     - **Classic ruleset** — no custom items, no job changer, and no free healer or buffer NPCs
     - **Transcendent classes only** — no 3rd or 4th jobs, and no new job sprites
