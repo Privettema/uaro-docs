@@ -1,30 +1,18 @@
 # Features & Enhancements
 
-The main systems and services on uaRO, plus the improvements made to the standard game.
+uaRO is the classic Ragnarok Online you know, with a lot more going on. Here is everything we built, tuned and
+polished, so you can see what is waiting for you in Rune-Midgard.
 
-## Key Features
+## Features
+
+The systems that make uaRO its own. Raise a pet, take on Hunting Missions, trade in the Vendor System,
+and find most useful NPCs in the Main Office.
 
 <div class="grid cards" markdown>
 
 - [**🏡 Main Office**](../main-office.md)
 
     The Prontera hub for most useful NPCs.
-
-- [**🐱 Cute Pet System**](../pet-system.md)
-
-    Feeding, evolution, auto-feed and pet items.
-
-- [**🎯 Hunting Missions**](../hunting-mission.md)
-
-    Track monsters for zeny, EXP and Mission Points.
-
-- [**🎀 Taming Gift Set**](../taming-gift-set.md)
-
-    A Hunting Mission reward that gives a random taming item.
-
-- [**💍 Jewelry Box**](../jewelry-box.md)
-
-    A Hunting Mission reward. Details coming soon.
 
 - [**💖 Poring Coin System**](../poring-coins-system.md)
 
@@ -34,86 +22,134 @@ The main systems and services on uaRO, plus the improvements made to the standar
 
     Reliable EXP and loot.
 
-- [**💰 Vendor System**](../vendor-system.md)
+- [**🐱 Cute Pet System**](../pet-system.md)
 
-    Find, buy and trade items with other players.
+    Feeding, evolution, auto-feed and pet items.
+
+- [**🎯 Hunting Missions**](../hunting-mission.md)
+
+    Track monsters for zeny, EXP and Mission Points.
 
 - [**🌀 Warper System**](../warper-system.md)
 
     Quick travel and quest warps.
 
-</div>
-
-## Enhancements
-
-<div class="grid cards" markdown>
-
 - [**💤 Adventurer Inns**](../inns.md)
 
     Rest, heal and buff in towns across Rune-Midgard.
 
-- [**🔔 Attendance Rewards**](../attendance-system.md)
+- [**💰 Vendor System**](../vendor-system.md)
 
-    Log in daily for a reward.
-
-- [**🎟️ Card Exchange**](../card-exchange.md)
-
-    Trade cards with Putty.
-
-- [**🔮 Class Changes**](../class-changes.md)
-
-    Skill and mechanic adjustments for every class.
-
-- [**🍬 Convenient Dealers**](../dealers.md)
-
-    Supplies at standard prices, where you need them.
-
-- [**🧚 Custom NPCs**](../custom-npc.md)
-
-    Helpful NPCs added by uaRO.
-
-- [**🎭 Costume Converter**](../costume-converter.md)
-
-    Turn headgears into costumes.
+    Find, buy and trade items with other players.
 
 - [**👒 Headgear Quests**](../dimonka-headgear-quest.md)
 
     Practical headgears from Dimonka.
 
-- [**🐸 King Frog Hat**](../king-frog-hat.md)
+- [**🧚 Custom NPCs**](../custom-npc.md)
 
-    Craft the King Frog Hat.
+    Helpful NPCs added by uaRO.
 
-- [**🕥 Hourly Rewards**](../hourly-rewards-system.md)
+</div>
 
-    Playtime rewards on a timer.
+## Changes
+
+uaRO keeps the pre-renewal feel with adjustments to skills, gear, quests and maps. See exactly what is
+different from the official game before you plan your next build.
+
+<div class="grid cards" markdown>
+
+- [**🔮 Class Changes**](../class-changes.md)
+
+    Skill and mechanic adjustments.
+
+- [**🗺️ Map Changes**](../map-changes.md)
+
+    Altered layouts, spawns and warps.
+
+- [**📜 Quest Changes**](../quest-changes.md)
+
+    Reworked requirements, rewards and NPCs.
 
 - [**👕 Item Changes**](../item-changes.md)
 
     Modified equipment and item effects.
 
-- [**📦 Expanded Class Weapons**](../expanded-class-weapons.md)
-
-    More weapon choices for each class.
-
-- [**🔪 Mercenary System**](../mercenary-system.md)
-
-    Hire, use and optimise mercenaries.
-
 - [**💎 Modified Sales Prices**](../modified-sales-prices.md)
 
     Reduced sell prices to protect the economy.
 
-- [**🗺️ Navigation System**](../navigation-system.md)
+- [**📦 Expanded Class Weapons**](../expanded-class-weapons.md)
 
-    Find your way with /navi and the world map.
+    More weapon choices for each class.
+
+</div>
+
+## Enhancements
+
+Extras that make everyday play easier. Daily and hourly rewards, saved builds, convenient dealers and
+easy navigation, all in one place.
+
+<div class="grid cards" markdown>
+
+- [**🔔 Attendance Rewards**](../attendance-system.md)
+
+    Log in daily for a reward.
+
+- [**🕥 Hourly Rewards**](../hourly-rewards-system.md)
+
+    Playtime rewards on a timer.
 
 - [**🐣 Remastered Novice Grounds**](../remastered-novice-location.md)
 
     The training ground for new characters.
 
+- [**🍬 Convenient Dealers**](../dealers.md)
+
+    Supplies at standard prices, where you need them.
+
+- [**🎟️ Card Exchange**](../card-exchange.md)
+
+    Trade cards with Putty.
+
+- [**🎭 Costume Converter**](../costume-converter.md)
+
+    Turn headgears into costumes.
+
+- [**🔪 Mercenary System**](../mercenary-system.md)
+
+    Hire, use and optimise mercenaries.
+
+- [**🗺️ Navigation System**](../navigation-system.md)
+
+    Find your way with /navi and the world map.
+
 - [**🛠️ Build Manager NPC**](../build-manager-npc.md)
 
     Save and load stat and skill builds.
+
+</div>
+
+## Rewards & Items
+
+Extra treasures to chase: gift sets, jewelry, cosmetic coupons and a certain crown for the frog king.
+
+<div class="grid cards" markdown>
+
+- [**🎀 Taming Gift Set**](../taming-gift-set.md)
+
+    A Hunting Mission reward that gives a random taming item.
+
+- [**💍 Jewelry Box**](../jewelry-box.md)
+
+    A Hunting Mission reward. Details coming soon.
+
+- [**🦅 Cart & Falcon Coupons**](../cart-and-falcon-coupons.md)
+
+    Unlock new cart and falcon appearances.
+
+- [**🐸 King Frog Hat**](../king-frog-hat.md)
+
+    Craft the King Frog Hat.
 
 </div>

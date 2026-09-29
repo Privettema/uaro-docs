@@ -63,34 +63,39 @@ nav:
     - 💬 FAQ: faq.md
   - Features & Enhancements:
     - features-enhancements/index.md
-    - Key Features:
+    - Features:
       - 🏡 Main Office: main-office.md
-      - 🐱 Cute Pet System: pet-system.md
-      - 🎯 Hunting Missions: hunting-mission.md
-      - 🎀 Taming Gift Set: taming-gift-set.md
-      - 💍 Jewelry Box: jewelry-box.md
       - 💖 Poring Coin System: poring-coins-system.md
       - 🎉 Repeatable Quests: repeatable-quests.md
-      - 💰 Vendor System: vendor-system.md
+      - 🐱 Cute Pet System: pet-system.md
+      - 🎯 Hunting Missions: hunting-mission.md
       - 🌀 Warper System: warper-system.md
-    - Enhancements:
       - 💤 Adventurer Inns: inns.md
-      - 🔔 Attendance Rewards: attendance-system.md
-      - 🎟️ Card Exchange: card-exchange.md
-      - 🔮 Class Changes: class-changes.md
-      - 🍬 Convenient Dealers: dealers.md
-      - 🧚 Custom NPCs: custom-npc.md
-      - 🎭 Costume Converter: costume-converter.md
+      - 💰 Vendor System: vendor-system.md
       - 👒 Headgear Quests: dimonka-headgear-quest.md
-      - 🐸 King Frog Hat: king-frog-hat.md
-      - 🕥 Hourly Rewards: hourly-rewards-system.md
+      - 🧚 Custom NPCs: custom-npc.md
+    - Changes:
+      - 🔮 Class Changes: class-changes.md
+      - 🗺️ Map Changes: map-changes.md
+      - 📜 Quest Changes: quest-changes.md
       - 👕 Item Changes: item-changes.md
-      - 📦 Expanded Class Weapons: expanded-class-weapons.md
-      - 🔪 Mercenary System: mercenary-system.md
       - 💎 Modified Sales Prices: modified-sales-prices.md
-      - 🗺️ Navigation System: navigation-system.md
+      - 📦 Expanded Class Weapons: expanded-class-weapons.md
+    - Enhancements:
+      - 🔔 Attendance Rewards: attendance-system.md
+      - 🕥 Hourly Rewards: hourly-rewards-system.md
       - 🐣 Remastered Novice Grounds: remastered-novice-location.md
+      - 🍬 Convenient Dealers: dealers.md
+      - 🎟️ Card Exchange: card-exchange.md
+      - 🎭 Costume Converter: costume-converter.md
+      - 🔪 Mercenary System: mercenary-system.md
+      - 🗺️ Navigation System: navigation-system.md
       - 🛠️ Build Manager NPC: build-manager-npc.md
+    - Rewards & Items:
+      - 🎀 Taming Gift Set: taming-gift-set.md
+      - 💍 Jewelry Box: jewelry-box.md
+      - 🦅 Cart & Falcon Coupons: cart-and-falcon-coupons.md
+      - 🐸 King Frog Hat: king-frog-hat.md
   - Dungeons & Instances:
     - dungeons-instances/index.md
     - Dungeons:
@@ -243,6 +248,7 @@ plugins:
         King_of_Emperium_(KoE).md: king-of-emperium.md
         Lottery_NPC.md: lottery-npc.md
         Main_Office.md: main-office.md
+        Map_Changes.md: map-changes.md
         Mercenary_System.md: mercenary-system.md
         Modified_Sales_Prices.md: modified-sales-prices.md
         Navigation_System.md: navigation-system.md
@@ -251,6 +257,7 @@ plugins:
         Poring_Coins_System.md: poring-coins-system.md
         Pre_Trans_WoE.md: pre-trans-woe.md
         PvP_Arena.md: pvp-arena.md
+        Quest_Changes.md: quest-changes.md
         Remastered_Novice_Location.md: remastered-novice-location.md
         Repeatable_Quests.md: repeatable-quests.md
         Server_Info.md: server-info.md

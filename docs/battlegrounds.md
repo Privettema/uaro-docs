@@ -129,10 +129,16 @@ Some equipment purchased with Valor Badges can also be used outside Battleground
 | - | - |
 | Party Buffs | Party buffs cast on a battleground map reach every teammate in range, whether or not you are grouped with them. |
 | **Skills** |
-| Devotion | Works in BG without the need for a party. |
-| High Jump | Works in BG. |
-| Running | Works in BG. |
-| Potion Pitcher | Does not work on battleground barricades, objectives, and flags. |
+| ![cr_devotion](img/Class_Changes/cr_devotion.gif) Devotion | Works in BG without the need for a party. |
+| ![tk_highjump](img/WoE/tk_highjump.gif) High Jump | Works in BG. |
+| ![tk_run](img/Class_Changes/tk_run.png) Running | Works in BG. |
+| ![am_potionpitcher](img/Class_Changes/am_potionpitcher.png) Potion Pitcher | Does not work on battleground barricades, objectives, and flags. |
+| **Status Effects** |
+| ![dc_dontforgetme](img/Class_Changes/dc_dontforgetme.png){ width="24" } Please Don't Forget Me | Cleared on death and when a battleground ends. |
+| ![i_divestarmor](img/Class_Changes/i_divestarmor.png){ width="24" } Full Strip | Cleared on death and when a battleground ends. |
+| ![mg_stonecurse](img/Class_Changes/mg_stonecurse.png){ width="24" } Stone Curse | Dispelled automatically when you leave a battleground. |
+| ![i_decreaseagi](img/Class_Changes/i_decreaseagi.png){ width="24" } Decrease AGI | Dispelled automatically when you leave a battleground. |
+| Entering and leaving | You are fully dispelled when you enter and when you leave. |
 
 ---
 

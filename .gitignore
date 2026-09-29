@@ -167,7 +167,8 @@ patchnotes_*.txt
 # AI/Editor specific files
 CLAUDE.md
 AGENTS.md
-.claude/
+.claude/*
+!.claude/skills/
 .cursor/
 .cursorrules
 .github/copilot-instructions.md
