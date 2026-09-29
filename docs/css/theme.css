@@ -548,16 +548,22 @@
     padding-bottom: 2rem;
 }
 
-/* EXPERIMENT — an NPC sprite to the left of most "Popular systems" cards' text, one per card, to
+/* EXPERIMENT — an NPC sprite to the left of each "Popular systems" card's text, one per card, to
    see how it reads before doing this properly (e.g. a per-page `npc:` front-matter field feeding
-   a build hook) rather than hardcoding it by card position like this. Cards, in order: Poring Coin
-   System (no sprite yet), Warper System, Cute Pet System, Hunting Missions, Repeatable Quests,
-   Main Office, Guild Starter Support System. */
-#main-features-cards > ul > li:nth-child(n+2) {
+   a build hook) rather than hardcoding it by card position like this. Cards, in order: Poring
+   Coin System, Warper System, Cute Pet System, Hunting Missions, Repeatable Quests, Main Office,
+   Guild Starter Support System. */
+#main-features-cards > ul > li {
     background-repeat: no-repeat;
     background-position: 1.25rem center;
     background-size: 2.5rem auto;
     padding-left: 4.75rem;
+}
+
+/* 1: Poring Coin System -> Lydia (she hands out the exchange). Uses a still, centred crop
+   (docs/img/NPC/lydia.png) instead of her walking sprite, which is off-centre in its own frame. */
+#main-features-cards > ul > li:nth-child(1) {
+    background-image: url("../img/NPC/lydia.png");
 }
 
 /* 2: Warper System -> Warpra */
@@ -580,9 +586,9 @@
     background-image: url("../img/NPC/hobota.gif");
 }
 
-/* 6: Main Office -> Lydia */
+/* 6: Main Office -> Dimonka */
 #main-features-cards > ul > li:nth-child(6) {
-    background-image: url("../img/4_F_NFLOSTGIRL.gif");
+    background-image: url("../img/4_F_JP_NOAH.gif");
 }
 
 /* 7: Guild Starter Support System -> the Retired Ranger (closest thing to a guard we have on hand) */
