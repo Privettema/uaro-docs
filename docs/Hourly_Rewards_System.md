@@ -17,10 +17,10 @@ Get your prizes from the NPC Gold Point Manager in Prontera Inn, or click the ti
 
 ![Gold Point Manager](img/Gold-Point-Manager-NPC.png)
 
-| Item Name | Cost |
-|---|---|
-| ![Gold Coin](img/7929.gif) Gold Coin - 1 | **120 Points** |
-| ![Gold Coin](img/7929.gif) Gold Coin - 2 | **240 Points** |
+| Item Name | ID | Cost |
+|---|---|---|
+| ![Gold Coin](img/7929.gif) Gold Coin - 1 | `7929` | **120 Points** |
+| ![Gold Coin](img/7929.gif) Gold Coin - 2 | `7929` | **240 Points** |
 
 ## Exchanging for Costumes
 
