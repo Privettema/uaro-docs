@@ -32,6 +32,7 @@ LINE_RULES = [
     ("date-slash", re.compile(r"(?<![\d/])\d{1,2}/\d{1,2}/\d{2,4}(?![\d/])"), "write dates as October 31, 2025"),
     ("date-dmy", re.compile(rf"\b\d{{1,2}}(?:st|nd|rd|th)? (?:{MONTHS})\b,? \d{{4}}"), "write dates as October 31, 2025"),
     ("uk-spelling", re.compile(rf"\b(?:{'|'.join(UK_WORDS)})\w*", re.I), "use US spelling"),
+    ("empty-alt", re.compile(r"!\[\s*\]\("), "image needs alt text"),
     ("link-text", re.compile(r"\[(?:click )?here\]\(", re.I), 'link text should say where the link goes'),
 ]
 
@@ -94,6 +95,8 @@ def lint_file(path):
                 heading_reported = True
 
         text = strip_inline(raw)
+        if re.search(r"<br\s*/?>", text) and not raw.lstrip().startswith("|"):
+            add(n, "br", "<br> is only for line breaks inside table cells")
         for rule, pattern, msg in LINE_RULES:
             if pattern.search(text):
                 add(n, rule, msg)

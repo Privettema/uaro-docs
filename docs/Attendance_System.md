@@ -7,7 +7,9 @@ Every day you show up is a day closer to something good. A little loyalty goes a
 - **Log in to collect.** The first time you log in to a character each day, that day's reward arrives in your RODEX Mail. Rewards are tied to your account.
 - **A new day starts at 00:00 server time.** Log in before and after midnight server time and you'll get a reward for each day. Check the current server time with `@time`.
 - **Missing a day doesn't reset you.** The table counts the days you logged in, not calendar days. Skip a day and you carry on from where you left off.
-- **Collect your rewards within 14 days.** Rewards left uncollected in RODEX Mail are removed after 14 days.
+
+!!! warning "Collect Your Rewards"
+    Rewards left uncollected in RODEX Mail are removed after 14 days.
 
 ![In-game example](img/Attendance_System/attendance.png){ .wiki-screenshot }
 
