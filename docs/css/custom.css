@@ -121,6 +121,6 @@
     border: 0.0625rem solid var(--md-default-fg-color--lightest); /* 1px */
     max-width: 37.5rem; /* 600px */
     display: block;
-    margin: 1rem 0; /* 16px 0 — left-aligned */
+    margin: 1.5rem 0; /* 24px 0 — left-aligned */
 }
 
