@@ -6,8 +6,7 @@
 - x5 / x5 / x5
 
 ### Weekend Rates
-- x7.5 / x7.5 / x5
-- [Details](#about-weekend-rates)
+- x7.5 / x7.5 / x5 - [Details](#about-weekend-rates)
 
 ### Static Rates
 - Normal Cards: x5 (0.05%)
@@ -26,7 +25,8 @@
 - Party Share Range: 15 Levels
 - Minimum Skill Delay: 100ms
 - Minimum Usable Items Delay: 50ms
-- International Server, English language
+- International Server
+- Server Language: English
 - Server Time: [UTC+0](https://dayspedia.com/time/zones/utc+0/)
 
 ## Server Features
