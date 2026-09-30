@@ -26,7 +26,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           Bastion wave 100 guardian, Hunting Missions EXP,
           BG Crystal Fragment and Kaite.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09292026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09292026.md) [:octicons-arrow-right-24: All Patch Notes](all-patch-notes.md)
 
     === "September 22"
         **September 22, 2026**
