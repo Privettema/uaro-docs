@@ -79,6 +79,10 @@ While carrying a flag:
 * **Increase AGI** and speed potions have no effect.
 * A marker is displayed above the carrier.
 
+!!! tip "Battle Therapist in KvM"
+    When you enter **KvM**, a **Battle Therapist** NPC spawns at both team bases offering **Heal**,
+    **Blessing**, **Increase AGI** and **Storage**. It despawns for the rest of the match once the match starts.
+
 ---
 
 ## Rewards

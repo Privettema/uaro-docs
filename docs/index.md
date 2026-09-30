@@ -7,6 +7,27 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "September 29"
+        **September 29, 2026**
+
+        - The Sign Quest: failing part 6A/6B now sets a 15
+          minute cooldown; get the Symbol of the Nine Realms
+          back from Gen in Niflheim, no GM reset needed.
+        - Onward to the New World is now instanced: 50
+          Allied Soldiers in 20 minutes, with progress in
+          the quest log.
+        - A Battle Therapist (Heal, Blessing, Increase AGI,
+          Storage) waits at both KvM bases until the match
+          starts.
+        - Pet Switch: use a Pet Incubator with a pet out to
+          swap straight to another egg; Pet Stylist skins
+          are kept.
+        - Fixes: Survivor's Manteau/Rod combo, Eternal
+          Bastion wave 100 guardian, Hunting Missions EXP,
+          BG Crystal Fragment and Kaite.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09292026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "September 22"
         **September 22, 2026**
 
