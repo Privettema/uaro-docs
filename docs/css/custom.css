@@ -4,6 +4,10 @@
     - Use var() from theme to support light/dark mode. ie, color: var(--md-default-fg-color); 
 */
 
+body {
+    text-wrap: pretty;
+}
+
 .grid__col-6 {
     padding: 1.25rem; /* 20px */
 }
