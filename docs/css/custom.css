@@ -45,30 +45,6 @@
     margin-left: 0 !important;
 }
 
-/* index.md: Styles the links at the bottom of each patch note */
-#index-patch-notes .tabbed-block p a {
-    display: inline-block;
-    font-weight: bold;
-}
-
-/* index.md: Adds space between links at the bottom of each patch note */
-#index-patch-notes .tabbed-block p a:last-of-type {
-    margin-left: 0.75rem; /* 12px */
-}
-
-/* index.md: Insets the tab content */
-#index-patch-notes .tabbed-block {
-   padding: 0.5rem 1rem; /* 8px 16px */
-   background: var(--md-default-fg-color--lightest);
-   font-family: monospace;
-}
-
-/* index.md: Removes extra space from <ul> in patch notes */
-#index-patch-notes .tabbed-block ul {
-    margin: 1rem 0; /* 16px 0px */
-    padding-left: 0.25rem; /* 4px */
-}
-
 /* index.md: Links in the main features cards have their own line */
 #main-features-cards a {
     display: block;
@@ -99,7 +75,8 @@
     opacity: 0.45;
 }
 
-/* index.md: Homepage hero banner — use with { .wiki-hero } attr */
+/* index.md: Homepage hero banner — use with { .wiki-hero } attr. Static image, not a link or
+   button, so it gets no hover reaction. */
 .md-typeset .wiki-hero {
     display: block;
     width: 100%;
@@ -107,12 +84,6 @@
     margin: 0.5rem 0 1.5rem; /* 8px 0 24px */
     border-radius: 0.75rem; /* 12px */
     box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.18); /* 0 8px 24px — soft depth */
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.md-typeset .wiki-hero:hover {
-    transform: translateY(-0.125rem); /* -2px — gentle lift */
-    box-shadow: 0 0.75rem 2rem rgba(0, 0, 0, 0.24); /* 0 12px 32px */
 }
 
 /* Wiki screenshot framing — use with { .wiki-screenshot } attr */

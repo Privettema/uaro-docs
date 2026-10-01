@@ -4,6 +4,10 @@
 # Usage: scripts/serve.sh [extra mkdocs serve args]
 set -euo pipefail
 
+# Silences MkDocs' upstream "v2 is coming" notice, which fires on every build/serve. It is a heads
+# up from the MkDocs maintainer about a future breaking release, not something specific to this repo.
+export DISABLE_MKDOCS_2_WARNING=true
+
 root="$(git rev-parse --show-toplevel)"
 port=$((8100 + $(printf '%s' "$root" | cksum | cut -d' ' -f1) % 900))
 

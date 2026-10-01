@@ -30,6 +30,10 @@ and find most useful NPCs in the Main Office.
 
     Track monsters for zeny, EXP and Mission Points.
 
+- [**🦅 Cart & Falcon Coupons**](../cart-and-falcon-coupons.md)
+
+    Unlock new cart and falcon appearances with Cash Points.
+
 - [**🌀 Warper System**](../warper-system.md)
 
     Quick travel and quest warps.
