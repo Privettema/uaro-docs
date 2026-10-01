@@ -1,0 +1,95 @@
+{% extends "main.html" %}
+
+{% block site_nav %}{% endblock %}
+
+{% block content %}
+<div class="uaro-404">
+  <img src="/img/wiki-title.webp" alt="" class="uaro-404__art" />
+
+  <h1>404 — Page not found</h1>
+
+  <p>That page doesn't exist, or it may have moved.</p>
+
+  <p class="uaro-404__suggestions" id="uaro-404-suggestions" hidden>
+    <span class="uaro-404__suggestions-label">Did you mean:</span>
+    <span class="uaro-404__suggestions-list"></span>
+  </p>
+
+  <p class="uaro-404__links">
+    <a href="/">Go to the home page</a>
+    <span aria-hidden="true">·</span>
+    <a href="/all-pages/">Browse all pages (A-Z)</a>
+  </p>
+
+  <p class="uaro-404__report">
+    Found a broken link?
+    <a href="https://discord.com/channels/702960460168953946/1456450631584846011">Let us know on Discord ↗</a>
+  </p>
+</div>
+
+<script>
+  (function () {
+    // Guesses a handful of pages the visitor may have meant, from the requested URL's words,
+    // matched against page-index.json (written at build time by hooks/all_pages.py).
+    function words(str) {
+      return String(str)
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, " ")
+        .trim()
+        .split(" ")
+        .filter(Boolean);
+    }
+
+    function wordMatches(queryWord, targetWord) {
+      if (queryWord === targetWord) return true;
+      if (queryWord.length < 3 || targetWord.length < 3) return false;
+      return targetWord.indexOf(queryWord) === 0 || queryWord.indexOf(targetWord) === 0;
+    }
+
+    function score(queryWords, targetWords) {
+      if (!queryWords.length) return 0;
+      var matched = queryWords.filter(function (q) {
+        return targetWords.some(function (t) {
+          return wordMatches(q, t);
+        });
+      }).length;
+      return matched / queryWords.length;
+    }
+
+    var queryWords = words(decodeURIComponent(location.pathname));
+    if (!queryWords.length) return;
+
+    fetch("/page-index.json")
+      .then(function (r) {
+        return r.ok ? r.json() : [];
+      })
+      .then(function (pages) {
+        var matches = pages
+          .map(function (page) {
+            return { page: page, score: score(queryWords, words(page.title + " " + page.url)) };
+          })
+          .filter(function (m) {
+            return m.score >= 0.5;
+          })
+          .sort(function (a, b) {
+            return b.score - a.score;
+          })
+          .slice(0, 4);
+
+        if (!matches.length) return;
+
+        var list = document.querySelector(".uaro-404__suggestions-list");
+        matches.forEach(function (m, i) {
+          if (i > 0) list.appendChild(document.createTextNode(" · "));
+          var a = document.createElement("a");
+          a.href = "/" + (m.page.url === "./" ? "" : m.page.url);
+          a.textContent = m.page.title;
+          list.appendChild(a);
+        });
+
+        document.getElementById("uaro-404-suggestions").hidden = false;
+      })
+      .catch(function () {});
+  })();
+</script>
+{% endblock %}

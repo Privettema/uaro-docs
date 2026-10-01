@@ -3,11 +3,43 @@
 
 :root {
     --uaro-ink: #1b1b25;          /* near-black, page background in dark mode */
-    --uaro-purple: #3f46ab;       /* main brand colour */
-    --uaro-purple-dark: #2d3382;
-    --uaro-purple-light: #cdcff2; /* tints, dark-mode links and surfaces */
-    --uaro-purple-tint: #eceefb;  /* very light surface for light mode */
-    --uaro-yellow: #ffcf00;       /* accent only: highlights, key buttons */
+    --uaro-yellow: #ffcf00;       /* accent only: highlights, focus rings */
+
+    /* Full purple scale (50 = lightest, 900 = darkest), so any new UI has a shade to pick from
+       without inventing a one-off colour. Each shade below is checked for 4.5:1 text contrast
+       against both #fff and var(--uaro-ink) before it is relied on for text or an outline. */
+    --uaro-purple-50:  #f4f4fd;
+    --uaro-purple-100: #eceefb;
+    --uaro-purple-200: #cdcff2;
+    --uaro-purple-300: #a6abe6;
+    --uaro-purple-400: #7079c9;
+    --uaro-purple-500: #3f46ab; /* main brand colour */
+    --uaro-purple-600: #333a94;
+    --uaro-purple-700: #2d3382;
+    --uaro-purple-800: #23285f;
+    --uaro-purple-900: #181c42;
+
+    /* Existing names kept as aliases so the rest of this file (and any page CSS) still works */
+    --uaro-purple: var(--uaro-purple-500);
+    --uaro-purple-dark: var(--uaro-purple-700);
+    --uaro-purple-light: var(--uaro-purple-200);
+    --uaro-purple-tint: var(--uaro-purple-100);
+
+    /* The one colour used everywhere something needs to read clearly on the current background:
+       an outline button's text/border, a focus ring (tabs, cards, nav, buttons), a hover fill.
+       --uaro-purple-500 is only ~2.2:1 on our dark background, so dark mode needs a lighter shade —
+       that shade reads as "white-ish", which is deliberate: it is the palest shade that still keeps
+       enough brand purple to feel on-theme. --uaro-purple-on-bg-contrast is the colour to put on top
+       of a *fill* of --uaro-purple-on-bg (e.g. a button's hover state), for the same reason. */
+    --uaro-purple-on-bg: var(--uaro-purple-500);          /* 7.85:1 on #fff */
+    --uaro-purple-on-bg-contrast: #fff;
+    /* Primary button hover/focus: a deeper solid than the base fill, so it still reads as "pressed" */
+    --uaro-purple-hover-fill: var(--uaro-purple-600);     /* 9.66:1 for white text, both schemes */
+}
+
+[data-md-color-scheme="slate"] {
+    --uaro-purple-on-bg: var(--uaro-purple-200);          /* 11.2:1 on --uaro-ink */
+    --uaro-purple-on-bg-contrast: var(--uaro-ink);        /* 11.2:1 on --uaro-purple-200 */
 }
 
 /* Header and tabs: purple in both colour schemes */
@@ -78,6 +110,18 @@
     text-decoration: none;
 }
 
+/* Better line-breaking: avoids a lone short word stranded on its own last line ("widows"),
+   especially visible in narrow card descriptions. Newer browsers only; older ones just keep the
+   normal wrapping, no fallback needed. */
+.md-typeset p,
+.md-typeset li,
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+    text-wrap: pretty;
+}
+
 /* Headings */
 .md-typeset h1,
 .md-typeset h2,
@@ -99,6 +143,32 @@
     border-bottom-color: var(--uaro-purple);
 }
 
+/* A section heading with a right-aligned action, e.g. "## Latest patch" plus a "View all patch
+   notes" link. The underline moves from the h2 to the row, so it still spans the full width.
+   Uses the same fixed var(--uaro-purple) every other h2 underline uses (not the scheme-aware
+   --uaro-purple-on-bg, which goes pale in dark mode) so this underline always matches the rest. */
+.md-typeset .section-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 1rem;
+    margin: 2rem 0 0.8rem;
+    border-bottom: 0.125rem solid var(--uaro-purple); /* 2px */
+    padding-bottom: 0.25rem;
+}
+
+.md-typeset .section-heading h2 {
+    margin: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.md-typeset .section-heading__action {
+    flex-shrink: 0;
+    white-space: nowrap;
+    font-weight: 700;
+}
+
 /* Nav: active item in brand purple, no yellow */
 [data-md-color-scheme="default"] .md-nav__item .md-nav__link--active {
     color: var(--uaro-purple);
@@ -117,13 +187,96 @@
 }
 
 /* Cards and buttons */
-.md-typeset .grid.cards > ul > li:hover,
-.md-typeset .md-button:hover {
-    border-color: var(--uaro-purple);
+.md-typeset .grid.cards > ul > li:hover {
+    border-color: var(--uaro-purple-on-bg);
 }
 
 .md-typeset .md-button {
     border-radius: 0.5rem; /* 8px */
+}
+
+/* Outline ("ghost") button: Material colours it with --md-primary-fg-color, our brand purple-500 —
+   only ~2.2:1 against the dark-mode page, so the text/border read as barely-there. Use the
+   contrast-checked colour instead. */
+.md-typeset .md-button:not(.md-button--primary) {
+    color: var(--uaro-purple-on-bg);
+    border-color: var(--uaro-purple-on-bg);
+}
+
+/* Material also swaps in --md-accent-fg-color/--md-accent-bg-color on *both* :hover and :focus
+   (clicking a button focuses it too), which in dark mode filled the button with our pale
+   purple-200 (meant for text, not a fill) under white text — ~1.5:1, so the label vanished.
+   Replace both states for both button styles with pairings we've checked for contrast:
+   - Outline button: fills with the *same* colour as its own border/text (no jarring colour swap,
+     just "solid" instead of "outline"), with a contrasting label on top.
+   - Primary button: already-solid, so it deepens to a richer shade instead. */
+.md-typeset .md-button:not(.md-button--primary):focus,
+.md-typeset .md-button:not(.md-button--primary):hover {
+    background-color: var(--uaro-purple-on-bg);
+    border-color: var(--uaro-purple-on-bg);
+    color: var(--uaro-purple-on-bg-contrast);
+}
+
+.md-typeset .md-button--primary:focus,
+.md-typeset .md-button--primary:hover {
+    background-color: var(--uaro-purple-hover-fill);
+    border-color: var(--uaro-purple-hover-fill);
+    color: #fff;
+}
+
+/* Buttons placed side by side (e.g. the home page patch and server sections) get breathing room */
+.md-typeset .md-button + .md-button {
+    margin-left: 0.75rem; /* 12px */
+}
+
+/* Content tabs (=== "Tab" ===): Material draws only an underline below the label row and lets the
+   panel content trail off with no container, so the tab, its text and its buttons read as separate
+   things floating on the page. Box the panel so the whole component reads as one unit. */
+.md-typeset .tabbed-content {
+    border: 0.05rem solid var(--md-default-fg-color--lightest); /* 1px */
+    border-top: none;
+    border-radius: 0 0 0.3rem 0.3rem;
+    padding: 1.25rem 1.5rem;
+}
+
+/* A tab panel that ends in a button row (e.g. "Read full patch notes") gets clear air above the
+   buttons instead of them crowding straight under the last line of text. */
+.md-typeset .tabbed-block > p:last-child:has(> .md-button) {
+    margin-top: 1.5rem;
+}
+
+/* Focus rings: one consistent treatment (colour, width, offset) for every keyboard-focusable
+   control on the site — top tabs, nav links, and cards (below). Buttons are the one exception:
+   their :focus fill above (matching Material's original behaviour) already doubles as the focus
+   indicator, so they keep no separate ring. Uses the same contrast-checked colour as everything
+   else driven by --uaro-purple-on-bg, so "the focus ring" always means the same colour, just
+   applied per control. */
+.md-tabs__link:focus-visible,
+.md-typeset .tabbed-labels a:focus-visible,
+.md-nav__link:focus-visible {
+    outline: 0.1875rem solid var(--uaro-purple-on-bg); /* 3px */
+    outline-offset: 0.125rem; /* 2px */
+    border-radius: 0.125rem;
+}
+
+/* Content tabs (=== "Tab" ===): the visible label is an <a tabindex="-1"> that cannot itself take
+   focus — the real, focusable element is a visually-hidden radio input before .tabbed-labels in the
+   DOM, associated with its label only by matching position. Material styles that pairing by index
+   (nth-child 1..20); we do the same to draw our ring on the right label. Covers every tabbed block
+   on the site, e.g. the home page's patch preview and the Halloween page's quest/hunting tabs. */
+.md-typeset .tabbed-set > input:focus-visible ~ .tabbed-labels > :nth-child(1),
+.md-typeset .tabbed-set > input:nth-child(2):focus-visible ~ .tabbed-labels > :nth-child(2),
+.md-typeset .tabbed-set > input:nth-child(3):focus-visible ~ .tabbed-labels > :nth-child(3),
+.md-typeset .tabbed-set > input:nth-child(4):focus-visible ~ .tabbed-labels > :nth-child(4),
+.md-typeset .tabbed-set > input:nth-child(5):focus-visible ~ .tabbed-labels > :nth-child(5),
+.md-typeset .tabbed-set > input:nth-child(6):focus-visible ~ .tabbed-labels > :nth-child(6),
+.md-typeset .tabbed-set > input:nth-child(7):focus-visible ~ .tabbed-labels > :nth-child(7),
+.md-typeset .tabbed-set > input:nth-child(8):focus-visible ~ .tabbed-labels > :nth-child(8),
+.md-typeset .tabbed-set > input:nth-child(9):focus-visible ~ .tabbed-labels > :nth-child(9),
+.md-typeset .tabbed-set > input:nth-child(10):focus-visible ~ .tabbed-labels > :nth-child(10) {
+    outline: 0.1875rem solid var(--uaro-purple-on-bg); /* 3px */
+    outline-offset: -0.1875rem; /* drawn inward, so it doesn't collide with the next tab label */
+    border-radius: 0.125rem;
 }
 
 /* Admonitions (note, warning, ...): one hue per type, tuned to sit alongside the purple brand colour.
@@ -300,4 +453,174 @@
 
 .md-typeset .quote > .admonition-title::before, .md-typeset .quote > summary::before, .md-typeset .cite > .admonition-title::before, .md-typeset .cite > summary::before {
     background-color: var(--adm-quote);
+}
+
+/* Cards on landing pages and the home page are clickable as a whole: the first link stretches over the card */
+.md-typeset .grid.cards > ul > li {
+    position: relative;
+}
+
+.md-typeset .grid.cards > ul > li a:first-of-type::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+}
+
+/* A card's real focusable element is its title link, a short line of text — the browser's default
+   ring would only wrap that text, not the clickable card the ::after above stretches over. Ring the
+   whole card instead, and suppress the link's own (now-redundant) ring. */
+.md-typeset .grid.cards > ul > li:has(a:focus-visible) {
+    outline: 0.1875rem solid var(--uaro-purple-on-bg); /* 3px */
+    outline-offset: 0.125rem; /* 2px */
+    border-radius: 0.3rem;
+}
+
+.md-typeset .grid.cards > ul > li a:focus-visible {
+    outline: none;
+}
+
+/* Home page: "Server at a glance". A plain 2x2 grid of facts, not another set of clickable cards —
+   no border around each cell, just a divider where they meet, forming a cross at the centre. The
+   divider is a touch stronger in light mode, where a low-alpha line is easy to lose against white. */
+:root {
+    --uaro-divider: rgba(0, 0, 0, 0.14);
+}
+
+[data-md-color-scheme="slate"] {
+    --uaro-divider: rgba(255, 255, 255, 0.12);
+}
+
+.md-typeset .glance-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 1.5rem 0;
+}
+
+.md-typeset .glance-card {
+    padding: 1.25rem 1.5rem;
+}
+
+@media screen and (max-width: 30rem) {
+    .md-typeset .glance-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .md-typeset .glance-card:not(:last-child) {
+        border-bottom: 0.05rem solid var(--uaro-divider); /* 1px */
+    }
+}
+
+@media screen and (min-width: 30.0625rem) {
+    .md-typeset .glance-card:nth-child(odd) {
+        border-right: 0.05rem solid var(--uaro-divider); /* 1px */
+    }
+
+    .md-typeset .glance-card:nth-child(-n+2) {
+        border-bottom: 0.05rem solid var(--uaro-divider); /* 1px */
+    }
+}
+
+/* Card header, e.g. "**📈 Rates**": bold like any other emphasis on the site, not a small-caps
+   eyebrow label (the earlier all-uppercase, letter-spaced, separately-coloured treatment matched
+   nothing else here) — it just inherits the normal text size and colour. */
+.md-typeset .glance-card p {
+    margin: 0 0 0.25rem;
+    font-weight: 700;
+    color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .glance-card p + ul {
+    margin-bottom: 0.75rem;
+}
+
+.md-typeset .glance-card ul:last-child {
+    margin-bottom: 0;
+}
+
+.md-typeset .glance-card ul {
+    list-style: none;
+    margin-top: 0;
+    margin-left: 0;
+    padding: 0;
+}
+
+.md-typeset .glance-card li {
+    margin: 0 !important;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.md-typeset .glance-card li + li {
+    margin-top: 0.25rem;
+}
+
+/* Material leaves only ~1.2rem below the page content before the footer bar starts, so long pages
+   end abruptly. Give the content more room to breathe before that boundary. */
+.md-content__inner {
+    padding-bottom: 2rem;
+}
+
+/* EXPERIMENT — an NPC sprite to the left of each "Popular systems" card's text, one per card, to
+   see how it reads before doing this properly (e.g. a per-page `npc:` front-matter field feeding
+   a build hook) rather than hardcoding it by card position like this. Cards, in order: Poring
+   Coin System, Warper System, Cute Pet System, Hunting Missions, Repeatable Quests, Main Office,
+   Guild Starter Support System, Vendor System.
+
+   All the sprites used here live together in docs/img/NPC/ (except Deviruchi - not an NPC, see
+   below), whatever their original location, so they're easy to find and swap as a set.
+
+   A per-head-size, bottom-aligned version of this was tried (matching each sprite's head height
+   rather than its total height, so the "chibi"-proportioned NPCs came out shorter than the
+   full-height ones) but it read as too small and was reverted in favour of this simpler, bigger,
+   vertically-centred, uniform sizing. */
+#main-features-cards > ul > li {
+    background-repeat: no-repeat;
+    background-position: 1.25rem center;
+    background-size: auto 5.5rem;
+    padding-left: 4.75rem;
+}
+
+/* 1: Poring Coin System -> Lydia (she hands out the exchange). Uses a still, centred crop
+   (docs/img/NPC/lydia.png) instead of her walking sprite, which is off-centre in its own frame.
+   Slightly smaller than the shared size - she reads a bit too large at the same height as the rest. */
+#main-features-cards > ul > li:nth-child(1) {
+    background-image: url("../img/NPC/lydia.png");
+    background-size: auto 4.75rem;
+}
+
+/* 2: Warper System -> Warpra */
+#main-features-cards > ul > li:nth-child(2) {
+    background-image: url("../img/NPC/warpra.gif");
+}
+
+/* 3: Cute Pet System -> Deviruchi (not an NPC - a pet). Smaller and on its own sizing, on
+   purpose: a small creature icon rather than a person. */
+#main-features-cards > ul > li:nth-child(3) {
+    background-image: url("../img/1109.gif");
+    background-size: auto 3.5rem;
+}
+
+/* 4: Hunting Missions -> Hobota */
+#main-features-cards > ul > li:nth-child(4) {
+    background-image: url("../img/NPC/hobota.gif");
+}
+
+/* 5: Repeatable Quests -> trying the beige traveller sprite */
+#main-features-cards > ul > li:nth-child(5) {
+    background-image: url("../img/NPC/beige-traveler.png");
+}
+
+/* 6: Main Office -> Dimonka */
+#main-features-cards > ul > li:nth-child(6) {
+    background-image: url("../img/NPC/dimonka.gif");
+}
+
+/* 7: Guild Starter Support System -> trying the blue-haired knight sprite */
+#main-features-cards > ul > li:nth-child(7) {
+    background-image: url("../img/NPC/blue-haired-knight.png");
+}
+
+/* 8: Vendor System -> new sprite, fills the grid so the last row isn't left with a gap */
+#main-features-cards > ul > li:nth-child(8) {
+    background-image: url("../img/NPC/vendor-npc.png");
 }

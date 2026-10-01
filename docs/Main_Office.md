@@ -12,7 +12,7 @@ So come on down to Main Office and see what we have to offer! We're here to help
 | NPC | Description |
 |---|---|
 | ![Lydia](img/4_F_NFLOSTGIRL.gif) | Head over to NPC **Lydia** and exchange your Poring Coin for a variety of [valuable items](Poring_Coins_System.md). It's a great way to get your hands on some essential gear and enhance your gaming experience. |
-| ![Dimonka](img/4_F_JP_NOAH.gif) | **Dimonka** NPC trades your loots and Poring Coin for [valuable headgear](Dimonka_Headgear_Quest.md). |
+| ![Dimonka](img/NPC/dimonka.gif) | **Dimonka** NPC trades your loots and Poring Coin for [valuable headgear](Dimonka_Headgear_Quest.md). |
 | ![Katryn](img/4_F_GELKA.gif) | **Katryn** NPC exchanges your Poring Coin for unique costumes. |
 | ![Reset Girl](img/4_F_ACOLYTE.gif) | Our friendly **Reset Girl NPC** can help you reallocate your stats or skills for a small fee. The cost depends on your character base level, with higher levels requiring a slightly higher fee. The first reset of each type (stats, skills and both) is free |
 | ![Platinum Skill](img/1_F_01.gif) | **Platinum Skill** NPC can give you the special skills available to your job. Whitesmiths who have unlocked **Avarice** get it re-granted here automatically after a skill reset. |
