@@ -38,23 +38,23 @@ renewal version is on [Item Changes](Item_Changes.md).
 
 | Item | Item ID | Cost |
 |-|-|-|
-| [Assassin's Handcuffs](Item_Changes.md#assassins-handcuffs) | 2892 | 60 Ghost Chill |
-| [Bible of Promise [1]](Item_Changes.md#bible-of-promise) | 2164 | 60 Ghost Chill |
-| [Black Wing [2]](Item_Changes.md#black-wing) | 13061 | 50 Ghost Chill |
-| [Cannon Spear [1]](Item_Changes.md#cannon-spear) | 1435 | 50 Ghost Chill |
-| [Catapult [2]](Item_Changes.md#catapult) | 18109 | 50 Ghost Chill |
-| [Dance Shoes [1]](Item_Changes.md#dance-shoes) | 2465 | 50 Ghost Chill |
-| [Geffenia Water Book [1]](Item_Changes.md#geffenia-water-book) | 2161 | 60 Ghost Chill |
 | Ghost Chill | 6471 | 10 Blood Thirst (6470) |
-| [Green Operation Coat [1]](Item_Changes.md#green-operation-coat) | 15044 | 60 Ghost Chill |
-| [Green Whistle [1]](Item_Changes.md#green-whistle) | 1930 | 50 Ghost Chill |
-| [Mental Stick [1]](Item_Changes.md#mental-stick) | 1654 | 50 Ghost Chill |
 | Particle Box | 6472 | 100 Sinister Energy Particles (25130) |
-| [Red Ether Bag [1]](Item_Changes.md#red-ether-bag) | 16010 | 50 Ghost Chill |
 | Sillit Pong | 6443 | 100 Ghost Chill |
-| [Stem Whip [1]](Item_Changes.md#stem-whip) | 1984 | 50 Ghost Chill |
-| [Sura's Rampage [1]](Item_Changes.md#suras-rampage) | 1830 | 50 Ghost Chill |
+| [Cannon Spear [1]](Item_Changes.md#cannon-spear) | 1435 | 50 Ghost Chill |
+| [Bible of Promise [1]](Item_Changes.md#bible-of-promise) | 2162 | 60 Ghost Chill |
+| [Green Operation Coat [1]](Item_Changes.md#green-operation-coat) | 15044 | 60 Ghost Chill |
+| [Red Ether Bag [1]](Item_Changes.md#red-ether-bag) | 16010 | 50 Ghost Chill |
+| [Mental Stick [1]](Item_Changes.md#mental-stick) | 1654 | 50 Ghost Chill |
 | [Telekinetic Orb](Item_Changes.md#telekinetic-orb) | 2853 | 75 Ghost Chill |
+| [Sura's Rampage [1]](Item_Changes.md#suras-rampage) | 1830 | 50 Ghost Chill |
+| [Black Wing [2]](Item_Changes.md#black-wing) | 13061 | 50 Ghost Chill |
+| [Catapult [2]](Item_Changes.md#catapult) | 18109 | 50 Ghost Chill |
+| [Green Whistle [1]](Item_Changes.md#green-whistle) | 1930 | 50 Ghost Chill |
+| [Geffenia Water Book [1]](Item_Changes.md#geffenia-water-book) | 2161 | 60 Ghost Chill |
+| [Stem Whip [1]](Item_Changes.md#stem-whip) | 1984 | 50 Ghost Chill |
+| [Dance Shoes [1]](Item_Changes.md#dance-shoes) | 2465 | 50 Ghost Chill |
+| [Assassin's Handcuffs](Item_Changes.md#assassins-handcuffs) | 2892 | 60 Ghost Chill |
 
 ## Sinister Energy Particle
 
