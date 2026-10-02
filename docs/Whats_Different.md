@@ -8,9 +8,8 @@ This page explains how the wiki labels it all so you can find what you are looki
 | Tag | What it means |
 |-|-|
 | **Changed** | Official pre-renewal content that uaRO altered: stats, rules, price, source or class access. |
-| **Renewal** | Renewal content that uaRO added as-is. |
-| **Renewal (modified)** | Renewal content that uaRO added and then altered. |
-| **Custom** | Made for uaRO. It does not exist in the official game. |
+| **Renewal** | Renewal content added to uaRO. It is rebalanced where needed, so check Item Changes and the other Changes pages for differences. |
+| **uaRO** | Made for uaRO. It does not exist in the official game. |
 
 ## Where to look
 
@@ -23,7 +22,7 @@ This page explains how the wiki labels it all so you can find what you are looki
 | How a quest differs | [Quest Changes](Quest_Changes.md) |
 | Which sell prices are lower | [Modified Sales Prices](Modified_Sales_Prices.md) |
 | What was added that is not in the official game | [Added Content](Added_Content.md) |
-| Which weapons Gunslinger and Ninja can use | [Expanded Class Weapons](Expanded-Class-Weapons.md) |
+| Which weapons Expanded Classes can use | [Expanded Class Weapons](Expanded-Class-Weapons.md) |
 
 ## How to read a change
 
