@@ -71,7 +71,7 @@ Items, weapons and armor that work differently from the official game. Items tha
 | Hermode Cap[1] | 5481 | Not dropped by any monster | Added as a Uncommon drop from Assassin Cross Eremes (`1641`) (Mini Boss) at 15% |
 | Holy Robe | 2327 (unslotted)<br>2373 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
 | <a id="imperial-guard"></a>Imperial Guard [1] | 2153 | MDEF +5<br>Increases Shield Press damage by 20%<br>Above +5, an additional 2% per refine level | MDEF +5<br>Increases Shield Chain damage by 20%, plus 1% per refine<br>At +8, halves Shield Chain cast time |
-| <a id="light-of-el-dicastes"></a>Light of El Dicastes | 2844 | Renewal only item<br>Grants Return to El Dicastes | Added unchanged<br>Untradeable and unrefinable, character bound<br>Enchantable by Kareka in El Dicastes |
+| <a id="light-of-el-dicastes"></a>Light of El Dicastes | 2844 | Grants Return to El Dicastes | Untradeable and unrefinable, character bound<br>Enchantable by Kareka in El Dicastes<br>Grants Return to El Dicastes |
 | Mage Coat | 2334 (unslotted)<br>2372 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
 | Mitra [1] | 5747 | MATK +10 at base INT 120 or higher<br>Required level 100 | MATK +10 at base INT 90 or higher<br>Required level 90 |
 | Ninja Suit | 2337 (unslotted)<br>2359 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
