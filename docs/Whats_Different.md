@@ -22,8 +22,8 @@ This page explains how the wiki labels it all so you can find what you are looki
 | How a quest differs | [Quest Changes](Quest_Changes.md) |
 | Which sell prices are lower | [Modified Sales Prices](Modified_Sales_Prices.md) |
 | What was added that is not in the official game | [Added Content](Added_Content.md) |
-| Which cash shop items I can buy with Poring Coins | [Poring Coins System](Poring_Coins_System.md#exchange) |
-| Which weapons Expanded Classes can use | [Expanded Class Weapons](Expanded-Class-Weapons.md) |
+| Which I can buy with Poring Coins | [Poring Coins System](Poring_Coins_System.md#exchange) |
+| Which additional weapons Expanded Classes can use | [Expanded Class Weapons](Expanded-Class-Weapons.md) |
 
 ## How to read a change
 

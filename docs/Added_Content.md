@@ -6,19 +6,21 @@ Content that is not in the official pre-renewal game, or that is there but works
 
 ## Areas and Instances
 
-uaRO content comes first, followed by renewal content in the order the official game released it.
-
 | Episode | Content | Page |
 |-|-|-|
 | uaRO | Eternal Bastion | [Eternal Bastion](Eternal_Bastion.md) |
-| 12: Satan Morroc | Sealed Shrine | [Instance Guide](Instance_Guide.md); under construction |
-| 13.2: Encounter | Brasilis | Under construction |
-| 13.2: Encounter | Manuk | Under construction |
-| 13.2: Encounter | Nidhoggur's Nest | [Instance Guide](Instance_Guide.md); under construction |
-| 13.2: Encounter | Splendide | Under construction |
+| uaRO | Endless Cellar | [Instance Guide](Instance_Guide.md), [Endless Cellar](Endless_Cellar.md) |
+| 12: Satan Morroc | Dimensional Gorge | - |
+| 12: Satan Morroc | Sealed Shrine | [Instance Guide](Instance_Guide.md) |
+| 12: Satan Morroc | Endless Tower | [Instance Guide](Instance_Guide.md) |
+| 13.2: Encounter | Brasilis | - |
+| 13.2: Encounter | Manuk | - |
+| 13.2: Encounter | Splendide | - |
+| 13.2: Encounter | Nidhogg's Dungeon | - |
+| 13.2: Encounter | Nidhoggur's Nest | [Instance Guide](Instance_Guide.md) |
 | 13.3: El Dicastes | El Dicastes | [El Dicastes](El_Dicastes.md) |
 | 14.1: Bifrost | Biolabs 4 | [Biolabs 4](Biolab4.md) |
-| 14.1: Bifrost | Byalan Dungeon Level 6 (`/navi iz_dun05`), also known as Undersea Tunnel Floor 6 | Under construction (will list Sedora Card and its drops) |
+| 14.1: Bifrost | Byalan DungeonUpda 6 | - |
 | 14.2: Eclage | Horror Toy Factory | [Horror Toy Factory](Horror_Toy_Factory.md) |
 | 14.2: Eclage | Old Glast Heim | [Old Glast Heim](Old_Glast_Heim.md) |
 
