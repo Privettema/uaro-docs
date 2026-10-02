@@ -5,13 +5,13 @@ hide:
 
 # El Dicastes
 
-**Content type:** [Renewal](whats-different.md#content-tags)
-
 <!-- Recommended: 800x450px webp - El Dicastes promo banner -->
 <!-- ![El Dicastes](img/el_dicastes_promo.webp){ .wiki-screenshot } -->
 
 **El Dicastes** is the Sapha capital and the last stop in the New World. It offers daily quests paid in
 **Sapha Certificates**, the **Scaraba Hole** dungeon and four enchantable bound items.
+
+**Content type:** [Renewal](whats-different.md#content-tags)
 
 ---
 

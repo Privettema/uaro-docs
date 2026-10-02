@@ -1,8 +1,8 @@
 # Biolab 4
 
-**Content type:** [Renewal](whats-different.md#content-tags)
-
 Bio Laboratory 4 (also known as Lighthalzen Dungeon 4) is one of the most challenging locations in World of Your Dream, where players face clones of real characters with third job classes. It is inhabited by extremely powerful monsters with strong skills, high attack speed, and advanced AI, making it a tough challenge even for well-organized parties. The location attracts players with rare loot and the chance to obtain valuable cards.  
+
+**Content type:** [Renewal](whats-different.md#content-tags)
 
 ## How to get there
 
@@ -30,9 +30,7 @@ The table includes only regular mobs; mini-bosses and MVPs are not included.
 
 ## Biolabs Shop
 
-On the first floor of Bio Lab, you’ll find an NPC called BioShop (`/navi lhz_dun01 142/289`). He lets you trade
-Blood Thirst, dropped by monsters in Bio Lab 4, for Ghost Chill and various equipment. How each item differs from its
-renewal version is on [Item Changes](item-changes.md).
+On the first floor of Bio Lab, you’ll find an NPC called BioShop (`/navi lhz_dun01 142/289`). He lets you trade Blood Thirst, dropped by monsters in Bio Lab 4, for Ghost Chill and various equipment. How each item differs from its renewal version is on [Item Changes](item-changes.md).
 
 ![BioShop](img/Biolab4/BioShop1.png)
 

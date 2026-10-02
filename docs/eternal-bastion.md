@@ -1,12 +1,12 @@
 # Eternal Bastion
 
-**Content type:** [uaRO](whats-different.md#content-tags)
-
 ![Eternal Bastion](img/eternal_bastion_promo.webp){ .wiki-screenshot }
 
 **Eternal Bastion** is the ultimate PvE endgame challenge on uaRO. Gather a party of 12 and
 fight through 100 waves of escalating enemies — culminating in a randomly selected final boss.
 No gimmicks, no distractions — just pure combat and teamwork.
+
+**Content type:** [uaRO](whats-different.md#content-tags)
 
 !!! info
     Read [Instance Guide](instance-guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
