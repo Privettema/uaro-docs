@@ -32,7 +32,7 @@ not here.
 
 | Item | Item ID | Tag | Details | Source |
 |-|-|-|-|-|
-| Golden Trinket | 2842 | uaRO | Untradeable and unrefinable, account bound<br>Enchantable at the El Dicastes cat merchants | [El Dicastes](el-dicastes.md#gear-and-drops) |
+| Golden Trinket | 2843 | Renewal | MAX SP +50<br>Required level 75 | [El Dicastes](el-dicastes.md#enchanting): Jahbong, 1 Certificate |
 | Infinite Butterfly Wing | 52283 | uaRO | Works like a Butterfly Wing: unusable during duels and on no-return maps | Exchanged at Lydia |
 | Love Guard [1] | 18542 | Renewal | Increases the effectiveness of your healing skills by 2%<br>Increases the effect of received healing by 5%<br>At +7 or higher, healing skills effectiveness +3% | [Dimonka](dimonka-headgear-quest.md) |
 | Mercury Riser [1] | 18597 | Renewal | ASPD +3%, Critical +3<br>At +7, an additional ASPD +2% and Critical +2<br>At +9, an additional ASPD +2% and Critical +2 | Baphomet (`1399`) at 5.1% |

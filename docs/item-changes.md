@@ -59,8 +59,8 @@ Items, weapons and armor that work differently from the official game. Items tha
 | <a id="dance-shoes"></a>Dance Shoes [1] | 2465 | AGI +1<br>ASPD +2%<br>Reduces the SP cost of Swing Dance by 32 | AGI +1<br> ASPD +5%<br> Reduces the SP cost of Arrow Vulcan by 5<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | Defolty Doll Hat [1] | 5340 | STR +2 | No STR bonus |
 | <a id="evil-glove"></a>Evil Glove [1] | 2980 | Required level 110<br>MAX HP +500<br>MAX SP +200<br>Enables Spider Web Level 1<br>2% chance to cast Psychic Wave Level 1 when attacking<br>1% chance to cast Magic Power Level 1 and Frost Nova Level 10 when attacking with magic<br>2% chance to cast Frost Nova Level 10 when attacking with a weapon<br>5% chance to cast Scream Level 1 when hit | MAX HP +300<br>MAX SP +50<br>INT +2<br>No level requirement.<br>Equippable by all Trans jobs except Novice. |
-| <a id="feral-boots"></a>Feral Boots | 2463 |  | Untradeable and unrefinable, account bound<br>Enchantable at the El Dicastes cat merchants |
-| <a id="feral-tail"></a>Feral Tail | 2564 |  | Untradeable and unrefinable, account bound<br>Enchantable at the El Dicastes cat merchants |
+| <a id="feral-boots"></a>Feral Boots | 2463 | Defense 12 | Defense 2 |
+| <a id="feral-tail"></a>Feral Tail | 2564 | Defense 16 | Defense 3 |
 | Festival Pumpkin Hat | 5356 | Physical damage against Demon monsters +5%<br>Damage taken from Demon monsters -5% | All stats +3<br>Physical and magical damage against Demon monsters +5%<br>Damage taken from Demon monsters -5% |
 | Forbidden Grimoire [1] | 28984 | Equippable by Sage<br>ASPD +10%<br>MAX HP +100 per refine level<br>Increases Earth and Water property magic damage by 4% per 3 refine levels<br>At +9, INT +10 and DEX +10<br>At +11, 4% chance when attacking with magic to gain INT +150 for 10 seconds, stop natural HP and SP recovery and reduce Diamond Dust and Earth Grave cooldown by 4.5 seconds | ASPD +5%, INT +2<br>Refine Level +7 or Higher: Increases damage of Magic Elemental Earth Skills by 20%<br>With Death Note: +1% MATK per refine of the Death Note, and -10% cast time at +10 |
 | <a id="geffenia-water-book"></a>Geffenia Water Book [1] | 2161 | MDEF +2<br>INT +1<br>If base INT is at least 120: MATK +10 and MAX HP +800 | INT +2<br> MDEF +5<br> If base INT at least 90: MATK +30 and MAX HP +800<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
@@ -96,20 +96,20 @@ Items, weapons and armor that work differently from the official game. Items tha
 | Valkyrie Drop | 28564 | Required level 100<br>SP recovery rate +50%<br>Variable cast time -10%<br>After skill delay -5%<br>Oratio: variable cast time -50% and fixed cast time -100%<br>Magical damage against all sizes +3% per level of Impositio Manus<br>Magnus Exorcismus damage +3% per 2 base levels<br>At Impositio Manus level 5, enables Odin's Power Level 2<br>Not dropped by any monster | Cast time -5%<br>After skill delay -5%<br>For each level of Impositio Manus: Magnus Exorcismus damage +4%<br>Required level 70<br>Priest only<br><br>Acquisition: Dropped by High Priest Margaretha (`1643`) |
 | Waterdrop Brooch [1] | 2787 | Not dropped by any monster | Added as a drop from Kraken (`2202`) |
 | <a id="wounded-heart"></a>Wounded Heart [1] | 2977 | Required level 110<br>MAX SP +200<br>Enables Scream Level 3 | DEX +2<br>AGI +1<br>+5% damage to all races<br>Required level 90<br>Equippable by all Transcendent jobs |
-| Yellow Bandana | 5277 |  | Available from Sabrina for 15 WoE Tokens |
+| Yellow Bandana | 5277 | Cannot be acquired | Available from Sabrina for 15 WoE Tokens |
 
 ## Consumables
 
 | Item | Item ID | Original | uaRO Changes |
 |-|-|-|-|
 | Bubble Gum | 12210 | Cash shop item | [Poring Coin shop](poring-coins-system.md#consumable-items): 1,000 Poring Coins<br>[Attendance reward](attendance-system.md) on login day 20 |
-| Cursed Water | 12020 |  | Bulk conversion at Niff Fountain: choose Singular or All, based on your empty bottles. Includes a weight check |
+| Cursed Water | 12020 | Acquired individually from NPC<br>Dropped by mobs | Bulk conversion at Niff Fountain: choose Singular or All, based on your empty bottles. Includes a weight check |
 | Fantastic Cooking Kit | 12129 | Consumed when used | Not consumed until a craft is attempted |
 | Field Manual 100% | 14533 | Cash shop item | [Poring Coin shop](poring-coins-system.md#consumable-items): 40 Poring Coins<br>[Attendance reward](attendance-system.md) on login day 10<br>Cannot be sold to NPCs or moved to the cart |
 | Fly Wing | 601 | Cannot be used while Berserked | Can be used while Berserked |
 | Golden Hammer | 614 | Consumed when used | Not consumed until a craft is attempted |
-| Guarana Candy | 12414 |  | Up to 300 can be bought at once from the quest NPC |
-| Holy Arrow Quiver | 12183 |  | Inventor Jaax in Payon packs 500 Holy Arrows into a quiver for 500 zeny |
+| Guarana Candy | 12414 | Acquired individually from NPC | Up to 300 can be bought at once from the quest NPC |
+| Holy Arrow Quiver | 12183 | Dropped by mobs | Inventor Jaax in Payon packs 500 Holy Arrows into a quiver for 500 zeny |
 | Home Cooking Kit | 12126 | Consumed when used | Not consumed until a craft is attempted |
 | Infinite Fly Wing | 12887 | Cannot be used while Berserked | Can be used while Berserked |
 | Iron Hammer | 613 | Consumed when used | Not consumed until a craft is attempted |
