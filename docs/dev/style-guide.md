@@ -70,7 +70,7 @@ Use `??? note "Title"` (collapsible) for a block that's long and mostly referenc
 ## Tables
 
 - Standard Markdown pipe tables. Keep every row's cell content on one line — don't rely on trailing double-spaces for a line break; if a cell genuinely needs a forced break, use `<br>` inside it.
-- An item/monster column shows the icon and name together: `![Name](img/1234.gif) Name`. Give item IDs in their own column, last (see Names and terms).
+- An item/monster column shows the icon and name together: `![Name](img/1234.gif) Name`. When the things a table lists (items, monsters, NPCs, skills — anything with an ID) are the subject of the table, give their IDs in their own column, last. A thing that merely appears in a cell, such as a monster listed in an item-change table, gets the inline form instead: **Poring** (`1002`) (see Names and terms).
 - No trailing whitespace on any line, in or out of a table.
 
 ## Links
@@ -124,7 +124,7 @@ Event pages get more flavor than any other page. They are temporary, themed and 
 - Use `/navi <map> <x>/<y>` for locations so readers can copy it. Add plain `(x, y)` coordinates only when a page needs the number itself.
 - Write "Level", never `Lv` or `Lv.`: "Level 50+". Use "Base Level" or "Job Level" when it matters which.
 - **Item names are the exception to every wording rule on this page.** An item's in-game name is used exactly as it appears, even if it uses `Lv`, a UK spelling or unusual capitalization: "Lv10 Blessing Scroll" stays as is. The rules apply to the text around the name.
-- Give an item's ID the first time a page mentions it, as a bare number in backticks: **Old Card Album** `616`. Do the same for monster IDs when you mention a monster: **Poring** `1002`. Players already know these IDs, and the code style keeps the number from reading as a quantity. In a table, put the ID in its own column instead of repeating it in every name cell.
+- Give the ID of an item, monster or anything else with one the first time a page mentions it in prose, as the name followed by the ID in code, inside parentheses: **Old Card Album** (`616`), **Poring** (`1002`). Players already know these IDs, and the code style keeps the number from reading as a quantity. This is for mentions in sentences, lists and cells. When the things a table lists are the subject of the table, they get an ID column instead (see Tables).
 
 ### Numbers
 
