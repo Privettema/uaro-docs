@@ -6,19 +6,55 @@ Content that is not in the official pre-renewal game, or that is there but works
 
 ## Areas and Instances
 
-| Content | Tag | Page |
-|-|-|-|
-| Biolabs 4 | Renewal | [Biolabs 4](Biolab4.md) |
-| Eternal Bastion | uaRO | [Eternal Bastion](Eternal_Bastion.md) |
-| El Dicastes | Renewal | [El Dicastes](El_Dicastes.md) |
-| Horror Toy Factory | Renewal | [Horror Toy Factory](Horror_Toy_Factory.md) |
-| Old Glast Heim | Renewal | [Old Glast Heim](Old_Glast_Heim.md) |
-| Bylan 4 | Renewal | Page needed (will list Sedora Card and its drops) |
-| Brasilis | Renewal | Page needed |
-| Manuk | Renewal | Page needed |
-| Nidhoggur's Nest | Renewal | [Instance Guide](Instance_Guide.md); page needed |
-| Sealed Shrine | Renewal | [Instance Guide](Instance_Guide.md); page needed |
-| Splendide | Renewal | Page needed |
+### uaRO
+
+| Content | Page |
+|-|-|
+| Eternal Bastion | [Eternal Bastion](Eternal_Bastion.md) |
+
+### Renewal
+
+Renewal content added to uaRO, in the order the official game released it.
+
+#### Episode 12: Satan Morroc
+
+| Content | Page |
+|-|-|
+| Sealed Shrine | [Instance Guide](Instance_Guide.md); page needed |
+
+#### Episode 13.2: Encounter
+
+| Content | Page |
+|-|-|
+| Brasilis | Page needed |
+
+#### Episode 13.3: El Dicastes
+
+| Content | Page |
+|-|-|
+| El Dicastes | [El Dicastes](El_Dicastes.md) |
+
+#### Episode 14.1: Bifrost
+
+| Content | Page |
+|-|-|
+| Biolabs 4 | [Biolabs 4](Biolab4.md) |
+
+#### Episode 14.2: Eclage
+
+| Content | Page |
+|-|-|
+| Old Glast Heim | [Old Glast Heim](Old_Glast_Heim.md) |
+| Horror Toy Factory | [Horror Toy Factory](Horror_Toy_Factory.md) |
+
+#### Episode to be confirmed
+
+| Content | Page |
+|-|-|
+| Bylan 4 | Page needed (will list Sedora Card and its drops) |
+| Manuk | Page needed |
+| Nidhoggur's Nest | [Instance Guide](Instance_Guide.md); page needed |
+| Splendide | Page needed |
 
 ## Items
 
