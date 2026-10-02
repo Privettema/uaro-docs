@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check wiki pages against the mechanical rules in docs/Dev/Style_Guide.md.
+"""Check wiki pages against the mechanical rules in docs/dev/style-guide.md.
 
 Usage:
     python3 scripts/lint_style.py                 # every page under docs/
