@@ -67,10 +67,6 @@ different from the official game before you plan your next build.
 
     How the wiki labels changed, renewal and custom content.
 
-- [**➕ Added Content**](../added-content.md)
-
-    Areas, gear and items that are not in the official game.
-
 - [**🔮 Class Changes**](../class-changes.md)
 
     Skill and mechanic adjustments.

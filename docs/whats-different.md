@@ -55,6 +55,6 @@ in the order the official game released it.
 | 13.2: Encounter | Nidhoggur's Nest | [Instance Guide](instance-guide.md) |
 | 13.3: El Dicastes | El Dicastes | [El Dicastes](el-dicastes.md) |
 | 14.1: Bifrost | Biolabs 4 | [Biolabs 4](biolab4.md) |
-| 14.1: Bifrost | Byalan Dungeon Level 6 | - |
+| 14.1: Bifrost | Byalan Dungeon 6 | - |
 | 14.2: Eclage | Horror Toy Factory | [Horror Toy Factory](horror-toy-factory.md) |
 | 14.2: Eclage | Old Glast Heim | [Old Glast Heim](old-glast-heim.md) |
