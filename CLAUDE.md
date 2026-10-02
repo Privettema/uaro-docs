@@ -61,22 +61,25 @@ The site uses MkDocs admonitions for callout boxes. Preferred format:
 
 ### Patch Notes Structure
 - Individual patch files live in `docs/patch-notes/YYYY/patchesMMDDYYYY.md`
-- The main index `docs/All_Patch_Notes.md` lists all patches with links
-- Latest patch is marked with ⭐ in `All_Patch_Notes.md`
+- Each patch starts with front matter: `date: YYYY-MM-DD`, optional `hotfix: true`, and `highlights:` (3 to 5 short,
+  player-facing bullets, see `scripts/patch_highlights_prompt.md`)
+- `docs/All_Patch_Notes.md`, the per-year pages, the sidebar Archive and the home page preview are generated from the
+  patch files by `hooks/patch_notes.py`. Do not edit them by hand; a new patch is just a new dated file
+- A new year needs a copy of `docs/patch-notes/YYYY/index.md`
 - Patches include standard sections: General, Quality of Life, Items, NPC, Commands, Skills, Fixes, etc.
 
 ### Where Content Goes
-Every non-official thing on the wiki has one tag (see `docs/Whats_Different.md`): **Changed** (official content uaRO altered),
+Every non-official thing on the wiki has one tag (see `docs/whats-different.md`): **Changed** (official content uaRO altered),
 **Renewal** (renewal content added; it is rebalanced where needed) or **uaRO** (made for uaRO).
 
-- **Changes pages** (`Class_Changes.md`, `Item_Changes.md`, `Monster_Changes.md`, `Map_Changes.md`, `Quest_Changes.md`) list only things
+- **Changes pages** (`class-changes.md`, `item-changes.md`, `monster-changes.md`, `map-changes.md`, `Quest_Changes.md`) list only things
   that differ from the official game, as Original vs uaRO. Original is the pre-renewal value (Hercules `db/pre-re`); if there is no
   pre-re version it is the renewal value (Hercules `db/re`, then rAthena) and the row says so.
-- **`Added_Content.md`** lists areas, instances and items that uaRO added. Unchanged cards from renewal monsters belong on the page for
+- **`added-content.md`** lists areas, instances and items that uaRO added. Unchanged cards from renewal monsters belong on the page for
   the area where they drop, not here.
-- **Content pages** (Biolab4, El_Dicastes, Horror_Toy_Factory, ...) say how to get things. Put an item's stats in `Item_Changes.md` once and
+- **Content pages** (Biolab4, El_Dicastes, Horror_Toy_Factory, ...) say how to get things. Put an item's stats in `item-changes.md` once and
   link to its row (anchor `<a id="..."></a>`); do not copy the stats onto the content page.
-- Add the content-type line (`**Content type:** [Renewal](Whats_Different.md#content-tags)`) under the title of each content page.
+- Add the content-type line (`**Content type:** [Renewal](whats-different.md#content-tags)`) under the title of each content page.
 - Item rows: unslotted by default (write `[n]` only when slotted), list monsters as `Name (`ID`)`, and leave Original blank when there
   is nothing official to compare against.
 
@@ -90,8 +93,7 @@ The navigation structure is defined in the `nav:` section of `mkdocs.yml`. When 
 
 ### Custom Styling
 `docs/css/custom.css` contains page-specific styles:
-- `.class-changes-table` for `Class_Changes.md`
-- `#index-patch-notes` for `index.md` patch note tabs
+- `.class-changes-table` for `class-changes.md`
 - `#main-features-cards` for feature cards
 - All styles use REM units (based on 16px) and CSS variables from the Material theme
 
