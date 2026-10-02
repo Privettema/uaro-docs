@@ -65,6 +65,21 @@ The site uses MkDocs admonitions for callout boxes. Preferred format:
 - Latest patch is marked with ⭐ in `All_Patch_Notes.md`
 - Patches include standard sections: General, Quality of Life, Items, NPC, Commands, Skills, Fixes, etc.
 
+### Where Content Goes
+Every non-official thing on the wiki has one tag (see `docs/Whats_Different.md`): **Changed** (official content uaRO altered),
+**Renewal** (renewal content added; it is rebalanced where needed) or **uaRO** (made for uaRO).
+
+- **Changes pages** (`Class_Changes.md`, `Item_Changes.md`, `Monster_Changes.md`, `Map_Changes.md`, `Quest_Changes.md`) list only things
+  that differ from the official game, as Original vs uaRO. Original is the pre-renewal value (Hercules `db/pre-re`); if there is no
+  pre-re version it is the renewal value (Hercules `db/re`, then rAthena) and the row says so.
+- **`Added_Content.md`** lists areas, instances and items that uaRO added. Unchanged cards from renewal monsters belong on the page for
+  the area where they drop, not here.
+- **Content pages** (Biolab4, El_Dicastes, Horror_Toy_Factory, ...) say how to get things. Put an item's stats in `Item_Changes.md` once and
+  link to its row (anchor `<a id="..."></a>`); do not copy the stats onto the content page.
+- Add the content-type line (`**Content type:** [Renewal](Whats_Different.md#content-tags)`) under the title of each content page.
+- Item rows: unslotted by default (write `[n]` only when slotted), list monsters as `Name (`ID`)`, and leave Original blank when there
+  is nothing official to compare against.
+
 ## Repository Architecture
 
 ### Navigation (`mkdocs.yml`)
