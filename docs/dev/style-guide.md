@@ -140,7 +140,7 @@ Event pages get more flavor than any other page. They are temporary, themed and 
 
 ### Patch notes
 
-- One file per patch: `patch-notes/YYYY/patchesMMDDYYYY.md`. Add it to `all-patch-notes.md` and move the ⭐ to it.
+- One file per patch: `patch-notes/YYYY/patchesMMDDYYYY.md`, starting with front matter (`date`, optional `hotfix: true`, and `highlights`; see `scripts/patch_highlights_prompt.md`). `all-patch-notes.md`, the per-year pages and the home page preview are generated from the patch files, so don't edit them by hand.
 - Use the section headings recent patches use (Gameplay, Quality of Life, Items, NPC, Commands, Skills, Fixes, Cash Shop), with or without the emoji they already carry, and leave out sections that are empty.
 - One bullet per change, in past tense: "Fixed X", "Added Y", "Removed Z". Name what changed, not the internals.
 - Link to the full guide page for anything bigger than a few lines instead of repeating it.
