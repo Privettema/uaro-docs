@@ -10,17 +10,20 @@
 | Catapult [2] | 18109 | Increases Triangle Shot damage by 2% per refine level<br>Reduces Triangle Shot SP cost by 2 per refine level | DEX +2<br> At +7, +10% Ranged Physical damage and +10% ASPD<br> At +8, enables use of Long Range Snatcher when auto attacking<br> At +10, a further +10% Ranged Physical damage and +10% ASPD<br><br>Acquisition: Biolabs Shop |
 | Death Fire [2] | 13192 | Required level 108<br>Weapon level 3<br>ATK 400<br>1 slot<br>Ranged Physical Damage +5%<br>HIT -50<br>Skill delay -10% | Required level 95<br>Weapon level 4<br>ATK 200<br>ASPD +3% per refine level<br>At +7, DEX +3<br>At +9, Ranged Physical Damage +10%<br>2 slots |
 | Elder's Staff [2] | 26107 | Increases Healing skills effectiveness by 10%<br>At +7, an additional 5%<br>At +9, an additional 10% (up to 25%)<br>3 slots | Increases Healing skills effectiveness by 10%<br> MATK +15%.<br>At +7, increases Healing effectiveness by 5%<br>At +9, increases healing effectiveness by 10% (up to 25%)<br>At +10, reduces after cast delay by 15%<br>2 slots<br><br>Acquisition: Conversion from a +10 Healing Staff at `/navi prt_church 20/25` |
+| Elven Bow | 1746 (unslotted)<br>35656 ([1]) | Required level 100<br>ATK 160<br>DEX +2<br>1 slot | Required level 90<br>ATK 160<br>DEX +2<br>When equipped with Elven Arrow: Ranged Physical Damage +50%<br>Set with Rogue's Treasure and Cold Heart: damage against Medium size monsters +20%<br>No slots<br><br>Acquisition: 50% success rate risking a +10 Orc Archer Bow at the Hugel and Payon weapon shops<br>The [1] version comes from S-tier slotting: 10% success rate for 5 Oridecon, 10 Steel and 2,000,000 zeny |
 | Gigantic Lance [2] | 1490 | ASPD -10<br>Spiral Pierce cooldown +20 seconds<br>If base STR is 120 or higher: ATK +300<br>No slots | -10% ASPD<br>At +7, -15% after cast delay<br>At +8, -15% after cast delay<br>At +9, -15% after cast delay (up to -45%)<br>2 slots<br><br>Acquisition: Conversion from +10 Trident at [Gigantic Lance Forger](Custom_NPC.md#other) |
 | Glorious Holy Avenger | 13418 | INT +(refine level - 5) (refine-based INT bonus only) | Gives a flat +6 INT on top of its existing refine-based INT bonus<br><br>Acquisition: Battlegrounds Weapon Shop |
 | Glorious Jamadhar | 1282 | Ignores 20% of demi-human defense | Changed 20% defense ignore against demi-humans to be replaced with a straight +20% critical damage<br><br>Acquisition: Battlegrounds Weapon Shop |
 | Golden Wrench [2] | 1333 | 3rd and 4th job Blacksmith line only (Mechanic, Meister)<br>ATK 220<br>Required level 170<br>Unbreakable<br>ATK +5%<br>Base ATK +4 per refine level<br>At +9, Axe Boomerang and Power Swing damage +20%<br>At +11, Axe Boomerang and Power Swing damage +35% | Whitesmith only<br>ATK 240<br>Required level 85<br>STR +3<br>At +7, CRIT +20<br>At +8, ASPD +10%<br>At +9, Base ATK +50<br>Indestructible in battle<br><br>Acquisition: Conversion from +10 Vecer Axe (50%) at the NPCs in the Geffen and Einbroch Smith job change areas |
 | Green Whistle [1] | 1930 | Reduces Rush Windmill and Deep Sleep Lullaby cast time by 2 seconds<br>Above +5, reduces their SP cost by 4 per refine level | Increases Arrow Vulcan damage by 30%<br>At +7, increase damage of Arrow Vulcan by 10%<br>At +10, increase damage of Arrow Vulcan by 20%<br>Decreases cast time of Arrow Vulcan by 2 seconds<br><br>Acquisition: Biolabs Shop |
-| Healing Staff | 1625 | Drop rate from Anubis (`1098`) is 0.50%<br><br>Acquisition: Dropped by Anubis (`1098`) | Drop rate from Anubis (`1098`) reduced from 0.50% to 0.35%.<br> Added as a drop to Margaretha (`1643`) at 1%<br><br>Acquisition: Dropped by Anubis (`1098`), Margaretha (`1643`) |
+| Healing Staff | 1625 | Drop rate from Anubis (`1098`) is 0.50%<br><br>Acquisition: Dropped by Anubis (`1098`) | Drop rate from Anubis (`1098`) reduced from 0.50% to 0.35%.<br> Added as a drop to Margaretha Sorin (`1637`) at 1%<br><br>Acquisition: Dropped by Anubis (`1098`), Margaretha Sorin (`1637`) |
 | Imperial Spear [1] | 1433 | Increases Cannon Spear and Banishing Point damage by 20%, plus 1% per 2 refine levels | Increases Shield Boomerang and Shield Charge damage by 20%, plus 1% each per refine<br>Shield Chain SP cost -20 when combined with Imperial Guard<br><br>Acquisition: [El Dicastes](El_Dicastes.md#gear-and-drops): One-Horned Scaraba (`2083`) |
+| Inverse Scale | 1269 (unslotted)<br>35650 ([3]) | No slots | Slots can be added through S-tier socket crafting |
 | Knuckle weapons | - | Size penalty 100% / 75% / 50% (Small / Medium / Large) | Size penalty 100% / 100% / 75% (Small / Medium / Large) |
 | Lich's Bone Wand [2] | 1624 | Equippable by Mage, Acolyte, Priest, Wizard, Monk and Sage | Can be equipped by Soul Linker |
 | Luna Bow [2] | 1723 | DEF +2<br>At +6 or higher, DEF +5<br>At +9 or higher, DEF +7 | DEF +2<br>At +6 or higher, DEF +3<br>At +9 or higher, DEF +5 |
 | Mental Stick [1] | 1654 | Reduces Psychic Wave cast time by 3 seconds and SP cost by 60<br>Above +5, per refine level: Psychic Wave damage +2%, Max HP -2% | INT +3, MATK +20%, ASPD 10%<br>At +7 or higher, adds an additional MATK +15%<br>At +10, adds an additional MATK +20%<br><br>Acquisition: Biolabs Shop |
+| Muramasa | 1164 (unslotted)<br>21003 ([2]) | No slots | Slots can be added by Leablem, the S-class socket enchanter, turning a slotless Muramasa into the 2 slot version: 10% success rate for 2,000,000 zeny, 5 Oridecon and 10 Steel. Failure destroys the weapon and the materials.<br>Restricted in GvG |
 | Noble Cross [1] | 16029 | Holy element<br>20% chance to cast Turn Undead (Level 6) when dealing physical attack<br>Recover 1 SP each time you hit an Undead monster<br>Recover 12 SP each time you kill an Undead monster with a melee physical attack | MATK +125<br>Adds a 5% chance to cast Turn Undead (Level 6) when dealing physical attack<br> Additional 1% chance for every refine +5 or above<br>Recover 1 SP each time you hit an Undead monster<br>Recover 12 SP each time you kill and Undead monster with physical attack<br> Equippable by Champion and High Priest<br><br>Acquisition: Horror Toy Factory |
 | Old Parasol [3] | 13442 | MATK +1 per refine level<br>Enables Soul Strike Level 10 | +5 ATK per refine level<br> Holy element<br><br>Acquisition: Horror Toy Factory |
 | Red Ether Bag [1] | 16010 | Increases Crazy Weed and Demonic Fire damage by 20%<br>Above +5, an additional 2% per refine level | LUK +15, INT +5, DEX +1<br><br>Acquisition: Biolabs Shop |
@@ -30,6 +33,7 @@
 | Thorn Staff of Darkness | 1636 | Cannot be equipped by Soul Linker<br>Not slottable | Can be equipped by Soul Linker<br> Can be slotted<br> Skull Cap combo (slotted and unslotted staff): the -10% cast time is only granted at +10 or higher MATK per refine is unchanged<br><br>Acquisition: Dropped by Entweihen Crothen (`1957`) |
 | Trident [2] | 1460 | Sold in the Prontera, Comodo and Einbroch weapon shops<br><br>Acquisition: Forgeable by Blacksmiths and dropped by Merman (`1264`) | Removed from the Prontera, Comodo and Einbroch weapon shops<br><br>Acquisition: Forgeable by Blacksmiths and drops from Merman (`1264`) |
 | Two-Handed Chrome Metal Sword | 1196 | Required level 110<br>Equippable by Swordman High, Lord Knight and Paladin<br>Unbreakable<br>AGI +3<br>MAX HP -10% | Required level 85<br>Equippable by Lord Knight and Paladin<br>Unbreakable<br>AGI +3<br>MAX HP -10%<br><br>Acquisition: [El Dicastes](El_Dicastes.md#queen-scaraba): Queen Scaraba (`2087`) |
+| Vecer Axe [2] | 1311 | Not dropped by Majoruros (`1310`) | Added as a drop to Majoruros (`1310`) at 0.20% |
 | Veteran Axe [2] | 1384 | +10 ATK for each Forging skill (Dagger, Sword, Two-Handed Sword, Knuckle, Spear, Axe, Mace) at Lv 3 | +10 ATK for each Forging skill (Dagger, Sword, Two-Handed Sword, Knuckle, Spear, Axe, Mace) at Lv 2 or higher |
 
 ## Armor
@@ -39,6 +43,7 @@
 | Advanced Assassin Mask | 18774 | Equippable by Priest and Assassin<br>Critical +1<br>Increases Critical Damage by 1% | Usable by all jobs |
 | Alchemy Glove [1] | 2854 | INT +1<br>Fire property magic damage +10% | INT +2<br>Fire property magic damage +15% |
 | Angel Spirit | 5389 | Not dropped by any monster | Added as a rare drop from Valkyrie Randgris (`1751`) MVP at 2.25% |
+| Angelic Protection [1] | 2355 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
 | Assassin's Handcuffs [1] | 2892 | MAX SP +20<br>CRIT +3 | MAX HP +500<br> CRIT +8<br> CRIT DMG +10% |
 | Bible of Promise [1] | 2162 | MDEF +5<br>Enables Odin's Power Level 2<br>Increases healing effectiveness by 5% | MDEF +5<br>INT +2<br> Increases healing effectiveness by 5% |
 | Blood Sucker | 18754 | Unbreakable | Adds 1% chance of absorbing 3% physical damage inflected on target as HP<br> Disables natural HP and SP recovery |
@@ -61,20 +66,26 @@
 | Golden Trinket | 2842 | New item | Untradeable and unrefinable, account bound<br>Enchantable at the El Dicastes cat merchants |
 | Green Operation Coat [1] | 15044 | DEX +1<br>MAX SP +30 | DEX +1, INT +3<br>Additional enchants available |
 | Hermode Cap[1] | 5481 | Not dropped by any monster | Added as a Uncommon drop from Assassin Cross Eremes (`1641`) (Mini Boss) at 15% |
+| Holy Robe | 2327 (unslotted)<br>2373 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
 | Imperial Guard [1] | 2153 | MDEF +5<br>Increases Shield Press damage by 20%<br>Above +5, an additional 2% per refine level | MDEF +5<br>Increases Shield Chain damage by 20%, plus 1% per refine<br>At +8, halves Shield Chain cast time |
 | Light of El Dicastes | 2844 | Renewal only item<br>Grants Return to El Dicastes | Added unchanged<br>Untradeable and unrefinable, character bound<br>Enchantable by Kareka in El Dicastes |
 | Love Guard [1] | 18542 | Renewal only item<br>Increases the effectiveness of your healing skills by 2%<br>Increases the effect of received healing by 5%<br>At +7 or higher, healing skills effectiveness +3% | Added unchanged |
+| Mage Coat | 2334 (unslotted)<br>2372 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
 | Mercury Riser [1] | 18597 | Renewal only item<br>ASPD +3%, Critical +3<br>At +7, an additional ASPD +2% and Critical +2<br>At +9, an additional ASPD +2% and Critical +2 | Added unchanged |
 | Mitra [1] | 5747 | MATK +10 at base INT 120 or higher<br>Required level 100 | MATK +10 at base INT 90 or higher<br>Required level 90 |
+| Ninja Suit | 2337 (unslotted)<br>2359 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
+| Novice Breastplate [1] | 2340 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
+| Old Mitra [1] | 18972 | New item | INT +1<br>MDEF +5<br>For each 2 refine levels: MAX HP +1%, MAX SP +1%, ATK +8, MATK +4 and Magnus Exorcismus damage +4%<br>Required level 70<br>Priest only<br><br>Acquisition: Dropped by Margaretha Sorin (`1637`) at 0.1% |
 | Puppy Hat | 5182 | Randomly autocasts Gloria when dealing physical attack<br>At base AGI 77 or higher, the chance is 3% | At base AGI 77 or higher, the chance is 5% |
 | Red Lantern [1] | 2976 | Required level 100<br>MAX SP -300<br>Enables Sight Level 1<br>Adds a 0.5% chance each for Alcohol, Detrimindexta and Karvodailnirol to drop when killing a monster | Required level 20<br> Equippable by All except Novice, Taekwon, Star Gladiator |
 | Robo Eye | 5325 | Not dropped by any monster | Added as a rare drop from Vesper (`1685`) MVP at 2.1% |
 | Satanic Bone Helm [1] | 5529 | Required level 70 | Required level 1 |
+| Shinobi Sash | 2654 (unslotted)<br>52290 ([1]) | No slots | Slots can be added by Leablem: 5% success rate for 1,000,000 zeny and 1 Elunium |
 | Sigrun's Wings | 5592 | Not dropped by any monster | Added as a rare drop from Gryphon (`1259`) at 0.9% |
 | Snake Head | 5388 | Not dropped by any monster<br>1 slot | Added as a rare drop from Evil Snake Lord (`1418`) MVP at 0.9%<br>No slots |
 | Sting Hat | 5509 | Not dropped by any monster | Added as a drop from Sting (`1207`) at 0.05% |
 | Swordsman Medal of Honor | 2720 | Cannot be equipped by Taekwon | Can be equipped by Taekwon |
-| Telekinetic Orb | 2853 | MDEF +1<br>INT +3<br>MAX SP +30<br>Increases Soul Expansion and Psychic Wave damage by 10%<br>Reduces Soul Expansion and Psychic Wave SP cost by 50 | INT +3<br> MAX SP +30<br> Reduces damage and cast time of Lightning Bolt by 25% <br> Slottable |
+| Telekinetic Orb | 2853 (unslotted)<br>28530 ([1]) | MDEF +1<br>INT +3<br>MAX SP +30<br>Increases Soul Expansion and Psychic Wave damage by 10%<br>Reduces Soul Expansion and Psychic Wave SP cost by 50<br>No slots | INT +3<br> MAX SP +30<br> Reduces damage and cast time of Lightning Bolt by 25% <br> Slots can be added by Seiyablem: 400,000 zeny and 1 Elunium, 20% success rate. Failure destroys the item |
 | Temporal AGI Boots | 22002 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, ASPD +3%<br>Base AGI at least 120: ASPD +1 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, ASPD +3%<br>Base AGI at least 90: ASPD +3% |
 | Temporal DEX Boots | 22004 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, DEX +3<br>Base DEX at least 120: Ranged Physical Damage +5% and fixed cast time -0.5 seconds | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, DEX +1<br>Base DEX at least 90: Ranged Physical Damage +5% |
 | Temporal INT Boots | 22001 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, MATK +10<br>Base INT at least 120: MATK +60 and MDEF +5 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, INT +1, DEX +1<br>Base INT at least 90: MATK +5% |
@@ -82,7 +93,10 @@
 | Temporal STR Boots | 22000 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, ATK +7<br>Base STR at least 120: ATK +50 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, STR +1<br>Base STR at least 90: ATK +5% |
 | Temporal VIT Boots | 22003 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10<br>Base VIT at least 120: MAX HP +8% | MAX HP +500, MAX SP +30<br>For each 3 refine levels: MAX HP +200, MAX SP +10, MAX HP +4%<br>Base VIT at least 75: MAX HP +10% |
 | Umbala Spirit | 18505 | VIT +1 | Max HP +1%<br>Increases the recovery rate of Meat by 25%<br>Chance of dropping Meat when defeating monsters |
+| Valkyrie Drop | 28564 | New item | Cast time -5%<br>After skill delay -5%<br>For each level of Impositio Manus: Magnus Exorcismus damage +4%<br>Required level 70<br>Priest only<br><br>Acquisition: Dropped by High Priest Margaretha (`1643`) |
+| Waterdrop Brooch [1] | 2787 | Not dropped by any monster | Added as a drop from Kraken (`2202`) |
 | Wounded Heart [1] | 2977 | Required level 110<br>MAX SP +200<br>Enables Scream Level 3 | DEX +2<br>AGI +1<br>+5% damage to all races<br>Required level 90<br>Equippable by all Transcendent jobs |
+| Yellow Bandana | 5277 |  | Available from Sabrina for 15 WoE Tokens |
 
 ## Extended Classes
 Extended classes (Taekwon, Star Gladiator, Soul Linker, Ninja, and Gunslinger) can equip all armor listed as equippable
@@ -102,6 +116,7 @@ For weapons, see [Expanded Class Weapons](Expanded-Class-Weapons.md).
 | Moonlight Flower Card | 4131 | Movement speed +25%. | Movement speed +40%. |
 | Queen Scaraba Card | 4507 | Inflicts 30% more damage against Scaraba monsters<br>Small chance of dropping an Antler Scaraba Scroll when defeating any monster | Inflicts 30% more damage against Scaraba monsters<br>MDEF -30<br>Flee -30<br>Deals more magical damage depending on the target's magic defense<br>Small chance of dropping an Antler Scaraba Scroll when defeating any monster |
 | Scaraba Card | 4505 | Renewal only card<br>MATK +20<br>MaxSP -1% | Added unchanged |
+| Sedora Card | 4521 | Renewal only card<br>Increases Critical Damage by 15% | Added unchanged |
 
 ### Renewal Cards
 Renewal enemies drop their cards as-is unless otherwise mentioned.
