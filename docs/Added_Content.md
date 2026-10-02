@@ -6,55 +6,21 @@ Content that is not in the official pre-renewal game, or that is there but works
 
 ## Areas and Instances
 
-### uaRO
+uaRO content comes first, followed by renewal content in the order the official game released it.
 
-| Content | Page |
-|-|-|
-| Eternal Bastion | [Eternal Bastion](Eternal_Bastion.md) |
-
-### Renewal
-
-Renewal content added to uaRO, in the order the official game released it.
-
-#### Episode 12: Satan Morroc
-
-| Content | Page |
-|-|-|
-| Sealed Shrine | [Instance Guide](Instance_Guide.md); page needed |
-
-#### Episode 13.2: Encounter
-
-| Content | Page |
-|-|-|
-| Brasilis | Page needed |
-
-#### Episode 13.3: El Dicastes
-
-| Content | Page |
-|-|-|
-| El Dicastes | [El Dicastes](El_Dicastes.md) |
-
-#### Episode 14.1: Bifrost
-
-| Content | Page |
-|-|-|
-| Biolabs 4 | [Biolabs 4](Biolab4.md) |
-
-#### Episode 14.2: Eclage
-
-| Content | Page |
-|-|-|
-| Old Glast Heim | [Old Glast Heim](Old_Glast_Heim.md) |
-| Horror Toy Factory | [Horror Toy Factory](Horror_Toy_Factory.md) |
-
-#### Episode to be confirmed
-
-| Content | Page |
-|-|-|
-| Bylan 4 | Page needed (will list Sedora Card and its drops) |
-| Manuk | Page needed |
-| Nidhoggur's Nest | [Instance Guide](Instance_Guide.md); page needed |
-| Splendide | Page needed |
+| Episode | Content | Page |
+|-|-|-|
+| uaRO | Eternal Bastion | [Eternal Bastion](Eternal_Bastion.md) |
+| 12: Satan Morroc | Sealed Shrine | [Instance Guide](Instance_Guide.md); under construction |
+| 13.2: Encounter | Brasilis | Under construction |
+| 13.2: Encounter | Manuk | Under construction |
+| 13.2: Encounter | Nidhoggur's Nest | [Instance Guide](Instance_Guide.md); under construction |
+| 13.2: Encounter | Splendide | Under construction |
+| 13.3: El Dicastes | El Dicastes | [El Dicastes](El_Dicastes.md) |
+| 14.1: Bifrost | Biolabs 4 | [Biolabs 4](Biolab4.md) |
+| 14.1: Bifrost | Byalan Dungeon Level 6 (`/navi iz_dun05`), also known as Undersea Tunnel Floor 6 | Under construction (will list Sedora Card and its drops) |
+| 14.2: Eclage | Horror Toy Factory | [Horror Toy Factory](Horror_Toy_Factory.md) |
+| 14.2: Eclage | Old Glast Heim | [Old Glast Heim](Old_Glast_Heim.md) |
 
 ## Items
 
