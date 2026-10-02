@@ -9,23 +9,23 @@ server's systems work, event details and the latest patch notes.
 
 <div class="grid cards" id="new-here-cards" markdown>
 
-- **[⭐ How to Start](How_To_Start.md)**
+- **[⭐ How to Start](how-to-start.md)**
 
     Create an account, download the client and log in.
 
-- **[🌱 Beginner Guide](Beginner_Guide.md)**
+- **[🌱 Beginner Guide](beginner-guide.md)**
 
     A player-written quick start guide for new adventurers.
 
-- **[⚙️ Commands](Commands.md)**
+- **[⚙️ Commands](commands.md)**
 
     Every in-game command, with examples.
 
-- **[💬 FAQ](FAQ.md)**
+- **[💬 FAQ](faq.md)**
 
     Quick answers to common questions.
 
-- **[🛟 Troubleshooting](Troubleshooting.md)**
+- **[🛟 Troubleshooting](troubleshooting.md)**
 
     Fixes for client, antivirus and connection problems.
 
@@ -39,7 +39,7 @@ server's systems work, event details and the latest patch notes.
 
 ## Latest patch
 
-[:octicons-arrow-right-24: View all patch notes](All_Patch_Notes.md){ .section-heading__action }
+[:octicons-arrow-right-24: View all patch notes](all-patch-notes.md){ .section-heading__action }
 
 </div>
 
@@ -50,7 +50,7 @@ server's systems work, event details and the latest patch notes.
 
 ## Server at a glance
 
-[:octicons-arrow-right-24: View full server info](Server_Info.md){ .section-heading__action }
+[:octicons-arrow-right-24: View full server info](server-info.md){ .section-heading__action }
 
 </div>
 
@@ -106,35 +106,35 @@ server's systems work, event details and the latest patch notes.
 
 <div class="grid cards" id="main-features-cards" markdown>
 
-- **[💖 Poring Coin System](Poring_Coins_System.md)**
+- **[💖 Poring Coin System](poring-coins-system.md)**
 
     Monsters have a 5% chance to drop Poring Coins, which can also be earned through quests and events.
 
-- **[🌀 Warper System](Warper_System.md)**
+- **[🌀 Warper System](warper-system.md)**
 
     Dungeon Warper provides easy access to quest locations for all characters on your account.
 
-- **[🐱 Cute Pet System](Pet_System.md)**
+- **[🐱 Cute Pet System](pet-system.md)**
 
     Collect evolved pets with unique bonuses to assist you in the game.
 
-- **[🎯 Hunting Missions](Hunting_Mission.md)**
+- **[🎯 Hunting Missions](hunting-mission.md)**
 
     Complete missions for Experience, Zeny, and Mission Points. Available at every Inn.
 
-- **[🎉 Repeatable Quests](Repeatable_Quests.md)**
+- **[🎉 Repeatable Quests](repeatable-quests.md)**
 
     Hunt monsters or collect specific items to earn EXP rewards. These items are tradable and valuable.
 
-- **[🏡 Main Office](Main_Office.md)**
+- **[🏡 Main Office](main-office.md)**
 
     Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items.
 
-- **[📢 Guild Starter Support System](Guild-Starter-Support-System.md)**
+- **[📢 Guild Starter Support System](guild-starter-support-system.md)**
 
     Extra support for newly created guilds, so they can progress through PvE at a smooth pace.
 
-- **[💰 Vendor System](Vendor_System.md)**
+- **[💰 Vendor System](vendor-system.md)**
 
     Find, buy and trade items with other players, with safeguards to keep the economy stable.
 

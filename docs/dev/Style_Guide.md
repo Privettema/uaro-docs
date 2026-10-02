@@ -75,18 +75,11 @@ Use `??? note "Title"` (collapsible) for a block that's long and mostly referenc
 
 ## Links
 
-<!--
-  DISABLED (temporarily): a repo-wide page-filename rename (lowercase-hyphenated, no underscores or
-  parentheses) is planned but not merged yet. Once it lands, replace the paragraph below with:
-  "Link to a page by its current filename (`pet-system.md`, not `Pet_System.md`) — see
-  `all-pages.md` for the full list if you're not sure a page exists yet." Until then, link using
-  whatever filename the target page actually has today; don't rename or re-target links yourself as
-  part of routine content edits — that's handled by the rename effort, not by this guide.
--->
+Link to a page by its current filename (`pet-system.md`, not `Pet_System.md`) — see `all-pages.md` for the full list if you're not sure a page exists yet. Old filenames still redirect, but links should use the new one.
 
-Link to a page by its current filename, whatever that is today — see `all-pages.md` for the full list if you're not sure a page exists. Renaming a page's file is a separate, repo-wide effort; don't rename a file or change how it's linked to as part of a routine content edit.
+New pages use lowercase, hyphen-separated filenames with no underscores or parentheses: `cart-and-falcon-coupons.md`. Don't rename an existing file as part of a routine content edit; renames also need a redirect entry in `mkdocs.yml`.
 
-- From a page in a subfolder (a section hub), go up first: `../Pet_System.md`.
+- From a page in a subfolder (a section hub), go up first: `../pet-system.md`.
 - Link text says where the link goes: "Read the full Halloween Event guide", not "click here" or a bare URL.
 
 ## Writing
@@ -147,7 +140,7 @@ Event pages get more flavor than any other page. They are temporary, themed and 
 
 ### Patch notes
 
-- One file per patch: `patch-notes/YYYY/patchesMMDDYYYY.md`. Add it to `All_Patch_Notes.md` and move the ⭐ to it.
+- One file per patch: `patch-notes/YYYY/patchesMMDDYYYY.md`. Add it to `all-patch-notes.md` and move the ⭐ to it.
 - Use the section headings recent patches use (Gameplay, Quality of Life, Items, NPC, Commands, Skills, Fixes, Cash Shop), with or without the emoji they already carry, and leave out sections that are empty.
 - One bullet per change, in past tense: "Fixed X", "Added Y", "Removed Z". Name what changed, not the internals.
 - Link to the full guide page for anything bigger than a few lines instead of repeating it.
@@ -166,7 +159,7 @@ Keep the 120-character limit from the root `CLAUDE.md` for **tables, code blocks
 
 ```bash
 python3 scripts/lint_style.py
-python3 scripts/lint_style.py docs/Card_Exchange.md
+python3 scripts/lint_style.py docs/card-exchange.md
 ```
 
 The first command checks every page; the second checks only the files you name. The linter flags the rules that can be checked mechanically: title and heading structure, trailing whitespace, `Lv`, abbreviated or unformatted Zeny, spaced percentages, non-US date formats, common UK spellings, "click here" links, images with no alt text, `<br>` outside tables, long table lines and duplicate nav emojis. It can't judge voice, Title Case or missing item IDs — those are for review.
