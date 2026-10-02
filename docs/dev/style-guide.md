@@ -82,6 +82,26 @@ New pages use lowercase, hyphen-separated filenames with no underscores or paren
 - From a page in a subfolder (a section hub), go up first: `../pet-system.md`.
 - Link text says where the link goes: "Read the full Halloween Event guide", not "click here" or a bare URL.
 
+### Anchors
+
+Link to a spot on a page with a normal Markdown link and a `#anchor`, using the page's filename: `[the rewards](attendance-system.md#daily-rewards)`. Don't use raw `<a id="...">` tags.
+
+- **Headings get an anchor automatically.** It's the heading text in lowercase with hyphens: `## Daily Rewards` is `#daily-rewards`. Renaming the heading changes the anchor and breaks links to it.
+- **Pin an anchor when other pages link to it.** Add an ID after the heading and it survives a rename: `## Daily Rewards { #rewards }`. Keep these short, lowercase and hyphenated.
+- **Anchor a paragraph or image** by putting the ID in braces on the line right after the paragraph, or straight after an image:
+
+    ```markdown
+    Uncollected rewards are removed after 14 days.
+    { #expiry }
+
+    ![Timer](img/timer.png){ #timer }
+    ```
+
+- **Anchor an admonition** by putting `{ #id }` on its own line at the end of the content.
+- **Anchor a spot inside a table row** with an empty link: `| 7 | [](){ #day-7 } Tyr's Blessing |`.
+- Put the braces on the paragraph's next line, not at the end of the same line; at the end of the same line it does nothing.
+- MkDocs reports a link to a missing anchor as an `INFO` line in `mkdocs build` output (not a warning), so read the build output after adding one.
+
 ## Writing
 
 The rules below match what most existing pages already do. Where pages are inconsistent today, the guide picks one form so new edits converge on it.
