@@ -1,6 +1,6 @@
 # Poring Coins System
 
-uaRO: World of Your Dream introduce **Poring Coins System**
+Poring Coins are a tradable currency that monsters drop, which you can use for certain quests or trade with other players.
 
 Each monster on our server drops ![Poring Coin](img/7539.gif) Poring Coin with a 5% chance.
 

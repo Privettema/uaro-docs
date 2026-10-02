@@ -1,6 +1,6 @@
 
 # uaRO Beginner's Info & Quick Start Guide
-This is a player-written guide for new uaRO players, originally written by Angebo. There have been edits by the Wiki maintainers.
+A quick-start guide for new uaRO players covering the server's key features, a short class overview and a fast route to level 60+. It was originally written by Angebo. There have been edits by the Wiki maintainers.
 
 Discord is your best resource for player guides. Check out the "Class Theory" category. [Join Discord](https://discord.gg/Zn6jrQy9x).
 
