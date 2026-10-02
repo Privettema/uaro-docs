@@ -21,7 +21,7 @@ This page explains how the wiki labels it all so you can find what you are looki
 | How a map's layout or spawns differ | [Map Changes](map-changes.md) |
 | How a quest differs | [Quest Changes](quest-changes.md) |
 | Which sell prices are lower | [Modified Sales Prices](modified-sales-prices.md) |
-| What was added that is not in the official game | [Added Content](added-content.md) |
+| What areas and instances were added | [Areas and instances](#areas-and-instances) |
 | Which I can buy with Poring Coins | [Poring Coins System](poring-coins-system.md#exchange) |
 | Which additional weapons Expanded Classes can use | [Expanded Class Weapons](expanded-class-weapons.md) |
 
@@ -35,3 +35,26 @@ Item, monster and map pages compare the two versions side by side:
 
 Where an item is also obtained in a dungeon or from an NPC, the Item Changes row links to that page, and the page links
 back to the row.
+
+## Areas and instances
+
+Areas and instances that are not in the official pre-renewal game. uaRO content comes first, followed by renewal content
+in the order the official game released it.
+
+| Episode | Content | Page |
+|-|-|-|
+| uaRO | Eternal Bastion | [Eternal Bastion](eternal-bastion.md) |
+| uaRO | Endless Cellar | [Instance Guide](instance-guide.md), [Endless Cellar](endless-cellar.md) |
+| 12: Satan Morroc | Dimensional Gorge | - |
+| 12: Satan Morroc | Sealed Shrine | [Instance Guide](instance-guide.md) |
+| 12: Satan Morroc | Endless Tower | [Instance Guide](instance-guide.md) |
+| 13.2: Encounter | Brasilis | - |
+| 13.2: Encounter | Manuk | - |
+| 13.2: Encounter | Splendide | - |
+| 13.2: Encounter | Nidhogg's Dungeon | - |
+| 13.2: Encounter | Nidhoggur's Nest | [Instance Guide](instance-guide.md) |
+| 13.3: El Dicastes | El Dicastes | [El Dicastes](el-dicastes.md) |
+| 14.1: Bifrost | Biolabs 4 | [Biolabs 4](biolab4.md) |
+| 14.1: Bifrost | Byalan Dungeon Level 6 | - |
+| 14.2: Eclage | Horror Toy Factory | [Horror Toy Factory](horror-toy-factory.md) |
+| 14.2: Eclage | Old Glast Heim | [Old Glast Heim](old-glast-heim.md) |

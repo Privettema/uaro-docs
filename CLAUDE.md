@@ -69,15 +69,15 @@ The site uses MkDocs admonitions for callout boxes. Preferred format:
 - Patches include standard sections: General, Quality of Life, Items, NPC, Commands, Skills, Fixes, etc.
 
 ### Where Content Goes
-Every non-official thing on the wiki has one tag (see `docs/whats-different.md`): **Changed** (official content uaRO altered),
+Content pages carry one tag (see `docs/whats-different.md`): **Changed** (official content uaRO altered),
 **Renewal** (renewal content added; it is rebalanced where needed) or **uaRO** (made for uaRO).
 
-- **Changes pages** (`class-changes.md`, `item-changes.md`, `monster-changes.md`, `map-changes.md`, `Quest_Changes.md`) list only things
+- **Changes pages** (`class-changes.md`, `item-changes.md`, `monster-changes.md`, `map-changes.md`, `quest-changes.md`) list only things
   that differ from the official game, as Original vs uaRO. Original is the pre-renewal value (Hercules `db/pre-re`); if there is no
   pre-re version it is the renewal value (Hercules `db/re`, then rAthena) and the row says so.
-- **`added-content.md`** lists areas, instances and items that uaRO added. Unchanged cards from renewal monsters belong on the page for
-  the area where they drop, not here.
-- **Content pages** (Biolab4, El_Dicastes, Horror_Toy_Factory, ...) say how to get things. Put an item's stats in `item-changes.md` once and
+- Items that uaRO added also go in `item-changes.md`, with a blank Original and no tag. `whats-different.md` lists the areas and
+  instances that uaRO added, by episode. Unchanged cards from renewal monsters belong on the page for the area where they drop.
+- **Content pages** (`biolab4.md`, `el-dicastes.md`, `horror-toy-factory.md`, ...) say how to get things. Put an item's stats in `item-changes.md` once and
   link to its row (anchor `<a id="..."></a>`); do not copy the stats onto the content page.
 - Add the content-type line (`**Content type:** [Renewal](whats-different.md#content-tags)`) under the title of each content page.
 - Item rows: unslotted by default (write `[n]` only when slotted), list monsters as `Name (`ID`)`, and leave Original blank when there

@@ -1,7 +1,7 @@
 # Item Changes
 
-Items, weapons and armor that work differently from the official game. Items that uaRO simply added are on
-[Added Content](added-content.md). See [What's Different](whats-different.md) for how to read the tables.
+Items, weapons and armor that work differently from the official game. See [What's Different](whats-different.md)
+for how to read the tables.
 
 ## Weapon
 
@@ -67,15 +67,19 @@ Items, weapons and armor that work differently from the official game. Items tha
 | <a id="gentle-heart"></a>Gentle Heart [1] | 2978 | Required level 110<br>MAX HP +500<br>Recover 300 HP every 10 seconds | STR +2<br>DEX +1<br>+5% damage to all races<br>Required level 90<br>Equippable by all Transcendent jobs |
 | Ghost Whisper [1] | 400396 | MDEF +10<br>ASPD +10%<br>Skill delay -3% per refine level<br>Increases Meteor Assault damage by your base level<br>At +7, Meteor Assault damage is doubled and Breaker damage +base level<br>At +9, Meteor Assault damage is tripled and Breaker damage +2x base level<br>Learning Weapon Crush Lv 5, Weapon Blocking Lv 5, Counter Slash Lv 10 or Hallucination Walk Lv 5 grants additional bonuses | STR +3<br>At +7, +10% Meteor Assault damage<br>At +9, STR +2 and a further +10% Meteor Assault damage |
 | Glaris Doll Hat [1] | 5341 | INT +2 | No INT bonus |
+| Golden Trinket | 2843 |  | MAX SP +50<br>Required level 75<br><br>Acquisition: [El Dicastes](el-dicastes.md#enchanting): Jahbong, 1 Certificate |
 | <a id="green-operation-coat"></a>Green Operation Coat [1] | 15044 | DEX +1<br>MAX SP +30 | DEX +1, INT +3<br>Additional enchants available<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | Hermode Cap[1] | 5481 | Not dropped by any monster | Added as a Uncommon drop from Assassin Cross Eremes (`1641`) (Mini Boss) at 15% |
 | Holy Robe | 2327 (unslotted)<br>2373 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
 | <a id="imperial-guard"></a>Imperial Guard [1] | 2153 | MDEF +5<br>Increases Shield Press damage by 20%<br>Above +5, an additional 2% per refine level | MDEF +5<br>Increases Shield Chain damage by 20%, plus 1% per refine<br>At +8, halves Shield Chain cast time |
 | <a id="light-of-el-dicastes"></a>Light of El Dicastes | 2844 | Grants Return to El Dicastes | Untradeable and unrefinable, character bound<br>Enchantable by Kareka in El Dicastes<br>Grants Return to El Dicastes |
+| Love Guard [1] | 18542 |  | Increases the effectiveness of your healing skills by 2%<br>Increases the effect of received healing by 5%<br>At +7 or higher, healing skills effectiveness +3%<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | Mage Coat | 2334 (unslotted)<br>2372 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
+| Mercury Riser [1] | 18597 |  | ASPD +3%, Critical +3<br>At +7, an additional ASPD +2% and Critical +2<br>At +9, an additional ASPD +2% and Critical +2<br><br>Acquisition: Baphomet (`1399`) at 5.1% |
 | Mitra [1] | 5747 | MATK +10 at base INT 120 or higher<br>Required level 100 | MATK +10 at base INT 90 or higher<br>Required level 90 |
 | Ninja Suit | 2337 (unslotted)<br>2359 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
 | Novice Breastplate [1] | 2340 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
+| Old Mitra [1] | 18972 |  | INT +1<br>MDEF +5<br>For each 2 refine levels: MAX HP +1%, MAX SP +1%, ATK +8, MATK +4 and Magnus Exorcismus damage +4%<br>Required level 70<br>Priest only<br><br>Acquisition: Margaretha Sorin (`1637`) at 0.1% |
 | Puppy Hat | 5182 | Randomly autocasts Gloria when dealing physical attack<br>At base AGI 77 or higher, the chance is 3% | At base AGI 77 or higher, the chance is 5% |
 | <a id="red-lantern"></a>Red Lantern [1] | 2976 | Required level 100<br>MAX SP -300<br>Enables Sight Level 1<br>Adds a 0.5% chance each for Alcohol, Detrimindexta and Karvodailnirol to drop when killing a monster | Required level 20<br> Equippable by All except Novice, Taekwon, Star Gladiator |
 | Robo Eye | 5325 | Not dropped by any monster | Added as a rare drop from Vesper (`1685`) MVP at 2.1% |
@@ -111,6 +115,7 @@ Items, weapons and armor that work differently from the official game. Items tha
 | Guarana Candy | 12414 | Acquired individually from NPC | Up to 300 can be bought at once from the quest NPC |
 | Holy Arrow Quiver | 12183 | Dropped by mobs | Inventor Jaax in Payon packs 500 Holy Arrows into a quiver for 500 zeny |
 | Home Cooking Kit | 12126 | Consumed when used | Not consumed until a craft is attempted |
+| Infinite Butterfly Wing | 52283 |  | Works like a Butterfly Wing: unusable during duels and on no-return maps<br><br>Acquisition: Exchanged at Lydia |
 | Infinite Fly Wing | 12887 | Cannot be used while Berserked | Can be used while Berserked |
 | Iron Hammer | 613 | Consumed when used | Not consumed until a craft is attempted |
 | Novice Fly Wing | 12323 | Cannot be used while Berserked | Can be used while Berserked |
