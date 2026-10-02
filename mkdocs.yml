@@ -4,6 +4,10 @@ site_description: The official documentation for uaRO World of your Dream
 site_author: uaRO Team
 site_url: https://wiki.uaro.net
 
+# Report links to missing pages and anchors as warnings
+validation:
+  anchors: warn
+
 # Theme configuration
 theme:
   custom_dir: overrides
