@@ -98,6 +98,34 @@
 | Wounded Heart [1] | 2977 | Required level 110<br>MAX SP +200<br>Enables Scream Level 3 | DEX +2<br>AGI +1<br>+5% damage to all races<br>Required level 90<br>Equippable by all Transcendent jobs |
 | Yellow Bandana | 5277 |  | Available from Sabrina for 15 WoE Tokens |
 
+## Consumables
+
+| Item | Item ID | Original | uaRO Changes |
+|-|-|-|-|
+| Cursed Water | 12020 |  | Bulk conversion at Niff Fountain: choose Singular or All, based on your empty bottles. Includes a weight check |
+| Fantastic Cooking Kit | 12129 | Consumed when used | Not consumed until a craft is attempted |
+| Fly Wing | 601 | Cannot be used while Berserked | Can be used while Berserked |
+| Golden Hammer | 614 | Consumed when used | Not consumed until a craft is attempted |
+| Guarana Candy | 12414 |  | Up to 300 can be bought at once from the quest NPC |
+| Holy Arrow Quiver | 12183 |  | Inventor Jaax in Payon packs 500 Holy Arrows into a quiver for 500 zeny |
+| Home Cooking Kit | 12126 | Consumed when used | Not consumed until a craft is attempted |
+| Infinite Butterfly Wing | 52283 | New item | Works like a Butterfly Wing: unusable during duels and on no-return maps<br><br>Acquisition: Exchanged at Lydia |
+| Infinite Fly Wing | 12887 | Cannot be used while Berserked | Can be used while Berserked |
+| Iron Hammer | 613 | Consumed when used | Not consumed until a craft is attempted |
+| Novice Fly Wing | 12323 | Cannot be used while Berserked | Can be used while Berserked |
+| Oridecon Hammer | 615 | Consumed when used | Not consumed until a craft is attempted |
+| Outdoor Cooking Kit | 12125 | Consumed when used | Not consumed until a craft is attempted |
+| Professional Cooking Kit | 12127 | Consumed when used | Not consumed until a craft is attempted |
+| Royal Cooking Kit | 12128 | Consumed when used | Not consumed until a craft is attempted |
+| Token of Siegfried | 7621 | No cooldown on resurrection use | 5 minute cooldown on resurrection use |
+
+## Misc
+
+| Item | Item ID | Original | uaRO Changes |
+|-|-|-|-|
+| Crystal Mirror | 747 | Dropped by Corrupted Monk (`2465`) at 5% | Dropped by Corrupted Monk (`20898`) at 50% |
+| Poring Coin | 7539 | Can be sold to NPCs | Cannot be sold to NPCs |
+
 ## Extended Classes
 Extended classes (Taekwon, Star Gladiator, Soul Linker, Ninja, and Gunslinger) can equip all armor listed as equippable
 by "All Transcendent Jobs" or similar. Temporal Boots and Variant Shoes can also be equipped by extended classes,
