@@ -5,6 +5,8 @@ hide:
 
 # El Dicastes
 
+**Content type:** [Renewal](Whats_Different.md#content-tags)
+
 <!-- Recommended: 800x450px webp - El Dicastes promo banner -->
 <!-- ![El Dicastes](img/el_dicastes_promo.webp){ .wiki-screenshot } -->
 
@@ -162,6 +164,8 @@ Both floors are part of the rotating bonus EXP zones, which you can check with
 ## Gear and Drops
 
 The following items drop only in Scaraba Hole.
+
+How [Imperial Spear](Item_Changes.md#imperial-spear), [Imperial Guard](Item_Changes.md#imperial-guard), [Alca Bringer](Item_Changes.md#alca-bringer), [Chrome Metal Two-Handed Sword](Item_Changes.md#two-handed-chrome-metal-sword) and [Bone Plate](Item_Changes.md#bone-plate) differ from the official versions is on [Item Changes](Item_Changes.md).
 
 | Item | Slot | Drops from | Rate |
 |---|---|---|---|

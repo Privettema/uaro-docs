@@ -1,5 +1,7 @@
 # Eternal Bastion
 
+**Content type:** [uaRO](Whats_Different.md#content-tags)
+
 ![Eternal Bastion](img/eternal_bastion_promo.webp){ .wiki-screenshot }
 
 **Eternal Bastion** is the ultimate PvE endgame challenge on uaRO. Gather a party of 12 and

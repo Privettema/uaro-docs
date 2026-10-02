@@ -1,5 +1,7 @@
 # Dimonka Headgear Quests
 
+**Content type:** [uaRO](Whats_Different.md#content-tags)
+
 ![Dimonka NPC](img/NPC/dimonka.gif)
 
 Dimonka is found in the [Main Office](Main_Office.md) and offers a unique selection of practical headgear to support your adventures.<br>
