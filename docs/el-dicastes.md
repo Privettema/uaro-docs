@@ -38,7 +38,7 @@ Cross the tunnel west to east, then head north-east on **dic_fild01** to the **C
 
 ## New World Travel
 
-The [Warper](Warper_System.md) stops at the Midgard Expedition Camp. All travel beyond it uses
+The [Warper](warper-system.md) stops at the Midgard Expedition Camp. All travel beyond it uses
 **Cat Hand Services**. Sign the contract once with **Fluffy Gyaruk** (`/navi mid_camp 190/242`) for
 **200 Delicious Fish**, **20 Fish Tail** and `550,000` **Zeny**. It applies to your whole account.
 
@@ -55,10 +55,10 @@ The [Warper](Warper_System.md) stops at the Midgard Expedition Camp. All travel 
 
 Agents are located in El Dicastes (`/navi dicastes01 200/194`), Manuk, Splendide, Mora, Eclage and the camp.
 Midgard-city teleports are sold at the camp only, and a New World city must be visited on foot once before you
-can teleport to it. [**Inn Attendants**](Inns.md) are available in El Dicastes, Manuk and Splendide.
+can teleport to it. [**Inn Attendants**](inns.md) are available in El Dicastes, Manuk and Splendide.
 **Scaraba Hole** is sold once you have visited the agent spot at the entrance to its first floor. The
 **Midgard Expedition Camp**, **Manuk** and **Splendide** count as towns, so town-only conveniences such as
-[`@restock`](Commands.md#restock-qstore-fast-storage) work there.
+[`@restock`](commands.md#restock-qstore-fast-storage) work there.
 
 ---
 
@@ -151,7 +151,7 @@ and Rake Scaraba teleport away when hit from range while idle. **Queen Scaraba**
 dealt to her.
 
 Both floors are part of the rotating bonus EXP zones, which you can check with
-[`@mapexp`](Commands.md#general-commands).
+[`@mapexp`](commands.md#general-commands).
 
 !!! danger "Field Maps"
     **dic_fild01** and **dic_fild02** are full of aggressive Centipedes and Dolomedes that detect hiding and hit

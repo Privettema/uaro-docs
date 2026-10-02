@@ -14,7 +14,7 @@ import re
 from collections import defaultdict
 
 PLACEHOLDER = "<!-- ALL_PAGES -->"
-SKIP_PREFIXES = ("Dev/",)
+SKIP_PREFIXES = ("dev/",)
 SKIP_FILES = {"all-pages.md"}
 
 _nav_titles = {}

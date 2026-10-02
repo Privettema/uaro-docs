@@ -14,7 +14,7 @@ Each patch file lives in docs/patch-notes/YYYY/ and starts with front matter:
 If `highlights` is missing, the preview is generated from the patch's own sections instead (less polished).
 
 Placeholders replaced at build time:
-    <!-- PATCH_LATEST -->     latest patch card + the most recent patches (All_Patch_Notes.md)
+    <!-- PATCH_LATEST -->     latest patch card + the most recent patches (all-patch-notes.md)
     <!-- PATCH_HOME -->       the latest patch on one line, for the home page (index.md)
     <!-- PATCH_YEAR -->       every patch of the year, newest first (docs/patch-notes/YYYY/index.md)
 
@@ -166,7 +166,7 @@ def on_config(config):
                 pages = [f"patch-notes/{year}/index.md"]
                 pages += [{_nav_label(p): p["uri"]} for p in _patches if p["date"].year == year]
                 years.append({str(year): pages})
-            item["Patch Notes"] = [{"Latest Patches": "All_Patch_Notes.md"}, {"Archive": years}]
+            item["Patch Notes"] = [{"Latest Patches": "all-patch-notes.md"}, {"Archive": years}]
     return config
 
 
@@ -247,7 +247,7 @@ def on_page_markdown(markdown, page, config, files):
             parts = []
             if older:
                 parts.append(f"[← {_label(older)[2:]}]({_link(older, uri)})")
-            parts.append(f"[All patch notes]({os.path.relpath('All_Patch_Notes.md', os.path.dirname(uri))})")
+            parts.append(f"[All patch notes]({os.path.relpath('all-patch-notes.md', os.path.dirname(uri))})")
             if newer:
                 parts.append(f"[{_label(newer)[2:]} →]({_link(newer, uri)})")
             markdown = markdown.rstrip() + "\n\n---\n\n" + " · ".join(parts) + "\n"

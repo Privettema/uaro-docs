@@ -13,7 +13,7 @@ This guide will contain basic information on how to have a good start at uaRO. I
 ## 🛠️ Important uaRO Features  
 
 ### Autoloot
-An important feature to know about is `@autoloot`, which is configured with `@lootconfig`. If you want to know more about how to configure it, look in the **[commands list](Commands.md)**. This feature really boosts the farming ability and efficiency of ranged and or AoE based classes a lot: After killing a target, they do not need to close the distance to collect the loot. This is 1-4 seconds less time to spend after killing.
+An important feature to know about is `@autoloot`, which is configured with `@lootconfig`. If you want to know more about how to configure it, look in the **[commands list](commands.md)**. This feature really boosts the farming ability and efficiency of ranged and or AoE based classes a lot: After killing a target, they do not need to close the distance to collect the loot. This is 1-4 seconds less time to spend after killing.
 
 
 ### Increased Sight
@@ -27,7 +27,7 @@ This allows you to use ranged skills like DS to its fullest, buffing Bow classes
 ### Rodex Mail System
 You can send items to and from everywhere for a small fee of 2.5k per item stack. So you can restock consumables and send your loot away wherever you want. You have to care less for weight limit because your solution is only a few seconds away. You can send more than one mail and open them one after the other when you want, they are stored for 14 days. You can only send tradeable items this way, not account bound ones.
 
-[Read more about the Mail System](Improvements.md#rodex-mail-system).
+[Read more about the Mail System](improvements.md#rodex-mail-system).
 
 !!! warning
      It is said that it is possible to lose the items in the mail system. If this happens, go to the Discord, and use the channel `#submit-ticket`. Do not send important or expensive items this way.
@@ -35,7 +35,7 @@ You can send items to and from everywhere for a small fee of 2.5k per item stack
 !!! note
      You can not send Great Nature this way.
 
-### ![7539](img/7539.gif) [Poring Coins (PC)](Poring_Coins_System.md)
+### ![7539](img/7539.gif) [Poring Coins (PC)](poring-coins-system.md)
 Most enemies have a 5% Chance to drop an item called Poring Coin, making high kill count valuable by itself. They have various use cases.  
 
 #### Zeny
@@ -54,7 +54,7 @@ Adds +200wt carry capacity, when redeemed to Ripped Cabus (Payon- 173,141). Up t
 0 Weight, account bound, can be used infinite amount and time. A lot of people name the IFW a “game changer”. Tho none was ever able to explain what it actually changes. You still can use normal Fly Wings from the NPC and transfer them easily with the rodex mail system. As a beginner, getting some equipment is more important than a QOL (quality of life) item.
 
 
-#### [Quest Headgears](Dimonka_Headgear_Quest.md)
+#### [Quest Headgears](dimonka-headgear-quest.md)
 There are various powerful headgears you can craft using Poring Coins, for example Rideword and Chick Hat.  
 
 
@@ -62,7 +62,7 @@ There are various powerful headgears you can craft using Poring Coins, for examp
 The item “Elemental Converter” endows your weapon with one of the four elements, fire, water, wind or earth - like Endow. Other than the item description they last for 30 minutes and are sold by players for around 5-10k. These allow you to not care for elemental weapons or arrows, except some rare use cases (or f.e. Holy).  
 
 
-### [Card Exchanger](Card_Exchange.md)
+### [Card Exchanger](card-exchange.md)
 Cards can be traded for points and exchanged for Bloody Branches or Old Card Album. So any card has at least a basic value.  
 
 
@@ -70,15 +70,15 @@ Cards can be traded for points and exchanged for Bloody Branches or Old Card Alb
 The drop chance for ![644](img/Beginner_Guide/644.gif) Gift boxes from Myst Case Card is increased, making it a good farming item - the more you kill, the better.
 
 
-### [Warper System](Warper_System.md)
+### [Warper System](warper-system.md)
 Once you finish a Dungeon access quest you can unlock a Warpra helper. This allows you to always warp there with all your characters of this account for a fee of 5k.  
  
 
-### [Inn Buffs](Improvements.md#superior-inns)
+### [Inn Buffs](improvements.md#superior-inns)
 Using an Inn costs 10k and gives you Agi Up and Blessing 10 for 10 Minutes. This is very useful if you level on maps you can access very fast, close to a town, with a warp if you are Aco Class, or with Warpra.  
 
 
-### [Sitting Regeneration](Improvements.md#increased-natural-recovery)
+### [Sitting Regeneration](improvements.md#increased-natural-recovery)
 If you sit, after 10 seconds you have a super regeneration that fills your HP / SP very fast. This values SP pool over SP regeneration at least for solo leveling. For mass parties you still want to have regeneration.  
 
 
@@ -93,7 +93,7 @@ One special use case are parties like Sleeper Parties, where everyone levels on 
 #### Idle Mechanic
 Exp and Item sharing is disabled for idle members after 60 seconds. You are idle when you don't make an input, like moving or skill usage. In order to be counted as active, you need to use a skill other than First Aid and move at least one cell.
 
-### [Repeatable EXP Quests](Repeatable_Quests.md)
+### [Repeatable EXP Quests](repeatable-quests.md)
 These are important for three reasons:
 
 - Most Exp items can be sold to players for a reasonable price, so it's a possible source of money.
@@ -277,25 +277,25 @@ This chapter focuses on leveling up to 50-60+ fast so you can become your second
 Mercenaries are a helpful tool for beginners because they offer quite some strength in early levels, but they drop off soon around level 60. That is when you can begin to stand on your own.
 
 !!! note
-    This guide focuses on using mercenaries from the start. You can start immediately with [Repeatable EXP Quests](Repeatable_Quests.md) instead if you prefer.
+    This guide focuses on using mercenaries from the start. You can start immediately with [Repeatable EXP Quests](repeatable-quests.md) instead if you prefer.
 
 ### Create Your Character
 First decide which job you want to take. Then create a new character, choose name and hair style. Start.
 
 !!! note
-     Check your hairstyle in game, it might vary. You can change your hair style and color freely [in Prontera at the Stylist](Custom_NPC.md) later on. Changing cloth color costs zeny.
+     Check your hairstyle in game, it might vary. You can change your hair style and color freely [in Prontera at the Stylist](custom-npc.md) later on. Changing cloth color costs zeny.
 
 
 ### Novice Grounds
-Start with the [Novice Grounds](Remastered_Novice_Location.md). You can collect some early zeny here and gain EXP to get to first class. If you can, save up at least 7k zeny.
+Start with the [Novice Grounds](remastered-novice-location.md). You can collect some early zeny here and gain EXP to get to first class. If you can, save up at least 7k zeny.
 
 
 ### First Class Job Change Quest
-Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job. [Read the Classes Job List](https://irowiki.org/classic/Classes) and familiarize yourself with server [class changes](Class_Changes.md).
+Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job. [Read the Classes Job List](https://irowiki.org/classic/Classes) and familiarize yourself with server [class changes](class-changes.md).
 
 
 ### Short Information about Mercenaries
-[Read about Mercenaries](Mercenary_System.md).
+[Read about Mercenaries](mercenary-system.md).
 
 Mercenaries are a helpful tool for beginners. Their cost is low and their power high compared to any low-level class without very good equipment. They can push you quickly to level 50 and higher, but then they will fall behind. You can purchase up to lvl 6 scrolls for zeny only, above you need Loyalty. I don’t go deeper into it, because it is hard to farm loyalty – you will grow too fast in levels – and you should start to be self-dependent after this.  
 
@@ -309,7 +309,7 @@ There are three types of Mercenaries:
 ### Level 15 - 35
 After your job change, talk to the Kafra and warp to Prontera. We have 2 things to do there:
 
-1. Enter the [Main Office](Main_Office.md) (south-west from prontera fountain; left to where you spawn) and talk to the Platinum Skill NPC. You will receive the Quest Skills without further quest. For example: As a Thief, you want Back Slide and as Merchant you want Cart Revolution.
+1. Enter the [Main Office](main-office.md) (south-west from prontera fountain; left to where you spawn) and talk to the Platinum Skill NPC. You will receive the Quest Skills without further quest. For example: As a Thief, you want Back Slide and as Merchant you want Cart Revolution.
 2. Go to the north-west corner of Prontera and talk to the Mercenary Manager.
 
 !!! Hint
@@ -372,7 +372,7 @@ Either you go on for another round of Wolves to gather some Strawberries or you 
 
 It’s suggested to buy some Meat with your Merchant. It is heavy but the best item in terms of zeny to health ratio.
 
-You can go to Morroc and move to `/navi moc_fild17 208/346`, killing Hodes, but watch out for Frilldoras. Don’t forget to take the [Repeatable EXP Quest](Repeatable_Quests.md).
+You can go to Morroc and move to `/navi moc_fild17 208/346`, killing Hodes, but watch out for Frilldoras. Don’t forget to take the [Repeatable EXP Quest](repeatable-quests.md).
 
 Ideas for alternative leveling spots:  
 
@@ -415,7 +415,7 @@ You will always find a buying shop somewhere. Wolf and Choco drop them, both can
 
 
 ### Repeatable EXP Quest items 
-Earthworm Peeling (Hode), Anolian Skin (Alligator) usually sell well to players. Sharp Leaf and Huge Leaf (early Les, [Finding The Moving Island Quest](https://irowiki.org/classic/Finding_The_Moving_Island_Quest), later Pinguicula [Onward to the New World Quest](https://irowiki.org/classic/Onward_to_the_New_World_Quest), see also [El Dicastes](El_Dicastes.md) ) can be sold as well, and they offer good EXP as well.
+Earthworm Peeling (Hode), Anolian Skin (Alligator) usually sell well to players. Sharp Leaf and Huge Leaf (early Les, [Finding The Moving Island Quest](https://irowiki.org/classic/Finding_The_Moving_Island_Quest), later Pinguicula [Onward to the New World Quest](https://irowiki.org/classic/Onward_to_the_New_World_Quest), see also [El Dicastes](el-dicastes.md) ) can be sold as well, and they offer good EXP as well.
 
 !!! hint
      When you are above 90, save some zeny for your own rebirth. You will need 1,285,000z.
@@ -437,7 +437,7 @@ Sleeper drop GNs by 75%. Either sell them to players or split them yourself. The
 As soon as you have basic funds, you can make the quest, buy some GNs from players (3,250z or less) and [split them](https://irowiki.org/wiki/Ore_Downgrading). The Green Lives per GN sells for avg 4k to NPCs on a Merchant with Overcharge 10. It's a safe 20% return on investment. Here, the Utan Shaman is much less chatty!
 
 !!! note
-    When you farm for items to sell to NPC, check the [Modified Sales Prices](Modified_Sales_Prices.md), as uaRO has some adjustments to item prices.
+    When you farm for items to sell to NPC, check the [Modified Sales Prices](modified-sales-prices.md), as uaRO has some adjustments to item prices.
 
 
 ### Hill Winds 
@@ -458,12 +458,12 @@ The chats **#main**, **#trade** and **#party** can be accessed everywhere by eve
 
 ![Main-chat](img/Beginner_Guide/main-chat.png)
 
-You can easily control what channel you are on [with the command](Commands.md): `@channel`. 
+You can easily control what channel you are on [with the command](commands.md): `@channel`. 
 
 
 ### Selling and Stuff
 
-[Learn about the Vendor System](Vendor_System.md). The command `@autotrade` allows you to set up a store from a different account and play your main one:  
+[Learn about the Vendor System](vendor-system.md). The command `@autotrade` allows you to set up a store from a different account and play your main one:  
 
 - Log into your trading account  
 - Open your store  
@@ -471,11 +471,11 @@ You can easily control what channel you are on [with the command](Commands.md): 
 - You get logged out while your merchant stays in-game  
 - Log into your main (or other) account and play  
   
-To open a buying store, [you need to do a small quest](Vendor_System.md#create-a-buying-store).
+To open a buying store, [you need to do a small quest](vendor-system.md#create-a-buying-store).
 
 
 ### Navigation System and World Map  
-[Learn about the Navigation System and World Map](Navigation_System.md). 
+[Learn about the Navigation System and World Map](navigation-system.md). 
 
 
 ### Bank System
@@ -500,7 +500,7 @@ Now you can easily share items between characters of different accounts. There i
 
 ### Replay and Screenshot for Reports and Troubleshooting
 
-**[ More information about Replay and Screenshot for Reports and Troubleshooting ](FAQ.md#screenshot-for-reports-and-troubleshooting)**
+**[ More information about Replay and Screenshot for Reports and Troubleshooting ](faq.md#screenshot-for-reports-and-troubleshooting)**
 
 
 ### Settings

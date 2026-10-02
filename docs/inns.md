@@ -14,8 +14,8 @@ The appearance and naming of these NPCs may vary by town.
 | <div style="width:6rem;">NPC</div> | <div style="width:12rem;">Description</div> |
 |:---:|---|
 | ![Inn Keeper](img/NPC/inn.gif)<br>**Inn Keeper** | The Inn Keeper will allow you to rest, receive buffs, and save your location at the inn. For 10,000z you can receive full HP/SP as well as 10 minutes of Level 10 Blessing and Level 10 Increase Agility buffs. | 
-| ![Inn Tool Dealer](img/NPC/tool-dealer.gif)<br>**Tool Dealer** | Every inn has an [Enhanced Tool Dealer](Dealers.md#enhanced-tool-dealer) with supplies for your travels. | 
-| ![Hobota](img/NPC/hobota.gif)<br>**Hobota** | Hobota gives players [Hunting Missions](Hunting_Mission.md) which give experience, zeny, and Mission points to be spent on unique items. This service is a key part of the uaRO experience and regular party play. | 
+| ![Inn Tool Dealer](img/NPC/tool-dealer.gif)<br>**Tool Dealer** | Every inn has an [Enhanced Tool Dealer](dealers.md#enhanced-tool-dealer) with supplies for your travels. | 
+| ![Hobota](img/NPC/hobota.gif)<br>**Hobota** | Hobota gives players [Hunting Missions](hunting-mission.md) which give experience, zeny, and Mission points to be spent on unique items. This service is a key part of the uaRO experience and regular party play. | 
 
 
 
@@ -52,7 +52,7 @@ The appearance and naming of these NPCs may vary by town.
 
 In the New World, **Inn Attendants** provide inn services in **El Dicastes**, **Manuk** and **Splendide**.
 
-The **Midgard Expedition Camp** also has an inn, with **Hobota** for [Hunting Missions](Hunting_Mission.md)
-and an [Enhanced Tool Dealer](Dealers.md#enhanced-tool-dealer).
+The **Midgard Expedition Camp** also has an inn, with **Hobota** for [Hunting Missions](hunting-mission.md)
+and an [Enhanced Tool Dealer](dealers.md#enhanced-tool-dealer).
 
 There is currently no inn in Louyang or Umbala.

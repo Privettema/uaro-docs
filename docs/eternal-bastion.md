@@ -7,7 +7,7 @@ fight through 100 waves of escalating enemies — culminating in a randomly sele
 No gimmicks, no distractions — just pure combat and teamwork.
 
 !!! info
-    Read [Instance Guide](Instance_Guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
+    Read [Instance Guide](instance-guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
 
 ---
 

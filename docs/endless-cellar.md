@@ -6,7 +6,7 @@ It belongs to the category of *endless instances*, where parties progress throug
 This instance offers not only a challenging PvE experience, but also valuable rewards and a true test of teamwork, coordination, and endurance. The Cellar is always ready to challenge those seeking adventure in the world of **Your Dreams**.
 
 !!! info
-    Read [Instance Guide](Instance_Guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
+    Read [Instance Guide](instance-guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
 
 ---
 

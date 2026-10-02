@@ -28,7 +28,7 @@ In addition to cosmetics, Coupons and Vouchers let you change your character's n
 
 ### Voucher Redeemer
 
-Redeem these vouchers in Prontera at the [Voucher Redeemer NPC](Custom_NPC.md#style).
+Redeem these vouchers in Prontera at the [Voucher Redeemer NPC](custom-npc.md#style).
 
 - **Name Change Voucher** changes one character's name
 - **Gender Change Voucher** changes one character's gender (not available to Bard/Clown or Dancer/Gypsy)
@@ -41,11 +41,11 @@ Redeem these vouchers in Prontera at the [Voucher Redeemer NPC](Custom_NPC.md#st
 - **Falcon Coupon** unlocks 1 of 3 additional falcon appearances for Snipers
 
 Unlocks are permanent and apply to one character, not your whole account. See
-[Cart & Falcon Coupons](Cart_and_Falcon_Coupons.md) for how to redeem them and the available appearances.
+[Cart & Falcon Coupons](cart-and-falcon-coupons.md) for how to redeem them and the available appearances.
 
 ### Color Change Voucher
 
-Redeem these clothing color vouchers at the [Stylist](Custom_NPC.md#style).
+Redeem these clothing color vouchers at the [Stylist](custom-npc.md#style).
 
 - **Color Change Voucher** pays for one clothing color change
 - **Infinite Color Change Voucher** makes all clothing color changes free while it's in your inventory

@@ -9,7 +9,7 @@
 !!! warning "Remember to enable auto-feed before leaving your pet unattended!"
 
 !!! tip "Bombring Event"
-    During the [Bombring event](Auto_Events.md#bombring-event), pets hide automatically
+    During the [Bombring event](auto-events.md#bombring-event), pets hide automatically
     and are not stored to their egg.
 
 ## Feeding
@@ -141,7 +141,7 @@ To enable auto-feed:
 
 ## Taming Items
 
-The vast majority of taming items drop from monsters according to the RMS database or from ![Taming Gift Set](img/12105.gif) [**Taming Gift Set**](Taming_Gift_Set.md), but there are exceptions for our server that are described in this section:
+The vast majority of taming items drop from monsters according to the RMS database or from ![Taming Gift Set](img/12105.gif) [**Taming Gift Set**](taming-gift-set.md), but there are exceptions for our server that are described in this section:
 
 !!! note
     Taming items now check for use on a valid target before disappearing.
@@ -175,7 +175,7 @@ The vast majority of taming items drop from monsters according to the RMS databa
 |---------------------------------------------------|-----------------------------------------------|
 | ![Phreeoni Egg](img/9111.gif) Phreeoni Egg | Phreeoni with a 0.09% chance                  |
 | ![Wandering Duck Doll Egg](img/Pet_System/9125.png) Wandering Duck Doll Egg | 3 Event Token (**2025 Twilight Festival**) at "Robert" Event token NPC redemption in Main Office |
-| ![9133](img/Pet_System/9133.gif) Mutating White Knight Egg | [NPC Pascal](Old_Glast_Heim.md#npc-pascal) |
+| ![9133](img/Pet_System/9133.gif) Mutating White Knight Egg | [NPC Pascal](old-glast-heim.md#npc-pascal) |
 | ![Roween Egg](img/Pet_System/9104.gif) Roween Egg | Galion with a 0.03% chance |
 | ![Dark Priest Egg](img/Pet_System/9133.gif) Dark Priest Egg | Dark illusion with a 0.09% and Dark Lord with a 0.9% chance |
 | ![Familiar Egg](img/Pet_System/9133.gif) Familiar Egg | Dracula with a 0.45% chance |

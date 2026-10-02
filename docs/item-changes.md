@@ -10,7 +10,7 @@
 | Glorious Holy Avenger [0] | 13418 | Gives a flat +6 INT on top of its existing refine-based INT bonus | Battlegrounds Weapon Shop |
 | Glorious Jamadhar [0] | 1282 | Changed 20% defense ignore against demi-humans to be replaced with a straight +20% critical damage | Battlegrounds Weapon Shop |
 | **Modified Renewal Gear** |
-| Gigantic Lance [2] | 1490 | -10% ASPD<br>At +7, -15% after cast delay<br>At +8, -15% after cast delay<br>At +9, -15% after cast delay (up to -45%) | Conversion from +10 Trident at [Gigantic Lance Forger](Custom_NPC.md#other) |
+| Gigantic Lance [2] | 1490 | -10% ASPD<br>At +7, -15% after cast delay<br>At +8, -15% after cast delay<br>At +9, -15% after cast delay (up to -45%) | Conversion from +10 Trident at [Gigantic Lance Forger](custom-npc.md#other) |
 | Elder's Staff [2] | 26107 | Increases Healing skills effectiveness by 10%<br> MATK +15%.<br>At +7, increases Healing effectiveness by 5%<br>At +9, increases healing effectiveness by 10% (up to 25%)<br>At +10, reduces after cast delay by 15% | Conversion from a +10 Healing Staff at `/navi prt_church 20/25` |
 | Cannon Spear [1] | 1435 | Max HP +500<br>Increases damage by 4% per refine level<br>Increases Holy Cross damage by 3% per refine level | Biolabs Shop |
 | Red Ether Bag [1] | 16010 | LUK +15, INT +5, DEX +1 | Biolabs Shop |
@@ -22,12 +22,12 @@
 | Stem Whip [1] | 1984 | Increases Arrow Vulcan damage by 30%<br>At +7, increase damage of Arrow Vulcan by 10%<br>At +10, increase damage of Arrow Vulcan by 20%<br>Decreases cast time of Arrow Vulcan by 2 seconds | Biolabs Shop |
 | Noble Cross [1] | 16029 | MATK +125<br>Adds a 5% chance to cast Turn Undead (Level 6) when dealing physical attack<br> Additional 1% chance for every refine +5 or above<br>Recover 1 SP each time you hit an Undead monster<br>Recover 12 SP each time you kill and Undead monster with physical attack<br> Equippable by Champion and High Priest | Horror Toy Factory |
 | Old Parasol [3] | 13442 | +5 ATK per refine level<br> Holy element | Horror Toy Factory | 
-| Imperial Spear [1] | 1433 | Increases Shield Boomerang and Shield Charge damage by 20%, plus 1% each per refine<br>Shield Chain SP cost -20 when combined with Imperial Guard | [El Dicastes](El_Dicastes.md#gear-and-drops): One-Horned Scaraba |
-| Alca Bringer [2] | 1191 | Unbreakable<br>ASPD +1 per 2 refine levels<br>Equippable by Knight and Crusader | [El Dicastes](El_Dicastes.md#queen-scaraba): Queen Scaraba |
-| Two-Handed Chrome Metal Sword [2] | 1196 | Unbreakable<br>AGI +3<br>MAX HP -10% | [El Dicastes](El_Dicastes.md#queen-scaraba): Queen Scaraba |
+| Imperial Spear [1] | 1433 | Increases Shield Boomerang and Shield Charge damage by 20%, plus 1% each per refine<br>Shield Chain SP cost -20 when combined with Imperial Guard | [El Dicastes](el-dicastes.md#gear-and-drops): One-Horned Scaraba |
+| Alca Bringer [2] | 1191 | Unbreakable<br>ASPD +1 per 2 refine levels<br>Equippable by Knight and Crusader | [El Dicastes](el-dicastes.md#queen-scaraba): Queen Scaraba |
+| Two-Handed Chrome Metal Sword [2] | 1196 | Unbreakable<br>AGI +3<br>MAX HP -10% | [El Dicastes](el-dicastes.md#queen-scaraba): Queen Scaraba |
 
 
-[Expanded Class Weapons](Expanded-Class-Weapons.md)
+[Expanded Class Weapons](expanded-class-weapons.md)
 
 
 

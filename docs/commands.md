@@ -71,7 +71,7 @@
   The @mapexp command introduces a rotating bonus EXP zone that updates every 48 to 72 hours. During this period, selected areas grant an additional 20–30% EXP.
 
 - `@event`  
-  Join open registrations, see which event is currently running, and check the schedule of all `4` [automated events](Auto_Events.md). Replaces `@bombring` and `@dice`.
+  Join open registrations, see which event is currently running, and check the schedule of all `4` [automated events](auto-events.md). Replaces `@bombring` and `@dice`.
 
 - `@memo {<1-4>}`  
   Saves a warp point for the "Warp Portal" skill.
@@ -309,12 +309,12 @@ The `@noks` command prevents kill stealing (KS). In a party, `@nokscheck` can us
 
 ## Trade Commands
 
-Check [Vendor System](Vendor_System.md) for more information about shops.
+Check [Vendor System](vendor-system.md) for more information about shops.
 
 - `@autotrade` or `@at`  
   Allows you to continue vending offline.
   The client's **Import** function can reopen your last shop, see
-  [Vendor System](Vendor_System.md#import-your-last-shop).
+  [Vendor System](vendor-system.md#import-your-last-shop).
   
 - `@vendrecap`  
   Recap of your last vending run: shop name, when the shop opened and closed, and your total zeny earned. The **View All** option lists every item together with each individual sale - buyer name, timestamp and amount.
@@ -387,7 +387,7 @@ Get quick, accurate information about mobs and items in-game without having to s
 ## Fame Ranking Commands
 
 !!! note
-    Review UaRO changes to the fame system in [Class Changes](Class_Changes.md).
+    Review UaRO changes to the fame system in [Class Changes](class-changes.md).
 
 - `@blacksmith`  
   Show top 20 blacksmiths.
@@ -418,7 +418,7 @@ Get quick, accurate information about mobs and items in-game without having to s
 
 ### PVP Commands
 
-Learn more about the [PvP Arena](PvP_Arena.md).
+Learn more about the [PvP Arena](pvp-arena.md).
 
 - `@pvparena`
   Check the active arena for players and information.
@@ -428,7 +428,7 @@ Learn more about the [PvP Arena](PvP_Arena.md).
 
 ### Battleground Commands
 
-Learn more about [Battlegrounds](Battlegrounds.md).
+Learn more about [Battlegrounds](battlegrounds.md).
 
 - `@bg`  
   Open the Battleground menu directly.
@@ -444,7 +444,7 @@ Learn more about [Battlegrounds](Battlegrounds.md).
 
 ### King of Emperium (KoE) Commands
 
-Learn more about [King of Emperium (KoE)](King_of_Emperium_(KoE).md).
+Learn more about [King of Emperium (KoE)](king-of-emperium.md).
 
 - `@koerank`
   Opens the KoE ranking menu.
