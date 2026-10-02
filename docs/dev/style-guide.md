@@ -70,7 +70,7 @@ Use `??? note "Title"` (collapsible) for a block that's long and mostly referenc
 ## Tables
 
 - Standard Markdown pipe tables. Keep every row's cell content on one line — don't rely on trailing double-spaces for a line break; if a cell genuinely needs a forced break, use `<br>` inside it.
-- An item/monster column shows the icon and name together: `![Name](img/1234.gif) Name`. When the things a table lists (items, monsters, NPCs, skills — anything with an ID) are the subject of the table, give their IDs in their own column, last. A thing that merely appears in a cell, such as a monster listed in an item-change table, gets the inline form instead: **Poring** (`1002`) (see Names and terms).
+- An item/monster column shows the icon and name together: `![Name](img/1234.gif) Name`. When the things a table lists (items, monsters, NPCs, skills — anything with an ID) are the subject of the table, give their IDs in their own column, last. A thing that merely appears in a cell, such as a monster listed in an item-change table, gets the inline form instead, without bold: Poring (`1002`) (see Names and terms).
 - No trailing whitespace on any line, in or out of a table.
 
 ## Links
@@ -139,12 +139,12 @@ Event pages get more flavor than any other page. They are temporary, themed and 
 
 - Use the name exactly as it appears in game (item, skill, monster, NPC, map). If the in-game name is odd, use it anyway and add a note rather than "fixing" it.
 - Official game content is Title Case wherever it appears, in prose as well as headings: skills (Heal, Sharp Shooting), items (Old Card Album), monsters (Thief Bug), NPCs, maps and quests. Generic words stay lowercase ("a card", "the quest") unless they are part of the name.
-- **Bold** NPC, item and quest names on first mention in a section, and when they're the thing a step tells you to interact with. Don't bold whole sentences for emphasis.
+- **Bold** NPC, item, monster and quest names in prose (sentences and lists) on first mention in a section, and when they're the thing a step tells you to interact with. Don't bold names in table cells, and don't bold whole sentences for emphasis.
 - Commands, chat input and map addresses go in backticks: `@koerank`, `/navi prontera 130/192`. Say what a command does the first time: "Check the server time with `@time`."
 - Use `/navi <map> <x>/<y>` for locations so readers can copy it. Add plain `(x, y)` coordinates only when a page needs the number itself.
 - Write "Level", never `Lv` or `Lv.`: "Level 50+". Use "Base Level" or "Job Level" when it matters which.
 - **Item names are the exception to every wording rule on this page.** An item's in-game name is used exactly as it appears, even if it uses `Lv`, a UK spelling or unusual capitalization: "Lv10 Blessing Scroll" stays as is. The rules apply to the text around the name.
-- Give the ID of an item, monster or anything else with one the first time a page mentions it in prose, as the name followed by the ID in code, inside parentheses: **Old Card Album** (`616`), **Poring** (`1002`). Players already know these IDs, and the code style keeps the number from reading as a quantity. This is for mentions in sentences, lists and cells. When the things a table lists are the subject of the table, they get an ID column instead (see Tables).
+- Give the ID of an item, monster or anything else with one the first time a page mentions it in prose, as the name followed by the ID in code, inside parentheses: **Old Card Album** (`616`), **Poring** (`1002`). Players already know these IDs, and the code style keeps the number from reading as a quantity. This is for mentions in sentences, lists and table cells. When the things a table lists are the subject of the table, they get an ID column instead (see Tables).
 
 ### Numbers
 
