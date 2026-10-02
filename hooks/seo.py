@@ -7,6 +7,7 @@ link previews differ per page. A `description:` in a page's front matter wins; p
 Images inside the article get `loading="lazy"`, so sprite-heavy pages don't fetch every image up front. The home
 page hero is exempt, since it is above the fold.
 """
+import html
 import re
 
 MIN_LENGTH = 30
@@ -46,7 +47,7 @@ def _intro(markdown):
 
 
 def _sentence(text):
-    first = re.split(r"(?<=[.!?])\s", text, maxsplit=1)[0]
+    first = re.split(r"(?<![eE]\.[gG]\.)(?<![iI]\.[eE]\.)(?<=[.!?])\s", text, maxsplit=1)[0]
     if len(first) > MAX_LENGTH:
         first = first[:MAX_LENGTH].rsplit(" ", 1)[0].rstrip(",;:") + "…"
     return first
@@ -59,7 +60,7 @@ def on_page_markdown(markdown, page, config, files):
     if intro:
         description = _sentence(intro)
         if len(description) >= MIN_LENGTH:
-            page.meta["description"] = description
+            page.meta["description"] = html.escape(description, quote=True)
     return markdown
 
 
