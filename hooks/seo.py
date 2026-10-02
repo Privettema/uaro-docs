@@ -4,7 +4,8 @@ The description is the first sentence of the first plain paragraph under the pag
 link previews differ per page. A `description:` in a page's front matter wins; pages with no usable intro
 (patch notes, tables-first pages) keep the site-wide description.
 
-Images inside the article get `loading="lazy"`, so sprite-heavy pages don't fetch every image up front.
+Images inside the article get `loading="lazy"`, so sprite-heavy pages don't fetch every image up front. The home
+page hero is exempt, since it is above the fold.
 """
 import re
 
@@ -12,7 +13,7 @@ MIN_LENGTH = 30
 MAX_LENGTH = 160
 SKIP_PREFIXES = ("patch-notes/",)
 
-_img_tag = re.compile(r"<img\b(?![^>]*\bloading=)", re.IGNORECASE)
+_img_tag = re.compile(r"<img\b(?![^>]*\b(?:loading=|class=\"[^\"]*wiki-hero))", re.IGNORECASE)
 _article = re.compile(r"(<article\b.*?</article>)", re.DOTALL | re.IGNORECASE)
 
 
