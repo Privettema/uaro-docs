@@ -695,7 +695,7 @@ Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-deal
                 <td><img src="../img/Class_Changes/rg_plagiarism.gif" alt="">Plagiarism</td>
                 <td>Skills must be copied from another player.</td>
                 <td>
-                    <a href="custom-npc.md">Plagiarism NPC</a> allows Rogues/Stalkers to copy skills for a fee.<br>
+                    <a href="../custom-npc/">Plagiarism NPC</a> allows Rogues/Stalkers to copy skills for a fee.<br>
                     A skill you already know can be overwritten when a higher version is offered (applies to normal in-combat Plagiarism as well).<br>
                     The NPC refuses the trade while Preserve is active.
                 </td>
@@ -907,12 +907,12 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
             <tr>
                 <td><img src="../img/Class_Changes/sg_feel.gif" alt="">Feeling of the Sun, Moon, and Stars</td>
                 <td>Permanently memorize a map for bonuses for "Place of the Sun", "Place of the Moon", and/or "Place of the Stars".</td>
-                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns.md/#locations">Prontera West inn</a> to reset Feeling for a fee.</td>
+                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns/#locations">Prontera West inn</a> to reset Feeling for a fee.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/sg_hate.gif" alt="">Hatred of the Sun, Moon, and Stars</td>
                 <td>Permanently memorize a monster for bonuses for "Target of the Sun", "Target of the Moon", or "Target of the Stars".</td>
-                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns.md/#locations">Prontera West inn</a> to reset Hatred for a fee.</td>
+                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns/#locations">Prontera West inn</a> to reset Hatred for a fee.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/sj_document.gif" alt="">Miracle of the Sun, Moon, and Stars</td>
