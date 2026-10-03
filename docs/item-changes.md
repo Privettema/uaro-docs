@@ -74,7 +74,7 @@ Items, weapons and armor that work differently from the official game. See [What
 | [](){ #light-of-el-dicastes } Light of El Dicastes | 2844 | Grants Return to El Dicastes | Untradeable and unrefinable, character bound<br>Enchantable by Kareka in El Dicastes<br>Grants Return to El Dicastes |
 | Love Guard [1] | 18542 |  | Increases the effectiveness of your healing skills by 2%<br>Increases the effect of received healing by 5%<br>At +7 or higher, healing skills effectiveness +3%<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | Mage Coat | 2334 (unslotted)<br>2372 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
-| Mercury Riser [1] | 18597 |  | ASPD +3%, Critical +3<br>At +7, an additional ASPD +2% and Critical +2<br>At +9, an additional ASPD +2% and Critical +2<br><br>Acquisition: Baphomet (`1399`) at 5.1% |
+| Mercury Riser [1] | 18597 |  | Acquisition: Baphomet (`1399`) at 5.1% |
 | Mitra [1] | 5747 | MATK +10 at base INT 120 or higher<br>Required Level 100 | MATK +10 at base INT 90 or higher<br>Required Level 90 |
 | Ninja Suit | 2337 (unslotted)<br>2359 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
 | Novice Breastplate [1] | 2340 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
