@@ -195,7 +195,7 @@ Use a **Pet Incubator** while a pet is out to swap directly to another pet egg.
 
 ## Pet Stylist
 
-Talk to the **Pet Stylist** NPC, located in **Prontera (218, 224)** — directly north of the Pet Groomer — to permanently swap your pet's skin.
+Talk to the **Pet Stylist** NPC, located in **Prontera** `/navi prontera 218/224` — directly north of the Pet Groomer — to permanently swap your pet's skin.
 
 !!! info "How It Works"
     - Requires a fully **loyal** pet.

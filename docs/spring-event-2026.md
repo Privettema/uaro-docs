@@ -42,11 +42,11 @@ The Spring Festival offers five activities across the event period.
 <!-- Recommended: 800x450px webp - Ranger Lettie NPC or field with Eggrings/Creamrings -->
 ![Daily Hunt - Spring Patrol](img/spring_daily_hunt.webp){ .wiki-screenshot }
 
-Talk to **Ranger Lettie** in **Prontera** (141, 96).
+Talk to **Ranger Lettie** in **Prontera** `/navi prontera 141/96`.
 
 - Hunt `20` **Eggrings** and `15` **Creamrings** on any field map
 - Return to Ranger Lettie to collect <img src="../img/7869.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Ingredient Pouches**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flowers**, and <img src="../img/103430.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Butter Cookies**
-- Visit **Rosemary** nearby (138, 94) to trade cooking ingredients for scrolls and more <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flowers**
+- Visit **Rosemary** nearby `/navi prontera 138/94` to trade cooking ingredients for scrolls and more <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flowers**
 
 ---
 
@@ -55,7 +55,7 @@ Talk to **Ranger Lettie** in **Prontera** (141, 96).
 <!-- Recommended: 800x450px webp - Grandma April NPC or quest dialogue -->
 ![The Dusty Cookbook](img/spring_dusty_cookbook.webp){ .wiki-screenshot }
 
-Talk to **Grandma April** in **Prontera** (102, 231). A 7-day questline - one chapter per
+Talk to **Grandma April** in **Prontera** `/navi prontera 102/231`. A 7-day questline - one chapter per
 day - that sends you across Rune-Midgarts to restore her late husband's cookbook.
 
 | Day | NPC Location | Key Rewards |
@@ -79,7 +79,7 @@ day - that sends you across Rune-Midgarts to restore her late husband's cookbook
 <!-- Recommended: 800x450px webp - Cooking instance interior or minigame in action -->
 ![Cooking Instance](img/spring_cooking_instance.webp){ .wiki-screenshot }
 
-Talk to **Grandma Blossom** in **Geffen** (126, 102). A fast-paced `2`-player co-op
+Talk to **Grandma Blossom** in **Geffen** `/navi geffen 126/102`. A fast-paced `2`-player co-op
 cooking minigame.
 
 | Rule | Detail |
@@ -134,9 +134,9 @@ A traveling merchant appears in **one random town** for `2-3` hours, then vanish
 | Geffen | `/navi geffen 126/70` |
 | Payon | `/navi payon 187/127` |
 | Alberta | `/navi alberta 102/75` |
-| Izlude | `106, 113` |
-| Aldebaran | `146, 113` |
-| Comodo | `226, 150` |
+| Izlude | `/navi izlude 106/113` |
+| Aldebaran | `/navi aldebaran 146/113` |
+| Comodo | `/navi comodo 226/150` |
 
 | Item | Price (<img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flowers**) |
 |------|------------------------|

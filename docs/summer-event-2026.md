@@ -71,7 +71,7 @@ they all reward the same coins.
 
 ![Daily Supply Run](img/summer_supply_run.webp){ .wiki-screenshot }
 
-Talk to **Admiral Jack** in **Alberta** (148, 66).
+Talk to **Admiral Jack** in **Alberta** `/navi alberta 148/66`.
 
 Each day Admiral Jack asks you to gather a short list of items from a specific region's
 field monsters. Bring them back for coins.
@@ -201,7 +201,7 @@ account** for each.
 
 ### Furious Phreeoni
 
-Talk to the **Morroc Soldier** on **moc_fild12** (161, 232).
+Talk to the **Morroc Soldier** on `/navi moc_fild12 161/232`.
 
 Rally a **party** to enter the Furious Phreeoni instance and defend Morroc as the boss
 summons Sandman waves.
@@ -234,9 +234,9 @@ His **stock rotates**, and he trades only in **Summer Festival Coins**.
     | Geffen | `/navi geffen 126/70` |
     | Payon | `/navi payon 187/127` |
     | Alberta | `/navi alberta 102/75` |
-    | Izlude | `106, 113` |
-    | Aldebaran | `146, 113` |
-    | Comodo | `226, 150` |
+    | Izlude | `/navi izlude 106/113` |
+    | Aldebaran | `/navi aldebaran 146/113` |
+    | Comodo | `/navi comodo 226/150` |
 
 === "Shop Stock"
 

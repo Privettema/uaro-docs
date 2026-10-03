@@ -122,7 +122,7 @@
 
 === "Dungeon F1"
 
-    **Levels:** 77-85 | **Entry:** free from `nif_fild01` | **Exit:** portal at (146,83) | **Best for:** Normal
+    **Levels:** 77-85 | **Entry:** free from `nif_fild01` | **Exit:** portal at `/navi nif_dun01 146/83` | **Best for:** Normal
     dailies and balanced farming. Skelion, Garling and Jakk also spawn here.
 
     **Spawns:** ~60-70 total | **Entry:** Free
@@ -142,8 +142,8 @@
 
     **Levels:** 108-115 | **Best for:** Hard dailies and high-level farming
 
-    **Entry:** Portal Keepers in F1 at (134,33) and (157,33), for `25,000` Zeny | **Exit:** portals at
-    (137,14) and (162,14). All F1 monsters also spawn here.
+    **Entry:** Portal Keepers in F1 at `/navi nif_dun01 134/33` and `/navi nif_dun01 157/33`, for `25,000` Zeny | **Exit:** portals at
+    `/navi nif_dun02 137/14` and `/navi nif_dun02 162/14`. All F1 monsters also spawn here.
 
     !!! warning "Boss zones"
         Concentrated spawns with 30-40 minute respawn timers. High-value targets for experienced parties.
@@ -257,7 +257,7 @@
 | Event Wizard | `/navi nif_fild01 233/227` | Daily quests |
 | Old Sage of Bones | `/navi alberta 218/30` | Scatelon pet |
 | Costume Crafter | `/navi niflheim 180/202` | Costumes |
-| Portal Keepers | Dungeon F1, (134,33) and (157,33) | F2 entrance, `25,000` Zeny |
+| Portal Keepers | Dungeon F1, `/navi nif_dun01 134/33` and `/navi nif_dun01 157/33` | F2 entrance, `25,000` Zeny |
 | Gacha Machines | `/navi niflheim 213/187`, `/navi prontera 218/195`, `/navi alberta 130/60` | Gacha spins |
 | Mysterious Cat | `/navi alberta 220/30` | A fun easter egg |
 
