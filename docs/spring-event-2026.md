@@ -129,11 +129,11 @@ A traveling merchant appears in **one random town** for `2-3` hours, then vanish
 
 | Town | Coordinates |
 |------|-------------|
-| Prontera | `146, 99` |
-| Morocc | `149, 99` |
-| Geffen | `126, 70` |
-| Payon | `187, 127` |
-| Alberta | `102, 75` |
+| Prontera | `/navi prontera 146/99` |
+| Morocc | `/navi morocc 149/99` |
+| Geffen | `/navi geffen 126/70` |
+| Payon | `/navi payon 187/127` |
+| Alberta | `/navi alberta 102/75` |
 | Izlude | `106, 113` |
 | Aldebaran | `146, 113` |
 | Comodo | `226, 150` |
