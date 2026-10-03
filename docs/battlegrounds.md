@@ -2,7 +2,7 @@
 
 Battlegrounds (BG) are team-based PvP matches where two teams compete to complete objectives and earn **Valor Badges**.
 
-Join Battlegrounds from the **Battlegrounds NPC** in Prontera: `/navi prontera 163, 171`.
+Join Battlegrounds from the **Battlegrounds NPC** in Prontera: `/navi prontera 163/171`.
 
 * Check the NPC to see the **currently active BG**, join a match, or browse the **BG Shop**.
 * You can also use `@bg` to join the BG queue from anywhere.
