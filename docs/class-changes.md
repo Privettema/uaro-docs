@@ -366,7 +366,7 @@ Status effects that behave differently from the official game.
             <tr>
                 <td>Fame System</td>
                 <td>Fame points earned are kept permanently. A weapon created by ranked blacksmith will deal an extra +10 seeking damage, which pierces defense and never misses. Ranking can be checked in-game with <code>@blacksmith</code>.</td>
-                <td>Fame points decay by 10% per month, to support better game balance.</td>
+                <td>Fame points decay by 5% per month, to support better game balance.</td>
             </tr>
              <tr>
                 <td>Forging System</td>
@@ -435,7 +435,7 @@ Medicine Bowls can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-d
             <tr>
                 <td>Fame System</td>
                 <td>Fame points earned are kept permanently. Potions made by the 10 top ranked alchemists will receive a 50% bonus to their potency. Rankings can be checked with <code>@alchemist</code> in game.</td>
-                <td>Fame points decay by 5% per mo                 nth, to support better game balance.</td>
+                <td>Fame points decay by 5% per month, to support better game balance.</td>
             </tr>
              <tr>
                 <td><img src="../img/Class_Changes/am_cannibalize.gif" alt="">Bio Cannibalize</td>
@@ -877,7 +877,7 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
             <tr>
                 <td>Fame System</td>
                 <td>Fame points earned are kept permanently. The top 10 ranked taekwon players are able to perform infinite combos and receive tripled Maximum HP and SP at level 90. Fame points are ignored if player changes job to Star Gladiator. Rankings can be checked with <code>@taekwon</code> in game.</td>
-                <td>Fame points decay by 10% per month, to support better game balance.</td>
+                <td>Fame points decay by 5% per month, to support better game balance.</td>
             </tr>
              <tr>
                 <td><img src="../img/Class_Changes/tk_mission.gif" alt="">Taekwon Mission</td>
