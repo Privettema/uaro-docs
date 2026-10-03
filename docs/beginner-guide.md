@@ -129,7 +129,7 @@ This site is a big database for items, monsters, skills and quests. Most of thes
 This is the best calculator I know, and generally fits to uaRO with some exceptions. If you want to compare equipment, builds and ideas, this is your way to go. 
 
 
-### [Skillsim](https://skillsim.irowiki.org)
+### [Skillsim](https://skills.irowiki.org)
 You can plan your skill tree at this site. Please note that it has a renewal skill tree, but they are mostly correct pre renewal as well. The only known change is: Lord Knight needs Spear Mastery 10 (instead of 5) for Spiral Pierce.  
 
 
