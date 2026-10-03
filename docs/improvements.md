@@ -116,6 +116,25 @@ To improve large-quantity purchases, the following system has been implemented:
   
 ![Fast Regen](img/bulk_img.webp)
 
+## Item Sale and Drop Protection
+
+To prevent accidental loss, the following items can no longer be sold to NPCs or dropped. Protected items do not show as an option in the NPC sell window.
+
+- Costumes, pet eggs and cards, including equipment that has a card inserted
+- Items refined to +4 or higher
+- A manually added list of variant shoes, Priest Battlegrounds weapons, Dimonka mid and lower headgear, non-refinable upper headgear, evil and angel wing ears, Blood Sucker, Angel Spirit, Robo Eyes and other miscellaneous lower and mid headgear
+
+## Food Buff Stacking
+
+Foods that give the same stat (for example STR) can be active at the same time.
+
+- Both buffs are applied, but only the higher one is in effect. When it wears off, the lower one takes effect immediately for its remaining time.
+- Using a higher tier food than the one currently active ends the lower one, and the new food starts at its full duration.
+- Food buff status icons show the level that is currently active.
+
+!!! note "Differs from the Official Game"
+    Officially, a normal food replaces another food of the same stat, even if the new one is weaker. Only cash shop food and normal food compare levels, and the lower level is rejected.
+
 <!--- TODO: Find a home for all the info about our large selection of costumes / cosmetics.
 
 ## Cosmetic Flair
