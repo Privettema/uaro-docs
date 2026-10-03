@@ -27,38 +27,14 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
 ## Status Effects
 Status effects that behave differently from the official game.
 
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Buff Duration</td>
-                <td>Song buffs end as soon a player exits the song area.</td>
-                <td>Song buff will continue for 20 seconds after leaving the song area.</td>
-            </tr>
-            <tr>
-                <td>Buff Icons</td>
-                <td>N/A</td>
-                <td>Song buff icons are added and with other player buffs.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/i_divestarmor.png" alt="" width="24">Full Strip</td>
-                <td>Not removed when the character dies.</td>
-                <td>Removed on death.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/dc_dontforgetme.png" alt="" width="24">Please Don't Forget Me</td>
-                <td>Not removed when the character dies.</td>
-                <td>Removed on death.</td>
-            </tr>
-        </tbody>
-    </table>
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Buff Duration | Song buffs end as soon as a player exits the song area. | Song buff will continue for 20 seconds after leaving the song area. |
+| Buff Icons | N/A | Song buff icons are added with the other player buffs. |
+| <img src="../img/Class_Changes/dc_dontforgetme.png" alt="" width="24">Please Don't Forget Me | Not removed on death. | Removed on death. |
+
 </div>
 
 
