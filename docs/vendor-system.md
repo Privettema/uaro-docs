@@ -123,7 +123,7 @@ the name. If nobody is buying the item, the command replies "No one is currently
 ### Use trade channel
 In the game, you can write in the `#trade` channel what you need to sell. You might say `S> Gold` and list an amount and price.
 
-![Trade Channel](img/Vendor_System/trade-channel-buy.png)
+![Trade Channel](img/Vendor_System/trade-channel-sell.png)
 
 
 ### Use Discord
