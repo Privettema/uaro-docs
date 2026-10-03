@@ -44,48 +44,15 @@ Status effects that behave differently from the official game.
 ## Swordsman
 
 ### Knight / Lord Knight
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="../img/Class_Changes/lk_berserk.png" alt="">Berserk</td>
-                <td>
-                    No items can be used while Berserked.<br>
-                    Chat is blocked while Berserked.<br>
-                    Red body tint while active.
-                </td>
-                <td>
-                    Fly Wing, Novice Fly Wing, and Infinite Fly Wing can be used while Berserked (all other items remain blocked).<br>
-                    You can chat while Berserked.<br>
-                    If Concentration is active when you cast Berserk, it is refreshed and extended to 2.6x its normal duration (Lv5: 45s to 117s); Concentration ends when Berserk ends.<br>
-                    The red body tint is replaced with an aura effect and a cast sound (the aura can be hidden via the Status Color Effect setting).
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/kn_bowlingbash.gif" alt="">Bowling Bash</td>
-                <td>
-                    Knockback distance of 1 cell.<br>
-                    Skill range of 1 cell.
-                </td>
-                <td>
-                    Knockback distance of 2 cells.<br>
-                    Skill range increased to 2 cells. (It's whole AoE.)
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/kn_brandishspear.gif" alt="">Brandish Spear</td>
-                <td>Knockback distance of 2 cells.</td>
-                <td>Knockback decreased to 1 cell.</td>
-            </tr>
-        </tbody>
-    </table>
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| <img src="../img/Class_Changes/lk_berserk.png" alt="">Berserk | No items can be used while Berserked.<br>Chat is blocked while Berserked.<br>Red body tint while active. | Fly Wing, Novice Fly Wing, and Infinite Fly Wing can be used while Berserked (all other items remain blocked).<br>You can chat while Berserked.<br>If Concentration is active when you cast Berserk, it is refreshed and extended to 2.6x its normal duration (Level 5: 45s to 117s). Concentration ends when Berserk ends.<br>The red body tint is replaced with an aura effect and a cast sound (the aura can be hidden via the Status Color Effect setting). |
+| <img src="../img/Class_Changes/kn_bowlingbash.gif" alt="">Bowling Bash | Knockback distance of 1 cell. | Knockback distance of 2 cells.<br>Skill range increased to 2 cells. |
+| <img src="../img/Class_Changes/kn_brandishspear.gif" alt="">Brandish Spear | Knockback distance of 3 cells. | Knockback decreased to 1 cell. |
+
 </div>
 
 
