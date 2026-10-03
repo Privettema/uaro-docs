@@ -83,6 +83,8 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 | **Ninja Ammo Balance** | Cost and weight rebalanced for fairer gameplay. |
 | **Increased weight limit for rebirth** | Increased weight limit from 0 to 500. |
 | **On-Kill Drop Bonuses** | The 10 item cap on drop-on-kill items and cards is lifted. Duplicates of the same card or equipment still do not stack, only the highest chance applies. |
+| **Item Protection** | Costumes, pet eggs, cards, carded equipment, items refined to +4 or higher and some headgear can no longer be sold to NPCs or dropped. |
+| **Food Buff Stacking** | Foods of the same stat stack: the higher one is in effect and the lower one resumes when it ends. A higher tier food ends the lower one and starts at full duration. |
 
 
 ### Guild Refinements
@@ -115,25 +117,6 @@ To improve large-quantity purchases, the following system has been implemented:
 - A maximum of **10 stacks (30,000 each)** of the same item can exist in storage at any given time
   
 ![Fast Regen](img/bulk_img.webp)
-
-## Item Sale and Drop Protection
-
-To prevent accidental loss, the following items can no longer be sold to NPCs or dropped. Protected items do not show as an option in the NPC sell window.
-
-- Costumes, pet eggs and cards, including equipment that has a card inserted
-- Items refined to +4 or higher
-- A manually added list of variant shoes, Priest Battlegrounds weapons, Dimonka mid and lower headgear, non-refinable upper headgear, evil and angel wing ears, Blood Sucker, Angel Spirit, Robo Eyes and other miscellaneous lower and mid headgear
-
-## Food Buff Stacking
-
-Foods that give the same stat (for example STR) can be active at the same time.
-
-- Both buffs are applied, but only the higher one is in effect. When it wears off, the lower one takes effect immediately for its remaining time.
-- Using a higher tier food than the one currently active ends the lower one, and the new food starts at its full duration.
-- Food buff status icons show the level that is currently active.
-
-!!! note "Differs from the Official Game"
-    Officially, a normal food replaces another food of the same stat, even if the new one is weaker. Only cash shop food and normal food compare levels, and the lower level is rejected.
 
 <!--- TODO: Find a home for all the info about our large selection of costumes / cosmetics.
 
