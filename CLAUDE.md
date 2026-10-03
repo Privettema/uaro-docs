@@ -77,6 +77,10 @@ Content pages carry one tag (see `docs/whats-different.md`): **Changed** (offici
   pre-re version it is the renewal value (Hercules `db/re`, then rAthena) and the row says so.
 - Items that uaRO added also go in `item-changes.md`, with a blank Original and no tag. `whats-different.md` lists the areas and
   instances that uaRO added, by episode. Unchanged cards from renewal monsters belong on the page for the area where they drop.
+- **Quality of Life** (`improvements.md`) is for game-wide rules and mechanics that are not about one item, skill, monster or map:
+  inventory and trade rules, buff stacking, teleport behavior, storage limits. Add a one-line row to the Optimized Mechanics
+  table (or the section that fits); longer features get their own page. A change to one item goes in `item-changes.md`, one
+  skill in `class-changes.md`.
 - **Content pages** (`biolab4.md`, `el-dicastes.md`, `horror-toy-factory.md`, ...) say how to get things. Put an item's stats in `item-changes.md` once and
   link to its row (anchor `<a id="..."></a>`); do not copy the stats onto the content page.
 - Add the content-type line (`**Content type:** [Renewal](whats-different.md#content-tags)`) under the title of each content page.

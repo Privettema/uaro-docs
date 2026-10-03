@@ -19,6 +19,7 @@ uaRO is built on the pre-renewal game, with changes to existing content and some
 | How a monster's stats or drops differ | [Monster Changes](monster-changes.md) |
 | How a map's layout or spawns differ | [Map Changes](map-changes.md) |
 | How a quest differs | [Quest Changes](quest-changes.md) |
+| Which game-wide rules and mechanics differ | [Quality of Life](improvements.md) |
 | Which sell prices are lower | [Modified Sales Prices](modified-sales-prices.md) |
 | What areas and instances were added | [Areas and Instances](#areas-and-instances) |
 | Which I can buy with Poring Coins | [Poring Coins System](poring-coins-system.md#exchange) |
