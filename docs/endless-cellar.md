@@ -27,7 +27,7 @@ This instance offers not only a challenging PvE experience, but also valuable re
 ![EC-Captain-Janssen](img/EC-Captain-Janssen.png)<br>
 
 To get to the instance starting point, talk to **Captain Janssen** in Prontera  
-(**/navi prontera 217/187**). Speak with him multiple times to initiate the journey.
+(`/navi prontera 217/187`). Speak with him multiple times to initiate the journey.
 
 !!! info 
     Once you unlock the Warp Helper on the island, you can use Warpra for no cost to get to Misty Island.

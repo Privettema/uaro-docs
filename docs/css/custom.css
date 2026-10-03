@@ -140,3 +140,44 @@
     margin-right: 0.375rem; /* 6px */
 }
 
+
+/* Click-to-copy inline code (docs/js/copy.js) */
+code.copyable {
+    cursor: pointer;
+    transition: background-color 0.15s, box-shadow 0.15s;
+}
+
+code.copyable:hover,
+code.copyable:focus-visible {
+    background-color: var(--md-accent-fg-color--transparent);
+    box-shadow: 0 0 0 0.125rem var(--md-accent-fg-color); /* 2px */
+}
+
+code.copyable:focus-visible {
+    outline: none;
+}
+
+.copy-tip {
+    position: absolute;
+    z-index: 10;
+    padding: 0.25rem 0.5rem; /* 4px 8px */
+    border-radius: 0.25rem; /* 4px */
+    background: var(--md-default-fg-color);
+    color: var(--md-default-bg-color);
+    font-size: 0.75rem; /* 12px */
+    pointer-events: none;
+    opacity: 0;
+    transform: translate(-50%, calc(-100% - 0.25rem));
+    transition: opacity 0.15s;
+}
+
+.copy-tip--visible {
+    opacity: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    code.copyable,
+    .copy-tip {
+        transition: none;
+    }
+}
