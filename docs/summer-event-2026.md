@@ -115,7 +115,7 @@ There are `8` tasks. Finish all eight to earn the title of **Summer Hero**.
 | Hungry Cats | Yen the Explorer `/navi morocc 57/136` | Feed `3` Stray Cats nearby |
 | A Little Errand | Little Girl `/navi morocc 113/92` | Buy some juice for `300z` |
 | Old Man's Project | Old Grandpa `/navi morocc 273/237` | Hand over `24` <img src="../img/916.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feather of Birds + `24` <img src="../img/907.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Resin |
-| The Sisters' Tale | Elira / Mavelle / Sariyah `/navi morocc 204/286` | Hear out their full story |
+| The Sisters' Tale | Elira / Mavelle / Sariyah `/navi morocc 204/286` (area spans `204-209, 286-288`) | Hear out their full story |
 | Peco Problem | Desert Guard `/navi morocc 177/39` | Defeat `15` Peco Peco Eggs |
 | Summer Trivia | Scholar `/navi morocc 133/268` | Answer a `10`-question quiz |
 | Special Delivery | Spice Merchant `/navi morocc 90/33` | Deliver a package to Izlude `/navi izlude 94/136` and report back |
