@@ -6,58 +6,18 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
 <!-- Dev Note: Alt text is excluded from images because it would announce duplicate skill names to screen readers. Instead, use blank alt="" for the decorative image to be skipped by assistive technology. -->
 
 ## General / Shared
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Minimum Skill Delay</td>
-                <td>Minimum delay between skills is 200 ms.</td>
-                <td>Reduced to 100 ms.</td>
-            </tr>
-            <tr>
-                <td>Party Buff Animations</td>
-                <td>Buffs cast by party members play their full animation delay on every recipient.</td>
-                <td>Animation delay removed for party members - the buff lands instantly with just the effect and a floating skill name over their head. The caster still sees the full animation.<br>Covers Angelus, Magnificat, Gloria, Wind Walk, Adrenaline Rush, Full Adrenaline Rush, Weapon Perfection, Over Thrust, Help Angel and the Cash Shop Blessing, Increase AGI and Assumptio.</td>
-            </tr>
-            <tr>
-                <td>Reflected Damage: Amount</td>
-                <td>When a reflection skill or behavior activates, it reflects the amount of damage listed, ie 50%.</td>
-                <td>The amount of damage reflected cannot be greater than the amount of HP the user of the skill has.</td>
-            </tr>
-            <tr>
-                <td>Reflected Damage: Safety Wall</td>
-                <td>Players inside can reflect damage via skill or behavior.</td>
-                <td>Players inside <strong>can not</strong> any reflect damage.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/skill_270.png" alt="">Fury / Critical Explosion</td>
-                <td>Natural SP recovery is disabled while in Fury.</td>
-                <td>
-                    Natural HP and SP recovery work while in Fury.<br>
-                    Does not apply to Monk or Champion. Other characters, such as those who get Fury from an item,
-                    can take advantage of it.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/al_teleport.gif" alt="">Teleport</td>
-                <td>You can teleport to a random spot on the same map. </td>
-                <td>Adjusted to prevent players from landing on a map portal.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/al_warp.gif" alt="">Warp Portal</td>
-                <td>Cannot be used in GvG maps or Battleground maps.</td>
-                <td>Additionally cannot be used on MVP maps.</td>
-            </tr>
-        </tbody>
-    </table>
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Party Buff Animations | Buffs from party members play their full animation delay on every recipient. | Delay removed for party members, so the buff lands instantly with the effect and a floating skill name. The caster still sees the full animation.<br>Covers Angelus, Magnificat, Gloria, Wind Walk, Adrenaline Rush, Full Adrenaline Rush, Weapon Perfection, Over Thrust, Help Angel, and the Blessing, Increase AGI and Assumptio scrolls. |
+| Reflected Damage | Reflects the listed percentage of damage taken. | Reflected damage cannot exceed the HP of the skill's user. |
+| Safety Wall | Players inside can reflect damage. | Players inside cannot reflect damage. |
+| <img src="../img/skill_270.png" alt="">Fury / Critical Explosion | Natural SP recovery is disabled while in Fury. | Natural HP and SP recovery work while in Fury.<br>Does not apply to Monk or Champion. Other characters, such as those who get Fury from an item, can use it. |
+| <img src="../img/Class_Changes/al_teleport.gif" alt="">Teleport | Teleports to a random spot on the same map. | Cannot land on a map portal. |
+| <img src="../img/Class_Changes/al_warp.gif" alt="">Warp Portal | Cannot be used in GvG maps or Battleground maps. | Also cannot be used on MVP maps. |
+
 </div>
 
 
