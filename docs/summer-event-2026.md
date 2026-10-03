@@ -111,14 +111,14 @@ There are `8` tasks. Finish all eight to earn the title of **Summer Hero**.
 
 | Task | NPC - Location | What to do |
 |------|----------------|------------|
-| Furious Mummies | Volunteer Researcher `60, 287` | Defeat `6` Furious Mummies |
-| Hungry Cats | Yen the Explorer `57, 136` | Feed `3` Stray Cats nearby |
-| A Little Errand | Little Girl `113, 92` | Buy some juice for `300z` |
-| Old Man's Project | Old Grandpa `273, 237` | Hand over `24` <img src="../img/916.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feather of Birds + `24` <img src="../img/907.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Resin |
-| The Sisters' Tale | Elira / Mavelle / Sariyah `204-209, 286-288` | Hear out their full story |
-| Peco Problem | Desert Guard `177, 39` | Defeat `15` Peco Peco Eggs |
-| Summer Trivia | Scholar `133, 268` | Answer a `10`-question quiz |
-| Special Delivery | Spice Merchant `90, 33` | Deliver a package to Izlude `94, 136` and report back |
+| Furious Mummies | Volunteer Researcher `/navi morocc 60/287` | Defeat `6` Furious Mummies |
+| Hungry Cats | Yen the Explorer `/navi morocc 57/136` | Feed `3` Stray Cats nearby |
+| A Little Errand | Little Girl `/navi morocc 113/92` | Buy some juice for `300z` |
+| Old Man's Project | Old Grandpa `/navi morocc 273/237` | Hand over `24` <img src="../img/916.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feather of Birds + `24` <img src="../img/907.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Resin |
+| The Sisters' Tale | Elira / Mavelle / Sariyah `/navi morocc 204/286` | Hear out their full story |
+| Peco Problem | Desert Guard `/navi morocc 177/39` | Defeat `15` Peco Peco Eggs |
+| Summer Trivia | Scholar `/navi morocc 133/268` | Answer a `10`-question quiz |
+| Special Delivery | Spice Merchant `/navi morocc 90/33` | Deliver a package to Izlude `/navi izlude 94/136` and report back |
 
 !!! tip "One at a Time"
     Finish one task before picking up the next.
@@ -267,7 +267,7 @@ His **stock rotates**, and he trades only in **Summer Festival Coins**.
 | Mob | Where | Notes |
 |-----|-------|-------|
 | **Sunring** | Prontera, Geffen, Morroc, Payon, Einbroch & Juno fields | Beat the Heat community mob - every kill feeds the server-wide goal |
-| **Furious Mummy** | Near the Volunteer Researcher, Morroc `60, 287` | Summer Hero task target |
+| **Furious Mummy** | Near the Volunteer Researcher, Morroc `/navi morocc 60/287` | Summer Hero task target |
 | **Furious Phreeoni** | Furious Phreeoni instance (party boss) | Weekly desert-defense boss - summons Sandman reinforcements |
 
 ---
