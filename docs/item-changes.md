@@ -106,7 +106,7 @@ Items, weapons and armor that work differently from the official game. See [What
 |-|-|-|-|
 | Bubble Gum | 12210 | Cash shop item | [Poring Coin shop](poring-coins-system.md#consumable-items): 1,000 Poring Coins<br>[Attendance reward](attendance-system.md) on login day 20 |
 | Convex Mirror | 12214 | No cooldown | 60 minute cooldown |
-| Cursed Water | 12020 | Acquired individually from NPC<br>Dropped by mobs | Bulk conversion at Niff Fountain: choose Singular or All, based on your empty bottles. Includes a weight check |
+| Cursed Water | 12020 | Acquired individually from NPC<br>Dropped by mobs | Bulk conversion at Niff Fountain, reached through the sign quest at `/navi niflheim 146/241`: choose Singular or All, based on your empty bottles. Includes a weight check |
 | Fantastic Cooking Kit | 12129 | Consumed when used | Not consumed until a craft is attempted |
 | Field Manual 100% | 14533 | Cash shop item | [Poring Coin shop](poring-coins-system.md#consumable-items): 40 Poring Coins<br>[Attendance reward](attendance-system.md) on login day 10<br>Cannot be sold to NPCs or moved to the cart |
 | Fly Wing | 601 | Cannot be used while Berserked | Can be used while Berserked |
