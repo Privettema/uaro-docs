@@ -32,7 +32,7 @@ Status effects that behave differently from the official game.
 | Skill | Original | uaRO Changes |
 |-|-|-|
 | Buff Duration | Song buffs end as soon as a player exits the song area. | Song buff will continue for 20 seconds after leaving the song area. |
-| Buff Icons | N/A | Song buff icons are added with the other player buffs. |
+| Buff Icons | No status icon. | Song buff icons are added with the other player buffs. |
 | <img src="../img/Class_Changes/dc_dontforgetme.png" alt="" width="24">Please Don't Forget Me | Not removed on death. | Removed on death. |
 
 </div>
