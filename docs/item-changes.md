@@ -45,11 +45,11 @@ Items, weapons and armor that work differently from the official game. See [What
 | Advanced Assassin Mask | 18774 | Equippable by Priest and Assassin<br>Critical +1<br>Increases Critical Damage by 1% | Usable by all jobs |
 | Alchemy Glove [1] | 2854 | INT +1<br>Fire property magic damage +10% | INT +2<br>Fire property magic damage +15% |
 | Angel Spirit | 5389 | Not dropped by any monster | Added as a rare drop from Valkyrie Randgris (`1751`) MVP at 2.25% |
-| Angelic Protection [1] | 2355 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
+| Angelic Protection [1] | 2355 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | [](){ #assassins-handcuffs } Assassin's Handcuffs [1] | 2892 | MAX SP +20<br>CRIT +3 | MAX HP +500<br> CRIT +8<br> CRIT DMG +10%<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | [](){ #bible-of-promise } Bible of Promise [1] | 2162 | Required Level 140<br>Equippable by Arch Bishop (3rd job)<br>MDEF +5<br>Enables Odin's Power Level 2<br>Increases healing effectiveness by 5% | Required Level 90<br>High Priest only<br>MDEF +5<br>INT +2<br>Increases healing effectiveness by 5%<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | Blood Sucker | 18754 | Unbreakable | Adds 1% chance of absorbing 3% physical damage inflected on target as HP<br> Disables natural HP and SP recovery |
-| [](){ #bone-plate } Bone Plate [1] | 15000 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
+| [](){ #bone-plate } Bone Plate [1] | 15000 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | Bradium Brooch[1] | 2790 | Not dropped by any monster | Added as a rare drop from Bradium Golem (`2024`) at 0.05% |
 | [](){ #celines-ribbon } Celine's Ribbon [1] | 18849 | DEX +3<br>MATK +40, plus 7 per refine level<br>Recover 200 HP each time you kill a monster with magic<br>50 HP drain every 5 seconds | DEX +3<br>MATK +20<br>MATK +1 per refine level<br>25 HP drain every 5 seconds<br>Equippable by all Trans classes |
 | Chick Hat | 5283 | Reduces damage from Demi-Human monsters by 3% | Also reduces damage taken from Brute monsters by 3% |
@@ -68,15 +68,15 @@ Items, weapons and armor that work differently from the official game. See [What
 | Golden Trinket | 2843 |  | MAX SP +50<br>Required Level 75<br><br>Acquisition: [El Dicastes](el-dicastes.md#enchanting): Jahbong, 1 Certificate |
 | [](){ #green-operation-coat } Green Operation Coat [1] | 15044 | DEX +1<br>MAX SP +30 | DEX +1, INT +3<br>Additional enchants available<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | Hermode Cap[1] | 5481 | Not dropped by any monster | Added as a Uncommon drop from Assassin Cross Eremes (`1641`) (Mini Boss) at 15% |
-| Holy Robe | 2327 (unslotted)<br>2373 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
+| Holy Robe | 2327 (unslotted)<br>2373 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | [](){ #imperial-guard } Imperial Guard [1] | 2153 | MDEF +5<br>Increases Shield Press damage by 20%<br>Above +5, an additional 2% per refine level | MDEF +5<br>Increases Shield Chain damage by 20%, plus 1% per refine<br>At +8, halves Shield Chain cast time |
 | [](){ #light-of-el-dicastes } Light of El Dicastes | 2844 | Grants Return to El Dicastes | Untradeable and unrefinable, character bound<br>Enchantable by Kareka in El Dicastes<br>Grants Return to El Dicastes |
 | Love Guard [1] | 18542 |  | Increases the effectiveness of your healing skills by 2%<br>Increases the effect of received healing by 5%<br>At +7 or higher, healing skills effectiveness +3%<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
-| Mage Coat | 2334 (unslotted)<br>2372 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
+| Mage Coat | 2334 (unslotted)<br>2372 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | Mercury Riser [1] | 18597 |  | Acquisition: Baphomet (`1399`) at 5.1% |
 | Mitra [1] | 5747 | MATK +10 at base INT 120 or higher<br>Required Level 100 | MATK +10 at base INT 90 or higher<br>Required Level 90 |
-| Ninja Suit | 2337 (unslotted)<br>2359 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
-| Novice Breastplate [1] | 2340 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera |
+| Ninja Suit | 2337 (unslotted)<br>2359 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
+| Novice Breastplate [1] | 2340 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | Old Mitra [1] | 18972 |  | INT +1<br>MDEF +5<br>For each 2 refine levels: MAX HP +1%, MAX SP +1%, ATK +8, MATK +4 and Magnus Exorcismus damage +4%<br>Required Level 70<br>Priest only<br><br>Acquisition: Margaretha Sorin (`1637`) at 0.1% |
 | Puppy Hat | 5182 | Randomly autocasts Gloria when dealing physical attack<br>At base AGI 77 or higher, the chance is 3% | At base AGI 77 or higher, the chance is 5% |
 | [](){ #red-lantern } Red Lantern [1] | 2976 | Required Level 100<br>MAX SP -300<br>Enables Sight Level 1<br>Adds a 0.5% chance each for Alcohol, Detrimindexta and Karvodailnirol to drop when killing a monster | Required Level 20<br> Equippable by All except Novice, Taekwon, Star Gladiator |
@@ -114,7 +114,7 @@ Items, weapons and armor that work differently from the official game. See [What
 | Guarana Candy | 12414 | Acquired individually from NPC | Up to 300 can be bought at once from the quest NPC |
 | Holy Arrow Quiver | 12183 | Dropped by mobs | Inventor Jaax in Payon packs 500 Holy Arrows into a quiver for 500z |
 | Home Cooking Kit | 12126 | Consumed when used | Not consumed until a craft is attempted |
-| Infinite Butterfly Wing | 52283 |  | Works like a Butterfly Wing: unusable during duels and on no-return maps<br><br>Acquisition: Exchanged at Lydia |
+| Infinite Butterfly Wing | 52283 |  | Works like a Butterfly Wing: unusable during duels and on no-return maps<br><br>Acquisition: Exchanged at Lydia (`/navi prt_in 38/105`) |
 | Infinite Fly Wing | 12887 | Cannot be used while Berserked | Can be used while Berserked |
 | Iron Hammer | 613 | Consumed when used | Not consumed until a craft is attempted |
 | Novice Fly Wing | 12323 | Cannot be used while Berserked | Can be used while Berserked |

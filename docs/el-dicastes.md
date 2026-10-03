@@ -183,7 +183,7 @@ How [Imperial Spear](item-changes.md#imperial-spear), [Imperial Guard](item-chan
 - **Imperial Spear** - `+20%` Shield Boomerang and Shield Charge damage, plus `+1%` each per refine.
 - **Imperial Guard** - MDEF `+5`, `+20%` Shield Chain damage plus `+1%` per refine. At `+8` or higher, Shield
   Chain's cast time is halved. With the **Imperial Spear**, Shield Chain costs `20` less SP.
-- **Bone Plate** - can be enchanted at the **Apprentice Craftsman** High Grade Armor service in Prontera.
+- **Bone Plate** - can be enchanted at the **Apprentice Craftsman** High Grade Armor service in Prontera (`/navi prontera 165/60`).
 
 ### Queen Scaraba
 
