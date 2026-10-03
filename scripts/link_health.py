@@ -33,7 +33,7 @@ MD_IMAGE = re.compile(r"!\[([^\]]*)\]\(([^)\s]+)")
 HTML_IMG = re.compile(r"<img\s[^>]*>", re.IGNORECASE)
 MD_LINK = re.compile(r"\]\(([^)\s#]+\.md)(?:#[^)\s]*)?\)")
 HREF_MD = re.compile(r'href="([^"#]+\.md)')
-URL = re.compile(r"""https?://[^\s<>"')\]]+""")
+URL = re.compile(r"""https?://(?:[^\s<>"'()\]]|\([^\s<>"'()]*\))+""")
 
 
 def pages():
