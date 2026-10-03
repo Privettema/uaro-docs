@@ -345,7 +345,7 @@ Buy a Mercenary and kill Spores again. You want at the very least these skills:
 - Overcharge 10 (Items sold to NPC give additional 24% zeny)  
 - Discount 10 (Items bought from NPC cost 24% less)  
 
-[Discount Merchant Job Build](https://skillsim.irowiki.org/bsm.html?10cAjX93cL)
+[Discount Merchant Job Build](https://oldskillsim.irowiki.org/bsm.html?10cAjX93cL)
  
 !!! note
      Discount does only apply for basic NPC stores. It does not decrease the price of mercenary scrolls or potions, nor from player set shops.
