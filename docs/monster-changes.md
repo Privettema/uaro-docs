@@ -10,6 +10,7 @@ Monsters where uaRO has altered the stats, skills, spawns or drops.
 | Corrupted Monk | `20898` | Crystal Mirror (`747`): 5% | Cannot be killed in one hit by Resurrection<br>Crystal Mirror: 50% |
 | Corrupted Soul | `20575` | ID `3151`<br>HP 18,200,000 | HP 12,500,000<br>Spawns one set of minions at a time<br>Better at dodging ranged attacks |
 | Event Baphomet | `1399` | – | Gigantic Majestic Goat (`5518`): 3% |
+| Evil Druid | `1117` | Yggdrasil Leaf (`610`): 2% | Yggdrasil Leaf: drop removed |
 | Evil Snake Lord | `1418` | – | Snake Head (`5388`): 0.9% |
 | Fallen Bishop | `1871` | – | Crown of Deceit [1] (`5564`): 6% |
 | Gryphon | `1259` | – | Sigrun's Wings (`5592`): 0.9% |
