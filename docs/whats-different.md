@@ -10,6 +10,8 @@ uaRO is built on the pre-renewal game, with changes to existing content and some
 | **Renewal** | Renewal content added to uaRO. It is rebalanced where needed, so check Item Changes and the other Changes pages for differences. |
 | **uaRO** | Made for uaRO. It does not exist in the official game. |
 
+On the Changes pages, **Original** is how the official game behaves (the renewal version if the content only exists in renewal) and **uaRO Changes** is how it works here. A blank Original means there is nothing official to compare against.
+
 ## Where to Look
 
 | I want to know... | Page |
@@ -24,16 +26,6 @@ uaRO is built on the pre-renewal game, with changes to existing content and some
 | What areas and instances were added | [Areas and Instances](#areas-and-instances) |
 | Which I can buy with Poring Coins | [Poring Coins System](poring-coins-system.md#exchange) |
 | Which additional weapons Expanded Classes can use | [Expanded Class Weapons](expanded-class-weapons.md) |
-
-## How to Read a Change
-
-Item, monster and map pages compare the two versions side by side:
-
-- **Original** is how the official game behaves. If an item only exists in renewal, Original is its renewal version.
-- **uaRO Changes** is how it works here.
-- A blank Original means there is nothing official to compare against.
-
-Where an item is also obtained in a dungeon or from an NPC, the Item Changes row links to that page, and the page links back to the row.
 
 ## Areas and Instances
 
