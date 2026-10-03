@@ -3,6 +3,8 @@
 Horror Toy Factory is an instance where players explore a sinister toy factory filled with aggressive monsters and ghosts. The main objective is to defeat the final boss, Celine Kimi, while overcoming traps and powerful enemies along the way.  
 The instance offers unique rewards, including rare items and equipment, making it popular among players.
 
+**Content type:** [Renewal](whats-different.md#content-tags)
+
 !!! info
     Read [Instance Guide](instance-guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
 
@@ -293,6 +295,8 @@ Inside, you'll find 10 treasure box NPCs that will drop items when interacted wi
 ![HTF-NPC-Shop](img/HTF/HTF-NPC-Shop.png)
 
 You can exchange your Bloody Coins with NPC Mister Cat (**/navi xmas 240/300**) for unique items.
+
+How [Red Lantern](item-changes.md#red-lantern), [Old Parasol](item-changes.md#old-parasol), [Noble Cross](item-changes.md#noble-cross), [Evil Glove](item-changes.md#evil-glove) and [Celine's Ribbon](item-changes.md#celines-ribbon) differ from the official versions is on [Item Changes](item-changes.md).
 
 | Item Name | Bloody Coins | In-game command |
 |-----------|--------------|-----------------|
