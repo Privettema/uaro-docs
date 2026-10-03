@@ -106,6 +106,7 @@ Items, weapons and armor that work differently from the official game. See [What
 | Item | Item ID | Original | uaRO Changes |
 |-|-|-|-|
 | Bubble Gum | 12210 | Cash shop item | [Poring Coin shop](poring-coins-system.md#consumable-items): 1,000 Poring Coins<br>[Attendance reward](attendance-system.md) on login day 20 |
+| Convex Mirror | 12214 | No cooldown | 60 minute cooldown |
 | Cursed Water | 12020 | Acquired individually from NPC<br>Dropped by mobs | Bulk conversion at Niff Fountain: choose Singular or All, based on your empty bottles. Includes a weight check |
 | Fantastic Cooking Kit | 12129 | Consumed when used | Not consumed until a craft is attempted |
 | Field Manual 100% | 14533 | Cash shop item | [Poring Coin shop](poring-coins-system.md#consumable-items): 40 Poring Coins<br>[Attendance reward](attendance-system.md) on login day 10<br>Cannot be sold to NPCs or moved to the cart |
@@ -122,7 +123,7 @@ Items, weapons and armor that work differently from the official game. See [What
 | Outdoor Cooking Kit | 12125 | Consumed when used | Not consumed until a craft is attempted |
 | Professional Cooking Kit | 12127 | Consumed when used | Not consumed until a craft is attempted |
 | Royal Cooking Kit | 12128 | Consumed when used | Not consumed until a craft is attempted |
-| Token of Siegfried | 7621 | No cooldown on resurrection use | 5 minute cooldown on resurrection use |
+| Token of Siegfried | 7621 | No cooldown on resurrection use | 15 minute cooldown on resurrection use |
 
 ## Misc
 
