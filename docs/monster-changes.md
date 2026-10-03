@@ -14,6 +14,7 @@ Monsters where uaRO has altered the stats, skills, spawns or drops.
 | Fallen Bishop | `1871` | – | Crown of Deceit [1] (`5564`): 6% |
 | Gryphon | `1259` | – | Sigrun's Wings (`5592`): 0.9% |
 | Kraken | `2202` | – | Waterdrop Brooch [1] (`2787`): 9% |
+| Lord Knight Seyren | `1646` | Dragon Slayer (`1166`): 25% | Dragon Slayer: 75% |
 | Maggot | `2467` | DEF 121<br>Lives until killed | DEF 60<br>Dies after 15 minutes regardless of remaining HP |
 | Majoruros | `1310` | – | Vecer Axe [2] (`1311`): 0.20% |
 | Margaretha Sorin | `1637` | – | Healing Staff (`1625`): 1%<br>Valkyrie Drop (`28564`): 4.95%<br>Old Mitra [1] (`18972`): 0.10% |
