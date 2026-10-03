@@ -1,6 +1,6 @@
 # Hourly Rewards System
 
-In the top right corner of the screen, you will see a timer.
+The Hourly Rewards System pays out 10 Coins for every hour you spend online, which you can exchange for symbolic prizes. In the top right corner of the screen, you will see a timer.
 
 ![Hourly Rewards Timer](img/Gold-Point-Manager-Timer.png)
 

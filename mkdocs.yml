@@ -1,6 +1,6 @@
 # Site metadata
 site_name: uaRO Documentation
-site_description: The official documentation for uaRO World of your Dream
+site_description: The official documentation for uaRO World of Your Dream
 site_author: uaRO Team
 site_url: https://wiki.uaro.net
 
@@ -138,6 +138,7 @@ nav:
 hooks:
   - hooks/all_pages.py
   - hooks/patch_notes.py
+  - hooks/seo.py
   - hooks/toc.py
 
 # Markdown extensions

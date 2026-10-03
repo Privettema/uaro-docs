@@ -1,6 +1,6 @@
 # Donations
 
-We appreciate your consideration of making a donation to support uaRO.
+Donations to uaRO are made in Cash Points (CP), which you spend in the Cash Shop on cosmetic items, and they help pay for running the server. We appreciate your consideration of making a donation.
 
 While playing on the server is free, donations assist with covering expenses such as server and hosting fees, upgrades, advertising, and other costs associated with running the server.
 
