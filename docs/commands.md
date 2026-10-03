@@ -238,6 +238,8 @@ You will need the item ID for the lists. Find this info by using `@itemid <item 
 6. Close the UI, all changes **apply instantly** and **save automatically** 
 7. Type `@restock` while you are in a town with storage open to get your list items
 
+![Restock group menu](img/restock-config.png){ .wiki-screenshot }
+
 #### Using `@qstore`
 
 1. Type `@qstoreconfig` open the configuration UI
