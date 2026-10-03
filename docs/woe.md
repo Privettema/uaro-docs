@@ -7,13 +7,13 @@ Owning a castle provides several benefits for the guild. First, it unlocks acces
 
 | Town       | Coordinates          |
 |------------|-----------------------|
-| Prontera | /navi prontera 217/178 |
-| Alberta | /navi alberta 58/248 |
-| Morocc | /navi morocc 225/65 |
-| Aldebaran | /navi aldebaran 207/66 |
-| Gonryun | /navi gonryun 118/140 |
+| Prontera | `/navi prontera 217/178` |
+| Alberta | `/navi alberta 58/248` |
+| Morocc | `/navi morocc 225/65` |
+| Aldebaran | `/navi aldebaran 207/66` |
+| Gonryun | `/navi gonryun 118/140` |
 
-The **Repairman** in Morocc can be found at /navi morocc 220/61.
+The **Repairman** in Morocc can be found at `/navi morocc 220/61`.
 
 ## Schedule
 

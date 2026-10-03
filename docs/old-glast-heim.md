@@ -11,12 +11,12 @@ Old Glast Heim (OGH) is a dungeon instance in World of Your Dream designed for a
 
 ![OGH-Hugin](img/OGH-Hugin.png)<br>
 
-To enter Old Glast Heim, you need to talk (еhe first time, you need to talk multiple times.) to the NPC Hugin in Glast Heim (**/navi glast_01 204/273**).
+To enter Old Glast Heim, you need to talk (еhe first time, you need to talk multiple times.) to the NPC Hugin in Glast Heim (`/navi glast_01 204/273`).
 
  ![OGH-Hugin1](img/OGH-Hugin1.png)
 
 !!! Note
-    On the first level, there is an NPC Hugin (**/navi old_gh01 143/18**). Talking to him will allow you to exit the dungeon.
+    On the first level, there is an NPC Hugin (`/navi old_gh01 143/18`). Talking to him will allow you to exit the dungeon.
 
 ## Monsters
 
@@ -124,7 +124,7 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 ## Ancient Golden Coin
 
-The MVPs **Corrupted Soul** and **Amdarais** have a **0.09%** chance to drop an Ancient Golden Coin. This coin can be exchanged at the **Hugin's Scribe NPC (/navi glast_01 188/270)** for any slotted stat Temporal Boot.  
+The MVPs **Corrupted Soul** and **Amdarais** have a **0.09%** chance to drop an Ancient Golden Coin. This coin can be exchanged at the **Hugin's Scribe NPC (`/navi glast_01 188/270`)** for any slotted stat Temporal Boot.  
 
 ![Hugin's Scribe NPC](img/OGH/Hugin's-Scribe-NPC.png)
 
@@ -137,7 +137,7 @@ You can obtain the Mutating White Knight Egg by exchanging the required loot wit
 | ![9133](img/Pet_System/9133.gif) Mutating White Knight Egg | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 1 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 2 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 3 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 4 - 1<br>  |
 
 ## NPC Caesar
-NPC Caesar (**/navi glast_01 201/275**) can exchange all four Old Dusty Tombs for a box containing 20 Temporal Crystals.
+NPC Caesar (`/navi glast_01 201/275`) can exchange all four Old Dusty Tombs for a box containing 20 Temporal Crystals.
 ![NPC Caesar](img/OGH/Caeser-NPC.png)
 
 | Items | Monster | Chance |
