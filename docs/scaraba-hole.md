@@ -7,7 +7,7 @@ Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen
 - **On foot:** Enter the Kamidal Tunnel (`dic_dun01`) from `/navi dic_fild01 26/77`.
 - **Entrance Manager:** Speak to the Sapha **Entrance Manager** at `/navi manuk 320/181`, who warps you into the tunnel. You must wear the **Ring of the Ancient Wise King** to talk to them.
 - **Cat Hand Services:** Once you have talked to the **Cat Hand Agent** at `/navi dic_dun01 364/51`, you can teleport to the entrance for `19,000z`. See [New World Travel](new-world-travel.md).
-- **Lower floor:** You cannot enter `dic_dun02` until you have progressed **Ahat's Secret**, which starts with **Inspector Doha** in [El Dicastes](el-dicastes.md#quest-chains).
+- **Lower floor:** You cannot enter `dic_dun02` until you have progressed **Ahat's Secret**, which starts with **Inspector Doha** in [El Dicastes](el-dicastes.md#getting-there).
 
 ## Monsters
 
