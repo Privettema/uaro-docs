@@ -56,4 +56,4 @@ To ensure the warp is saved **for all characters on your account**, locate the d
     **Manuk**, **Splendide** and **El Dicastes** are reached through **Cat Hand Services** at the
     **Midgard Expedition Camp** (`/navi mid_camp 190/242`) instead of the Warper.
     **Scaraba Hole** is also a Cat Hand destination once you have visited its entrance.
-    See [El Dicastes](el-dicastes.md).
+    See [New World Travel](new-world-travel.md).
