@@ -11,7 +11,7 @@ Distant dungeons don't have to mean long walks. The **Warpra** is a quest warper
 
 ## How It Works
 
-<img src="img/NPC/warpra.gif" alt="Warpra NPC" align="left" />
+<img src="../img/NPC/warpra.gif" alt="Warpra NPC" align="left" />
 
 - **Warpra is in every city.** The locations are listed below.
 - **Unlock each warp once per account.** Speak to the **Warpra Helper** at the dungeon's entrance and the warp is saved for all your characters.
