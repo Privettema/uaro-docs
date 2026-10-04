@@ -67,4 +67,4 @@ The **Warpra Helper** is at the coordinates below. Speak to them to save the war
 | **Abyss Lake Dungeon** | `/navi hu_fild05 163/308` | ![Abyss Lake Dungeon Entrance](img/AbbLakeWarpr.png) |
 | **Morroc Field<br>(Dimensional Gorge)** | `/navi moc_fild21 30/214` | ![Morroc Field](img/Morocc-Warpr.png) |
 | **Brasilis Dungeon** | `/navi bra_dun01 207/42` | ![Brasilis Dungeon](img/Brasil-Dun-Warpr.png) |
-| **Misty Island** | — | — |
+| **Misty Island** | `/navi e_tower 69/119` | ![Misty Island](img/Misty-Island-Warpr.png) |
