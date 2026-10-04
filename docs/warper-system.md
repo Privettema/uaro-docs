@@ -2,17 +2,24 @@
 
 ![Warpra NPC](img/NPC/warpra.gif)
 
-The **Warpra** is a quest warper that has been introduced to the game. This provides players with the convenience of opening access to quest locations, for all characters linked to their account. This feature simplifies travel gameplay, by eliminating the need for players to manually complete quests or travel to quest locations with each character on the same account. Warpra dungeon teleporting services cost 5,000z each.
+The **Warpra** is a quest warper found in every Midgard city. It teleports you to dungeons and quest areas, for `5,000z` each, on any character on your account.
 
 !!! warning "Looking for Manuk, Splendide or El Dicastes?"
     ![Cat Hand Agent](img/NPC/cat-hand-agent.png){ align=left }
 
-    The New World is not on the Warper. Manuk, Splendide, El Dicastes and Scaraba Hole are reached through **Cat Hand Services** at the **Midgard Expedition Camp** (`/navi mid_camp 190/242`). See [New World Travel](new-world-travel.md).
+    The New World is not on the Warper. Manuk, Splendide, El Dicastes and Scaraba Hole are reached through **Cat Hand Services** at the **Midgard Expedition Camp** (`/navi mid_camp 190/242`).
 
+    See [New World Travel](new-world-travel.md).
+
+## How It Works
+
+- **Warpra is in every city.** The locations are listed below.
+- **Unlock each warp once per account.** Speak to the **Warpra Helper** at the dungeon's entrance and the warp is saved for all your characters.
+- **Each teleport costs `5,000z`.**
 
 ## Warpra Locations
 
-??? note "Warpra can be found in all Migard cities. Click to expand"
+??? note "Warpra can be found in Midgard Cities. Click to expand"
     | Town | Coordinates |
     |---|---|
     | Prontera   | `/navi prontera 160/191` |
@@ -23,7 +30,7 @@ The **Warpra** is a quest warper that has been introduced to the game. This prov
     | Alberta    | `/navi alberta 39/240` |
     | Aldebaran  | `/navi aldebaran 135/119` |
     | Lutie      | `/navi xmas 142/13` |
-    | Сomodo     | `/navi comodo 193/158` |
+    | Comodo     | `/navi comodo 193/158` |
     | Yuno       | `/navi yuno 166/187` |
     | Amatsu     | `/navi amatsu 102/143` |
     | Gonryun    | `/navi gonryun 165/117` |
@@ -41,8 +48,7 @@ The **Warpra** is a quest warper that has been introduced to the game. This prov
 
 ## Warpra Helper Locations
 
-To ensure the warp is saved **for all characters on your account**, locate the designated NPC **Wapra Helper**, and speak to them.
-
+The **Warpra Helper** is at the coordinates below. Speak to them to save the warp **for all characters on your account**.
 
 ![Warpra Helper](img/NPC/warpra-helper.gif)
 
