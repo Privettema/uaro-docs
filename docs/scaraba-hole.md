@@ -32,20 +32,14 @@ Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen
 
 The following items drop only in Scaraba Hole.
 
-| Item | Slot | Drops from | Rate |
-|---|---|---|---|
-| **Forbidden Grimoire** | Sage shield, `Def 5`, `1` slot, Level `90` | Two-Horned Scaraba | `0.05%` |
-| **Ghost Whisper** | Assassin headgear, `Def 3`, `1` slot, Level `90` | Antler Scaraba | `0.05%` |
-| <img src="../img/1433.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Imperial Spear** | Crusader spear, `Atk 220`, `1` slot, Level `85` | One-Horned Scaraba | `0.10%` |
-| <img src="../img/2153.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Imperial Guard** | Crusader shield, `Def 6`, `1` slot, Level `85` | Rake Scaraba Egg | `0.05%` |
-| <img src="../img/15000.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bone Plate** | Armor | Rake Scaraba | `0.10%` |
-| <img src="../img/4505.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Scaraba Card** | Card | all four adult Scaraba | `0.05%` |
-
-- **Forbidden Grimoire** - ASPD `+5%`, INT `+2`. At `+7` or higher, increases damage of Magic Elemental Earth Skills by `20%`. With a **Death Note**, `+1%` MATK per refine of the Death Note and `-10%` cast time at `+10`.
-- **Ghost Whisper** - STR `+3`. At `+7` or higher, `+10%` Meteor Assault damage. At `+9` or higher, a further STR `+2` and `+10%` Meteor Assault damage.
-- **Imperial Spear** - `+20%` Shield Boomerang and Shield Charge damage, plus `+1%` each per refine.
-- **Imperial Guard** - MDEF `+5`, `+20%` Shield Chain damage plus `+1%` per refine. At `+8` or higher, Shield Chain's cast time is halved. With the **Imperial Spear**, Shield Chain costs `20` less SP.
-- **Bone Plate** - can be enchanted at the **Apprentice Craftsman** High Grade Armor service in Prontera.
+| Item | Item ID | Description | Drops From (Rate) |
+|-|-|-|-|
+| Forbidden Grimoire [1] | 28984 | Sage shield, Def 5, Level 90<br>ASPD +5%, INT +2<br>At +7 or higher, increases damage of Magic Elemental Earth Skills by 20%<br>With a Death Note, +1% MATK per refine of the Death Note and -10% cast time at +10 | Two-Horned Scaraba (0.05%) |
+| Ghost Whisper [1] | 400396 | Assassin headgear, Def 3, Level 90<br>STR +3<br>At +7 or higher, +10% Meteor Assault damage<br>At +9 or higher, STR +2 and a further +10% Meteor Assault damage | Antler Scaraba (0.05%) |
+| Imperial Spear [1] | 1433 | Crusader spear, Atk 220, Level 85<br>+20% Shield Boomerang and Shield Charge damage, plus +1% each per refine | One-Horned Scaraba (0.10%) |
+| Imperial Guard [1] | 2153 | Crusader shield, Def 6, Level 85<br>MDEF +5<br>+20% Shield Chain damage, plus +1% per refine<br>At +8 or higher, halves Shield Chain cast time<br>With Imperial Spear, Shield Chain costs 20 less SP | Rake Scaraba Egg (0.05%) |
+| Bone Plate | 15000 | Armor<br>Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera | Rake Scaraba (0.10%) |
+| Scaraba Card | 4505 | Card | All four adult Scaraba (0.05%) |
 
 ### Queen Scaraba
 
