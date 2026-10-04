@@ -13,15 +13,15 @@ Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen
 
 | Monster | ID | Floor | Quantity |
 |---|---|---|---|
-| ![2083](img/2083.gif) One-Horned Scaraba | `2083` | `dic_dun01` | `50` |
-| ![2084](img/2084.gif) Two-Horned Scaraba | `2084` | `dic_dun01` | `45` |
-| ![2088](img/2088.gif) One-Horned Scaraba Egg | `2088` | `dic_dun01` | `15` |
-| ![2089](img/2089.gif) Two-Horned Scaraba Egg | `2089` | `dic_dun01` | `15` |
-| ![2085](img/2085.gif) Antler Scaraba | `2085` | `dic_dun02` | `50` |
-| ![2086](img/2086.gif) Rake Scaraba | `2086` | `dic_dun02` | `45` |
-| ![2090](img/2090.gif) Antler Scaraba Egg | `2090` | `dic_dun02` | `15` |
-| ![2091](img/2091.gif) Rake Scaraba Egg | `2091` | `dic_dun02` | `15` |
-| ![2087](img/2087.gif) Queen Scaraba | `2087` | `dic_dun02` | `1` |
+| ![2083](img/2083.gif) One-Horned Scaraba | `2083` | `dic_dun01` | 50 |
+| ![2084](img/2084.gif) Two-Horned Scaraba | `2084` | `dic_dun01` | 45 |
+| ![2088](img/2088.gif) One-Horned Scaraba Egg | `2088` | `dic_dun01` | 15 |
+| ![2089](img/2089.gif) Two-Horned Scaraba Egg | `2089` | `dic_dun01` | 15 |
+| ![2085](img/2085.gif) Antler Scaraba | `2085` | `dic_dun02` | 50 |
+| ![2086](img/2086.gif) Rake Scaraba | `2086` | `dic_dun02` | 45 |
+| ![2090](img/2090.gif) Antler Scaraba Egg | `2090` | `dic_dun02` | 15 |
+| ![2091](img/2091.gif) Rake Scaraba Egg | `2091` | `dic_dun02` | 15 |
+| ![2087](img/2087.gif) Queen Scaraba | `2087` | `dic_dun02` | 1 |
 
 Upper floor monsters are not aggressive; the lower floor is aggressive and can root you with Spider Web. Antler and Rake Scaraba teleport away when hit from range while idle. **Queen Scaraba** (`2` hour respawn, `1,304,459` HP) heals and summons escorts, silences the party below `80%` HP and takes only `25%` of the damage dealt to her.
 
