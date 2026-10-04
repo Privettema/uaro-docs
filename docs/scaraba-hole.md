@@ -11,6 +11,11 @@ Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen
 
 ## Monsters
 
+- **Upper floor:** Monsters on `dic_dun01` are not aggressive.
+- **Lower floor:** Monsters on `dic_dun02` are aggressive and can root you with Spider Web.
+- **Antler and Rake Scaraba:** They teleport away when hit from range while idle.
+- **Bonus EXP:** Both floors are part of the rotating bonus EXP zones. Check them with [`@mapexp`](commands.md#general-commands).
+
 | Monster | ID | Floor | Quantity |
 |---|---|---|---|
 | ![2083](img/2083.gif) One-Horned Scaraba | `2083` | `dic_dun01` | 50 |
@@ -22,10 +27,6 @@ Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen
 | ![2090](img/2090.gif) Antler Scaraba Egg | `2090` | `dic_dun02` | 15 |
 | ![2091](img/2091.gif) Rake Scaraba Egg | `2091` | `dic_dun02` | 15 |
 | ![2087](img/2087.gif) Queen Scaraba | `2087` | `dic_dun02` | 1 |
-
-Upper floor monsters are not aggressive; the lower floor is aggressive and can root you with Spider Web. Antler and Rake Scaraba teleport away when hit from range while idle. **Queen Scaraba** (`2` hour respawn, `1,304,459` HP) heals and summons escorts, silences the party below `80%` HP and takes only `25%` of the damage dealt to her.
-
-Both floors are part of the rotating bonus EXP zones, which you can check with [`@mapexp`](commands.md#general-commands).
 
 ## Gear and Drops
 
@@ -47,6 +48,11 @@ The following items drop only in Scaraba Hole.
 - **Bone Plate** - can be enchanted at the **Apprentice Craftsman** High Grade Armor service in Prontera.
 
 ### Queen Scaraba
+
+- **Respawn:** `2` hours.
+- **HP:** `1,304,459`.
+- **Skills:** She heals, summons escorts and silences the party below `80%` HP.
+- **Damage:** She takes only `25%` of the damage dealt to her.
 
 | Drop | Rate |
 |---|---|
