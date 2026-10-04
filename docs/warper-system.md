@@ -4,10 +4,15 @@
 
 The **Warpra** is a quest warper that has been introduced to the game. This provides players with the convenience of opening access to quest locations, for all characters linked to their account. This feature simplifies travel gameplay, by eliminating the need for players to manually complete quests or travel to quest locations with each character on the same account. Warpra dungeon teleporting services cost 5,000z each.
 
-!!! note "Looking for Manuk, Splendide or El Dicastes?"
+!!! warning "Looking for Manuk, Splendide or El Dicastes?"
+    ![Cat Hand Agent](img/NPC/cat-hand-agent.png){ align=left }
+
     The New World is not on the Warper. Manuk, Splendide, El Dicastes and Scaraba Hole are reached through **Cat Hand Services** at the **Midgard Expedition Camp** (`/navi mid_camp 190/242`). See [New World Travel](new-world-travel.md).
 
-??? note "Warpra can be found in all cities. Click to expand"
+
+## Warpra Locations
+
+??? note "Warpra can be found in all Migard cities. Click to expand"
     | Town | Coordinates |
     |---|---|
     | Prontera   | `/navi prontera 160/191` |
@@ -34,7 +39,10 @@ The **Warpra** is a quest warper that has been introduced to the game. This prov
     | Moscovia   | `/navi moscovia 227/191` |
     | Brasilis   | `/navi brasilis 194/221` |
 
+## Warpra Helper Locations
+
 To ensure the warp is saved **for all characters on your account**, locate the designated NPC **Wapra Helper**, and speak to them.
+
 
 ![Warpra Helper](img/NPC/warpra-helper.gif)
 
