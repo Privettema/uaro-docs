@@ -4,25 +4,41 @@ Cat Hand Services is the teleport network for the New World. It replaces the [Wa
 **El Dicastes**, **Manuk**, **Splendide** and **Scaraba Hole**, and is the only way to reach them from the
 **Midgard Expedition Camp**.
 
-![Cat Hand Agent](img/NPC/cat-hand-agent.png){ align=right }
+![Cat Hand Agent](img/NPC/cat-hand-agent.png)
 
-Sign the contract once with **Fluffy Gyaruk** (`/navi mid_camp 190/242`) for
-**200 Delicious Fish**, **20 Fish Tail** and `550,000` **Zeny**. It applies to your whole account.
+The **Midgard Expedition Camp**, **Manuk**, **Splendide**, and **El Dicastes** count as towns, so town-only conveniences such as
+[`@restock`](commands.md#restock-qstore-fast-storage) work there. [**Inn Attendants**](inns.md) are available in El Dicastes, Manuk and Splendide.
+
+## Initial Unlock
+
+Sign the contract once with **Fluffy Gyaruk** (`/navi mid_camp 190/242`) at the Midgard Expedition Camp for
+**200 Delicious Fish**, **20 Fish Tail** and **550,000z**. It applies to your whole account and unlocks the
+agents' save and storage services.
+
+## Unlocking Destinations
+
+Signing the contract does not open every destination. Talk to the **Cat Hand Agent** at each location once to unlock
+teleports there.
+
+| Destination | Cat Hand Agent |
+|---|---|
+| Midgard Expedition Camp | `/navi mid_camp 190/242` |
+| El Dicastes | `/navi dicastes01 199/195` |
+| Manuk | `/navi manuk 275/146` |
+| Splendide | `/navi splendide 202/173` |
+| Scaraba Hole | `/navi dic_dun01 364/51` |
+
+Midgard-city teleports are sold at the camp only.
+
+## Services
 
 | Service | Cost |
 |---|---|
 | Save location | Free |
-| Storage / Guild Storage | `120` **Zeny** |
-| Teleport - Midgard cities | `5,500` – `19,800` **Zeny** |
-| Teleport - Midgard Expedition Camp | `19,000` **Zeny** |
-| Teleport - El Dicastes | `24,000` **Zeny** |
-| Teleport - Manuk / Mora / Eclage | `22,000` / `17,000` / `17,000` **Zeny** |
-| Teleport - Splendide | `17,000` **Zeny** |
-| Teleport - Scaraba Hole | `19,000` **Zeny** |
-
-Agents are located in El Dicastes (`/navi dicastes01 200/194`), Manuk, Splendide, Mora, Eclage and the camp.
-Midgard-city teleports are sold at the camp only, and a New World city must be visited on foot once before you
-can teleport to it. [**Inn Attendants**](inns.md) are available in El Dicastes, Manuk and Splendide.
-**Scaraba Hole** is sold once you have visited the agent spot at the entrance to its first floor. The
-**Midgard Expedition Camp**, **Manuk** and **Splendide** count as towns, so town-only conveniences such as
-[`@restock`](commands.md#restock-qstore-fast-storage) work there.
+| Storage / Guild Storage | 120z |
+| Teleport - Midgard cities | 5,500 – 19,800z |
+| Teleport - Midgard Expedition Camp | 19,000z |
+| Teleport - El Dicastes | 24,000z |
+| Teleport - Manuk | 22,000z |
+| Teleport - Splendide | 17,000z |
+| Teleport - Scaraba Hole | 19,000z |
