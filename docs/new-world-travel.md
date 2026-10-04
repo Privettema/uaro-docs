@@ -4,6 +4,8 @@ Cat Hand Services is the teleport network for the New World. It replaces the [Wa
 **El Dicastes**, **Manuk**, **Splendide** and **Scaraba Hole**, and is the only way to reach them from the
 **Midgard Expedition Camp**.
 
+![Cat Hand Agent](img/NPC/cat-hand-agent.png){ align=right }
+
 Sign the contract once with **Fluffy Gyaruk** (`/navi mid_camp 190/242`) for
 **200 Delicious Fish**, **20 Fish Tail** and `550,000` **Zeny**. It applies to your whole account.
 
