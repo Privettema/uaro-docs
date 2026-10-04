@@ -30,17 +30,12 @@ El Dicastes is reached through the Ep 13.2 quest chain. Complete the steps in or
 Cross the tunnel west to east, then head north-east on **dic_fild01** to the **Capital City Guards** at
 `/navi dic_fild01 146/281`, who warp you to the city.
 
+Once you have talked to the **Cat Hand Agent** (`/navi dicastes01 199/195`), you can teleport back for `24,000z`
+through [New World Travel](new-world-travel.md), which also covers the contract and the other destinations.
+
 !!! danger "Keep the Ring Equipped"
     Sapha NPCs only talk to you while the Ring is **worn**. It cannot be traded or stored, so every character
     must earn its own.
-
----
-
-## New World Travel
-
-Travel beyond the Midgard Expedition Camp runs through **Cat Hand Services**. See
-[New World Travel](new-world-travel.md) for the contract, prices and destinations. Teleports to El Dicastes cost
-`24,000` **Zeny**.
 
 ---
 
