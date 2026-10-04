@@ -1,10 +1,12 @@
 # Scaraba Hole
- Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen Scaraba** and a handful of drops found nowhere else in the New World.
+
+Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen Scaraba** and a handful of drops found nowhere else in the New World.
 
 ## Getting There
 
 **dic_dun01** is the Kamidal Tunnel; **dic_dun02** is the dungeon proper and requires **Ahat's Secret** to open. Start the quest with **Inspector Doha** in [El Dicastes](el-dicastes.md#quest-chains).
- Teleport to the entrance for `19,000z` once you have talked to the **Cat Hand Agent** at `/navi dic_dun01 364/51`. See [New World Travel](new-world-travel.md).
+
+Teleport to the entrance for `19,000z` once you have talked to the **Cat Hand Agent** at `/navi dic_dun01 364/51`. See [New World Travel](new-world-travel.md).
 
 ## Monsters
 
@@ -19,12 +21,14 @@
 | ![2090](img/2090.gif) Antler Scaraba Egg | `dic_dun02` | `15` | `@mi 2090` |
 | ![2091](img/2091.gif) Rake Scaraba Egg | `dic_dun02` | `15` | `@mi 2091` |
 | ![2087](img/2087.gif) Queen Scaraba | `dic_dun02` | `1` | `@mi 2087` |
- Upper floor monsters are not aggressive; the lower floor is aggressive and can root you with Spider Web. Antler and Rake Scaraba teleport away when hit from range while idle. **Queen Scaraba** (`2` hour respawn,
-`1,304,459` HP) heals and summons escorts, silences the party below `80%` HP and takes only `25%` of the damage dealt to her.
- Both floors are part of the rotating bonus EXP zones, which you can check with [`@mapexp`](commands.md#general-commands).
+
+Upper floor monsters are not aggressive; the lower floor is aggressive and can root you with Spider Web. Antler and Rake Scaraba teleport away when hit from range while idle. **Queen Scaraba** (`2` hour respawn, `1,304,459` HP) heals and summons escorts, silences the party below `80%` HP and takes only `25%` of the damage dealt to her.
+
+Both floors are part of the rotating bonus EXP zones, which you can check with [`@mapexp`](commands.md#general-commands).
 
 ## Gear and Drops
- The following items drop only in Scaraba Hole.
+
+The following items drop only in Scaraba Hole.
 
 | Item | Slot | Drops from | Rate |
 |---|---|---|---|
@@ -51,4 +55,5 @@
 | <img src="../img/1196.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Chrome Metal Two-Handed Sword** - `Atk 280`, unbreakable, AGI `+3`, max HP `-10%` | `6%` |
 | <img src="../img/25731.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Zelunium** | `1.5%` |
 | <img src="../img/4507.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Queen Scaraba Card** | `0.01%` |
- MVP drops: **Old Card Album** (`60%`), **Yggdrasilberry** (`60%`) or **Old Blue Box** (`90%`), plus `75,000` MVP EXP. **Queen Scaraba Card** grants `+30%` damage against all Scaraba Hole monsters, adds `100%` of the target's MDEF on top of your magic damage, and gives a small chance of a **Scaraba Scroll** from any kill.
+
+MVP drops: **Old Card Album** (`60%`), **Yggdrasilberry** (`60%`) or **Old Blue Box** (`90%`), plus `75,000` MVP EXP. **Queen Scaraba Card** grants `+30%` damage against all Scaraba Hole monsters, adds `100%` of the target's MDEF on top of your magic damage, and gives a small chance of a **Scaraba Scroll** from any kill.
