@@ -1,8 +1,6 @@
 # Warper System
 
-![Warpra NPC](img/NPC/warpra.gif)
-
-The **Warpra** is a quest warper found in every Midgard city. It teleports you to dungeons and quest areas, for `5,000z` each, on any character on your account.
+Distant dungeons don't have to mean long walks. The **Warpra** is a quest warper that knows the way, and it remembers the places you have already earned.
 
 !!! warning "Looking for Manuk, Splendide or El Dicastes?"
     ![Cat Hand Agent](img/NPC/cat-hand-agent.png){ align=left }
@@ -13,9 +11,12 @@ The **Warpra** is a quest warper found in every Midgard city. It teleports you t
 
 ## How It Works
 
+<img src="img/NPC/warpra.gif" alt="Warpra NPC" align="left" />
+
 - **Warpra is in every city.** The locations are listed below.
 - **Unlock each warp once per account.** Speak to the **Warpra Helper** at the dungeon's entrance and the warp is saved for all your characters.
 - **Each teleport costs `5,000z`.**
+- **Other characters don't get the quest.** The warp is shared, but the quest status isn't, so any limits that come with the quest don't apply to them.
 
 ## Warpra Locations
 
