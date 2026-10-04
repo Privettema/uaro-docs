@@ -25,7 +25,7 @@ El Dicastes is reached through the Ep 13.2 quest chain. Complete the steps in or
 | `4` | **Guard Aello** - `/navi mid_campin 93/114` | Leads to the Sapha audience. |
 | `5` | **Inspector Doha** - `/navi mid_campin 168/170` | Required stop. Opens **Ahat's Secret**. |
 | `6` | **Guard Captain Avalanche** - `/navi man_in01 315/52` | Authorises your passage. Do not skip him or the city guards turn you away. |
-| `7` | **Entrance Manager** - `/navi manuk 321/182` | Warps you into the Kamidal Tunnel. |
+| `7` | **Entrance Manager** - `/navi manuk 320/181` | Warps you into the Kamidal Tunnel. |
 
 Cross the tunnel west to east, then head north-east on **dic_fild01** to the **Capital City Guards** at
 `/navi dic_fild01 146/281`, who warp you to the city.
