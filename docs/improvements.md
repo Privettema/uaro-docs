@@ -9,7 +9,7 @@ From new game modes to updates to existing content, we are committed to making W
 
 ## Increased Natural Recovery
 
-![Fast Regen](img/Improvements/Fastregensit.gif)
+![Fast Regen](img/Improvements/Fastregensit.webp)
 
 When a player is idle or not engaged in combat and has not been hit by a mob, they will experience a significant increase in HP and SP regeneration.
 
