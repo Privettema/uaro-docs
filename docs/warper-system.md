@@ -4,6 +4,9 @@
 
 The **Warpra** is a quest warper that has been introduced to the game. This provides players with the convenience of opening access to quest locations, for all characters linked to their account. This feature simplifies travel gameplay, by eliminating the need for players to manually complete quests or travel to quest locations with each character on the same account. Warpra dungeon teleporting services cost 5,000z each.
 
+!!! note "Looking for Manuk, Splendide or El Dicastes?"
+    The New World is not on the Warper. Manuk, Splendide, El Dicastes and Scaraba Hole are reached through **Cat Hand Services** at the **Midgard Expedition Camp** (`/navi mid_camp 190/242`). See [New World Travel](new-world-travel.md).
+
 ??? note "Warpra can be found in all cities. Click to expand"
     | Town | Coordinates |
     |---|---|
@@ -51,9 +54,3 @@ To ensure the warp is saved **for all characters on your account**, locate the d
 | **Morroc Field<br>(Dimensional Gorge)** | `/navi moc_fild21 30/214` | ![Morroc Field](img/Morocc-Warpr.png) |
 | **Brasilis Dungeon** | `/navi bra_dun01 207/42` | ![Brasilis Dungeon](img/Brasil-Dun-Warpr.png) |
 | **Misty Island** | — | — |
-
-!!! note "New World Travel"
-    **Manuk**, **Splendide** and **El Dicastes** are reached through **Cat Hand Services** at the
-    **Midgard Expedition Camp** (`/navi mid_camp 190/242`) instead of the Warper.
-    **Scaraba Hole** is also a Cat Hand destination once you have visited its entrance.
-    See [New World Travel](new-world-travel.md).

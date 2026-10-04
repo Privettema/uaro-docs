@@ -52,7 +52,7 @@ Register first with **Adventure Clerk Rhawyne** (`/navi dic_in01 42/264`, entere
 | NPC | Location | Function |
 |---|---|---|
 | **Adventure Clerk Rhawyne** | `/navi dic_in01 42/264` | Registration |
-| **Cat Hand Agent** | `/navi dicastes01 200/194` | Save, storage, teleports |
+| **Cat Hand Agent** | `/navi dicastes01 199/195` | Save, storage, teleports |
 | **Inn Attendant** | `/navi dic_in01 31/114` | Save free; rest `10,000` **Zeny** |
 | **Healer** | `/navi dicastes01 201/194` | Free, no cooldown |
 | **Hanknitt** | `/navi dicastes01 93/149` | Refiner |
