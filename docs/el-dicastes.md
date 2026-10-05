@@ -109,7 +109,7 @@ Read a **Document Package** in the Archive Room to get a dig spot on a Midgard f
 
 A bad document read can leave you **Dizzy**, which locks the Archive Room for 6 hours.
 
-### Frede's Request
+### Frede's Reques
 
 A one-time quest that pays 3 Certificates. Start with **Frede** (`/navi dicastes01 117/262`, Base Level 70) and find his six missing friends in Scaraba Hole. Then bring **Bouy** (`/navi dic_in01 349/129`) 30 **Small Bradium** (`6319` dropped by Dolomedes (`2092`), 75%). After a 2 hour wait, deliver the refined ore to all six again.
 
@@ -154,7 +154,7 @@ The cat merchants enchant the Feral Boots, Feral Tail and Golden Trinket, and th
 | Reset | Free | Destroys the item |
 
 !!! danger "Some Cat Merchant failures can destroy the item"
-    A failed third layer or a reset at the cat merchants destroys the item, including its socket and any card. Finish all three layers before adding a socket. 
+    A failed third layer or a reset at the cat merchants destroys the item, including its socket and any card. Finish all three layers before adding a socket.
 
 ### Stats
 
