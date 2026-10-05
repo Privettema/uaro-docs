@@ -1,6 +1,6 @@
 # El Dicastes
 
-**El Dicastes** is the capital of Sapha, a city of daily quests that pay in **Sapha Certificates**. Spend them on enchanting four bound items, or descend into [Scaraba Hole](scaraba-hole.md) beneath the city.
+**El Dicastes** is the capital of Sapha, a city of daily quests that pay in **Sapha Certificates**. The certificates are spent on enchanting four bound items. Beneath the city lies [Scaraba Hole](scaraba-hole.md).
 
 !!! info "Quick Facts"
     - **Currency:** Sapha Certificates, earned from quests
@@ -62,7 +62,7 @@ Certain steps of [Doha's Secret Orders](https://irowiki.org/wiki/Doha%27s_Secret
 |---|---|
 | 7 | Scaraba Hole Level 2 |
 | 8 | Cat Merchant Enchantments |
-| 20 | Daily quest Chesire's Call; 9 Unidentified Relics |
+| 20 (quest complete) | 9 Unidentified Relics and the Cheshire's Call daily quest |
 
 !!! warning "Quest Differences"
     You will not receive a Bradium Brooch or Dragon's Manteau for completing Doha's Orders.
@@ -98,9 +98,9 @@ These quests reset daily at 00:00 server time (`@time`). Any quest you have not 
 !!! warning "Daily Quest Reset"
     To reset a quest, return to each manager in Diel before taking a new day's request.
 
-### Chesire's Call
+### Cheshire's Call
 
-Unlocked at step 20 of Doha's Secret Orders. Once per day, bring Chesire 10 Clotted Bloodstains, 10 Strange Magic Stones and 10 Frozen Pieces of Skin to receive 70,000 base EXP, 30,000 job EXP and 1 Certificate.
+Unlocked by completing Doha's Secret Orders. Once per day, bring Cheshire 10 Clotted Bloodstains, 10 Strange Magic Stones and 10 Frozen Pieces of Skin to receive 70,000 base EXP, 30,000 job EXP and 1 Certificate.
 
 ### Research Documents
 
@@ -122,22 +122,36 @@ Certificates are spent on enchanting four bound items.
 
 | Item | Equip | Enchanter | Acquisition | Binding |
 |---|---|---|---|---|
-| Light of El Dicastes | Accessory | **Kareka**<br>(`/navi dic_in01 353/37`) | **Adventure Clerk Rhawyne**<br>(`/navi dic_in01 42/264`) | Character |
-| <img src="../img/2463.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feral Boots | Shoes | **Jalapeno**<br>(`/navi dic_fild01 240/198`) | **Jahbong** - 1 Certificate<br>(`/navi dic_fild01 228/159`)| Account |
-| <img src="../img/2564.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feral Tail | Garment | **Mancho**<br>(`/navi dic_fild01 259/172`) | **Jahbong** - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
-| Golden Trinket | Accessory | **Brare**<br>(`/navi dic_fild01 251/183`) | **Jahbong** - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
+| Light of El Dicastes | Accessory | Kareka<br>(`/navi dic_in01 353/37`) | Adventure Clerk Rhawyne<br>(`/navi dic_in01 42/264`) | Character |
+| <img src="../img/2463.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feral Boots | Shoes | Jalapeno<br>(`/navi dic_fild01 240/198`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`)| Account |
+| <img src="../img/2564.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feral Tail | Garment | Mancho<br>(`/navi dic_fild01 259/172`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
+| Golden Trinket | Accessory | Brare<br>(`/navi dic_fild01 251/183`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
 
 These items cannot be refined, traded, put in a cart, put in guild storage, mailed or sold. Light of El Dicastes also cannot be stored.
 
-### Enchanting Steps
+### Enchanting with Kareka
 
-| Step | Cost | Kareka | Cat Merchants |
-|---|---|---|---|
-| Layer 1 | 1 Certificate | 20% fail, item safe | 10% fail, item safe |
-| Layer 2 | 2 Certificates | 20% fail, item safe | 10% fail, item safe |
-| Layer 3 | 3 Certificates | 20% fail, item safe | 20% chance it destroys the item |
-| Add a socket | 60 Certificates | Never fails | Never fails |
-| Reset | 6 Certificates (Kareka) / free (cats) | Strips enchants, card, and socket | Destroys the item |
+**Kareka** (`/navi dic_in01 353/37`) only enchants the Light of El Dicastes, and you must wear the Ring of the Ancient Wise King.
+
+| Step | Cost | Result |
+|---|---|---|
+| Layer 1 | 1 Certificate | 20% fail, item safe |
+| Layer 2 | 2 Certificates | 20% fail, item safe |
+| Layer 3 | 3 Certificates | 20% fail, item safe |
+| Add a socket | 60 Certificates | Never fails |
+| Reset | 6 Certificates | Strips enchants, card, and socket |
+
+### Enchanting with the Cat Merchants
+
+The cat merchants enchant the Feral Boots, Feral Tail and Golden Trinket, and the item must be equipped.
+
+| Step | Cost | Result |
+|---|---|---|
+| Layer 1 | 1 Certificate | 10% fail, item safe |
+| Layer 2 | 2 Certificates | 10% fail, item safe |
+| Layer 3 | 3 Certificates | 20% chance it destroys the item |
+| Add a socket | 60 Certificates | Never fails |
+| Reset | Free | Destroys the item |
 
 ### Stats
 
