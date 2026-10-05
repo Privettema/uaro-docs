@@ -35,38 +35,43 @@ The working tree should be clean before creating PRs.
 
 ## Documentation Standards
 
-### Line Length
-Keep all lines under **120 characters** for readability.
+Follow `docs/dev/style-guide.md` for page structure, formatting, wording and tone. It is the single source of truth, so
+this file doesn't repeat it. Before opening a PR, run the linter on the pages you changed:
 
-### Markdown Style
-Use standard Markdown syntax. Avoid including shell prompts or unrelated console text in documentation.
-
-### Admonitions Format
-The site uses MkDocs admonitions for callout boxes. Preferred format:
-```markdown
-!!! note "Optional Title"
-    Content here
-
-!!! warning "Optional Title"
-    Content here
-
-!!! important "Optional Title"
-    Content here
+```bash
+python3 scripts/lint_style.py docs/some-page.md
 ```
 
-### Images
-- Place new images in `docs/img/`
-- Reference with relative paths: `![Alt text](img/filename.webp)`
-- For specific layouts, use HTML: `<img src="img/filename.webp" alt="Alt text" align="left" />`
+Existing pages predate the guide, so only fix findings on pages you are already editing, and don't restyle text that
+has nothing to do with your change.
 
 ### Patch Notes Structure
 - Individual patch files live in `docs/patch-notes/YYYY/patchesMMDDYYYY.md`
 - Each patch starts with front matter: `date: YYYY-MM-DD`, optional `hotfix: true`, and `highlights:` (3 to 5 short,
   player-facing bullets, see `scripts/patch_highlights_prompt.md`)
-- `docs/All_Patch_Notes.md`, the per-year pages, the sidebar Archive and the home page preview are generated from the
+- `docs/all-patch-notes.md`, the per-year pages, the sidebar Archive and the home page preview are generated from the
   patch files by `hooks/patch_notes.py`. Do not edit them by hand; a new patch is just a new dated file
 - A new year needs a copy of `docs/patch-notes/YYYY/index.md`
-- Patches include standard sections: General, Quality of Life, Items, NPC, Commands, Skills, Fixes, etc.
+- Section headings and bullet wording are covered in the style guide
+
+### Where Content Goes
+Content pages carry one tag (see `docs/whats-different.md`): **Changed** (official content uaRO altered),
+**Renewal** (renewal content added; it is rebalanced where needed) or **uaRO** (made for uaRO).
+
+- **Changes pages** (`class-changes.md`, `item-changes.md`, `monster-changes.md`, `map-changes.md`, `quest-changes.md`) list only things
+  that differ from the official game, as Original vs uaRO. Original is the pre-renewal value (Hercules `db/pre-re`); if there is no
+  pre-re version it is the renewal value (Hercules `db/re`, then rAthena) and the row says so.
+- Items that uaRO added also go in `item-changes.md`, with a blank Original and no tag. `whats-different.md` lists the areas and
+  instances that uaRO added, by episode. Unchanged cards from renewal monsters belong on the page for the area where they drop.
+- **Quality of Life** (`improvements.md`) is for game-wide rules and mechanics that are not about one item, skill, monster or map:
+  inventory and trade rules, buff stacking, teleport behavior, storage limits. Add a one-line row to the Optimized Mechanics
+  table (or the section that fits); longer features get their own page. A change to one item goes in `item-changes.md`, one
+  skill in `class-changes.md`.
+- **Content pages** (`biolab4.md`, `el-dicastes.md`, `horror-toy-factory.md`, ...) say how to get things. Put an item's stats in `item-changes.md` once and
+  link to its row (anchor `<a id="..."></a>`); do not copy the stats onto the content page.
+- Add the content-type line (`**Content type:** [Renewal](whats-different.md#content-tags)`) under the title of each content page.
+- Item rows: unslotted by default (write `[n]` only when slotted), list monsters as `Name (`ID`)`, and leave Original blank when there
+  is nothing official to compare against.
 
 ## Repository Architecture
 
@@ -74,11 +79,11 @@ The site uses MkDocs admonitions for callout boxes. Preferred format:
 The navigation structure is defined in the `nav:` section of `mkdocs.yml`. When adding new pages:
 1. Create the markdown file in `docs/`
 2. Add the entry to the appropriate section in `nav:`
-3. Use emoji prefixes for consistency (e.g., `🎉`, `🧵`, `⚔️`)
+3. Use an emoji prefix (e.g., `🎉`, `🧵`, `⚔️`) that no other nav entry uses; the linter flags duplicates
 
 ### Custom Styling
 `docs/css/custom.css` contains page-specific styles:
-- `.class-changes-table` for `Class_Changes.md`
+- `.class-changes-table` for `class-changes.md`
 - `#main-features-cards` for feature cards
 - All styles use REM units (based on 16px) and CSS variables from the Material theme
 

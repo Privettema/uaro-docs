@@ -420,7 +420,7 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
             <tr>
                 <td>Fame System</td>
                 <td>Fame points earned are kept permanently. The top 10 ranked taekwon players are able to perform infinite combos and receive tripled Maximum HP and SP at level 90. Fame points are ignored if player changes job to Star Gladiator. Rankings can be checked with <code>@taekwon</code> in game.</td>
-                <td>Fame points decay by 10% per month, to support better game balance.</td>
+                <td>Fame points decay by 5% per month, to support better game balance.</td>
             </tr>
              <tr>
                 <td><img src="../img/Class_Changes/tk_mission.gif" alt="">Taekwon Mission</td>
@@ -450,12 +450,12 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
             <tr>
                 <td><img src="../img/Class_Changes/sg_feel.gif" alt="">Feeling of the Sun, Moon, and Stars</td>
                 <td>Permanently memorize a map for bonuses for "Place of the Sun", "Place of the Moon", and/or "Place of the Stars".</td>
-                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns.md/#locations">Prontera West inn</a> to reset Feeling for a fee.</td>
+                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns/#locations">Prontera West inn</a> to reset Feeling for a fee.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/sg_hate.gif" alt="">Hatred of the Sun, Moon, and Stars</td>
                 <td>Permanently memorize a monster for bonuses for "Target of the Sun", "Target of the Moon", or "Target of the Stars".</td>
-                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns.md/#locations">Prontera West inn</a> to reset Hatred for a fee.</td>
+                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns/#locations">Prontera West inn</a> to reset Hatred for a fee.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/sj_document.gif" alt="">Miracle of the Sun, Moon, and Stars</td>
