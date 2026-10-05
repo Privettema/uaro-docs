@@ -225,51 +225,26 @@ Blue Gems are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in
 A selection of arrows can be found at [Inn Tool Dealers](dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 ### Thief
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="../img/Class_Changes/tf_pickstone.png" alt="">Pick Stone</td>
-                <td>Cannot be used while overweight.</td>
-                <td>Can be used while overweight.</td>
-            </tr>
-        </tbody>
-    </table>
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| ![Pick Stone](img/Class_Changes/tf_pickstone.png)Pick Stone | Cannot be used while overweight. | Can be used while overweight. |
+
 </div>
 
 
 ### Assassin / Assassin Cross
 Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-             <tr>
-                <td><img src="../img/Class_Changes/asc_cdp.gif" alt="">Create Deadly Poison</td>
-                <td>SP cost 50 SP.</td>
-                <td>SP cost 10 SP.<br> HP Loss Mechanic: Removed (no longer lose HP on failure)<br> Mass Production: Up to 300 at a time </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/asc_edp.gif" alt="">Enchant Deadly Poison</td>
-                <td>Skill duration is 60 seconds.<br>Does not persist through logout.</td>
-                <td>Increased duration to 90 seconds.<br>Persists through logout.</td>
-            </tr>
-        </tbody>
-    </table>
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| ![Create Deadly Poison](img/Class_Changes/asc_cdp.gif)Create Deadly Poison | SP cost 50. | SP cost 10.<br>No longer lose HP on failure.<br>Mass production of up to 300 at a time. |
+| ![Enchant Deadly Poison](img/Class_Changes/asc_edp.gif)Enchant Deadly Poison | Duration is 60 seconds.<br>Does not persist through logout. | Duration increased to 90 seconds.<br>Persists through logout. |
+| Venom Dust | Consumes 1 Red Gemstone. | No longer consumes a Red Gemstone. |
+
 </div>
 
 
