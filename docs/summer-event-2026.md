@@ -254,7 +254,7 @@ His **stock rotates**, and he trades only in **Summer Festival Coins**.
     | <img src="../img/12103.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Bloody Branch | `200` |
     | Forest Summer Vacation *(costume)* | `250` |
     | Brownie Egg *(pet)* | `250` |
-    | <img src="../img/12210-1.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Bubble Gum | `300` |
+    | <img src="../img/12210.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Bubble Gum | `300` |
     | <img src="../img/20548.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Popping Poring Aura *(costume)* | `350` |
     | <img src="../img/480321.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Surf Board *(costume)* | `400` |
     | Summer Egg *(pet)* | `500` |

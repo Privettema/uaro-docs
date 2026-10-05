@@ -83,6 +83,8 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 | **Ninja Ammo Balance** | Cost and weight rebalanced for fairer gameplay. |
 | **Increased weight limit for rebirth** | Increased weight limit from 0 to 500. |
 | **On-Kill Drop Bonuses** | The 10 item cap on drop-on-kill items and cards is lifted. Duplicates of the same card or equipment still do not stack, only the highest chance applies. |
+| **Item Protection** | Costumes, pet eggs, cards, carded equipment, items refined to +4 or higher and some headgear can no longer be sold to NPCs or dropped. |
+| **Food Buff Stacking** | Foods of the same stat stack: the higher one is in effect and the lower one resumes when it ends. A higher tier food ends the lower one and starts at full duration. |
 
 
 ### Guild Refinements
