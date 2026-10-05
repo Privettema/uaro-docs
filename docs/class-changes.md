@@ -203,48 +203,18 @@ Blue Gems are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in
 </div>
 
 ### Monk / Champion
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="../img/Class_Changes/mo_extremityfist.gif" alt="">Asura Strike</td>
-                <td>HP/SP will not regenerate naturally for 5 minutes after Asura Strike is used.</td>
-                <td>SP regenerates normally upon relogging.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/ch_chaincrushcombo.png" alt="">Chain Crush Combo</td>
-                <td>SP cost 4-22.</td>
-                <td>SP cost reduced to 2-11 (spirit sphere cost unchanged).</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/ch_tigerfist.png" alt="">Glacier Fist</td>
-                <td>SP cost 4/6/8/10/12.</td>
-                <td>SP cost reduced to 2/3/4/5/6.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/ch_palmstrike.png" alt="">Raging Palm Strike</td>
-                <td>SP cost 2/4/6/8/10.</td>
-                <td>SP cost reduced to 1/2/4/6/8.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/mo_chaincombo.png" alt="">Raging Quadruple Blow</td>
-                <td>SP cost 11/12/13/14/15.</td>
-                <td>SP cost reduced to 2/4/6/8/10.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/mo_combofinish.png" alt="">Raging Thrust</td>
-                <td>SP cost 11/12/13/14/15.</td>
-                <td>SP cost reduced to 2/4/6/8/10.</td>
-            </tr>
-        </tbody>
-    </table>
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| ![Asura Strike](img/Class_Changes/mo_extremityfist.gif)Asura Strike | Natural SP recovery is disabled for 5 minutes after use, and relogging does not clear it. | SP regenerates normally after relogging. |
+| ![Chain Crush Combo](img/Class_Changes/ch_chaincrushcombo.png)Chain Crush Combo | SP cost 4-22. | SP cost reduced to 2-11 (spirit sphere cost unchanged). |
+| ![Glacier Fist](img/Class_Changes/ch_tigerfist.png)Glacier Fist | SP cost 4/6/8/10/12. | SP cost reduced to 2/3/4/5/6. |
+| ![Raging Palm Strike](img/Class_Changes/ch_palmstrike.png)Raging Palm Strike | SP cost 2/4/6/8/10. | SP cost reduced to 1/2/4/6/8. |
+| ![Raging Quadruple Blow](img/Class_Changes/mo_chaincombo.png)Raging Quadruple Blow | SP cost 11/12/13/14/15. | SP cost reduced to 2/4/6/8/10. |
+| ![Raging Thrust](img/Class_Changes/mo_combofinish.png)Raging Thrust | SP cost 11/12/13/14/15. | SP cost reduced to 2/4/6/8/10. |
+
 </div>
 
 
