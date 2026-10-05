@@ -109,7 +109,7 @@ Read a **Document Package** in the Archive Room to get a dig spot on a Midgard f
 
 A bad document read can leave you **Dizzy**, which locks the Archive Room for 6 hours.
 
-### Frede's Reques
+### Frede's Request
 
 A one-time quest that pays 3 Certificates. Start with **Frede** (`/navi dicastes01 117/262`, Base Level 70) and find his six missing friends in Scaraba Hole. Then bring **Bouy** (`/navi dic_in01 349/129`) 30 **Small Bradium** (`6319` dropped by Dolomedes (`2092`), 75%). After a 2 hour wait, deliver the refined ore to all six again.
 
