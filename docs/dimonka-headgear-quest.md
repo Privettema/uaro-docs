@@ -150,13 +150,13 @@ Dimonka is found in the [Main Office](main-office.md) and offers a unique select
 </tr>
 <tr>
 <td><img src="../img/5375.png" alt="Orc Hero Headdress [1]"><br>Orc Hero Headdress [1] (Large Orc Hero Helm [1])</td>
-<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 4000<br><img src="../img/968.png" alt="Heroic Emblem"> Heroic Emblem - 100<br><img src="../img/969.png" alt="Gold"> Gold - 20</td>
+<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 4000<br><img src="../img/968.gif" alt="Heroic Emblem"> Heroic Emblem - 100<br><img src="../img/969.gif" alt="Gold"> Gold - 20</td>
 <td>An Orc Hero's massive headgear.<br>Str +2<br>Adds 3% chance to autocast Level 3 Weapon Perfection when receiving physical damage.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 5<br><strong>Position</strong>: Upper, Middle<br><strong>Weight</strong>: 90<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
 <td><img src="../img/5324.png" alt="Little Angel Doll"><br>Little Angel Doll</td>
-<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 2000<br><img src="../img/7440.png" alt="Red Feather"> Red Feather - 50<br><img src="../img/6020.png" alt="Fur"> Fur - 50</td>
+<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 2000<br><img src="../img/7440.gif" alt="Red Feather"> Red Feather - 50<br><img src="../img/6020.png" alt="Fur"> Fur - 50</td>
 <td>Angelic protector that summons holy wrath on attackers.<br>Dex +3<br>Chance to cast Level 3 Grand Cross when hit by melee physical attack.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 2<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 30<br><strong>Level Requirement</strong>: 10<br><strong>Jobs</strong>: All</td>
 </tr>
@@ -240,7 +240,7 @@ Dimonka is found in the [Main Office](main-office.md) and offers a unique select
 </tr>
 <tr>
 <td><img src="../img/5502.png" alt="Necromancer's Hood"><br>Necromancer's Hood</td>
-<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/7442.png" alt="Cursed Seal"> Cursed Seal - 10<br><img src="../img/923.png" alt="Evil Horn"> Evil Horn - 50</td>
+<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/7442.png" alt="Cursed Seal"> Cursed Seal - 10<br><img src="../img/923.gif" alt="Evil Horn"> Evil Horn - 50</td>
 <td>The Deadly Necromancer's Essence is embodied in this Hood.<br>Add a 5% chance of auto casting Level 5 Dark Strike when player receives Physical Damage.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 2<br><strong>Position</strong>: Upper, Middle<br><strong>Weight</strong>: 10<br><strong>Level Requirement</strong>: 10<br><strong>Jobs</strong>: All</td>
 </tr>
