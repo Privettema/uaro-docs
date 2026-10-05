@@ -11,8 +11,6 @@ Distant dungeons don't have to mean long walks. The **Warpra** is a quest warper
 
 ## How It Works
 
-<img src="../img/NPC/warpra.gif" alt="Warpra NPC" align="left" />
-
 - **Warpra is in every city.** The locations are listed below.
 - **Unlock each warp once per account.** Speak to the **Warpra Helper** at the dungeon's entrance and the warp is saved for all your characters.
 - **Each teleport costs `5,000z`.**
@@ -20,7 +18,11 @@ Distant dungeons don't have to mean long walks. The **Warpra** is a quest warper
 
 ## Warpra Locations
 
-??? note "Warpra can be found in Midgard Cities. Click to expand"
+![Warpra](img/NPC/warpra.gif)
+
+Warpra can be found in all cities near the local Kafra.
+
+??? note "Click to expand full list of locations"
     | Town | Coordinates |
     |---|---|
     | Prontera   | `/navi prontera 160/191` |
@@ -49,9 +51,9 @@ Distant dungeons don't have to mean long walks. The **Warpra** is a quest warper
 
 ## Warpra Helper Locations
 
-The **Warpra Helper** is at the coordinates below. Speak to them to save the warp **for all characters on your account**.
-
 ![Warpra Helper](img/NPC/warpra-helper.gif)
+
+The **Warpra Helper** is at the coordinates below. Speak to them to save the warp **for all characters on your account**.
 
 | Location Name | Location Coordinates | Location on Map |
 |---|---|---|
@@ -63,7 +65,6 @@ The **Warpra Helper** is at the coordinates below. Speak to them to save the war
 | **Moscovia Dungeon** | `/navi mosk_dun01 195/270` | ![Moscovia dungeon](img/Mosc_dun01.png) |
 | **Nameless Island<br>(Abbey)** | `/navi nameless_n 158/179` | ![Nameless Island](img/NamelessIsland.png) |
 | **Rachel Sanctuary** | `/navi ra_san01 133/139` | ![Rachel Sanctuary](img/RachelSanctuary.png) |
-| **Midgard Expedition Camp<br>(New World)** | `/navi mid_camp 186/242` | ![Midgard camp](img/MIdgardCamp.png) |
 | **Nidhogg's Dungeon<br>(New World)** | `/navi nyd_dun01 141/150` | ![Nidhogg's Dungeon](img/Nidhogg's_Dungeon.png) |
 | **Abyss Lake Dungeon** | `/navi hu_fild05 163/308` | ![Abyss Lake Dungeon Entrance](img/AbbLakeWarpr.png) |
 | **Morroc Field<br>(Dimensional Gorge)** | `/navi moc_fild21 30/214` | ![Morroc Field](img/Morocc-Warpr.png) |

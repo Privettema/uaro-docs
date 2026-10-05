@@ -24,7 +24,7 @@ Completing these quests will take you to El Dicastes and unlock local quests the
 2. [Finding a Fairy](https://irowiki.org/classic/Finding_a_Fairy)
 3. Two of these four: [Attitude to the New World](https://irowiki.org/classic/Attitude_to_the_New_World), [Report from the New World](https://irowiki.org/classic/New_Surroundings), [Tripatriate Union's Feud](https://irowiki.org/classic/Tripatriate_Union%27s_Feud) or [Pursuing Rayan Moore](https://irowiki.org/classic/Pursuing_Rayan_Moore)
 4. [Ring of the Ancient Wise King](https://irowiki.org/classic/Ring_of_the_Wise_King)
-5. [Sapha's Visit](https://irowiki.org/wiki/Sapha%27s_Visit), up to step 7. The quest has more steps, but step 7 is as far as you need to go to continue
+5. [Sapha's Visit](https://irowiki.org/wiki/Sapha%27s_Visit), up to step 7
 
 !!! warning "Possible Quest Differences"
     Some content from external guides may vary on uaRO, especially modified renewal content.
