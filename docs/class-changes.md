@@ -14,7 +14,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
 | Skill | Original | uaRO Changes |
 |-|-|-|
 | Party Buff Animations | Buffs from party members play their full animation delay on every recipient. | Delay removed for party members, so the buff lands instantly with the effect and a floating skill name. The caster still sees the full animation.<br>Covers Angelus, Magnificat, Gloria, Wind Walk, Adrenaline Rush, Full Adrenaline Rush, Weapon Perfection, Over Thrust, Help Angel, and the Blessing, Increase AGI and Assumptio scrolls. |
-| Reflected Damage | Reflects the listed percentage of damage taken. | Reflected damage cannot exceed the HP of the skill's user. |
+| Reflected Damage | Reflects the listed percentage of damage taken, with no limit. | Reflected damage cannot exceed the max HP of the skill's user. For example, with 5,000 max HP, an attack for 10,000 reflects at most 5,000. |
 | Safety Wall | Players inside can reflect damage with reflect skills. | Players inside cannot reflect damage with reflect skills. |
 | ![Fury / Critical Explosion](img/skill_270.png)Fury / Critical Explosion | Natural SP recovery is disabled while in Fury. | Natural HP and SP recovery work while in Fury.<br>Does not apply to Monk or Champion. Other characters, such as those who get Fury from an item, benefit from the change. |
 | ![Teleport](img/Class_Changes/al_teleport.gif)Teleport | Teleports to a random spot on the same map. | Cannot land on a map portal. |
