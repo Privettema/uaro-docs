@@ -66,7 +66,7 @@ day - that sends you across Rune-Midgarts to restore her late husband's cookbook
 | 4 | Prontera | <img src="../img/12215.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **AGI Scroll**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
 | 5 | Morroc | <img src="../img/7621.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Token of Siegfried**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
 | 6 | Aldebaran | <img src="../img/7869.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Ingredient Pouch**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
-| 7 | Prontera (Finale) | <img src="../img/12210-1.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bubble Gum**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
+| 7 | Prontera (Finale) | <img src="../img/12210.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bubble Gum**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
 
 !!! tip "Gathering Materials"
     Each day requires gathering materials from monsters - the NPCs will tell you what
@@ -148,7 +148,7 @@ A traveling merchant appears in **one random town** for `2-3` hours, then vanish
 | <img src="../img/617.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Violet Box** | `50` |
 | <img src="../img/12208.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Battle Manual** | `50` |
 | <img src="../img/616.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Card Album** | `150` |
-| <img src="../img/12210-1.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bubble Gum** | `300` |
+| <img src="../img/12210.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bubble Gum** | `300` |
 | <img src="../img/12103.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bloody Dead Branch** | `250` |
 | <img src="../img/9092.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Eggring Egg** | `300` |
 | <img src="../img/9170.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Angelgolt Egg** | `400` |
