@@ -123,38 +123,15 @@ Status effects that behave differently from the official game.
 
 ## Merchant
 
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="../img/Class_Changes/mc_cartrevolution.gif" alt="">Cart Revolution</td>
-                <td>Putting items in your cart increases the damage by up to 100% more (1% per 80 weight as it has 8000 weight max).</td>
-                <td>Cart assumes max weight regardless of cart weight.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/mc_changecart.png" alt="">Change Cart 2</td>
-                <td>Change Cart has one level.</td>
-                <td>Platinum skill that adds a second level to support additional cart styles. The Platinum Skill NPC re-grants it after a skill reset, so unlocked cart styles are not lost.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/mc_mammonite.gif" alt="">Mammonite</td>
-                <td>Uses 100-1000z to increase ATK for the next attack.</td>
-                <td>Reduced price to maximum of 500z while possessing <a href="#bag-of-gold-coins">Bag of Gold Coins</a> within inventory.<br> Cost removed entirely once the <a href="#bag-of-gold-coins">Avarice</a> platinum skill is learned.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/mc_vending.gif" alt="">Vending</td>
-                <td>N/A.</td>
-                <td>After closing your shop, you now get a cleaner summary showing:<br> - What sold<br> - How much zeny you earned<br> - What's left in your cart<br> Easier to track your merchant profits!</td>
-            </tr>
-        </tbody>
-    </table>
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| ![](img/Class_Changes/mc_cartrevolution.gif)Cart Revolution | Damage increases by up to 100% with cart weight (1% per 80 weight, 8,000 maximum). | Cart assumes max weight regardless of actual cart weight. |
+| ![](img/Class_Changes/mc_changecart.png)Change Cart 2 | | Platinum skill that adds a second level to support additional cart styles. The Platinum Skill NPC re-grants it after a skill reset, so unlocked cart styles are not lost. |
+| ![](img/Class_Changes/mc_mammonite.gif)Mammonite | Costs 100z per skill level (100-1,000z). | Maximum cost reduced to 500z while you carry a [Bag of Gold Coins](#bag-of-gold-coins).<br>Cost removed entirely once the [Avarice](#bag-of-gold-coins) platinum skill is learned. |
+| ![](img/Class_Changes/mc_vending.gif)Vending | N/A | After closing your shop, you get a cleaner summary showing what sold, how much zeny you earned, and what's left in your cart. |
+
 </div>
 
 ### Blacksmith / Whitesmith
