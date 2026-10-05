@@ -116,6 +116,7 @@ Items, weapons and armor that work differently from the official game. See [What
 | Home Cooking Kit | 12126 | Consumed when used | Not consumed until a craft is attempted |
 | Infinite Butterfly Wing | 52283 |  | Works like a Butterfly Wing: unusable during duels and on no-return maps<br><br>Acquisition: Exchanged at Lydia (`/navi prt_in 38/105`) |
 | Infinite Fly Wing | 12887 | Cannot be used while Berserked | Can be used while Berserked |
+| Item Use Delay | | No delay between using items | 50 milliseconds between using items |
 | Iron Hammer | 613 | Consumed when used | Not consumed until a craft is attempted |
 | Novice Fly Wing | 12323 | Cannot be used while Berserked | Can be used while Berserked |
 | Oridecon Hammer | 615 | Consumed when used | Not consumed until a craft is attempted |
