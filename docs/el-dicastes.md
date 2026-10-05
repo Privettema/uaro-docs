@@ -123,10 +123,10 @@ Certificates are spent on enchanting four bound items.
 
 | Item | Equip | Enchanter | Acquisition | Binding |
 |---|---|---|---|---|
-| Light of El Dicastes | Accessory | Kareka<br>(`/navi dic_in01 353/37`) | Adventure Clerk Rhawyne<br>(`/navi dic_in01 42/264`) | Character |
+| <img src="../img/2844.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Light of El Dicastes | Accessory | Kareka<br>(`/navi dic_in01 353/37`) | Adventure Clerk Rhawyne<br>(`/navi dic_in01 42/264`) | Character |
 | <img src="../img/2463.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feral Boots | Shoes | Jalapeno<br>(`/navi dic_fild01 240/198`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`)| Account |
 | <img src="../img/2564.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feral Tail | Garment | Mancho<br>(`/navi dic_fild01 259/172`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
-| Golden Trinket | Accessory | Brare<br>(`/navi dic_fild01 251/183`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
+| <img src="../img/2842.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Golden Trinket | Accessory | Brare<br>(`/navi dic_fild01 251/183`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
 
 These items cannot be refined, traded, put in a cart, put in guild storage, mailed or sold. Light of El Dicastes also cannot be stored.
 
