@@ -66,7 +66,7 @@ Status effects that behave differently from the official game.
 | Shield Swapping | Swapping a shield while a skill is active cancels the skill. | Swapping shields no longer interrupts the skill. Removing the shield still cancels the skill. |
 | ![Devotion](img/Class_Changes/cr_devotion.gif)Devotion | Skill is usable on party members, including non-guild members.<br>No buff icon. | Cannot be placed on non-guild members outside of Battlegrounds.<br>Adds a buff icon for both the caster and the receiver while the skill is active. |
 | ![Grand Cross](img/Class_Changes/cr_grandcross.gif)Grand Cross | Hits 1-5 times, depending on the position and movement of the enemy. Each monster on a single cell reduces the number of hits by 1 (to a minimum of one hit to one monster). | Mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range. |
-| ![Shield Reflect](img/Class_Changes/cr_reflectshield.gif)Shield Reflect | Returns a percentage of the damage dealt to you back to the enemy, including Boss-type monsters (MVPs). | The amount of damage reflected cannot be greater than the HP of the wearer.<br>Reflect damage no longer affects Boss-type monsters (MVPs). |
+| ![Shield Reflect](img/Class_Changes/cr_reflectshield.gif)Shield Reflect | Returns a percentage of the damage dealt to you back to the enemy, including Boss-type monsters (MVPs). | Reflect damage no longer affects Boss-type monsters (MVPs). |
 
 </div>
 
@@ -259,7 +259,6 @@ Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-deal
 | ![Chase Walk](img/Class_Changes/st_chasewalk.gif)Chase Walk | After a delay of 10 seconds, it increases STR for 30 seconds. | Delay reduced to 5 seconds. |
 | ![Plagiarism](img/Class_Changes/rg_plagiarism.gif)Plagiarism | Skills must be copied from another player. | The [Plagiarism NPC](custom-npc.md) lets Rogues and Stalkers copy skills for a fee, and refuses the trade while Preserve is active.<br>A skill you already know can be overwritten when a higher Level is offered, including with normal in-combat Plagiarism. |
 | ![Preserve](img/Class_Changes/st_preserve.gif)Preserve | Duration of 10 minutes.<br>Does not persist through logout. | Infinite duration. Becomes an on/off toggle.<br>Persists through logout. |
-| ![Reject Sword](img/Class_Changes/st_rejectsword.gif)Reject Sword | Parry 3 attacks from an enemy and receive only half of the damage. | The amount of damage reflected cannot be greater than the HP of the wearer. |
 
 </div>
 
