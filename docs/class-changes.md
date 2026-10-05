@@ -57,46 +57,16 @@ Status effects that behave differently from the official game.
 
 
 ### Crusader / Paladin
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Shield Swapping</td>
-                <td>Swapping a shield while a skill is active cancels the skill.</td>
-                <td>Swapping shields will no longer interrupt the skill. Removing shield will still cancel the skill.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/cr_devotion.gif" alt="">Devotion</td>
-                <td>Skill is usable on party members, including non-guild members.</td>
-                <td>
-                    Cannot be placed on non-guild members outside of Battlegrounds.<br><br>
-                    Added a buff icon when skill is active for both caster and receiver.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/pa_gospel.gif" alt="">Gospel</td>
-                <td>Buff persists through log out.</td>
-                <td>Buffs reset upon relog.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/cr_grandcross.gif" alt="">Grand Cross</td>
-                <td>Grand Cross hits 1-5 times, depending highly on position and movement of enemy/enemies. When one or more monsters are on a single cell of GC, the number of hits are reduced by 1 per monster (to a minimum of one hit to one monster).</td>
-                <td>Due to increased mob stack size, mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/cr_reflectshield.gif" alt="">Shield Reflect</td>
-                <td>Returns some damage dealt to you back to the enemy. Reflected damage a percentage of received damage.</td>
-                <td>The amount of damage reflected cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is within a Safety Wall.<br> Reflect damage no longer affects Boss-type monsters (MVPs).</td>
-            </tr>
-        </tbody>
-    </table>
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Shield Swapping | Swapping a shield while a skill is active cancels the skill. | Swapping shields no longer interrupts the skill. Removing the shield still cancels the skill. |
+| ![](img/Class_Changes/cr_devotion.gif)Devotion | Skill is usable on party members, including non-guild members. | Cannot be placed on non-guild members outside of Battlegrounds.<br>Adds a buff icon when the skill is active, for both the caster and the receiver. |
+| ![](img/Class_Changes/cr_grandcross.gif)Grand Cross | Hits 1-5 times, depending highly on the position and movement of the enemy. Each monster on a single cell reduces the number of hits by 1 (to a minimum of one hit to one monster). | Due to the increased mob stack size, mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range. |
+| ![](img/Class_Changes/cr_reflectshield.gif)Shield Reflect | Returns a percentage of the damage dealt to you back to the enemy. | The amount of damage reflected cannot be greater than the amount of HP the wearer has.<br>Reflect damage no longer affects Boss-type monsters (MVPs). |
+
 </div>
 
 
