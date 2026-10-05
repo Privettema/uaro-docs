@@ -2,6 +2,8 @@
 
 Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen Scaraba** and a handful of drops found nowhere else in the New World.
 
+**Content type:** [Renewal](whats-different.md#content-tags)
+
 ## Getting There
 
 - **On foot:** Enter the Kamidal Tunnel (`dic_dun01`) from `/navi dic_fild01 26/77`.
@@ -32,13 +34,15 @@ Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen
 
 The following items drop only in Scaraba Hole.
 
+How [Imperial Spear](item-changes.md#imperial-spear), [Imperial Guard](item-changes.md#imperial-guard), [Alca Bringer](item-changes.md#alca-bringer), [Two-Handed Chrome Metal Sword](item-changes.md#two-handed-chrome-metal-sword) and [Bone Plate](item-changes.md#bone-plate) differ from the official versions is on [Item Changes](item-changes.md).
+
 | Item | Item ID | Description | Drops From (Rate) |
 |-|-|-|-|
 | Forbidden Grimoire [1] | `28984` | Sage shield, Def 5, Level 90<br>ASPD +5%, INT +2<br>At +7 or higher, increases damage of Magic Elemental Earth Skills by 20%<br>With a Death Note, +1% MATK per refine of the Death Note and -10% cast time at +10 | Two-Horned Scaraba (0.05%) |
 | Ghost Whisper [1] | `400396` | Assassin headgear, Def 3, Level 90<br>STR +3<br>At +7 or higher, +10% Meteor Assault damage<br>At +9 or higher, STR +2 and a further +10% Meteor Assault damage | Antler Scaraba (0.05%) |
 | <img src="../img/1433.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Imperial Spear [1] | `1433` | Crusader spear, Atk 220, Level 85<br>+20% Shield Boomerang and Shield Charge damage, plus +1% each per refine | One-Horned Scaraba (0.10%) |
 | <img src="../img/2153.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Imperial Guard [1] | `2153` | Crusader shield, Def 6, Level 85<br>MDEF +5<br>+20% Shield Chain damage, plus +1% per refine<br>At +8 or higher, halves Shield Chain cast time<br>With Imperial Spear, Shield Chain costs 20 less SP | Rake Scaraba Egg (0.05%) |
-| <img src="../img/15000.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Bone Plate | `15000` | Armor<br>Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera | Rake Scaraba (0.10%) |
+| <img src="../img/15000.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Bone Plate | `15000` | Armor<br>Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) | Rake Scaraba (0.10%) |
 | <img src="../img/4505.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Scaraba Card | `4505` | Card | All four adult Scaraba (0.05%) |
 
 ## Queen Scaraba

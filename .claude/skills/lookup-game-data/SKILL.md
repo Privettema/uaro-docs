@@ -22,15 +22,20 @@ uses the same sources every day.
    the default for "Official" behavior, because uaRO is pre-renewal.
    Files: `db/pre-re/skill_db.conf`, `db/pre-re/skill_tree.conf`,
    `db/pre-re/item_db.conf`, `db/pre-re/mob_db.conf`.
-4. **rAthena** (`rathena/rathena`, branch `master`). Use it for renewal
-   content (uaRO only counts renewal content where it added it) and as a
-   second opinion. It has `db/pre-re/` and `db/re/` folders.
-5. **Classic wiki** (irowiki.org/classic, already linked from Class Changes)
+4. **Hercules, renewal** (same repo, `db/re/` with the same file names). If an item
+   or skill has no pre-re entry, it is renewal content: check here next and write
+   the renewal values in the "Original" column. Not every renewal item is in it.
+5. **rAthena** (`rathena/rathena`, branch `master`). Use it for renewal
+   content missing from Hercules `db/re/` and as a second opinion. It has
+   `db/pre-re/` and `db/re/` folders (YAML, `item_db_equip.yml`, `item_db_etc.yml`).
+   Hercules and rAthena renewal values sometimes differ (for example Cannon
+   Spear, Old Parasol, Celine's Ribbon). Prefer Hercules and say when they differ.
+6. **Classic wiki** (irowiki.org/classic, already linked from Class Changes)
    for human-readable skill descriptions. Its URLs often redirect to older
    names and 404 on guesses, so treat a fetched summary as provisional and
    confirm against Hercules.
 
-Hercules and rAthena show the **Official** value. They never show what uaRO
+Hercules and rAthena show the **Official** value (renewal values count as official when pre-re has no entry). They never show what uaRO
 changed. Values in "uaRO Changed Behavior" come from the patch notes.
 
 ## Fetching emulator files
