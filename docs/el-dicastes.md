@@ -1,6 +1,6 @@
 # El Dicastes
 
-**El Dicastes** is the capital of Sapha, a city of daily quests that pay in **Sapha Certificates**. The certificates are spent on enchanting four bound items. Beneath the city lies [Scaraba Hole](scaraba-hole.md).
+**El Dicastes** is the capital of Sapha, a city of daily quests that pay in **Sapha Certificates**. The certificates are spent on enchanting unique equipment. Beneath the city lies [Scaraba Hole](scaraba-hole.md).
 
 !!! info "Quick Facts"
     - **Currency:** Sapha Certificates, earned from quests
@@ -62,7 +62,8 @@ Certain steps of [Doha's Secret Orders](https://irowiki.org/wiki/Doha%27s_Secret
 |---|---|
 | 7 | Scaraba Hole Level 2 |
 | 8 | Cat Merchant Enchantments |
-| 20 (quest complete) | 9 Unidentified Relics and the Cheshire's Call daily quest |
+| 20 | Cheshire's Call daily quest |
+| Complete | x9 Unknown Relics (`6308`) |
 
 !!! warning "Quest Differences"
     You will not receive a Bradium Brooch or Dragon's Manteau for completing Doha's Orders.
@@ -110,7 +111,7 @@ A bad document read can leave you **Dizzy**, which locks the Archive Room for 6 
 
 ### Frede's Request
 
-A one-time quest that pays 3 Certificates. Start with **Frede** (`/navi dicastes01 117/262`, Base Level 70) and find his six missing friends in Scaraba Hole. Then bring **Bouy** (`/navi dic_in01 349/129`) 30 **Small Bradium** (Dolomedes, 75%). After a 2 hour wait, deliver the refined ore to all six again.
+A one-time quest that pays 3 Certificates. Start with **Frede** (`/navi dicastes01 117/262`, Base Level 70) and find his six missing friends in Scaraba Hole. Then bring **Bouy** (`/navi dic_in01 349/129`) 30 **Small Bradium** (`6319` dropped by Dolomedes (`2092`), 75%). After a 2 hour wait, deliver the refined ore to all six again.
 
 One of Frede's friends is on the lower floor of Scaraba Hole, which stays locked until "Doha's Secret Orders" has progressed far enough.
 
@@ -131,15 +132,14 @@ These items cannot be refined, traded, put in a cart, put in guild storage, mail
 
 ### Enchanting with Kareka
 
-**Kareka** (`/navi dic_in01 353/37`) only enchants the Light of El Dicastes, and you must wear the Ring of the Ancient Wise King.
+**Kareka** (`/navi dic_in01 353/37`) only enchants the Light of El Dicastes. You must wear the Ring of the Ancient Wise King to speak with him.
 
 | Step | Cost | Result |
 |---|---|---|
 | Layer 1 | 1 Certificate | 20% fail, item safe |
 | Layer 2 | 2 Certificates | 20% fail, item safe |
 | Layer 3 | 3 Certificates | 20% fail, item safe |
-| Add a socket | 60 Certificates | Never fails |
-| Reset | 6 Certificates | Strips enchants, card, and socket |
+| Reset | 6 Certificates | Strips enchants, item safe |
 
 ### Enchanting with the Cat Merchants
 
@@ -150,8 +150,11 @@ The cat merchants enchant the Feral Boots, Feral Tail and Golden Trinket, and th
 | Layer 1 | 1 Certificate | 10% fail, item safe |
 | Layer 2 | 2 Certificates | 10% fail, item safe |
 | Layer 3 | 3 Certificates | 20% chance it destroys the item |
-| Add a socket | 60 Certificates | Never fails |
+| Add a socket | 60 Certificates | Never fails, item safe |
 | Reset | Free | Destroys the item |
+
+!!! danger "Some Cat Merchant failures can destroy the item"
+    A failed third layer or a reset at the cat merchants destroys the item, including its socket and any card. Finish all three layers before adding a socket. 
 
 ### Stats
 
@@ -165,6 +168,3 @@ The first layer rolls ATK, MATK, Critical or Flee, the second adds +1 or +2 to A
 | Flee +6 or 12 | - | - |
 
 \* Only Feral Boots and Feral Tail have a chance to roll +3.
-
-!!! danger "Cat Merchant Failures Destroy the Item"
-    A failed third layer or a reset at the cat merchants destroys the item, including its socket and any card. Finish all three layers before adding a socket. Kareka's reset is safe.
