@@ -76,76 +76,30 @@ Status effects that behave differently from the official game.
 ## Mage
 
 ### Mage
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="../img/Class_Changes/mg_napalmbeat.gif" alt="">Napalm Beat</td>
-                <td>Damage is split between the targets it hits.</td>
-                <td>Full damage applies to each monster hit.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/mg_soulstrike.gif" alt="">Soul Strike</td>
-                <td>5% MATK per level.</td>
-                <td>7% MATK per level.</td>
-            </tr>
-        </tbody>
-    </table>
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| ![](img/Class_Changes/mg_napalmbeat.gif)Napalm Beat | Damage is split between the targets it hits. | Full damage applies to each monster hit. |
+| ![](img/Class_Changes/mg_soulstrike.gif)Soul Strike | 5% MATK per level. | 7% MATK per level. |
+
 </div>
 
 
 
 ### Wizard / High Wizard
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="../img/Class_Changes/hw_magicpower.gif" alt="">Amplify Magic Power</td>
-                <td>Increases MATK for the next instance of magical damage dealt. Does not include multiple ticks.</td>
-                <td>Modified to increase MATK for each tick AoE spells Meteor Storm, Storm Gust, and Lord of Vermillion.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/wz_icewall.gif" alt="">Ice Wall</td>
-                <td>Cannot be used in GvG, Battlegrounds, Endless Tower, or Nidhoggur's Nest.</td>
-                <td>Additionally cannot be used on MVP maps. </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/hw_magiccrasher.png" alt="">Magic Crasher</td>
-                <td>Physical attack that deals damage based on MATK instead of ATK, reduced by the target's DEF. Uses the weapon's element.</td>
-                <td>Pierces 75% of the DEF of non-player monsters and damage is doubled. Cards still apply, as does the active element on the weapon (converters/scrolls).</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/wz_sightrasher.gif" alt="">Sightrasher</td>
-                <td>
-                    Range of 15x15 cells.<br>
-                    Moves through obstacles including walls.
-                </td>
-                <td>
-                    Reduced range to 7x7 cells.<br> 
-                    Cannot go through obstacles or walls. (Exception Bio 3/4)
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/wz_stormgust.png" alt="">Storm Gust</td>
-                <td>9x9 Diameter Circle Reticule</td>
-                <td>10x10 Diameter Circle Reticule</td>
-            </tr>
-        </tbody>
-    </table>
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| ![](img/Class_Changes/hw_magicpower.gif)Amplify Magic Power | Increases MATK for the next instance of magical damage dealt. Does not include multiple ticks. | Increases MATK for each tick of the AoE spells Meteor Storm, Storm Gust, and Lord of Vermilion. |
+| ![](img/Class_Changes/wz_icewall.gif)Ice Wall | Cannot be used in GvG, Battlegrounds, Endless Tower, or Nidhoggur's Nest. | Additionally cannot be used on MVP maps. |
+| ![](img/Class_Changes/hw_magiccrasher.png)Magic Crasher | Physical attack that deals damage based on MATK instead of ATK, reduced by the target's DEF. Uses the weapon's element. | Pierces 75% of the DEF of non-player monsters and damage is doubled. Cards still apply, as does the active element on the weapon (converters/scrolls). |
+| ![](img/Class_Changes/wz_sightrasher.gif)Sightrasher | Damages targets through obstacles and walls. | Cannot go through obstacles or walls (exception: Biolabs 3/4). |
+| ![](img/Class_Changes/wz_stormgust.png)Storm Gust | 9x9 cell area. | 10x10 cell area. |
+
 </div>
 
 
