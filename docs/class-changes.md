@@ -5,7 +5,7 @@ In the tables below, Original is the official pre-renewal behavior and uaRO Chan
 
 For full reference on unmodified pre-renewal skills, you can [visit the external classic wiki](https://irowiki.org/classic/Main_Page).
 
-<!-- Dev Note: Alt text is excluded from images because it would announce duplicate skill names to screen readers. Instead, use blank alt="" for the decorative image to be skipped by assistive technology. -->
+<!-- Dev Note: Skill icons in the converted tables use the skill name as alt text for now, which the style linter requires. Screen readers may announce the name twice, so this is to be revisited. Tables not yet converted still use a blank alt="" so the decorative image is skipped. -->
 
 ## General / Shared
 
@@ -64,9 +64,9 @@ Status effects that behave differently from the official game.
 | Skill | Original | uaRO Changes |
 |-|-|-|
 | Shield Swapping | Swapping a shield while a skill is active cancels the skill. | Swapping shields no longer interrupts the skill. Removing the shield still cancels the skill. |
-| ![Devotion](img/Class_Changes/cr_devotion.gif)Devotion | Skill is usable on party members, including non-guild members. | Cannot be placed on non-guild members outside of Battlegrounds.<br>Adds a buff icon when the skill is active, for both the caster and the receiver. |
+| ![Devotion](img/Class_Changes/cr_devotion.gif)Devotion | Skill is usable on party members, including non-guild members.<br>No buff icon. | Cannot be placed on non-guild members outside of Battlegrounds.<br>Adds a buff icon for both the caster and the receiver while the skill is active. |
 | ![Grand Cross](img/Class_Changes/cr_grandcross.gif)Grand Cross | Hits 1-5 times, depending on the position and movement of the enemy. Each monster on a single cell reduces the number of hits by 1 (to a minimum of one hit to one monster). | Mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range. |
-| ![Shield Reflect](img/Class_Changes/cr_reflectshield.gif)Shield Reflect | Returns a percentage of the damage dealt to you back to the enemy. | The amount of damage reflected cannot be greater than the amount of HP the wearer has.<br>Reflect damage no longer affects Boss-type monsters (MVPs). |
+| ![Shield Reflect](img/Class_Changes/cr_reflectshield.gif)Shield Reflect | Returns a percentage of the damage dealt to you back to the enemy, including Boss-type monsters (MVPs). | Reflect damage no longer affects Boss-type monsters (MVPs). |
 
 </div>
 
@@ -114,7 +114,7 @@ Status effects that behave differently from the official game.
 | ![Abracadabra](img/Class_Changes/sa_abracadabra.gif)Abracadabra | Can be used anywhere excluding WoE: SE. | Can no longer be used in towns. |
 | ![Auto Spell](img/Class_Changes/sa_autospell.gif)Auto Spell | Maximum Level of the spell varies from 1-3 based on the skill Level. Cast chance varies by level used. | Casts up to Level 5 bolts of all elements at skill Level 4 or higher.<br>When a bolt triggers, it casts the maximum Level you have learned, up to Level 5 (non-Linked).<br>Offers Earth Spike instead of Frost Diver: Level 1 from Auto Spell Level 2, Level 2 at Level 3, and Level 5 from Level 4 onward (always Level 5 under Sage Spirit). Frost Diver is removed from the list. |
 | ![Create Elemental Converter](img/Class_Changes/sa_createcon.png)Create Elemental Converter | Crafts one converter at a time. | Mass production of up to 300 at a time. |
-| ![Mind Breaker](img/Class_Changes/pf_mindbreaker.gif)Mind Breaker | Lowers the target's soft MDEF (the flat reduction from INT) by 12% per level. | Reduces the target's hard MDEF (the percentage reduction from equipment) everywhere except WoE and GvG castles, where it keeps reducing soft MDEF (the flat reduction from INT).<br>Adds a debuff icon for the receiver and updates stats to show the impact. |
+| ![Mind Breaker](img/Class_Changes/pf_mindbreaker.gif)Mind Breaker | Lowers the target's soft MDEF (the flat reduction from INT) by 12% per level.<br>No debuff icon. | Reduces the target's hard MDEF (the percentage reduction from equipment) everywhere except WoE and GvG castles, where it keeps reducing soft MDEF (the flat reduction from INT).<br>Adds a debuff icon for the receiver and updates stats to show the impact. |
 
 </div>
 
@@ -131,7 +131,7 @@ Status effects that behave differently from the official game.
 | ![Cart Revolution](img/Class_Changes/mc_cartrevolution.gif)Cart Revolution | Damage increases by up to 100% with cart weight (1% per 80 weight, 8,000 maximum). | Cart assumes max weight regardless of actual cart weight. |
 | ![Change Cart 2](img/Class_Changes/mc_changecart.png)Change Cart 2 | | Platinum skill that adds a second level to support additional cart styles. The Platinum Skill NPC re-grants it after a skill reset, so unlocked cart styles are not lost. |
 | ![Mammonite](img/Class_Changes/mc_mammonite.gif)Mammonite | Costs 100z per skill level (100-1,000z). | Maximum cost reduced to 500z while you carry a [Bag of Gold Coins](#bag-of-gold-coins).<br>Cost removed entirely once the [Avarice](#bag-of-gold-coins) platinum skill is learned. |
-| ![Vending](img/Class_Changes/mc_vending.gif)Vending | | After closing your shop, you get a cleaner summary showing what sold, how much zeny you earned, and what's left in your cart. |
+| ![Vending](img/Class_Changes/mc_vending.gif)Vending | | After closing your shop, you get a summary showing what sold, how much zeny you earned, and what's left in your cart. |
 
 </div>
 
@@ -146,7 +146,7 @@ Status effects that behave differently from the official game.
 | ![Adrenaline Rush](img/Class_Changes/bs_adrenaline.gif)Adrenaline Rush | Increases attack speed with Mace and Axe weapons. | One-Handed Swords can also be used. |
 | ![Cart Termination](img/Class_Changes/ws_carttermination.gif)Cart Termination | Costs 600z to 1,500z. Damage depends on cart weight. | Cart assumes max weight regardless of cart weight.<br>Cost is 0z in Battlegrounds.<br>Cost reduced to 500z while you carry a [Bag of Gold Coins](#bag-of-gold-coins).<br>Cost removed entirely once the [Avarice](#bag-of-gold-coins) platinum skill is learned. |
 | ![Maximum Power Thrust](img/Class_Changes/ws_overthrustmax.gif)Maximum Power Thrust | 0.1% chance to break your weapon with each hit.<br>Does not persist through logout. | No longer breaks weapons.<br>Persists through logout. |
-| ![Melt Down](img/Class_Changes/ws_meltdown.gif)Melt Down | Cast time of 0.5 seconds to 1 second by Level. Duration of 15 seconds to 60 seconds. SP cost of 50 to 90. Chance to break the target's weapon and armor. | No cast time. SP cost capped at 50 at any Level.<br>Duration of 25 seconds at Level 1, scaling up to 150 seconds at Level 10 to match Adrenaline Rush.<br>On hit, applies a 5 second debuff (100% rate) to PvE targets, reducing the target's DEF and the monster's ATK by 35%. Hitting again within the 5 seconds refreshes it. It procs on normal attacks and skills, and works with Cart Termination.<br>Does not work on MVPs, but affects mini-boss monsters.<br>Equipment breaking in PvP is unchanged. |
+| ![Melt Down](img/Class_Changes/ws_meltdown.gif)Melt Down | No debuff on the target.<br>Cast time of 0.5 seconds to 1 second by Level. Duration of 15 seconds to 60 seconds. SP cost of 50 to 90. Chance to break the target's weapon and armor. | No cast time. SP cost capped at 50 at any Level.<br>Duration of 25 seconds at Level 1, scaling up to 150 seconds at Level 10 to match Adrenaline Rush.<br>On hit, applies a 5 second debuff (100% rate) to PvE targets, reducing the target's DEF and the monster's ATK by 35%. Hitting again within the 5 seconds refreshes it. It procs on normal attacks and skills, and works with Cart Termination.<br>Does not work on MVPs, but affects mini-boss monsters.<br>Equipment breaking in PvP is unchanged. |
 | ![Power Thrust](img/Class_Changes/bs_overthrust.gif)Power Thrust | 0.1% chance to break your weapon with each hit. | No longer breaks weapons. |
 | ![Repair Weapon](img/Class_Changes/bs_repairweapon.png)Repair Weapon | Repairs broken weapons. | Also repairs broken armor, using Steel. |
 
@@ -160,13 +160,13 @@ Status effects that behave differently from the official game.
 | Skill | Original | uaRO Changes |
 |-|-|-|
 | Fame System | Fame points (used for class rankings) are kept permanently. | Fame points (used for class rankings) decay by 5% per month. |
-| ![Bio Cannibalize](img/Class_Changes/am_cannibalize.gif)Bio Cannibalize | At most 3 Flora, 2 Parasites or 1 Geographer can be out at once (6 minus the skill level). | Increased plant count of Flora, Parasite and Geographer on non-PvP maps for improved PvE viability. |
+| ![Bio Cannibalize](img/Class_Changes/am_cannibalize.gif)Bio Cannibalize | At most 3 Flora, 2 Parasites or 1 Geographer can be out at once (6 minus the skill level). | Increased plant count of Flora, Parasite and Geographer on non-PvP maps. |
 | ![Bioethics](img/Class_Changes/am_bioethics.gif)Bioethics | Allows the Alchemist to begin learning the Homunculus skill tree. | Now an active skill, used as the interface to swap between your stored homunculi (costs 1 embryo to swap). |
 | ![Call Homunculus](img/Class_Changes/am_callhomun.gif)Call Homunculus | Summons or recalls an already created Homunculus. | Calls your most recently selected homunculus. Your active choice won't show on your Bioethics storage list. |
-| ![Mental Change (Lif)](img/Class_Changes/hlif_change.png)Mental Change (Lif) | Duration of 1, 2 and 3 minutes for Levels 1-3.<br>Cooldown of 10, 15 and 20 minutes. | Duration of 1, 3 and 5 minutes for Levels 1-3.<br>Cooldown of 5 minutes at every Level.<br>Effects carry through Fly Wing and Teleport for the full duration.<br>Follows the normal HP/SP requirements, so it can't be used to auto-heal after every skill. |
+| ![Mental Change (Lif)](img/Class_Changes/hlif_change.png)Mental Change (Lif) | Duration of 1, 2 and 3 minutes for Levels 1-3.<br>Cooldown of 10, 15 and 20 minutes. | Duration of 1, 3 and 5 minutes for Levels 1-3.<br>Cooldown of 5 minutes at every Level.<br>Effects carry through Fly Wing and Teleport for the full duration. |
 | ![Plant Cultivation](img/Class_Changes/cr_cultivation.png)Plant Cultivation | Can be used on any walkable cell. | Blocked in all town buildings (inns, shops, guild halls, etc.). |
 | ![Rest](img/Class_Changes/am_rest.gif)Rest | Destroys a currently created Homunculus. | Stores your active homunculus instead of destroying it. Required before you can open Bioethics to swap. |
-| ![Twilight Alchemy](img/Class_Changes/am_twilight3.gif)Twilight Alchemy | Three separate skills (Twilight Alchemy 1, 2 and 3). 1 makes 200 White Potions, 2 makes 200 Slim White Potions, and 3 makes 100 Alcohol, 50 Acid Bottles and 50 Flame Bottles.<br>Cast time: 3 seconds.<br>Cooldown: 10 seconds. | One skill that brews up to 300 of any create-potion item, based on resources in your inventory.<br>Auto-crafts if only one potion type is available (no ingredient selection screen).<br>No cast time.<br>Cooldown: 2 seconds. |
+| ![Twilight Alchemy](img/Class_Changes/am_twilight3.gif)Twilight Alchemy | Three separate skills (Twilight Alchemy 1, 2 and 3). 1 makes 200 White Potions, 2 makes 200 Slim White Potions, and 3 makes 100 Alcohol, 50 Acid Bottles and 50 Flame Bottles.<br>Cast time of 3 seconds.<br>Cooldown of 10 seconds. | One skill that brews up to 300 of any create-potion item, based on resources in your inventory.<br>Auto-crafts if only one potion type is available (no ingredient selection screen).<br>No cast time.<br>Cooldown of 2 seconds. |
 
 </div>
 
@@ -241,7 +241,7 @@ Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-deal
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| ![Create Deadly Poison](img/Class_Changes/asc_cdp.gif)Create Deadly Poison | SP cost 50. | SP cost 10.<br>No longer lose HP on failure.<br>Mass production of up to 300 at a time. |
+| ![Create Deadly Poison](img/Class_Changes/asc_cdp.gif)Create Deadly Poison | SP cost 50.<br>Lose HP on failure. | SP cost 10.<br>You no longer lose HP on failure.<br>Mass production of up to 300 at a time. |
 | ![Enchant Deadly Poison](img/Class_Changes/asc_edp.gif)Enchant Deadly Poison | Duration is 60 seconds.<br>Does not persist through logout. | Duration increased to 90 seconds.<br>Persists through logout. |
 | ![Venom Dust](img/Class_Changes/as_venomdust.png)Venom Dust | Consumes 1 Red Gemstone. | No longer consumes a Red Gemstone. |
 
@@ -259,7 +259,6 @@ Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-deal
 | ![Chase Walk](img/Class_Changes/st_chasewalk.gif)Chase Walk | After a delay of 10 seconds, it increases STR for 30 seconds. | Delay reduced to 5 seconds. |
 | ![Plagiarism](img/Class_Changes/rg_plagiarism.gif)Plagiarism | Skills must be copied from another player. | The [Plagiarism NPC](custom-npc.md) lets Rogues and Stalkers copy skills for a fee, and refuses the trade while Preserve is active.<br>A skill you already know can be overwritten when a higher Level is offered, including with normal in-combat Plagiarism. |
 | ![Preserve](img/Class_Changes/st_preserve.gif)Preserve | Duration of 10 minutes.<br>Does not persist through logout. | Infinite duration. Becomes an on/off toggle.<br>Persists through logout. |
-| ![Reject Sword](img/Class_Changes/st_rejectsword.gif)Reject Sword | Parry 3 attacks from an enemy and receive only half of the damage. | The amount of damage reflected cannot be greater than the HP of the wearer. |
 
 </div>
 

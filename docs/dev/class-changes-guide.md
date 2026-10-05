@@ -34,9 +34,10 @@ Readers are players with average familiarity with Ragnarok Online. They come to 
 |-|-|
 | List only what differs from the official game. | Repeat unchanged official stats. |
 | Write the Original as the official value. | Copy a skill's full description or leave "N/A". |
-| Give the number: "Cooldown of 0.5 seconds" to "0.333 seconds". | Write "faster" or "reduced" with no values. |
+| Give the number: "Cooldown of 0.5 seconds" to "0.333 seconds". | Write "faster" or "reduced" with no values, unless the maintainer approved prose for that row. |
 | Compare the same property in both columns. | Mention something in uaRO Changes that Original never states. |
 | Put an NPC, icon or related rule in the skill's own row. | Give each side detail its own row. |
+| State a shared rule once, in General / Shared. | Repeat it in every skill it affects. |
 | Say "unverified" in the pull request when a value could not be checked. | Guess a number or a source. |
 | Use short cells with one point per line. | Write paragraphs or lists inside a cell. |
 
@@ -55,6 +56,12 @@ Readers are players with average familiarity with Ragnarok Online. They come to 
 - The Original column holds only what the uaRO column compares against, rewritten as the official value. Do not copy a skill's full description.
 - Leave Original blank when uaRO added something with no official counterpart. Do not write "N/A".
 - If a patch note and the page disagree, the newer patch note wins. Never invent numbers; ask the maintainer.
+- State a rule once. If a mechanic applies to many skills (for example, reflected damage cannot exceed the user's HP), keep it in General / Shared and leave only the skill-specific part in each skill's row.
+- The uaRO column may only state something the Original column also states, so the two can be compared. If the Original is silent (for example, whether a status had an icon), add that fact to the Original.
+
+### Numbers and Prose
+
+Give the number whenever one exists. Sometimes the patch notes and databases do not have it ("ASPD penalty is reduced", "increased plant count"). In that case, prose is allowed only when the maintainer has approved it for that row. List every approved prose row in the pull request description under "Prose approved over numbers", with the row name, so reviewers can see the gap is known and can fill it in later.
 
 ## Sources for Original Values
 
@@ -71,9 +78,13 @@ In order: maintainer screenshots or in-game checks, uaRO patch notes, Hercules `
 - Start each cell with a capital letter and end it with a full stop. Keep sentences short and in the present tense.
 - No hard-wrapped prose.
 
-## Checks Before a Pull Request
+## Checks
 
-1. `mkdocs build` finishes with no new warnings.
-2. The style linter has no findings on the new lines (long table rows are ignored for now).
-3. Open the page with `scripts/serve.sh` and check the table widths and icons.
-4. Commit each class section separately.
+Recheck every row against its sources twice: before pushing commits, and again before opening the pull request. Sources and patch notes change, and a row that was right when drafted may not be later.
+
+1. Recheck each Original and uaRO value against the sources above.
+2. `mkdocs build` finishes with no new warnings.
+3. The style linter has no findings on the new lines (long table rows are ignored for now).
+4. Open the page with `scripts/serve.sh` and check the table widths and icons.
+5. Commit each class section separately.
+6. In the pull request description, list unverified values and the prose-over-numbers rows.
