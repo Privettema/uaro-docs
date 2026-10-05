@@ -153,76 +153,21 @@ Status effects that behave differently from the official game.
 
 
 ### Alchemist / Creator
-Medicine Bowls can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Fame System</td>
-                <td>Fame points earned are kept permanently. Potions made by the 10 top ranked alchemists will receive a 50% bonus to their potency. Rankings can be checked with <code>@alchemist</code> in game.</td>
-                <td>Fame points decay by 5% per mo                 nth, to support better game balance.</td>
-            </tr>
-             <tr>
-                <td><img src="../img/Class_Changes/am_cannibalize.gif" alt="">Bio Cannibalize</td>
-                <td>N/A.</td>
-                <td>Increased plant count of Flora, Parasite, Geographer on non-PvP maps for improved PvE viability.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/am_bioethics.gif" alt="">Bioethics</td>
-                <td>Allows Alchemist to begin learning the Homunculus Skill Tree.</td>
-                <td>Bioethics skill now an active skill. Used as the interface to swap between your stored homc (Cost 1 embryo to swap between).</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/am_callhomun.gif" alt="">Call Homunculus</td>
-                <td>Summon or recall an already created Homunculus.</td>
-                <td>Calls your most recently selected homc. Your active choice will not show on your "Bioethics" list of storage.</td>
-            </tr>
-                    <tr>
-                <td><img src="../img/Class_Changes/hlif_change.png" alt="">Mental Change (Lif)</td>
-                <td>
-                    Duration of 1, 2 and 3 minutes for levels 1-3.<br>
-                    Cooldown of 10, 15 and 20 minutes.
-                </td>
-                <td>
-                    Duration of 1, 3 and 5 minutes for levels 1-3.<br>
-                    Cooldown of 5 minutes at every level.<br>
-                    Effects carry through Fly Wing and Teleport for the full duration.<br>
-                    Follows the normal HP/SP requirements, so it cannot be used to auto-heal after every skill.
-                </td>
-            </tr>
-             <tr>
-                <td><img src="../img/Class_Changes/cr_cultivation.png" alt="">Plant Cultivation</td>
-                <td>Can be used on any walkable cell.</td>
-                <td>Blocked in all town buildings (inns, shops, guild halls, etc.).</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/am_rest.gif" alt="">Rest</td>
-                <td>Destroys a currently created Homunculus.</td>
-                <td>Required if you have an active homc before you can access Bioethics to swap.</td>
-            </tr>
-             <tr>
-                <td><img src="../img/Class_Changes/am_resurrecthomun.gif" alt="">Resurrect Homunculus</td>
-                <td>Resurrect a killed Homunculus.</td>
-                <td>Calling your last called homc is still free (No embryo required).</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/am_twilight3.gif" alt="">Twilight Alchemy</td>
-                <td>N/A</td>
-                <td>Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory. Requires Soul Link.<br>
-                    Auto crafts upon skill use if only one potion type available (won't prompt ingredient verification/selection screen)<br>
-                    Cooldown: 2s
-                </td>
-            </tr>
-        </tbody>
-    </table>
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Fame System | Fame points are kept permanently. | Fame points decay by 5% per month. |
+| ![](img/Class_Changes/am_cannibalize.gif)Bio Cannibalize | At most 3 Flora, 2 Parasites or 1 Geographer can be out at once (6 minus the skill level). | Increased plant count of Flora, Parasite and Geographer on non-PvP maps for improved PvE viability. |
+| ![](img/Class_Changes/am_bioethics.gif)Bioethics | Allows the Alchemist to begin learning the Homunculus skill tree. | Now an active skill, used as the interface to swap between your stored homunculi (costs 1 embryo to swap). |
+| ![](img/Class_Changes/am_callhomun.gif)Call Homunculus | Summons or recalls an already created Homunculus. | Calls your most recently selected homunculus. Your active choice won't show on your Bioethics storage list. |
+| ![](img/Class_Changes/hlif_change.png)Mental Change (Lif) | Duration of 1, 2 and 3 minutes for levels 1-3.<br>Cooldown of 10, 15 and 20 minutes. | Duration of 1, 3 and 5 minutes for levels 1-3.<br>Cooldown of 5 minutes at every level.<br>Effects carry through Fly Wing and Teleport for the full duration.<br>Follows the normal HP/SP requirements, so it can't be used to auto-heal after every skill. |
+| ![](img/Class_Changes/cr_cultivation.png)Plant Cultivation | Can be used on any walkable cell. | Blocked in all town buildings (inns, shops, guild halls, etc.). |
+| ![](img/Class_Changes/am_rest.gif)Rest | Destroys a currently created Homunculus. | Required if you have an active homc before you can access Bioethics to swap. |
+| ![](img/Class_Changes/am_resurrecthomun.gif)Resurrect Homunculus | Resurrect a killed Homunculus. | Calling your last called homc is still free (No embryo required). |
+| ![](img/Class_Changes/am_twilight3.gif)Twilight Alchemy | N/A | Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory. Requires Soul Link.<br>Auto crafts upon skill use if only one potion type available (won't prompt ingredient verification/selection screen)<br>Cooldown: 2s |
+
 </div>
 
 
