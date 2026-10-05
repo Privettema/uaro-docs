@@ -141,6 +141,8 @@ Each layer rolls a bonus from its column. Only Feral Boots and Feral Tail can ro
 | Critical +5 or 7 | INT +1 or 2 | INT +1 or 2 | INT +1, 2 or 3 |
 | Flee +6 or 12 | - | - | - |
 
+Layers 2 and 3 can stack on the same stat, up to +5 on Feral Boots and Feral Tail and +4 on the Light of El Dicastes and Golden Trinket.
+
 ### Enchanting with Kareka
 
 **Kareka** (`/navi dic_in01 353/37`) only enchants the Light of El Dicastes. You must wear the Ring of the Ancient Wise King to speak with him.
