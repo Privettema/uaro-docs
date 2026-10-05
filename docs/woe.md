@@ -35,20 +35,20 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 |--------------------|------------|---------------------|------------------------|
 | Wuerzburg. Aldebaran | ![Wuerzburg Castle](img/WoE/Aldebaran-Wuerzburg.png) | [![Wuerzburg Room](img/WoE/Aldebaran-Wuerzburg-EmpRoom.jpg){width=284 height=384}](img/WoE/Aldebaran-Wuerzburg-EmpRoom.jpg) | ![Aldebaran Dun](img/WoE/Aldebaran-Dun.png) |
 | Mardol. Rachel | ![Mardol Castle](img/WoE/Rachel-Mardol.png) | [![Mardol Room](img/WoE/Rachel-Mardol-Emp-Room.png){width=284 height=384}](img/WoE/Rachel-Mardol-Emp-Room.png) | ![Rachel Dun](img/WoE/Rachel-Dun.png) |
-<!--| Andlangr. Yuno | ![Yuno Castle](img/WoE/Yuno-Andlangr.png) | [![Andlangr Room](img/WoE/Yuno-Andlangr-EmpRoom.png){width=500 height=400}](img/WoE/Yuno-Andlangr-EmpRoom.png) | ![Yuno-Dun](img/WoE/Yuno-Dun.png) |
+<!--| Andlangr. Yuno | ![Yuno Castle](img/WoE/Yuno-Andlangr.png) | [![Andlangr Room](img/WoE/Yuno-Andlangr-EmpRoom.png){width=500 height=400}](img/WoE/Yuno-Andlangr-EmpRoom.png) | ![Yuno Dun](img/WoE/Yuno-Dun.png) |
 | Neuschwanstein. Aldebaran | ![Neuschwanstein Castle](img/WoE/Aldebaran-Neuschwanstein.png) | [![Neuschwanstein Room](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png){width=284 height=384}](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png) | ![Neuschwanstein Dun](img/WoE/Aldebaran-Dun.png) |
 | Kriemhild. Prontera | ![Prontera Castle](img/WoE/Prontera-Kriemhild.png) | [![Kriemhild Room](img/WoE/Prontera-Kriemhild-EmpRoom.png){width=284 height=384}](img/WoE/Prontera-Kriemhild-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
 | Mersetzdeitz. Gefen | ![Gefen Castle](img/WoE/Gefen-Mersetzdeitz.png) | [![Mersetzdeitz Room](img/WoE/Gefen-Mersetzdeitz-EmpRoom.png){width=284 height=384}](img/WoE/Gefen-Mersetzdeitz-EmpRoom.png) | ![Gefen Dun](img/WoE/Geffen-Dun.png) |
-| Bright Arbor. Payon | ![Payon Castle](img/WoE/Payon-Bright%20Arbor.png) | [![ Bright Arbor Room](img/WoE/Payon-Bright%20Arbor-EmpRoom.jpg){width=284 height=384}](img/WoE/Payon-Bright%20Arbor-EmpRoom.jpg ) | ![Payon Dun](img/WoE/Payon-Dun.png) |
-| Repherion. Gefen | ![Repherion Castle](img/WoE/Gefen-Repherion.png) | [![Repherion Room](img/WoE/Aldebaran-Hohenschwangau-Emp){width=284 height=384}](img/WoE/Aldebaran-Hohenschwangau-Emp) | ![Gefen Dun](img/WoE/Aldebaran-Dun.png) |
-| Scarlet Palace. Payon | ![Scarlet Palace Castle](img/WoE/Payon-Scarlet%20Palace.png) | [![Scarlet Palace Room](img/WoE/Payon-SacredAlter-EmpRoom.jpg){width=284 height=384}](img/WoE/Payon-Holy%20Shadow-EmpRoom.png) | ![Payon Dun](img/WoE/Payon-Dun.png) |
+| Bright Arbor. Payon | ![Payon Castle](img/WoE/Payon-Bright%20Arbor.png) | [![Bright Arbor Room](img/WoE/Payon-Bright%20Arbor-EmpRoom.jpg){width=284 height=384}](img/WoE/Payon-Bright%20Arbor-EmpRoom.jpg ) | ![Payon Dun](img/WoE/Payon-Dun.png) |
+| Repherion. Gefen | ![Repherion Castle](img/WoE/Gefen-Repherion.png) | [![Repherion Room](img/WoE/Gefen-Repherion-EmpRoom.png){width=284 height=384}](img/WoE/Gefen-Repherion-EmpRoom.png) | ![Gefen Dun](img/WoE/Geffen-Dun.png) |
+| Scarlet Palace. Payon | ![Scarlet Palace Castle](img/WoE/Payon-Scarlet%20Palace.png) | — | ![Payon Dun](img/WoE/Payon-Dun.png) |
 | Skoegul. Prontera | ![Skoegul Castle](img/WoE/Prontera-Skoegul.png) | [![Skoegul Room](img/WoE/Prontera-Skoegul-EmpRoom.png){width=284 height=384}](img/WoE/Prontera-Skoegul-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
 | Hohenschwangau. Aldebaran | ![Hohenschwangau Castle](img/WoE/Aldebaran-Hohenschwangau.png) | [![Hohenschwangau Room](img/WoE/Aldebaran-Hohenschwangau-EmpRoom.png){width=284 height=384}](img/WoE/Aldebaran-Hohenschwangau-EmpRoom.png) | ![Hohenschwangau Dun](img/WoE/Aldebaran-Dun.png) |
 | Kriemhild. Prontera | ![Prontera Castle](img/WoE/Prontera-Kriemhild.png) | [![Kriemhild Room](img/WoE/Prontera-Kriemhild-EmpRoom.png){width=284 height=384}](img/WoE/Prontera-Kriemhild-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
-| Sacred Alter. Payon | ![Payon Castle](img/WoE/Payon-Sacred%20Alter.png) | [![Scarlet Room](img/WoE/Payon-SacredAlter-EmpRoom.jpg){width=284 height=384}](img/WoE/Payon-SacredAlter-EmpRoom.jpg) | ![Payon Dun](img/WoE/Payon-Dun.png) |
-| Himinn. Yuno | ![Yuno Castle](img/Himinn-Yuno.png) | [![Himinn Room](img/Himinn-Yuno-EmpRoom.png){width=500 height=400}](img/Himinn-Yuno-EmpRoom.png) | ![Prontera Dun](img/Yuno-Dun.png) |
-| Bergel. Geffen | ![Geffen Castle](img/Bergel-Geffen.png) | [![Bergel Room](img/Bergel-Geffen-EmpRoom.png){width=284 height=384}](img/Bergel-Geffen-EmpRoom.png) | ![Yuno Dun](img/Geffen-Dun.png) |
- | Holy Shadow. Payon |  ![Payon Castle](img/Holy%20Shadow-Payon.png) | [![Holy Shadow Room](img/Holy%20Shadow-EmpRoom.png){width=550 height=384}](img/Holy%20Shadow-EmpRoom.png) | ![Payon Dun](img/Payon-Dun.png) | -->
+| Sacred Alter. Payon | ![Payon Castle](img/WoE/Payon-Sacred%20Alter.png) | [![Sacred Alter Room](img/WoE/Payon-SacredAlter-EmpRoom.jpg){width=284 height=384}](img/WoE/Payon-SacredAlter-EmpRoom.jpg) | ![Payon Dun](img/WoE/Payon-Dun.png) |
+| Himinn. Yuno | ![Yuno Castle](img/WoE/Yuno-Himinn.png) | [![Himinn Room](img/WoE/Yuno-Himinn-EmpRoom.png){width=500 height=400}](img/WoE/Yuno-Himinn-EmpRoom.png) | ![Yuno Dun](img/WoE/Yuno-Dun.png) |
+| Bergel. Geffen | ![Geffen Castle](img/WoE/Geffen-Bergel.png) | [![Bergel Room](img/WoE/Geffen-Bergel-EmpRoom.png){width=284 height=384}](img/WoE/Geffen-Bergel-EmpRoom.png) | ![Geffen Dun](img/WoE/Geffen-Dun.png) |
+ | Holy Shadow. Payon |  ![Payon Castle](img/WoE/Payon-Holy%20Shadow.png) | [![Holy Shadow Room](img/WoE/Payon-Holy%20Shadow-EmpRoom.png){width=550 height=384}](img/WoE/Payon-Holy%20Shadow-EmpRoom.png) | ![Payon Dun](img/WoE/Payon-Dun.png) | -->
 
 
 !!! note

@@ -129,7 +129,7 @@ This site is a big database for items, monsters, skills and quests. Most of thes
 This is the best calculator I know, and generally fits to uaRO with some exceptions. If you want to compare equipment, builds and ideas, this is your way to go. 
 
 
-### [Skillsim](https://skillsim.irowiki.org)
+### [Skillsim](https://skills.irowiki.org)
 You can plan your skill tree at this site. Please note that it has a renewal skill tree, but they are mostly correct pre renewal as well. The only known change is: Lord Knight needs Spear Mastery 10 (instead of 5) for Spiral Pierce.  
 
 
@@ -345,7 +345,7 @@ Buy a Mercenary and kill Spores again. You want at the very least these skills:
 - Overcharge 10 (Items sold to NPC give additional 24% zeny)  
 - Discount 10 (Items bought from NPC cost 24% less)  
 
-[Discount Merchant Job Build](https://skillsim.irowiki.org/bsm.html?10cAjX93cL)
+[Discount Merchant Job Build](https://oldskillsim.irowiki.org/bsm.html?10cAjX93cL)
  
 !!! note
      Discount does only apply for basic NPC stores. It does not decrease the price of mercenary scrolls or potions, nor from player set shops.

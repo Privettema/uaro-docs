@@ -1,21 +1,29 @@
 # Hourly Rewards System
 
-The Hourly Rewards System pays out 10 Coins for every hour you spend online, which you can exchange for symbolic prizes. In the top right corner of the screen, you will see a timer.
+Earn Coins just for staying logged in, redeemable for symbolic prizes and Main Office costumes.
+
+!!! info "Quick Facts"
+    - **NPC:** Gold Point Manager (Prontera Inn)
+    - **Rate:** 10 Coins per hour played
+    - **Note:** Characters on `@autotrade` don't earn Coins
+
+A timer in the top right corner of the screen tracks your playtime.
 
 ![Hourly Rewards Timer](img/Gold-Point-Manager-Timer.png)
 
-For every hour in the game (characters on @autotrade do not count), you will receive **10 Coins** that can be exchanged for symbolic prizes.
+## Redeeming Prizes
 
-You can get your prizes from the NPC Gold Point Manager in Prontera Inn, or press on the timer anywhere to make the NPC Gold Point Manager appear:
+Get your prizes from the NPC Gold Point Manager in Prontera Inn, or click the timer anywhere to make the NPC appear.
 
 ![Gold Point Manager](img/Gold-Point-Manager-NPC.png)
 
-| Item Name        | Cost  |
-|------------------|-------|
-| ![Gold Coin](img/7929.gif) Gold Coin - 1  | **120 Points** |
-| ![Gold Coin](img/7929.gif) Gold Coin - 2 | **240 Points** |
+| Item Name | ID | Cost |
+|---|---|---|
+| ![Gold Coin](img/7929.gif) Gold Coin - 1 | `7929` | **120 Points** |
+| ![Gold Coin](img/7929.gif) Gold Coin - 2 | `7929` | **240 Points** |
 
-Golden Coins can be exchanged for costumes in the Main Office.  
-Rotation: Costumes (and possibly some consumables later) will rotate periodically.  
+## Exchanging for Costumes
+
+Gold Coins can also be exchanged for costumes in the Main Office. Costumes (and possibly some consumables later) rotate periodically.
 
 ![Felicia-NPC](img/Felicia-NPC.png)

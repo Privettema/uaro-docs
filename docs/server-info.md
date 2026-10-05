@@ -41,6 +41,7 @@
 - [Hunting Missions](hunting-mission.md)
 - [Quality of Life Improvements](improvements.md)
 - [Class Balancing](class-changes.md) 
+- [What's different from the official game](whats-different.md)
 - Balanced Renewal dungeons [Horror Toy Factory](horror-toy-factory.md), [Old Glast Heim](old-glast-heim.md), and [Biolabs 4](biolab4.md)
 - New World: [El Dicastes](el-dicastes.md)
 - Active War of Emperium: [WoE 1.0 / 2.0](woe.md) and [Pre-Trans WoE](pre-trans-woe.md)

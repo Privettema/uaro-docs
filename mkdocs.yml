@@ -4,6 +4,10 @@ site_description: The official documentation for uaRO World of Your Dream
 site_author: uaRO Team
 site_url: https://wiki.uaro.net
 
+# Report links to missing pages and anchors as warnings
+validation:
+  anchors: warn
+
 # Theme configuration
 theme:
   custom_dir: overrides
@@ -76,10 +80,12 @@ nav:
       - 👒 Headgear Quests: dimonka-headgear-quest.md
       - 🧚 Custom NPCs: custom-npc.md
     - Changes:
+      - 🧭 What's Different: whats-different.md
       - 🔮 Class Changes: class-changes.md
+      - 👕 Item Changes: item-changes.md
+      - 👹 Monster Changes: monster-changes.md
       - 🗺️ Map Changes: map-changes.md
       - 📜 Quest Changes: quest-changes.md
-      - 👕 Item Changes: item-changes.md
       - 💎 Modified Sales Prices: modified-sales-prices.md
       - 📦 Expanded Class Weapons: expanded-class-weapons.md
     - Enhancements:
@@ -90,7 +96,7 @@ nav:
       - 🎟️ Card Exchange: card-exchange.md
       - 🎭 Costume Converter: costume-converter.md
       - 🔪 Mercenary System: mercenary-system.md
-      - 🗺️ Navigation System: navigation-system.md
+      - 🧭 Navigation System: navigation-system.md
       - 🛠️ Build Manager NPC: build-manager-npc.md
     - Rewards & Items:
       - 🎀 Taming Gift Set: taming-gift-set.md

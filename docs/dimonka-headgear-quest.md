@@ -4,6 +4,8 @@
 
 Dimonka is found in the [Main Office](main-office.md) and offers a unique selection of practical headgear to support your adventures.<br>
 
+**Content type:** [uaRO](whats-different.md#content-tags)
+
 <table>
 <thead>
 <tr>

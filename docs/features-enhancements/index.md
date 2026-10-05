@@ -63,9 +63,21 @@ different from the official game before you plan your next build.
 
 <div class="grid cards" markdown>
 
+- [**🧭 What's Different**](../whats-different.md)
+
+    How the wiki labels changed, renewal and custom content.
+
 - [**🔮 Class Changes**](../class-changes.md)
 
     Skill and mechanic adjustments.
+
+- [**👕 Item Changes**](../item-changes.md)
+
+    Modified equipment and item effects.
+
+- [**👹 Monster Changes**](../monster-changes.md)
+
+    Altered stats, spawns and drops.
 
 - [**🗺️ Map Changes**](../map-changes.md)
 
@@ -74,10 +86,6 @@ different from the official game before you plan your next build.
 - [**📜 Quest Changes**](../quest-changes.md)
 
     Reworked requirements, rewards and NPCs.
-
-- [**👕 Item Changes**](../item-changes.md)
-
-    Modified equipment and item effects.
 
 - [**💎 Modified Sales Prices**](../modified-sales-prices.md)
 

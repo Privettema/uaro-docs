@@ -18,7 +18,7 @@ When changelog updates are provided:
 ## Documentation Rules
 
 * Documentation language is English.
-* Preserve existing writing style and formatting.
+* Follow `docs/dev/style-guide.md` for page structure, formatting, wording and tone. On pages that predate it, match the page you are editing and don't restyle unrelated text.
 * Keep content concise and practical.
 * Prefer updating existing sections over creating duplicate content.
 * Keep navigation structure consistent.
