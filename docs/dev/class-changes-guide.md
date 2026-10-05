@@ -1,6 +1,8 @@
 # Class Changes Writing Guide
 
-Conventions for [Class Changes](../class-changes.md), so every section reads the same. For wiki-wide rules, see the style guide when it lands.
+Conventions for [Class Changes](../class-changes.md), so every section reads the same.
+
+Follow the [Style Guide](style-guide.md) first. This guide only adds rules that are specific to the Class Changes tables. Where the two overlap (Zeny, durations, "Level", Title Case names, no hard-wrapped prose, no raw HTML), the style guide wins and the rule is not repeated here.
 
 ## Goals
 
@@ -22,7 +24,7 @@ Readers are players with average familiarity with Ragnarok Online. They come to 
 
 ## Tone and Voice
 
-- Plain, neutral and factual. Describe the change; do not sell it or apologize for it.
+- Follow Tone and Voice in the style guide. Table cells are reference text, so they carry no flavor: plain, neutral and factual. Describe the change; do not sell it or apologize for it.
 - Direct and present tense: "Cooldown reduced to 5 seconds", not "The cooldown has been reduced".
 - Address the player as "you" only when the skill is about them ("You can chat while Berserked"); otherwise name the subject ("Mobs on the same cell").
 - No hype, opinions or balance arguments ("much better", "finally", "to support better game balance").
@@ -45,7 +47,7 @@ Readers are players with average familiarity with Ragnarok Online. They come to 
 
 - One table per heading, wrapped in `<div class="class-changes-table" markdown>` so the column widths from `docs/css/custom.css` apply.
 - Columns are `Skill | Original | uaRO Changes`, with the separator row `|-|-|-|`.
-- Put each skill icon in the first cell as `![Skill name](img/Class_Changes/file.png)Skill name`. Rows without an icon (general mechanics) start with the plain name.
+- Put each skill icon in the first cell as an inline icon, `![Skill name](img/Class_Changes/file.png) Skill name`, with real alt text as the style guide requires. Rows without an icon (general mechanics) start with the plain name.
 - Use `<br>` for a new line inside a cell, one point per line. Do not use lists inside cells.
 - Link with Markdown (`[Bag of Gold Coins](#bag-of-gold-coins)`), not HTML anchors.
 
@@ -70,13 +72,11 @@ In order: maintainer screenshots or in-game checks, uaRO patch notes, Hercules `
 ## Wording
 
 - Write skill names as they appear in game ("Lord of Vermilion", "Mental Change (Lif)").
-- Use "Level 3" when naming a skill Level. Use lowercase "level" for everything else ("per skill level", "base level").
-- Write durations in words: "5 seconds", "0.5 seconds", "5 minutes". Write cooldowns as "Cooldown of 5 seconds". Use "delay" only when the skill itself calls it a delay (Chase Walk).
+- Write "Level 3" when naming a skill Level, and lowercase "level" for a generic one ("per skill level"). Use "Base Level" and "Job Level" as in the style guide.
+- Write cooldowns as "Cooldown of 5 seconds". Use "delay" only when the skill itself calls it a delay (Chase Walk).
 - Compare the same property in both columns: "Delay of 10 seconds" is answered by "Delay reduced to 5 seconds".
-- Zeny amounts are `500z` and `50,000,000z`.
 - Use "homunculus", not "homc". WoE, GvG and "WoE: SE" are known terms and need no explanation.
 - Start each cell with a capital letter and end it with a full stop. Keep sentences short and in the present tense.
-- No hard-wrapped prose.
 
 ## Checks
 
@@ -84,7 +84,7 @@ Recheck every row against its sources twice: before pushing commits, and again b
 
 1. Recheck each Original and uaRO value against the sources above.
 2. `mkdocs build` finishes with no new warnings.
-3. The style linter has no findings on the new lines (long table rows are ignored for now).
+3. `python3 scripts/lint_style.py docs/class-changes.md` has no findings on the new lines (long table rows and `<br>` findings in tables not yet converted are ignored for now).
 4. Open the page with `scripts/serve.sh` and check the table widths and icons.
 5. Commit each class section separately.
 6. In the pull request description, list unverified values and the prose-over-numbers rows.
