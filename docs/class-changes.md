@@ -172,15 +172,15 @@ Status effects that behave differently from the official game.
 
 
 ### Bag of Gold Coins
-Bag of Gold Coins (`#670`) can be acquired at the Blacksmith Guild in Geffen (`/navi geffen_in 100/174`) for
-50,000,000z. It reduces the cost of Mammonite and Cart Termination to 500z when held in your inventory. It has
-a weight of 500 and cannot be dropped, put in cart, traded, mailed, sold, or put in guild storage. It can be
-put in your personal storage. Limited to one bag per character.
 
-**Avarice (Platinum Skill):** For an additional 200,000,000z, Whitesmiths can permanently trade in the bag to
-learn the Avarice platinum skill. Avarice removes the zeny cost of Mammonite and Cart Termination entirely for
-that character, with no weight detriment, and survives skill resets - it is re-granted automatically by the
-Platinum Skill NPC.
+Bag of Gold Coins (`#670`) lowers the Zeny cost of Mammonite and Cart Termination while it is in your inventory.
+Mammonite costs at most 500z, and Cart Termination costs 500z.
+
+- **Where to get it:** the Blacksmith Guild in Geffen (`/navi geffen_in 100/174`), for 50,000,000z.
+- **Weight:** 500.
+- **Restrictions:** limited to one per character. It cannot be dropped, put in your cart, traded, mailed, sold or put in guild storage. It can be kept in your personal storage.
+
+**Avarice (Platinum Skill):** Whitesmiths can permanently trade in the bag to learn the Avarice platinum skill for an additional 200,000,000z. Avarice removes the Zeny cost of Mammonite and Cart Termination entirely for that character, with no weight penalty. It survives skill resets: the Platinum Skill NPC re-grants it automatically.
 
 
 <!---------------------------------------------------------------------------->
