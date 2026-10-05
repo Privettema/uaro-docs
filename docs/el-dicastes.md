@@ -11,6 +11,8 @@ hide:
 **El Dicastes** is the Sapha capital and the last stop in the New World. It offers daily quests paid in
 **Sapha Certificates**, the **Scaraba Hole** dungeon and four enchantable bound items.
 
+**Content type:** [Renewal](whats-different.md#content-tags)
+
 ---
 
 ## Getting There
@@ -163,6 +165,8 @@ Both floors are part of the rotating bonus EXP zones, which you can check with
 
 The following items drop only in Scaraba Hole.
 
+How [Imperial Spear](item-changes.md#imperial-spear), [Imperial Guard](item-changes.md#imperial-guard), [Alca Bringer](item-changes.md#alca-bringer), [Chrome Metal Two-Handed Sword](item-changes.md#two-handed-chrome-metal-sword) and [Bone Plate](item-changes.md#bone-plate) differ from the official versions is on [Item Changes](item-changes.md).
+
 | Item | Slot | Drops from | Rate |
 |---|---|---|---|
 | **Forbidden Grimoire** | Sage shield, `Def 5`, `1` slot, Lv `90` | Two-Horned Scaraba | `0.05%` |
@@ -179,7 +183,7 @@ The following items drop only in Scaraba Hole.
 - **Imperial Spear** - `+20%` Shield Boomerang and Shield Charge damage, plus `+1%` each per refine.
 - **Imperial Guard** - MDEF `+5`, `+20%` Shield Chain damage plus `+1%` per refine. At `+8` or higher, Shield
   Chain's cast time is halved. With the **Imperial Spear**, Shield Chain costs `20` less SP.
-- **Bone Plate** - can be enchanted at the **Apprentice Craftsman** High Grade Armor service in Prontera.
+- **Bone Plate** - can be enchanted at the **Apprentice Craftsman** High Grade Armor service in Prontera (`/navi prontera 165/60`).
 
 ### Queen Scaraba
 
