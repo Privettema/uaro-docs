@@ -186,64 +186,20 @@ Mammonite costs at most 500z, and Cart Termination costs 500z.
 <!---------------------------------------------------------------------------->
 
 ## Acolyte
-Blue Gems are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in additional to typical locations.
+Blue Gems are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
 ### Priest / High Priest
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Mace Class Weapons</td>
-                <td>
-                    Priests suffer an ASPD penalty when using mace type weapons.
-                </td>
-                <td>
-                    ASPD penalty with mace type weapons is reduced.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/al_holywater.png" alt="">Aqua Benedicta</td>
-                <td>Crafts one Holy Water at a time.</td>
-                <td>Holy Water can be mass produced, up to 300 at a time, if you have the empty bottles.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/pr_impositio.png" alt="">Impositio Manus</td>
-                <td>
-                    Blesses a weapon, increasing its ATK by 5 per skill level.
-                </td>
-                <td>
-                    Additionally grants 1% MATK per skill level, up to 5% at level 5.<br>No effect on WoE and GvG castle maps.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/pr_macemastery.gif" alt="">Mace Mastery</td>
-                <td>
-                    N/A
-                </td>
-                <td>   
-                    Additionally gives +1 critical strike per level.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/pr_magnus.gif" alt="">Magnus Exorcismus</td>
-                <td>
-                    Any Demon family and Undead property monsters entering the area of the effect suffer Holy property damage per wave.<br><br>
-                    Skill damage is interrupted if player is Stunned, Petrified, or Frozen.
-                </td>
-                <td>   
-                    Increases mob pool damaged by the skill. Races effected are Undead and Demon. Elements effected are Shadow, Ghost, and Undead.<br><br>
-                    Damage ticks continue even if player is Stunned, Petrified, or Frozen.
-                </td>
-            </tr>
-        </tbody>
-    </table>
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Mace Class Weapons | Priests suffer an ASPD penalty when using mace type weapons. | The ASPD penalty with mace type weapons is reduced. |
+| ![Aqua Benedicta](img/Class_Changes/al_holywater.png)Aqua Benedicta | Crafts one Holy Water at a time. | Holy Water can be mass produced, up to 300 at a time, if you have the empty bottles. |
+| ![Impositio Manus](img/Class_Changes/pr_impositio.png)Impositio Manus | Increases weapon ATK by 5 per skill level. | Also grants 1% MATK per skill level, up to 5% at Level 5.<br>No effect on WoE and GvG castle maps. |
+| ![Mace Mastery](img/Class_Changes/pr_macemastery.gif)Mace Mastery | +3 ATK per level with mace type weapons. | Also gives +1 critical per level. |
+| ![Magnus Exorcismus](img/Class_Changes/pr_magnus.gif)Magnus Exorcismus | Damages Demon race and Undead element monsters entering the area with Holy damage per wave. | Also damages Undead race monsters and Shadow and Ghost element monsters. |
+
 </div>
 
 ### Monk / Champion
@@ -405,7 +361,7 @@ Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-deal
 A selection of arrows can be found at [Inn Tool Dealers](dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 ### Hunter / Sniper
-Traps are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in additional to typical locations.
+Traps are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
 No other changes to Hunter skills.
 
