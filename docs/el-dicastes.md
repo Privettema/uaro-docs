@@ -1,6 +1,6 @@
 # El Dicastes
 
-**El Dicastes** is the capital of Sapha, a city of daily quests that pay in **Sapha Certificates**. The certificates are spent on enchanting unique equipment. Beneath the city lies [Scaraba Hole](scaraba-hole.md).
+In **El Dicastes**, the Sapha capital, every favor is paid in certificates and every guest wears the Ring of the Ancient Wise King. Run the city's errands, earn your standing, and see what stirs in the tunnels of [Scaraba Hole](scaraba-hole.md) below.
 
 !!! info "Quick Facts"
     - **Currency:** Sapha Certificates, earned from quests
