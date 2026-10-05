@@ -16,9 +16,9 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
 | Party Buff Animations | Buffs from party members play their full animation delay on every recipient. | Delay removed for party members, so the buff lands instantly with the effect and a floating skill name. The caster still sees the full animation.<br>Covers Angelus, Magnificat, Gloria, Wind Walk, Adrenaline Rush, Full Adrenaline Rush, Weapon Perfection, Over Thrust, Help Angel, and the Blessing, Increase AGI and Assumptio scrolls. |
 | Reflected Damage | Reflects the listed percentage of damage taken. | Reflected damage cannot exceed the HP of the skill's user. |
 | Safety Wall | Players inside can reflect damage with reflect skills. | Players inside cannot reflect damage with reflect skills. |
-| ![](img/skill_270.png)Fury / Critical Explosion | Natural SP recovery is disabled while in Fury. | Natural HP and SP recovery work while in Fury.<br>Does not apply to Monk or Champion. Other characters, such as those who get Fury from an item, benefit from the change. |
-| ![](img/Class_Changes/al_teleport.gif)Teleport | Teleports to a random spot on the same map. | Cannot land on a map portal. |
-| ![](img/Class_Changes/al_warp.gif)Warp Portal | Cannot be used in GvG maps or Battleground maps. | Also cannot be used on MVP maps. |
+| ![Fury / Critical Explosion](img/skill_270.png)Fury / Critical Explosion | Natural SP recovery is disabled while in Fury. | Natural HP and SP recovery work while in Fury.<br>Does not apply to Monk or Champion. Other characters, such as those who get Fury from an item, benefit from the change. |
+| ![Teleport](img/Class_Changes/al_teleport.gif)Teleport | Teleports to a random spot on the same map. | Cannot land on a map portal. |
+| ![Warp Portal](img/Class_Changes/al_warp.gif)Warp Portal | Cannot be used in GvG maps or Battleground maps. | Also cannot be used on MVP maps. |
 
 </div>
 
@@ -34,7 +34,7 @@ Status effects that behave differently from the official game.
 | Skill | Original | uaRO Changes |
 |-|-|-|
 | Song Buff Icons | No status icon for songs. | Song buff icons are added with the other player buffs. |
-| ![](img/Class_Changes/dc_dontforgetme.png)Please Don't Forget Me | Not removed on death. | Removed on death. |
+| ![Please Don't Forget Me](img/Class_Changes/dc_dontforgetme.png)Please Don't Forget Me | Not removed on death. | Removed on death. |
 
 </div>
 
@@ -50,9 +50,9 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| ![](img/Class_Changes/lk_berserk.png)Berserk | No items can be used while Berserked.<br>Red body tint while active. | Fly Wing, Novice Fly Wing, and Infinite Fly Wing can be used while Berserked (all other items remain blocked).<br>If Concentration is active when you cast Berserk, it is refreshed and extended to 2.6x its normal duration (Level 5: 45s to 117s). Concentration ends when Berserk ends.<br>The red body tint is replaced with an aura effect and a cast sound (the aura can be hidden via the Status Color Effect setting). |
-| ![](img/Class_Changes/kn_bowlingbash.gif)Bowling Bash | Knockback distance of 1 cell.<br>Skill range of 1 cell. | Knockback distance of 2 cells.<br>Skill range increased to 2 cells. |
-| ![](img/Class_Changes/kn_brandishspear.gif)Brandish Spear | Knockback distance of 3 cells. | Knockback decreased to 1 cell. |
+| ![Berserk](img/Class_Changes/lk_berserk.png)Berserk | No items can be used while Berserked.<br>Red body tint while active. | Fly Wing, Novice Fly Wing, and Infinite Fly Wing can be used while Berserked (all other items remain blocked).<br>If Concentration is active when you cast Berserk, it is refreshed and extended to 2.6x its normal duration (Level 5: 45s to 117s). Concentration ends when Berserk ends.<br>The red body tint is replaced with an aura effect and a cast sound (the aura can be hidden via the Status Color Effect setting). |
+| ![Bowling Bash](img/Class_Changes/kn_bowlingbash.gif)Bowling Bash | Knockback distance of 1 cell.<br>Skill range of 1 cell. | Knockback distance of 2 cells.<br>Skill range increased to 2 cells. |
+| ![Brandish Spear](img/Class_Changes/kn_brandishspear.gif)Brandish Spear | Knockback distance of 3 cells. | Knockback decreased to 1 cell. |
 
 </div>
 
@@ -64,9 +64,9 @@ Status effects that behave differently from the official game.
 | Skill | Original | uaRO Changes |
 |-|-|-|
 | Shield Swapping | Swapping a shield while a skill is active cancels the skill. | Swapping shields no longer interrupts the skill. Removing the shield still cancels the skill. |
-| ![](img/Class_Changes/cr_devotion.gif)Devotion | Skill is usable on party members, including non-guild members. | Cannot be placed on non-guild members outside of Battlegrounds.<br>Adds a buff icon when the skill is active, for both the caster and the receiver. |
-| ![](img/Class_Changes/cr_grandcross.gif)Grand Cross | Hits 1-5 times, depending on the position and movement of the enemy. Each monster on a single cell reduces the number of hits by 1 (to a minimum of one hit to one monster). | Mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range. |
-| ![](img/Class_Changes/cr_reflectshield.gif)Shield Reflect | Returns a percentage of the damage dealt to you back to the enemy. | The amount of damage reflected cannot be greater than the amount of HP the wearer has.<br>Reflect damage no longer affects Boss-type monsters (MVPs). |
+| ![Devotion](img/Class_Changes/cr_devotion.gif)Devotion | Skill is usable on party members, including non-guild members. | Cannot be placed on non-guild members outside of Battlegrounds.<br>Adds a buff icon when the skill is active, for both the caster and the receiver. |
+| ![Grand Cross](img/Class_Changes/cr_grandcross.gif)Grand Cross | Hits 1-5 times, depending on the position and movement of the enemy. Each monster on a single cell reduces the number of hits by 1 (to a minimum of one hit to one monster). | Mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range. |
+| ![Shield Reflect](img/Class_Changes/cr_reflectshield.gif)Shield Reflect | Returns a percentage of the damage dealt to you back to the enemy. | The amount of damage reflected cannot be greater than the amount of HP the wearer has.<br>Reflect damage no longer affects Boss-type monsters (MVPs). |
 
 </div>
 
@@ -82,8 +82,8 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| ![](img/Class_Changes/mg_napalmbeat.gif)Napalm Beat | Damage is split between the targets it hits. | Full damage applies to each monster hit. |
-| ![](img/Class_Changes/mg_soulstrike.gif)Soul Strike | 5% MATK per level. | 7% MATK per level. |
+| ![Napalm Beat](img/Class_Changes/mg_napalmbeat.gif)Napalm Beat | Damage is split between the targets it hits. | Full damage applies to each monster hit. |
+| ![Soul Strike](img/Class_Changes/mg_soulstrike.gif)Soul Strike | 5% MATK per level. | 7% MATK per level. |
 
 </div>
 
@@ -95,11 +95,11 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| ![](img/Class_Changes/hw_magicpower.gif)Amplify Magic Power | Increases MATK for the next instance of magical damage dealt. Does not include multiple ticks. | Increases MATK for each tick of the AoE spells Meteor Storm, Storm Gust, and Lord of Vermilion. |
-| ![](img/Class_Changes/wz_icewall.gif)Ice Wall | Cannot be used in GvG, Battlegrounds, Endless Tower, or Nidhoggur's Nest. | Additionally cannot be used on MVP maps. |
-| ![](img/Class_Changes/hw_magiccrasher.png)Magic Crasher | Physical attack that deals damage based on MATK instead of ATK, reduced by the target's DEF. Uses the weapon's element. | Pierces 75% of the DEF of non-player monsters and damage is doubled. Cards still apply, as does the active element on the weapon (converters/scrolls). |
-| ![](img/Class_Changes/wz_sightrasher.gif)Sightrasher | Damages targets through obstacles and walls. | Cannot go through obstacles or walls (exception: Biolabs 3/4). |
-| ![](img/Class_Changes/wz_stormgust.png)Storm Gust | 9x9 cell area. | 10x10 cell area. |
+| ![Amplify Magic Power](img/Class_Changes/hw_magicpower.gif)Amplify Magic Power | Increases MATK for the next instance of magical damage dealt. Does not include multiple ticks. | Increases MATK for each tick of the AoE spells Meteor Storm, Storm Gust, and Lord of Vermilion. |
+| ![Ice Wall](img/Class_Changes/wz_icewall.gif)Ice Wall | Cannot be used in GvG, Battlegrounds, Endless Tower, or Nidhoggur's Nest. | Additionally cannot be used on MVP maps. |
+| ![Magic Crasher](img/Class_Changes/hw_magiccrasher.png)Magic Crasher | Physical attack that deals damage based on MATK instead of ATK, reduced by the target's DEF. Uses the weapon's element. | Pierces 75% of the DEF of non-player monsters and damage is doubled. Cards still apply, as does the active element on the weapon (converters/scrolls). |
+| ![Sightrasher](img/Class_Changes/wz_sightrasher.gif)Sightrasher | Damages targets through obstacles and walls. | Cannot go through obstacles or walls (exception: Biolabs 3/4). |
+| ![Storm Gust](img/Class_Changes/wz_stormgust.png)Storm Gust | 9x9 cell area. | 10x10 cell area. |
 
 </div>
 
@@ -111,10 +111,10 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| ![](img/Class_Changes/sa_abracadabra.gif)Abracadabra | Can be used anywhere excluding WoE: SE. | Can no longer be used in towns. |
-| ![](img/Class_Changes/sa_autospell.gif)Auto Spell | Maximum Level of the spell varies from 1-3 based on the skill Level. Cast chance varies by level used. | Casts up to Level 5 bolts of all elements at skill Level 4 or higher.<br>When a bolt triggers, it casts the maximum Level you have learned, up to Level 5 (non-Linked).<br>Offers Earth Spike instead of Frost Diver: Level 1 from Auto Spell Level 2, Level 2 at Level 3, and Level 5 from Level 4 onward (always Level 5 under Sage Spirit). Frost Diver is removed from the list. |
-| ![](img/Class_Changes/sa_createcon.png)Create Elemental Converter | Crafts one converter at a time. | Mass production of up to 300 at a time. |
-| ![](img/Class_Changes/pf_mindbreaker.gif)Mind Breaker | Lowers the target's soft MDEF (the flat reduction from INT) by 12% per level. | Reduces the target's hard MDEF (the percentage reduction from equipment) everywhere except WoE and GvG castles, where it keeps reducing soft MDEF (the flat reduction from INT).<br>Adds a debuff icon for the receiver and updates stats to show the impact. |
+| ![Abracadabra](img/Class_Changes/sa_abracadabra.gif)Abracadabra | Can be used anywhere excluding WoE: SE. | Can no longer be used in towns. |
+| ![Auto Spell](img/Class_Changes/sa_autospell.gif)Auto Spell | Maximum Level of the spell varies from 1-3 based on the skill Level. Cast chance varies by level used. | Casts up to Level 5 bolts of all elements at skill Level 4 or higher.<br>When a bolt triggers, it casts the maximum Level you have learned, up to Level 5 (non-Linked).<br>Offers Earth Spike instead of Frost Diver: Level 1 from Auto Spell Level 2, Level 2 at Level 3, and Level 5 from Level 4 onward (always Level 5 under Sage Spirit). Frost Diver is removed from the list. |
+| ![Create Elemental Converter](img/Class_Changes/sa_createcon.png)Create Elemental Converter | Crafts one converter at a time. | Mass production of up to 300 at a time. |
+| ![Mind Breaker](img/Class_Changes/pf_mindbreaker.gif)Mind Breaker | Lowers the target's soft MDEF (the flat reduction from INT) by 12% per level. | Reduces the target's hard MDEF (the percentage reduction from equipment) everywhere except WoE and GvG castles, where it keeps reducing soft MDEF (the flat reduction from INT).<br>Adds a debuff icon for the receiver and updates stats to show the impact. |
 
 </div>
 
@@ -128,10 +128,10 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| ![](img/Class_Changes/mc_cartrevolution.gif)Cart Revolution | Damage increases by up to 100% with cart weight (1% per 80 weight, 8,000 maximum). | Cart assumes max weight regardless of actual cart weight. |
-| ![](img/Class_Changes/mc_changecart.png)Change Cart 2 | | Platinum skill that adds a second level to support additional cart styles. The Platinum Skill NPC re-grants it after a skill reset, so unlocked cart styles are not lost. |
-| ![](img/Class_Changes/mc_mammonite.gif)Mammonite | Costs 100z per skill level (100-1,000z). | Maximum cost reduced to 500z while you carry a [Bag of Gold Coins](#bag-of-gold-coins).<br>Cost removed entirely once the [Avarice](#bag-of-gold-coins) platinum skill is learned. |
-| ![](img/Class_Changes/mc_vending.gif)Vending | | After closing your shop, you get a cleaner summary showing what sold, how much zeny you earned, and what's left in your cart. |
+| ![Cart Revolution](img/Class_Changes/mc_cartrevolution.gif)Cart Revolution | Damage increases by up to 100% with cart weight (1% per 80 weight, 8,000 maximum). | Cart assumes max weight regardless of actual cart weight. |
+| ![Change Cart 2](img/Class_Changes/mc_changecart.png)Change Cart 2 | | Platinum skill that adds a second level to support additional cart styles. The Platinum Skill NPC re-grants it after a skill reset, so unlocked cart styles are not lost. |
+| ![Mammonite](img/Class_Changes/mc_mammonite.gif)Mammonite | Costs 100z per skill level (100-1,000z). | Maximum cost reduced to 500z while you carry a [Bag of Gold Coins](#bag-of-gold-coins).<br>Cost removed entirely once the [Avarice](#bag-of-gold-coins) platinum skill is learned. |
+| ![Vending](img/Class_Changes/mc_vending.gif)Vending | | After closing your shop, you get a cleaner summary showing what sold, how much zeny you earned, and what's left in your cart. |
 
 </div>
 
@@ -143,12 +143,12 @@ Status effects that behave differently from the official game.
 |-|-|-|
 | Fame System | Fame points (used for class rankings) are kept permanently. | Fame points (used for class rankings) decay by 5% per month. |
 | Forging System | 1, 2 or 3 Star Crumbs add +5, +10 or +40 Mastery ATK to all of the weapon's attacks. | 1 Star Crumb: +20 ATK.<br>2 Star Crumbs: +40 ATK (+60 total).<br>2 Star Crumbs and an element: +60 ATK and +10% bonus damage (element).<br>3 Star Crumbs: +60 ATK and +10% neutral damage bonus.<br>Weapons forged by top-ranked smiths get an additional +10 ATK. |
-| ![](img/Class_Changes/bs_adrenaline.gif)Adrenaline Rush | Increases attack speed with Mace and Axe weapons. | One-Handed Swords can also be used. |
-| ![](img/Class_Changes/ws_carttermination.gif)Cart Termination | Costs 600z to 1,500z. Damage depends on cart weight. | Cart assumes max weight regardless of cart weight.<br>Cost is 0z in Battlegrounds.<br>Cost reduced to 500z while you carry a [Bag of Gold Coins](#bag-of-gold-coins).<br>Cost removed entirely once the [Avarice](#bag-of-gold-coins) platinum skill is learned. |
-| ![](img/Class_Changes/ws_overthrustmax.gif)Maximum Power Thrust | 0.1% chance to break your weapon with each hit.<br>Does not persist through logout. | No longer breaks weapons.<br>Persists through logout. |
-| ![](img/Class_Changes/ws_meltdown.gif)Melt Down | Cast time of 0.5s to 1s by Level. Duration of 15s to 60s. SP cost of 50 to 90. Chance to break the target's weapon and armor. | No cast time. SP cost capped at 50 at any Level.<br>Duration of 25s at Level 1, scaling up to 150s at Level 10 to match Adrenaline Rush.<br>On hit, applies a 5 second debuff (100% rate) to PvE targets, reducing the target's DEF and the monster's ATK by 35%. Hitting again within the 5 seconds refreshes it. It procs on normal attacks and skills, and works with Cart Termination.<br>Does not work on MVPs, but affects mini-boss monsters.<br>Equipment breaking in PvP is unchanged. |
-| ![](img/Class_Changes/bs_overthrust.gif)Power Thrust | 0.1% chance to break your weapon with each hit. | No longer breaks weapons. |
-| ![](img/Class_Changes/bs_repairweapon.png)Repair Weapon | Repairs broken weapons. | Also repairs broken armor, using Steel. |
+| ![Adrenaline Rush](img/Class_Changes/bs_adrenaline.gif)Adrenaline Rush | Increases attack speed with Mace and Axe weapons. | One-Handed Swords can also be used. |
+| ![Cart Termination](img/Class_Changes/ws_carttermination.gif)Cart Termination | Costs 600z to 1,500z. Damage depends on cart weight. | Cart assumes max weight regardless of cart weight.<br>Cost is 0z in Battlegrounds.<br>Cost reduced to 500z while you carry a [Bag of Gold Coins](#bag-of-gold-coins).<br>Cost removed entirely once the [Avarice](#bag-of-gold-coins) platinum skill is learned. |
+| ![Maximum Power Thrust](img/Class_Changes/ws_overthrustmax.gif)Maximum Power Thrust | 0.1% chance to break your weapon with each hit.<br>Does not persist through logout. | No longer breaks weapons.<br>Persists through logout. |
+| ![Melt Down](img/Class_Changes/ws_meltdown.gif)Melt Down | Cast time of 0.5s to 1s by Level. Duration of 15s to 60s. SP cost of 50 to 90. Chance to break the target's weapon and armor. | No cast time. SP cost capped at 50 at any Level.<br>Duration of 25s at Level 1, scaling up to 150s at Level 10 to match Adrenaline Rush.<br>On hit, applies a 5 second debuff (100% rate) to PvE targets, reducing the target's DEF and the monster's ATK by 35%. Hitting again within the 5 seconds refreshes it. It procs on normal attacks and skills, and works with Cart Termination.<br>Does not work on MVPs, but affects mini-boss monsters.<br>Equipment breaking in PvP is unchanged. |
+| ![Power Thrust](img/Class_Changes/bs_overthrust.gif)Power Thrust | 0.1% chance to break your weapon with each hit. | No longer breaks weapons. |
+| ![Repair Weapon](img/Class_Changes/bs_repairweapon.png)Repair Weapon | Repairs broken weapons. | Also repairs broken armor, using Steel. |
 
 </div>
 
@@ -160,13 +160,13 @@ Status effects that behave differently from the official game.
 | Skill | Original | uaRO Changes |
 |-|-|-|
 | Fame System | Fame points (used for class rankings) are kept permanently. | Fame points (used for class rankings) decay by 5% per month. |
-| ![](img/Class_Changes/am_cannibalize.gif)Bio Cannibalize | At most 3 Flora, 2 Parasites or 1 Geographer can be out at once (6 minus the skill level). | Increased plant count of Flora, Parasite and Geographer on non-PvP maps for improved PvE viability. |
-| ![](img/Class_Changes/am_bioethics.gif)Bioethics | Allows the Alchemist to begin learning the Homunculus skill tree. | Now an active skill, used as the interface to swap between your stored homunculi (costs 1 embryo to swap). |
-| ![](img/Class_Changes/am_callhomun.gif)Call Homunculus | Summons or recalls an already created Homunculus. | Calls your most recently selected homunculus. Your active choice won't show on your Bioethics storage list. |
-| ![](img/Class_Changes/hlif_change.png)Mental Change (Lif) | Duration of 1, 2 and 3 minutes for Levels 1-3.<br>Cooldown of 10, 15 and 20 minutes. | Duration of 1, 3 and 5 minutes for Levels 1-3.<br>Cooldown of 5 minutes at every Level.<br>Effects carry through Fly Wing and Teleport for the full duration.<br>Follows the normal HP/SP requirements, so it can't be used to auto-heal after every skill. |
-| ![](img/Class_Changes/cr_cultivation.png)Plant Cultivation | Can be used on any walkable cell. | Blocked in all town buildings (inns, shops, guild halls, etc.). |
-| ![](img/Class_Changes/am_rest.gif)Rest | Destroys a currently created Homunculus. | Stores your active homunculus instead of destroying it. Required before you can open Bioethics to swap. |
-| ![](img/Class_Changes/am_twilight3.gif)Twilight Alchemy | Three separate skills (Twilight Alchemy 1, 2 and 3). 1 makes 200 White Potions, 2 makes 200 Slim White Potions, and 3 makes 100 Alcohol, 50 Acid Bottles and 50 Flame Bottles.<br>Cast time: 3s.<br>Cooldown: 10s. | One skill that brews up to 300 of any create-potion item, based on resources in your inventory.<br>Auto-crafts if only one potion type is available (no ingredient selection screen).<br>No cast time.<br>Cooldown: 2s. |
+| ![Bio Cannibalize](img/Class_Changes/am_cannibalize.gif)Bio Cannibalize | At most 3 Flora, 2 Parasites or 1 Geographer can be out at once (6 minus the skill level). | Increased plant count of Flora, Parasite and Geographer on non-PvP maps for improved PvE viability. |
+| ![Bioethics](img/Class_Changes/am_bioethics.gif)Bioethics | Allows the Alchemist to begin learning the Homunculus skill tree. | Now an active skill, used as the interface to swap between your stored homunculi (costs 1 embryo to swap). |
+| ![Call Homunculus](img/Class_Changes/am_callhomun.gif)Call Homunculus | Summons or recalls an already created Homunculus. | Calls your most recently selected homunculus. Your active choice won't show on your Bioethics storage list. |
+| ![Mental Change (Lif)](img/Class_Changes/hlif_change.png)Mental Change (Lif) | Duration of 1, 2 and 3 minutes for Levels 1-3.<br>Cooldown of 10, 15 and 20 minutes. | Duration of 1, 3 and 5 minutes for Levels 1-3.<br>Cooldown of 5 minutes at every Level.<br>Effects carry through Fly Wing and Teleport for the full duration.<br>Follows the normal HP/SP requirements, so it can't be used to auto-heal after every skill. |
+| ![Plant Cultivation](img/Class_Changes/cr_cultivation.png)Plant Cultivation | Can be used on any walkable cell. | Blocked in all town buildings (inns, shops, guild halls, etc.). |
+| ![Rest](img/Class_Changes/am_rest.gif)Rest | Destroys a currently created Homunculus. | Stores your active homunculus instead of destroying it. Required before you can open Bioethics to swap. |
+| ![Twilight Alchemy](img/Class_Changes/am_twilight3.gif)Twilight Alchemy | Three separate skills (Twilight Alchemy 1, 2 and 3). 1 makes 200 White Potions, 2 makes 200 Slim White Potions, and 3 makes 100 Alcohol, 50 Acid Bottles and 50 Flame Bottles.<br>Cast time: 3s.<br>Cooldown: 10s. | One skill that brews up to 300 of any create-potion item, based on resources in your inventory.<br>Auto-crafts if only one potion type is available (no ingredient selection screen).<br>No cast time.<br>Cooldown: 2s. |
 
 </div>
 
