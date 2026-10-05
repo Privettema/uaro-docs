@@ -135,69 +135,20 @@ Status effects that behave differently from the official game.
 </div>
 
 ### Blacksmith / Whitesmith
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Fame System</td>
-                <td>Fame points earned are kept permanently. A weapon created by ranked blacksmith will deal an extra +10 seeking damage, which pierces defense and never misses. Ranking can be checked in-game with <code>@blacksmith</code>.</td>
-                <td>Fame points decay by 10% per month, to support better game balance.</td>
-            </tr>
-             <tr>
-                <td>Forging System</td>
-                <td>When forging a weapon there are 3 available slots for modifying items. Items such as Flame Heart, Mystic Frozen, Rough Wind and Great Nature can be used to imbue the weapon with the Fire, Water, Wind and Earth properties, respectively. A weapon may only have one element at a time and using more than one elemental stone will cause the forge to fail. Slots may also be fitted with Star Crumbs. One, two, and three Star Crumbs will (respectively) add +5, +10, and +40 Mastery ATK to all attacks from the weapon.</td>
-                <td>1 Very +20 ATK.<br> 2 Very +40 ATK (+60 total).<br> 2 Very and Element +60 ATK and +10% bonus damage (element).<br> 3 Very +60 ATK and 10% neutral damage bonus.<br> Ranked Blacksmith Bonus: Weapons forged by top-ranked smiths get an additional +10 ATK.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/bs_adrenaline.gif" alt="">Adrenaline Rush</td>
-                <td>Increase your attack speed with Mace and Axe type weapons by 30%. Increases attack speed of nearby party member with Mace and Axe type weapons by 20%. Changing from a Mace or Axe to any other type of weapons (including bare fists) will cancel the effect.</td>
-                <td>You can use One-Handed Swords with this skill. </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/ws_carttermination.gif" alt="">Cart Termination</td>
-                <td>Uses the power of Zeny to strike a single enemy with your cart. Damage is dependent on the cart's weight.</td>
-                <td>
-                    Cart assumes max weight regardless of cart weight.<br>
-                    Cost is reduced to 0z in Battlegrounds.<br>
-                    Reduced price to 500z while possessing <a href="#bag-of-gold-coins">Bag of Gold Coins</a> within inventory.<br>
-                    Cost removed entirely once the <a href="#bag-of-gold-coins">Avarice</a> platinum skill is learned.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/ws_overthrustmax.gif" alt="">Maximum Power Thrust</td>
-                <td>There is a 0.1% chance to break your weapon with each hit.<br>Does not persist through logout.</td>
-                <td>No longer breaks weapons.<br>Persists through logout.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/ws_meltdown.gif" alt="">Melt Down</td>
-                <td>N/A.</td>
-                <td>
-                    No cast time. SP cost capped at 50 for any skill level.<br>
-                    Duration of 25s at level 1, scaling up to 150s at level 10 to match Adrenaline Rush.<br>
-                    On hit, applies a 5 second debuff (100% rate) to PvE targets, reducing target DEF and decreasing monster ATK by 35%. Hitting again within the 5 seconds refreshes it. Procs on normal attacks and skills, and works with Cart Termination.<br>
-                    Does not work on MVPs, but affects mini-boss type monsters.<br>
-                    Equipment breaking in PvP is unchanged.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/bs_overthrust.gif" alt="">Power Thrust</td>
-                <td>There is a 0.1% chance to break your weapon with each hit.</td>
-                <td>No longer breaks weapons.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/bs_repairweapon.png" alt="">Repair Weapon</td>
-                <td>Repairs broken weapons.</td>
-                <td>Also repairs broken armor, using Steel.</td>
-            </tr>
-        </tbody>
-    </table>
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Fame System | Fame points are kept permanently. | Fame points decay by 5% per month. |
+| Forging System | 1, 2 or 3 Star Crumbs add +5, +10 or +40 Mastery ATK to all of the weapon's attacks. | 1 Very Strong Star Crumb: +20 ATK.<br>2 Very Strong Star Crumbs: +40 ATK (+60 total).<br>2 Very Strong Star Crumbs and an element: +60 ATK and +10% bonus damage (element).<br>3 Very Strong Star Crumbs: +60 ATK and +10% neutral damage bonus.<br>Weapons forged by top-ranked smiths get an additional +10 ATK. |
+| ![](img/Class_Changes/bs_adrenaline.gif)Adrenaline Rush | Increases attack speed with Mace and Axe weapons. | One-Handed Swords can also be used. |
+| ![](img/Class_Changes/ws_carttermination.gif)Cart Termination | Costs 600z to 1,500z. Damage depends on cart weight. | Cart assumes max weight regardless of cart weight.<br>Cost is 0z in Battlegrounds.<br>Cost reduced to 500z while you carry a [Bag of Gold Coins](#bag-of-gold-coins).<br>Cost removed entirely once the [Avarice](#bag-of-gold-coins) platinum skill is learned. |
+| ![](img/Class_Changes/ws_overthrustmax.gif)Maximum Power Thrust | 0.1% chance to break your weapon with each hit.<br>Does not persist through logout. | No longer breaks weapons.<br>Persists through logout. |
+| ![](img/Class_Changes/ws_meltdown.gif)Melt Down | Cast time of 0.5s to 1s by level. Duration of 15s to 60s. SP cost of 50 to 90. Chance to break the target's weapon and armor. | No cast time. SP cost capped at 50 at any level.<br>Duration of 25s at level 1, scaling up to 150s at level 10 to match Adrenaline Rush.<br>On hit, applies a 5 second debuff (100% rate) to PvE targets, reducing the target's DEF and the monster's ATK by 35%. Hitting again within the 5 seconds refreshes it. It procs on normal attacks and skills, and works with Cart Termination.<br>Does not work on MVPs, but affects mini-boss monsters.<br>Equipment breaking in PvP is unchanged. |
+| ![](img/Class_Changes/bs_overthrust.gif)Power Thrust | 0.1% chance to break your weapon with each hit. | No longer breaks weapons. |
+| ![](img/Class_Changes/bs_repairweapon.png)Repair Weapon | Repairs broken weapons. | Also repairs broken armor, using Steel. |
+
 </div>
 
 
