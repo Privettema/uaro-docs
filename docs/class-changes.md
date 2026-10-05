@@ -105,38 +105,16 @@ Status effects that behave differently from the official game.
 
 
 ### Sage / Professor
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="../img/Class_Changes/sa_abracadabra.gif" alt="">Abracadabra</td>
-                <td>Can be used anywhere excluding WoE: SE.</td>
-                <td>Can no longer can be used in towns.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/sa_autospell.gif" alt="">Auto Spell</td>
-                <td>Maximum level of skill varies from 1-3 based on skill level. Skill cast chance varies by level used.</td>
-                <td> Skills cast can trigger up to level 5 bolts on all elements when skill level 4 or higher.<br>When bolts are triggered, will cast max level learned up to level 5 (Non-Linked).<br>Offers Earth Spike instead of Frost Diver: Lv1 from Auto Spell level 2, Lv2 at level 3 and Lv5 from level 4 onwards (always Lv5 under Sage Spirit). Frost Diver has been removed from the list. </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/sa_createcon.png" alt="">Create Elemental Converter</td>
-                <td>Crafts one converter at a time.</td>
-                <td>Mass production of up to 300 at a time.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/pf_mindbreaker.gif" alt="">Mind Breaker</td>
-                <td>Attack the mind of the enemy to cause mental breakdown. This decreases enemy's INT MDEF, but it ups their MATK. This is basically Provoke for Magicians.</td>
-                <td>Reduces the target's hard MDEF (the percentage reduction from equipment) everywhere except WoE and GvG castles, where it keeps reducing soft MDEF (the flat reduction from INT).<br>Adds a debuff icon for the receiver. Updates stats to show impact.</td>
-            </tr>
-        </tbody>
-    </table>
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| ![](img/Class_Changes/sa_abracadabra.gif)Abracadabra | Can be used anywhere excluding WoE: SE. | Can no longer be used in towns. |
+| ![](img/Class_Changes/sa_autospell.gif)Auto Spell | Maximum level of the spell varies from 1-3 based on the skill level. Cast chance varies by level used. | Casts up to level 5 bolts of all elements at skill level 4 or higher.<br>When a bolt triggers, it casts the maximum level you have learned, up to level 5 (non-Linked).<br>Offers Earth Spike instead of Frost Diver: Level 1 from Auto Spell level 2, Level 2 at level 3, and Level 5 from level 4 onward (always Level 5 under Sage Spirit). Frost Diver is removed from the list. |
+| ![](img/Class_Changes/sa_createcon.png)Create Elemental Converter | Crafts one converter at a time. | Mass production of up to 300 at a time. |
+| ![](img/Class_Changes/pf_mindbreaker.gif)Mind Breaker | Lowers the target's MDEF by 12% per level. | Reduces the target's hard MDEF (the percentage reduction from equipment) everywhere except WoE and GvG castles, where it keeps reducing soft MDEF (the flat reduction from INT).<br>Adds a debuff icon for the receiver and updates stats to show the impact. |
+
 </div>
 
 
