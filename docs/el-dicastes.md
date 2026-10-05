@@ -130,6 +130,17 @@ Certificates are spent on enchanting four bound items.
 
 These items cannot be refined, traded, put in a cart, put in guild storage, mailed or sold. Light of El Dicastes also cannot be stored.
 
+### Stats
+
+Each layer rolls a bonus from its column. Only Feral Boots and Feral Tail can roll +3 on layer 3. The Light of El Dicastes and Golden Trinket top out at +2.
+
+| Layer 1 | Layer 2 | Layer 3 (Light, Golden Trinket) | Layer 3 (Feral Boots, Feral Tail) |
+|---|---|---|---|
+| ATK +2% or 3% | AGI +1 or 2 | AGI +1 or 2 | AGI +1, 2 or 3 |
+| MATK +1% or 2% | DEX +1 or 2 | DEX +1 or 2 | DEX +1, 2 or 3 |
+| Critical +5 or 7 | INT +1 or 2 | INT +1 or 2 | INT +1, 2 or 3 |
+| Flee +6 or 12 | - | - | - |
+
 ### Enchanting with Kareka
 
 **Kareka** (`/navi dic_in01 353/37`) only enchants the Light of El Dicastes. You must wear the Ring of the Ancient Wise King to speak with him.
@@ -143,7 +154,7 @@ These items cannot be refined, traded, put in a cart, put in guild storage, mail
 
 ### Enchanting with the Cat Merchants
 
-The cat merchants enchant the Feral Boots, Feral Tail and Golden Trinket, and the item must be equipped.
+The cat merchants enchant the Feral Boots, Feral Tail and Golden Trinket, and the item must be equipped. You do not need to wear the Ring of the Ancient Wise King to speak with the cats.
 
 | Step | Cost | Result |
 |---|---|---|
@@ -155,16 +166,3 @@ The cat merchants enchant the Feral Boots, Feral Tail and Golden Trinket, and th
 
 !!! danger "Some Cat Merchant failures can destroy the item"
     A failed third layer or a reset at the cat merchants destroys the item, including its socket and any card. Finish all three layers before adding a socket.
-
-### Stats
-
-The first layer rolls ATK, MATK, Critical or Flee, the second adds +1 or +2 to AGI, INT or DEX, and the third combines them into a larger bonus. The cat merchants give better odds on the stronger rolls (40% against Kareka's 14%), and only Feral Boots and Feral Tail can reach the top tier.
-
-| Layer 1 | Layer 2 | Layer 3 |
-|---|---|---|
-| Atk +2% or 3% | AGI +1 or 2 | AGI +1 or 2, (+3\*) |
-| Matk +1% or 2% | DEX +1 or 2 | DEX +1 or 2, (+3\*) |
-| Crit +5 or 7 | INT +1 or 2 | INT +1 or 2, (+3\*) |
-| Flee +6 or 12 | - | - |
-
-\* Only Feral Boots and Feral Tail have a chance to roll +3.
