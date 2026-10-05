@@ -243,59 +243,24 @@ Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-deal
 |-|-|-|
 | ![Create Deadly Poison](img/Class_Changes/asc_cdp.gif)Create Deadly Poison | SP cost 50. | SP cost 10.<br>No longer lose HP on failure.<br>Mass production of up to 300 at a time. |
 | ![Enchant Deadly Poison](img/Class_Changes/asc_edp.gif)Enchant Deadly Poison | Duration is 60 seconds.<br>Does not persist through logout. | Duration increased to 90 seconds.<br>Persists through logout. |
-| Venom Dust | Consumes 1 Red Gemstone. | No longer consumes a Red Gemstone. |
+| ![Venom Dust](img/Class_Changes/as_venomdust.png)Venom Dust | Consumes 1 Red Gemstone. | No longer consumes a Red Gemstone. |
 
 </div>
 
 
 
 ### Rogue / Stalker
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="../img/Class_Changes/rg_backstab.gif" alt="">Backstab</td>
-                <td>Powerful attack that can only be used from behind the enemy. Cannot miss and will turn the target to face the caster, thus preventing repeated use.</td>
-                <td>Can be performed like most attack skills.<br> Cooldown reduced from 0.5s to 0.333s.</td>
-            </tr>
-             <tr>
-                <td><img src="../img/Class_Changes/st_chasewalk.gif" alt="">Chase Walk</td>
-                <td>After a delay of 10 seconds, it will increase STR for 30 seconds.</td>
-                <td>After a delay of 5 seconds, it will increase STR for 30 seconds.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/rg_plagiarism.gif" alt="">Plagiarism</td>
-                <td>Skills must be copied from another player.</td>
-                <td>
-                    <a href="custom-npc.md">Plagiarism NPC</a> allows Rogues/Stalkers to copy skills for a fee.<br>
-                    A skill you already know can be overwritten when a higher version is offered (applies to normal in-combat Plagiarism as well).<br>
-                    The NPC refuses the trade while Preserve is active.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/st_preserve.gif" alt="">Preserve</td>
-                <td>
-                    Duration of 10 minutes.
-                </td>
-                <td>
-                    Infinite duration. Becomes a toggle on / off skill.<br>
-                    Persists through log out.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/st_rejectsword.gif" alt="">Reject Sword</td>
-                <td>Parry 3 attacks from an enemy and receive only half of the damage.</td>
-                <td>The amount of damage reflected cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is within a Safety Wall.</td>
-            </tr>
-        </tbody>
-    </table>
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| ![Backstab](img/Class_Changes/rg_backstab.gif)Backstab | Can only be used from behind the enemy. Cannot miss, and turns the target to face the caster, which prevents repeated use.<br>Cooldown of 0.5s. | Can be performed like most attack skills.<br>Cooldown of 0.333s. |
+| ![Chase Walk](img/Class_Changes/st_chasewalk.gif)Chase Walk | After a delay of 10 seconds, it increases STR for 30 seconds. | Delay reduced to 5 seconds. |
+| ![Plagiarism](img/Class_Changes/rg_plagiarism.gif)Plagiarism | Skills must be copied from another player. | The [Plagiarism NPC](custom-npc.md) lets Rogues and Stalkers copy skills for a fee, and refuses the trade while Preserve is active.<br>A skill you already know can be overwritten when a higher Level is offered, including with normal in-combat Plagiarism. |
+| ![Preserve](img/Class_Changes/st_preserve.gif)Preserve | Duration of 10 minutes.<br>Does not persist through logout. | Infinite duration. Becomes an on/off toggle.<br>Persists through logout. |
+| ![Reject Sword](img/Class_Changes/st_rejectsword.gif)Reject Sword | Parry 3 attacks from an enemy and receive only half of the damage. | The amount of damage reflected cannot be greater than the HP of the wearer. |
+
 </div>
 
 
