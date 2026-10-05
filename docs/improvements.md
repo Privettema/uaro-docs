@@ -66,6 +66,21 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 
 
 
+## Party Menu Buff Letters
+The party menu shows short letters in front of each member's name for the buffs active on them, so you can see at a glance who still needs a buff.
+
+![Party menu buff letters](img/party-statuses.webp){ .wiki-screenshot }
+
+| Letter | Buff |
+|:---:|---|
+| `B` | Blessing |
+| `A` | Agi Up |
+| `F` | FCP |
+| `S` | Soul Link |
+| `U` | Assumptio |
+| `+` | Devotion |
+
+
 ## Optimized Mechanics
 
 | Feature | Description |
