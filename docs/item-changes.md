@@ -145,7 +145,7 @@ For weapons, see [Expanded Class Weapons](expanded-class-weapons.md).
 | Isilla Card | 4412 | INT +2<br>5% chance when dealing magic damage to reduce cast time by 50% and give Flee +30 for 5 seconds. | Also triggers from AoE magic skills, not only single target magic. |
 | Kraken Card | 4525 | FLEE +10<br>Enables the use of Level 1 Hiding.<br>Enables the use of Level 1 Raid, which has a 25% chance to also cast Wide Bleeding. | FLEE +10<br>Increases resistance to all elemental properties by 25%.<br>Enables the use of Level 1 Hiding. |
 | Moonlight Flower Card | 4131 | Movement speed +25%. | Movement speed +40%. |
-| Queen Scaraba Card | 4507 | Inflicts 30% more damage against Scaraba monsters<br>Small chance of dropping an Antler Scaraba Scroll when defeating any monster | Inflicts 30% more damage against Scaraba monsters<br>MDEF -30<br>Flee -30<br>Deals more magical damage depending on the target's magic defense<br>Small chance of dropping an Antler Scaraba Scroll when defeating any monster |
+| Queen Scaraba Card | 4507 | Inflicts 30% more damage against Scaraba monsters<br>Small chance of dropping a Scaraba Summoning Scroll (`12806`) when defeating any monster | Inflicts 30% more damage against Scaraba monsters<br>MDEF -30<br>Flee -30<br>Deals more magical damage depending on the target's magic defense<br>Small chance of dropping a Scaraba Summoning Scroll (`12806`) when defeating any monster |
 | Shinobi Card | 4230 | AGI +1<br>10% chance to cast Cloaking Level 5 when hit | AGI +1<br>10% chance to cast Cloaking Level 5 when hit<br>The Cloaking chance is nullified when the Thief card set is equipped together: The Paper Card (`4172`), Wanderer Card (`4210`), Shinobi Card, Wild Rose Card (`4257`) and Zhu Po Long Card (`4272`) |
 
 
