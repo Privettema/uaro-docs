@@ -27,7 +27,7 @@ Talk to the **Cat Hand Agent** at each location once to unlock teleports there.
 
 ## Services
 
-These services are available in **Midgard Expedition Camp**, **Manuk**, **Splendide**, and **El Dicastes** where town-only conveniences such as [`@restock`](commands.md#restock-qstore-fast-storage) can be used.
+These services are available in **Midgard Expedition Camp**, **Manuk**, **Splendide**, and **El Dicastes**.
 
 Note that Midgard-city teleports are sold at the camp only.
 

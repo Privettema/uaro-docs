@@ -14,7 +14,7 @@ In **El Dicastes**, the Sapha capital, every favor is paid in certificates and e
 
 El Dicastes is reached through the Episode 13.2 quest chain, which opens after you complete the Episode 13.1 Ash Vacuum quest chain.
 
-Once you speak to the [Cat Hand Agent](new-world-travel.md), you can return on your other characters. However, they cannot complete any local quests without the Ring of the Ancient Wise King.
+Once you speak to the [Cat Hand Agent](new-world-travel.md) in El Dicastes, you can return on your other characters. However, they cannot complete any local quests without the Ring of the Ancient Wise King.
 
 ### Prerequisites
 
@@ -24,7 +24,7 @@ Completing these quests will take you to El Dicastes and unlock local quests the
 2. [Finding a Fairy](https://irowiki.org/classic/Finding_a_Fairy)
 3. Two of these four: [Attitude to the New World](https://irowiki.org/classic/Attitude_to_the_New_World), [Report from the New World](https://irowiki.org/classic/New_Surroundings), [Tripatriate Union's Feud](https://irowiki.org/classic/Tripatriate_Union%27s_Feud) or [Pursuing Rayan Moore](https://irowiki.org/classic/Pursuing_Rayan_Moore)
 4. [Ring of the Ancient Wise King](https://irowiki.org/classic/Ring_of_the_Wise_King)
-5. [Sapha's Visit](https://irowiki.org/wiki/Sapha%27s_Visit) to step 7
+5. [Sapha's Visit](https://irowiki.org/wiki/Sapha%27s_Visit), up to step 7. The quest has more steps, but step 7 is as far as you need to go to continue
 
 !!! warning "Possible Quest Differences"
     Some content from external guides may vary on uaRO, especially modified renewal content.
@@ -58,7 +58,7 @@ The Light of El Dicastes grants the skill **Return to El Dicastes** when equippe
 
 Certain steps of [Doha's Secret Orders](https://irowiki.org/wiki/Doha%27s_Secret_Orders) unlock Scaraba Hole, enchanting at the Cat Merchants and one of the daily quests.
 
-| Step | Unlock |
+| Doha's Secret Orders Step | Unlock |
 |---|---|
 | 7 | Scaraba Hole Level 2 |
 | 8 | Cat Merchant Enchantments |
@@ -66,7 +66,7 @@ Certain steps of [Doha's Secret Orders](https://irowiki.org/wiki/Doha%27s_Secret
 | Complete | x9 Unknown Relics (`6308`) |
 
 !!! warning "Quest Differences"
-    You will not receive a Bradium Brooch or Dragon's Manteau for completing Doha's Orders.
+    You will not receive a Bradium Brooch or Dragon's Manteau for completing Doha's Secret Orders.
 
 ## The City
 
