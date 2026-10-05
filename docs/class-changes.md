@@ -14,9 +14,9 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
 | Party Buff Animations | Buffs from party members play their full animation delay on every recipient. | Delay removed for party members, so the buff lands instantly with the effect and a floating skill name. The caster still sees the full animation.<br>Covers Angelus, Magnificat, Gloria, Wind Walk, Adrenaline Rush, Full Adrenaline Rush, Weapon Perfection, Over Thrust, Help Angel, and the Blessing, Increase AGI and Assumptio scrolls. |
 | Reflected Damage | Reflects the listed percentage of damage taken. | Reflected damage cannot exceed the HP of the skill's user. |
 | Safety Wall | Players inside can reflect damage. | Players inside cannot reflect damage. |
-| <img src="../img/skill_270.png" alt="">Fury / Critical Explosion | Natural SP recovery is disabled while in Fury. | Natural HP and SP recovery work while in Fury.<br>Does not apply to Monk or Champion. Other characters, such as those who get Fury from an item, can use it. |
-| <img src="../img/Class_Changes/al_teleport.gif" alt="">Teleport | Teleports to a random spot on the same map. | Cannot land on a map portal. |
-| <img src="../img/Class_Changes/al_warp.gif" alt="">Warp Portal | Cannot be used in GvG maps or Battleground maps. | Also cannot be used on MVP maps. |
+| ![](img/skill_270.png)Fury / Critical Explosion | Natural SP recovery is disabled while in Fury. | Natural HP and SP recovery work while in Fury.<br>Does not apply to Monk or Champion. Other characters, such as those who get Fury from an item, can use it. |
+| ![](img/Class_Changes/al_teleport.gif)Teleport | Teleports to a random spot on the same map. | Cannot land on a map portal. |
+| ![](img/Class_Changes/al_warp.gif)Warp Portal | Cannot be used in GvG maps or Battleground maps. | Also cannot be used on MVP maps. |
 
 </div>
 
@@ -33,7 +33,7 @@ Status effects that behave differently from the official game.
 |-|-|-|
 | Buff Duration | Song buffs end as soon as a player exits the song area. | Song buff will continue for 20 seconds after leaving the song area. |
 | Buff Icons | No status icon for songs. | Song buff icons are added with the other player buffs. |
-| <img src="../img/Class_Changes/dc_dontforgetme.png" alt="" width="24">Please Don't Forget Me | Not removed on death. | Removed on death. |
+| ![](img/Class_Changes/dc_dontforgetme.png)Please Don't Forget Me | Not removed on death. | Removed on death. |
 
 </div>
 
@@ -49,9 +49,9 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| <img src="../img/Class_Changes/lk_berserk.png" alt="">Berserk | No items can be used while Berserked.<br>Chat is blocked while Berserked.<br>Red body tint while active. | Fly Wing, Novice Fly Wing, and Infinite Fly Wing can be used while Berserked (all other items remain blocked).<br>You can chat while Berserked.<br>If Concentration is active when you cast Berserk, it is refreshed and extended to 2.6x its normal duration (Level 5: 45s to 117s). Concentration ends when Berserk ends.<br>The red body tint is replaced with an aura effect and a cast sound (the aura can be hidden via the Status Color Effect setting). |
-| <img src="../img/Class_Changes/kn_bowlingbash.gif" alt="">Bowling Bash | Knockback distance of 1 cell. | Knockback distance of 2 cells.<br>Skill range increased to 2 cells. |
-| <img src="../img/Class_Changes/kn_brandishspear.gif" alt="">Brandish Spear | Knockback distance of 3 cells. | Knockback decreased to 1 cell. |
+| ![](img/Class_Changes/lk_berserk.png)Berserk | No items can be used while Berserked.<br>Chat is blocked while Berserked.<br>Red body tint while active. | Fly Wing, Novice Fly Wing, and Infinite Fly Wing can be used while Berserked (all other items remain blocked).<br>You can chat while Berserked.<br>If Concentration is active when you cast Berserk, it is refreshed and extended to 2.6x its normal duration (Level 5: 45s to 117s). Concentration ends when Berserk ends.<br>The red body tint is replaced with an aura effect and a cast sound (the aura can be hidden via the Status Color Effect setting). |
+| ![](img/Class_Changes/kn_bowlingbash.gif)Bowling Bash | Knockback distance of 1 cell. | Knockback distance of 2 cells.<br>Skill range increased to 2 cells. |
+| ![](img/Class_Changes/kn_brandishspear.gif)Brandish Spear | Knockback distance of 3 cells. | Knockback decreased to 1 cell. |
 
 </div>
 
