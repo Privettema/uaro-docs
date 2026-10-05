@@ -165,7 +165,7 @@ Status effects that behave differently from the official game.
 | ![](img/Class_Changes/hlif_change.png)Mental Change (Lif) | Duration of 1, 2 and 3 minutes for levels 1-3.<br>Cooldown of 10, 15 and 20 minutes. | Duration of 1, 3 and 5 minutes for levels 1-3.<br>Cooldown of 5 minutes at every level.<br>Effects carry through Fly Wing and Teleport for the full duration.<br>Follows the normal HP/SP requirements, so it can't be used to auto-heal after every skill. |
 | ![](img/Class_Changes/cr_cultivation.png)Plant Cultivation | Can be used on any walkable cell. | Blocked in all town buildings (inns, shops, guild halls, etc.). |
 | ![](img/Class_Changes/am_rest.gif)Rest | Destroys a currently created Homunculus. | Stores your active homunculus instead of destroying it. Required before you can open Bioethics to swap. |
-| ![](img/Class_Changes/am_twilight3.gif)Twilight Alchemy | N/A | Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory. Requires Soul Link.<br>Auto crafts upon skill use if only one potion type available (won't prompt ingredient verification/selection screen)<br>Cooldown: 2s |
+| ![](img/Class_Changes/am_twilight3.gif)Twilight Alchemy | Three separate skills (Twilight Alchemy 1, 2 and 3). 1 makes 200 White Potions, 2 makes 200 Slim White Potions, and 3 makes 100 Alcohol, 50 Acid Bottles and 50 Flame Bottles.<br>Cast time: 3s.<br>Cooldown: 10s. | One skill that brews up to 300 of any create-potion item, based on resources in your inventory.<br>Auto-crafts if only one potion type is available (no ingredient selection screen).<br>No cast time.<br>Cooldown: 2s. |
 
 </div>
 
