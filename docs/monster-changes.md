@@ -14,11 +14,12 @@ Monsters where uaRO has altered the stats, skills, spawns or drops.
 | Evil Snake Lord | `1418` | – | Snake Head (`5388`): 0.9% |
 | Fallen Bishop | `1871` | – | Crown of Deceit [1] (`5564`): 6% |
 | Gryphon | `1259` | – | Sigrun's Wings (`5592`): 0.9% |
+| High Priest Margaretha | `1649` | – | Valkyrie Drop (`28564`): 4.95% |
 | Kraken | `2202` | – | Waterdrop Brooch [1] (`2787`): 9% |
 | Lord Knight Seyren | `1646` | Dragon Slayer (`1166`): 100% | Dragon Slayer: 75% |
 | Maggot | `2467` | DEF 121<br>Lives until killed | DEF 60<br>Dies after 15 minutes regardless of remaining HP |
 | Majoruros | `1310` | – | Vecer Axe [2] (`1311`): 0.20% |
-| Margaretha Sorin | `1637` | – | Healing Staff (`1625`): 1%<br>Valkyrie Drop (`28564`): 4.95%<br>Old Mitra [1] (`18972`): 0.10% |
+| Margaretha Sorin | `1637` | – | Healing Staff (`1625`): 1%<br>Old Mitra [1] (`18972`): 0.10% |
 | Seyren<br>Eremes<br>Harword<br>Magaleta<br>Shecil<br>Katrinn | `1634`<br>`1635`<br>`1636`<br>`1637`<br>`1638`<br>`1639` | Spawn in fixed areas of the map | Spawn at random locations across the whole map<br>Anyone can kill them, with no kill-steal protection |
 | Seyren | `1634` | – | Dragon Slayer (`1166`): 0.10% |
 | Sleeper | `1386` | Great Nature (`997`): 100% | Great Nature: 75% |
