@@ -106,6 +106,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 
 | Item | Item ID | Original | uaRO Changes |
 |-|-|-|-|
+| Antelope Horn | 7106 | Can be discounted and moved to the cart | Cannot be bought with the Discount skill<br>Cannot be moved to the cart |
 | Bubble Gum | 12210 | Cash shop item | [Poring Coin shop](poring-coins-system.md#consumable-items): 1,000 Poring Coins<br>[Attendance reward](attendance-system.md) on login day 20 |
 | Convex Mirror | 12214 | No cooldown | 60 minute cooldown |
 | Cursed Water | 12020 | Acquired individually from NPC<br>Dropped by mobs | Bulk conversion at Niff Fountain, reached through the sign quest at `/navi niflheim 146/241`: choose Singular or All, based on your empty bottles. Includes a weight check |
@@ -131,6 +132,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Item | Item ID | Original | uaRO Changes |
 |-|-|-|-|
 | Crystal Mirror | 747 | Dropped by Corrupted Monk (`2465`) | Dropped by Corrupted Monk (`20898`)<br>Drop rate: [Monster Changes](monster-changes.md) |
+| Great Nature | 997 | Can be sent by mail | Cannot be sent by mail |
 | Poring Coin | 7539 | Can be sold to NPCs | Cannot be sold to NPCs |
 
 ## Extended Classes
