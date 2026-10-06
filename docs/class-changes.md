@@ -19,7 +19,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
 | Safety Wall | Players inside can reflect damage with reflect skills. | Players inside cannot reflect damage with reflect skills. |
 | ![Fury / Critical Explosion](img/skill_270.png) Fury / Critical Explosion | Natural SP recovery is disabled while in Fury. | Natural HP and SP recovery work while in Fury.<br>Does not apply to Monk or Champion. Other characters, such as those who get Fury from an item, benefit from the change. |
 | ![Teleport](img/Class_Changes/al_teleport.gif) Teleport | Teleports to a random spot on the same map. | Cannot land on a map portal. |
-| ![Warp Portal](img/Class_Changes/al_warp.gif) Warp Portal | Cannot be used in GvG maps or Battleground maps. | Also cannot be used on MVP maps. |
+| ![Warp Portal](img/Class_Changes/al_warp.gif) Warp Portal | Can be used on MVP maps. | Cannot be used on MVP maps. |
 
 </div>
 
@@ -53,7 +53,6 @@ Status effects that behave differently from the official game.
 | ![Berserk](img/Class_Changes/lk_berserk.png) Berserk | No items can be used while Berserked.<br>Red body tint while active. | Fly Wing, Novice Fly Wing, and Infinite Fly Wing can be used while Berserked (all other items remain blocked).<br>The red body tint is replaced with an aura effect and a cast sound (the aura can be hidden via the Status Color Effect setting). |
 | ![Concentration](img/skill_357.png) Concentration | Runs for its normal duration, unaffected by Berserk. | If active when you cast Berserk, it is refreshed and extended to 2.6x its normal duration (Level 5: 45 seconds to 117 seconds), and it ends when Berserk ends. |
 | ![Bowling Bash](img/Class_Changes/kn_bowlingbash.gif) Bowling Bash | Knockback distance of 1 cell.<br>Skill range of 1 cell. | Knockback distance of 2 cells.<br>Skill range increased to 2 cells. |
-| ![Brandish Spear](img/Class_Changes/kn_brandishspear.gif) Brandish Spear | Knockback distance of 3 cells. | Knockback decreased to 2 cells. |
 
 </div>
 
@@ -98,7 +97,7 @@ Status effects that behave differently from the official game.
 | Skill | Original | uaRO Changes |
 |-|-|-|
 | ![Amplify Magic Power](img/Class_Changes/hw_magicpower.gif) Amplify Magic Power | Increases MATK for the next instance of magical damage dealt. Does not include multiple ticks. | Increases MATK for each tick of the AoE spells Meteor Storm, Storm Gust, and Lord of Vermilion. |
-| ![Ice Wall](img/Class_Changes/wz_icewall.gif) Ice Wall | Cannot be used in GvG, Battlegrounds, Endless Tower, or Nidhoggur's Nest. | Additionally cannot be used on MVP maps. |
+| ![Ice Wall](img/Class_Changes/wz_icewall.gif) Ice Wall | Can be used on MVP maps. | Cannot be used on MVP maps. |
 | ![Magic Crasher](img/Class_Changes/hw_magiccrasher.png) Magic Crasher | Physical attack that deals damage based on MATK instead of ATK, reduced by the target's DEF. Uses the weapon's element. | Pierces 75% of the DEF of non-player monsters and damage is doubled. Cards still apply, as does the active element on the weapon (converters/scrolls). |
 | ![Sightrasher](img/Class_Changes/wz_sightrasher.gif) Sightrasher | Damages targets through obstacles and walls. | Cannot go through obstacles or walls (exception: Biolabs 3/4). |
 | ![Storm Gust](img/Class_Changes/wz_stormgust.png) Storm Gust | 9x9 cell area. | 10x10 cell area. |
@@ -114,7 +113,7 @@ Status effects that behave differently from the official game.
 | Skill | Original | uaRO Changes |
 |-|-|-|
 | ![Abracadabra](img/Class_Changes/sa_abracadabra.gif) Abracadabra | Can be used anywhere excluding WoE: SE. | Can no longer be used in towns. |
-| ![Auto Spell](img/Class_Changes/sa_autospell.gif) Auto Spell | Maximum Level of the spell varies from 1-3 based on the skill Level. Cast chance varies by level used. | Casts up to Level 5 bolts of all elements at skill Level 4 or higher.<br>When a bolt triggers, it casts the maximum Level you have learned, up to Level 5 (non-Linked).<br>Offers Earth Spike instead of Frost Diver: Level 1 from Auto Spell Level 2, Level 2 at Level 3, and Level 5 from Level 4 onward (always Level 5 under Sage Spirit). Frost Diver is removed from the list. |
+| ![Auto Spell](img/Class_Changes/sa_autospell.gif) Auto Spell | Maximum Level of the spell varies from 1-3 based on the skill Level. Cast chance varies by level used.<br>Offers Frost Diver at Auto Spell Level 10. | Casts up to Level 5 bolts of all elements at skill Level 4 or higher.<br>When a bolt triggers, it casts the maximum Level you have learned, up to Level 5 (non-Linked).<br>Offers Earth Spike instead of Frost Diver: Level 1 from Auto Spell Level 2, Level 2 at Level 3, and Level 5 from Level 4 onward (always Level 5 under Sage Spirit). Frost Diver is removed from the list. |
 | ![Create Elemental Converter](img/Class_Changes/sa_createcon.png) Create Elemental Converter | Crafts one converter at a time. | Mass production of up to 300 at a time. |
 | ![Mind Breaker](img/Class_Changes/pf_mindbreaker.gif) Mind Breaker | Lowers the target's soft MDEF (the flat reduction from INT) by 12% per level.<br>No debuff icon. | Reduces the target's hard MDEF (the percentage reduction from equipment) everywhere except WoE and GvG castles, where it keeps reducing soft MDEF (the flat reduction from INT).<br>Adds a debuff icon for the receiver and updates stats to show the impact. |
 
@@ -165,7 +164,7 @@ Status effects that behave differently from the official game.
 | ![Bio Cannibalize](img/Class_Changes/am_cannibalize.gif) Bio Cannibalize | At most 3 Flora, 2 Parasites or 1 Geographer can be out at once (6 minus the skill level). | Increased plant count of Flora, Parasite and Geographer on non-PvP maps. |
 | ![Bioethics](img/Class_Changes/am_bioethics.gif) Bioethics | Allows the Alchemist to begin learning the Homunculus skill tree. | Now an active skill, used as the interface to swap between your stored homunculi (costs 1 embryo to swap). |
 | ![Call Homunculus](img/Class_Changes/am_callhomun.gif) Call Homunculus | Summons or recalls an already created Homunculus. | Calls your most recently selected homunculus. Your active choice won't show on your Bioethics storage list. |
-| ![Mental Change (Lif)](img/Class_Changes/hlif_change.png) Mental Change (Lif) | Duration of 1, 2 and 3 minutes for Levels 1-3.<br>Cooldown of 10, 15 and 20 minutes. | Duration of 1, 3 and 5 minutes for Levels 1-3.<br>Cooldown of 5 minutes at every Level.<br>Effects carry through Fly Wing and Teleport for the full duration. |
+| ![Mental Change (Lif)](img/Class_Changes/hlif_change.png) Mental Change (Lif) | Cooldown of 10, 15 and 20 minutes for Levels 1-3.<br>The effect ends when the homunculus warps (Fly Wing, Teleport). | Cooldown of 5 minutes at every Level.<br>Effects carry through Fly Wing and Teleport for the full duration. |
 | ![Plant Cultivation](img/Class_Changes/cr_cultivation.png) Plant Cultivation | Can be used on any walkable cell. | Blocked in all town buildings (inns, shops, guild halls, etc.). |
 | ![Rest](img/Class_Changes/am_rest.gif) Rest | Destroys a currently created Homunculus. | Stores your active homunculus instead of destroying it. Required before you can open Bioethics to swap. |
 | ![Twilight Alchemy](img/Class_Changes/am_twilight3.gif) Twilight Alchemy | Three separate skills (Twilight Alchemy 1, 2 and 3). 1 makes 200 White Potions, 2 makes 200 Slim White Potions, and 3 makes 100 Alcohol, 50 Acid Bottles and 50 Flame Bottles.<br>Cast time of 3 seconds.<br>Cooldown of 10 seconds. | One skill that brews up to 300 of any create-potion item, based on resources in your inventory.<br>Auto-crafts if only one potion type is available (no ingredient selection screen).<br>No cast time.<br>Cooldown of 2 seconds. |
