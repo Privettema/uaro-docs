@@ -6,7 +6,7 @@ In the tables below, Original is the official pre-renewal behavior and uaRO Chan
 
 For full reference on unmodified pre-renewal skills, you can [visit the external classic wiki](https://irowiki.org/classic/Main_Page).
 
-<!-- Dev Note: Skill icons in the converted tables use the skill name as alt text, as the style guide requires. Screen readers may announce the name twice, so this is to be revisited. Tables not yet converted still use a blank alt="" so the decorative image is skipped. -->
+<!-- Dev Note: Skill icons use the skill name as alt text, as the style guide requires. Screen readers may announce the name twice, so this is to be revisited. -->
 
 ## General / Shared
 
@@ -411,23 +411,12 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
 
 ## Adoptee
 
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Maximum Stats</td>
-                <td>Adopted characters cannot increase a stat past 80 base.</td>
-                <td>Increased maximum stat to 99.</td>
-            </tr>
-        </tbody>
-    </table>
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Maximum Stats | Adopted characters cannot raise a stat past 80 base. | Maximum stat of 99. |
+
 </div>
 
 ## Reporting Issues
