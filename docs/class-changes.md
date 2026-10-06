@@ -96,7 +96,6 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| ![Amplify Magic Power](img/Class_Changes/hw_magicpower.gif) Amplify Magic Power | Increases MATK for the next instance of magical damage dealt. Does not include multiple ticks. | Increases MATK for each tick of the AoE spells Meteor Storm, Storm Gust, and Lord of Vermilion. |
 | ![Ice Wall](img/Class_Changes/wz_icewall.gif) Ice Wall | Can be used on MVP maps. | Cannot be used on MVP maps. |
 | ![Magic Crasher](img/Class_Changes/hw_magiccrasher.png) Magic Crasher | Physical attack that deals damage based on MATK instead of ATK, reduced by the target's DEF. Uses the weapon's element. | Pierces 75% of the DEF of non-player monsters and damage is doubled. Cards still apply, as does the active element on the weapon (converters/scrolls). |
 | ![Sightrasher](img/Class_Changes/wz_sightrasher.gif) Sightrasher | Damages targets through obstacles and walls. | Cannot go through obstacles or walls (exception: Biolabs 3/4). |
@@ -195,7 +194,7 @@ Blue Gems are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| Mace Class Weapons | Priests suffer an ASPD penalty when using mace type weapons. | The ASPD penalty with mace type weapons is reduced. |
+| Mace Class Weapons | Priests attack with maces at the standard attack speed. | Maces have a higher attack speed. |
 | ![Aqua Benedicta](img/Class_Changes/al_holywater.png) Aqua Benedicta | Crafts one Holy Water at a time. | Holy Water can be mass produced, up to 300 at a time, if you have the empty bottles. |
 | ![Impositio Manus](img/Class_Changes/pr_impositio.png) Impositio Manus | Increases weapon ATK by 5 per skill level. | Also grants 1% MATK per skill level, up to 5% at Level 5.<br>No effect on WoE and GvG castle maps. |
 | ![Mace Mastery](img/Class_Changes/pr_macemastery.gif) Mace Mastery | +3 ATK per level with mace type weapons. | Also gives +1 critical per level. |
