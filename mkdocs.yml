@@ -108,6 +108,7 @@ nav:
     - Dungeons:
       - 🧪 Biolabs 4: biolab4.md
       - 👻 Old Glast Heim: old-glast-heim.md
+      - 🪲 Scaraba Hole: scaraba-hole.md
     - Instances:
       - 🗂️ Instance Guide: instance-guide.md
       - ⏳ Endless Cellar: endless-cellar.md
@@ -118,6 +119,7 @@ nav:
       # - Sealed Shrine: Sealed_Shrine.md
     - New World:
       # - New World Guide: New_World_Guide.md
+      - 🐱 New World Travel: new-world-travel.md
       - 🏛️ El Dicastes: el-dicastes.md
   - Events & Activities:
     - events-activities/index.md
