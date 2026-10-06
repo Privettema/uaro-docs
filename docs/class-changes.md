@@ -351,38 +351,15 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
 
 #### Soul Linker
 
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Max Job Level</td>
-                <td>50</td>
-                <td>Increased to 70: HP/SP pool is unchanged.</td>
-            </tr>
-            <tr>
-                <td>Soul Link Duration (Level 5)</td>
-                <td>5 minutes</td>
-                <td>10 minutes</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/sl_ske.gif" alt="">Eske</td>
-                <td>Can be used on Boss-type monsters.</td>
-                <td>Cannot be used on Boss-type monsters.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/sl_sma.gif" alt="">Esma</td>
-                <td>SP Cost for Level 1–10: 8–80</td>
-                <td>Decreased SP Cost for Level 1–10: 4–40</td>
-            </tr>
-        </tbody>
-    </table>
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Max Job Level | 50 | 70. HP and SP pools stay the same as at Job Level 50. |
+| Soul Link Duration (Level 5) | 5 minutes 50 seconds | 10 minutes |
+| ![Eske](img/Class_Changes/sl_ske.gif) Eske | Can be used on Boss-type monsters. | Cannot be used on Boss-type monsters. |
+| ![Esma](img/Class_Changes/sl_sma.gif) Esma | SP cost 8-80 for Levels 1-10. | SP cost 4-40 for Levels 1-10. |
+
 </div>
 
 
