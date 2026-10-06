@@ -224,7 +224,7 @@ Blue Gems are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in
 <!---------------------------------------------------------------------------->
 
 ## Thief
-A selection of arrows can be found at [Inn Tool Dealers](dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
+A selection of arrows can be found at [Inn Tool Dealers](dealers.md#enhanced-tool-dealer). Additional specialty arrows must be crafted.
 
 ### Thief
 <div class="class-changes-table" markdown>
@@ -269,46 +269,24 @@ Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-deal
 <!---------------------------------------------------------------------------->
 
 ## Archer
-A selection of arrows can be found at [Inn Tool Dealers](dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
+A selection of arrows can be found at [Inn Tool Dealers](dealers.md#enhanced-tool-dealer). Additional specialty arrows must be crafted.
 
 ### Hunter / Sniper
 Traps are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
 No other changes to Hunter skills.
 
-### Dancer / Gypsy & Bard / Clown (Minstrel) 
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-                    <tr>
-                <td>Weapon Swap</td>
-                <td>Swapping to a weapon of the same type does not cancel songs.</td>
-                <td>Swapping to a weapon of the same type cancels songs.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/cg_arrowvulcan.gif" alt="">Arrow Vulcan</td>
-                <td>Cast delay: 3 seconds.</td>
-                <td>Cast delay: 2 seconds.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/bd_rokisweil.gif" alt="">Loki's Veil</td>
-                <td>Blocks all skill use for everything (including players) within area of effect.</td>
-                <td>Cannot be used on MVP maps. </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/cg_hermode.gif" alt="">Wand of Hermode</td>
-                <td>Skill is an ensemble and requires both a Clown and Gypsy to perform.</td>
-                <td>Skill can be performed solo.</td>
-            </tr>
-        </tbody>
-    </table>
+### Dancer / Gypsy & Bard / Clown (Minstrel)
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Weapon Swap | Swapping to a weapon of the same type does not cancel songs. | Swapping to a weapon of the same type cancels songs. |
+| ![Arrow Vulcan](img/Class_Changes/cg_arrowvulcan.gif) Arrow Vulcan | After-cast delay of 2.8 seconds at Levels 1-5 and 3 seconds at Levels 6-10. | After-cast delay of 2 seconds. |
+| ![Loki's Veil](img/Class_Changes/bd_rokisweil.gif) Loki's Veil | Can be used on MVP maps. | Cannot be used on MVP maps. |
+| ![Wand of Hermode](img/Class_Changes/cg_hermode.gif) Wand of Hermode | Requires both a Clown and a Gypsy to perform. | Can be performed solo. |
+
 </div>
 
 
