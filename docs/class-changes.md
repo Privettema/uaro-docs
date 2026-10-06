@@ -198,7 +198,7 @@ Blue Gems are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in
 | ![Aqua Benedicta](img/Class_Changes/al_holywater.png) Aqua Benedicta | Crafts one Holy Water at a time. | Holy Water can be mass produced, up to 300 at a time, if you have the empty bottles. |
 | ![Impositio Manus](img/Class_Changes/pr_impositio.png) Impositio Manus | Increases weapon ATK by 5 per skill level. | Also grants 1% MATK per skill level, up to 5% at Level 5.<br>No effect on WoE and GvG castle maps. |
 | ![Mace Mastery](img/Class_Changes/pr_macemastery.gif) Mace Mastery | +3 ATK per level with mace type weapons. | Also gives +1 critical per level. |
-| ![Magnus Exorcismus](img/Class_Changes/pr_magnus.gif) Magnus Exorcismus | Damages Demon race and Undead element monsters entering the area with Holy damage per wave. | Also damages Undead race monsters and Shadow and Ghost element monsters. |
+| ![Magnus Exorcismus](img/Class_Changes/pr_magnus.gif) Magnus Exorcismus | Damages Demon race and Undead element monsters entering the area with Holy damage per wave.<br>Damage stops while the caster is Stunned, Petrified or Frozen. | Also damages Undead race monsters and Shadow and Ghost element monsters.<br>Damage continues while the caster is Stunned, Petrified or Frozen. |
 
 </div>
 
