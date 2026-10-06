@@ -376,7 +376,7 @@ You can go to Morroc and move to `/navi moc_fild17 208/346`, killing Hodes, but 
 
 Ideas for alternative leveling spots:
 
-- Porcellio
+- Porcellio (`1619`)
 - Toy Factory 2. Cruiser (`1248`) and Myst Case Card sells well and can be useful for you, too.
 - Geographer (`1368`), in the Lazy Archer Way.
 - Les (`1881`) (Hint: Spend 10,000z in the Inn to get Agi up and Blessing for 10 Minutes. Those +12 Flee will do you quite some good.)
