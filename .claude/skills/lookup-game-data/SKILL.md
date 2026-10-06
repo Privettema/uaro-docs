@@ -9,7 +9,7 @@ Read this before you assign a skill to a class, quote an official value in an "O
 
 ## Use the tools first
 
-The lookups are done by [game-data-tools](https://github.com/rhya-games/game-data-tools), which keeps local copies of the emulator databases and saved pages in `~/game-data` (set `GAME_DATA` to move it). If `~/game-data` is missing, follow that repo's README to set it up, or use the fallback at the end of this page.
+The lookups are done by [game-data-tools](https://github.com/rhya-games/game-data-tools), which keeps local copies of the emulator databases and saved pages in `~/game-data` (set `GAME_DATA` to move it). If `~/game-data` is missing, clone that repo there and run `setup.sh`; its README has the steps.
 
 Run the compare tools from the root of this repo, so they can also search `docs/` and the patch notes for mentions. Each one lines up Hercules pre-re and renewal and rAthena pre-re and renewal, and lists the fields where they disagree:
 
@@ -69,15 +69,8 @@ Hercules and rAthena show the **Official** value (renewal values count as offici
 
 When you use this to check content, say which source each answer came from, and list anything you could not confirm so the maintainer can decide.
 
-## Fallback without the tools
+## Reading the database files directly
 
-Download the Hercules files with `curl` from `raw.githubusercontent.com` into the session scratchpad, never into the repo:
-
-```bash
-D=<scratchpad>; B=https://raw.githubusercontent.com/HerculesWS/Hercules/stable/db/pre-re
-for f in skill_db skill_tree item_db mob_db; do curl -s $B/$f.conf -o $D/$f.conf; done
-```
-
-Then `grep -n -B1 -A14 'Description: "Absorb Spirit Sphere"' skill_db.conf` finds a skill's constant and data, and `item_db.conf` / `mob_db.conf` give IDs, stats and drops by `Name:`. To find which class learns a skill, read `skill_tree.conf`: each job lists its skills at two tabs of indentation, and a job may `inherit` another job's tree, so a skill under `Swordsman` is also usable by Knight and Crusader. Job names are the first-class names (`Magician` = Mage).
+The emulator files are in `~/game-data/hercules/db/` and `~/game-data/rathena/db/`. If they are missing, run `~/game-data/setup.sh` (clone the repo first if the folder doesn't exist). To find a skill's constant and data, `grep -n -B1 -A14 'Description: "Absorb Spirit Sphere"' ~/game-data/hercules/db/pre-re/skill_db.conf`. The skill tree (`skill_tree.conf`) lists each job's skills at two tabs of indentation, and a job may `inherit` another job's tree, so a skill under `Swordsman` is also usable by Knight and Crusader. Job names are the first-class names (`Magician` = Mage).
 
 WebFetch only returns a lossy summary that can drop table rows. To read a live page, use the browser pane and extract the table with JavaScript (`document.querySelectorAll('table')`).
