@@ -83,6 +83,11 @@ Status effects that behave differently from the official game.
                 <td>Song buff will continue for 20 seconds after leaving the song area.</td>
             </tr>
             <tr>
+                <td>Dispell</td>
+                <td>Bard songs and Dancer dances cannot be removed by Dispell.</td>
+                <td>Bard songs and Dancer dances can be removed by Dispell once the target is outside the song area. Inside the area they are still protected.</td>
+            </tr>
+            <tr>
                 <td>Buff Icons</td>
                 <td>N/A</td>
                 <td>Song buff icons are added and with other player buffs.</td>
@@ -461,7 +466,7 @@ Medicine Bowls can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-d
                 <td>
                     Duration of 1, 3 and 5 minutes for levels 1-3.<br>
                     Cooldown of 5 minutes at every level.<br>
-                    Effects carry through Fly Wing and Teleport for the full duration.<br>
+                    Ends when you teleport or change maps, and its cast delay is reset so it can be cast again right away.<br>
                     Follows the normal HP/SP requirements, so it cannot be used to auto-heal after every skill.
                 </td>
             </tr>

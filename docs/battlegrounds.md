@@ -337,6 +337,7 @@ The **BG Shop** is available through the Battlegrounds NPC in Prontera. Most gea
 | Team balancing | If duplicate classes join, they are split between the teams. |
 | Class change cards | Abracadabra and class change cards (Azoth Card, Hylozoist Card) are blocked on battleground maps. |
 | Party Buffs | Party buffs cast on a battleground map reach every teammate in range, whether or not you are grouped with them. |
+| Late joining | Late joiners spawn in their team's waiting room, not at the battlefield entry point. |
 | **Skills** |
 | ![cr_devotion](img/Class_Changes/cr_devotion.gif) Devotion | Works in BG without the need for a party. |
 | ![tk_highjump](img/WoE/tk_highjump.gif) High Jump | Works in BG. |
