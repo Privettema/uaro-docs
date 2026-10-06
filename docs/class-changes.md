@@ -369,73 +369,18 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
 ### Ninja 
 Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](dealers.md#ninja-materials) in addition to their typical locations. Weapons and other gear are not sold at this NPC.
 
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="../img/Class_Changes/nj_kouenka.png" alt="">Crimson Fire Blossom</td>
-                <td>SP cost for level 7-10 is 30, 32, 34, 36.</td>
-                <td>Reduced SP cost for level 7-10 to 30.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/nj_issen.gif" alt="">Final Strike</td>
-                <td>SP cost for level 1-10 is 55-100.</td>
-                <td>Reduced SP cost to 30-50. </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/nj_hyousensou.png" alt="">Lightning Spear of Ice</td>
-                <td>SP cost for level 6-10 is 30, 33, 36, 39, 42.</td>
-                <td>Reduced SP cost for level 6-10 to 30.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/nj_huuma.gif" alt="">Throw Huuma Shuriken</td>
-                 <td>
-                    After cast delay of 2 seconds.<br>
-                    SP cost for level 1-5 is 20, 25, 30, 35, 40.<br>
-                    Skill range: 9 cell.
-                </td>
-                <td>
-                    Reduced after cast delay to 1.5 seconds.<br>
-                    Reduced SP cost to 10, 15, 20, 25, 30.<br>
-                    Skill range: 12 cell.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/nj_kunai.gif" alt="">Throw Kunai</td>
-                <td>After cast delay of 1 second.<br>
-                    Skill range: 9 cell.
-                </td>
-                <td>Reduced after cast delay to 0.5 seconds.<br>
-                    Skill range: 12 cell.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/nj_syuriken.gif" alt="">Throw Shuriken</td>
-                <td>Skill range: 9 cell.</td>
-                <td>Skill range: 12 cell.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/nj_zenynage.gif" alt="">Throw Zeny</td>
-                <td>
-                    After cast delay of 5 seconds.<br>
-                    SP cost of 50.
-                </td>
-                <td>
-                    Reduced after cast delay to 2 sec.<br>
-                    Reduced SP cost to 25.<br>
-                    Halves the amount of zeny used during WoE.<br>
-                    Disabled cost during BG.
-                </td>
-            </tr>
-        </tbody>
-    </table>
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| ![Crimson Fire Blossom](img/Class_Changes/nj_kouenka.png) Crimson Fire Blossom | SP cost for Levels 7-10 is 30, 32, 34, 36. | SP cost for Levels 7-10 is 30. |
+| ![Final Strike](img/Class_Changes/nj_issen.gif) Final Strike | SP cost for Levels 1-10 is 55-100. | SP cost for Levels 1-10 is 30-50. |
+| ![Lightning Spear of Ice](img/Class_Changes/nj_hyousensou.png) Lightning Spear of Ice | SP cost for Levels 6-10 is 30, 33, 36, 39, 42. | SP cost for Levels 6-10 is 30. |
+| ![Throw Huuma Shuriken](img/Class_Changes/nj_huuma.gif) Throw Huuma Shuriken | After-cast delay of 2 seconds.<br>SP cost for Levels 1-5 is 20, 25, 30, 35, 40.<br>Range of 9 cells. | After-cast delay of 1.5 seconds.<br>SP cost for Levels 1-5 is 10, 15, 20, 25, 30.<br>Range of 12 cells. |
+| ![Throw Kunai](img/Class_Changes/nj_kunai.gif) Throw Kunai | After-cast delay of 1 second.<br>Range of 9 cells. | After-cast delay of 0.5 seconds.<br>Range of 12 cells. |
+| ![Throw Shuriken](img/Class_Changes/nj_syuriken.gif) Throw Shuriken | Range of 9 cells. | Range of 12 cells. |
+| ![Throw Zeny](img/Class_Changes/nj_zenynage.gif) Throw Zeny | After-cast delay of 5 seconds.<br>SP cost 50.<br>Full Zeny cost in WoE and Battlegrounds. | After-cast delay of 2 seconds.<br>SP cost 25.<br>Half the Zeny cost in WoE.<br>No Zeny cost in Battlegrounds. |
+
 </div>
 
 
