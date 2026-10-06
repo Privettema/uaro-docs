@@ -293,87 +293,19 @@ No other changes to Hunter skills.
 
 <!---------------------------------------------------------------------------->
 ## Super Novice
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Death Count</td>
-                <td>If a Super Novice can manage to avoid even a single death until job 70 and onwards, you will get +10 for all stats. If you die anytime afterwards, you will lose that bonus.</td>
-                <td>Super Novice death count can be reset for free at <a href="../custom-npc/#other">Lupita, south of Prontera</a>. The reset also grants a 10 second Super Novice Spirit status (Super Novice and Super Baby only), long enough to swap into gear unlocked by the link.</td>
-            </tr>
-            <tr>
-                <td>Doridori Enhancement</td>
-                <td>N/A</td>
-                <td>
-                    Now affects HP regeneration in addition to SP.<br>
-                    Grants status icon when active.<br>
-                    Force-ends when standing up.
-                </td>
-            </tr>
-            <tr>
-                <td>Passive Bonuses</td>
-                <td>None</td>
-                <td>Super Novices are granted +2000 Carry Wt, and +10 DEX to their total bonuses. Improved Carry Weight, and Owl's Eye removed from skill tree. Blessing, and Increase Agility removed from skill tree (See Super Blessing below)</a>.</td>
-            </tr>
-            <tr>
-                <td>Removed Skills</td>
-                <td>N/A</td>
-                <td>
-                    <img src="../img/Class_Changes/al_incagi.gif" alt=""> Inc Agi<br>
-                    <img src="../img/Class_Changes/al_blessing.gif" alt=""> Blessing<br>
-                    <img src="../img/Class_Changes/mc_inccarry.gif" alt=""> Enlarge Weight Limit<br>
-                    <img src="../img/Class_Changes/mc_identify.gif" alt=""> Identify<br>
-                    <img src="../img/Class_Changes/nv_transcendence.png" alt=""> Transcendence<br>
-                    <img src="../img/Class_Changes/ac_owl.gif" alt=""> Owl's Eye
-                </td>
-            </tr>
-            <tr>
-                <td>Soul Link Equips</td>
-                <td>While under the Super Novice Spirit link, base level 91+ allows equipping any headgear and base level 97+ allows equipping level 4 one-handed weapons.</td>
-                <td>Same as the original: the base 97+ bypass only applies to weapon level 4 one-handed weapons (Daggers, 1H Swords, 1H Axes, Maces, Staves). Gear equipped through the link stays equipped after it ends.</td>
-            </tr>
-            <tr>
-                <td>Stat Adjustments</td>
-                <td>N/A</td>
-                <td>
-                     Base max weight increased by 2000.<br>
-                     Job levels 1-50 grant +10 additional DEX total.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/nv_helpangel.png" alt="">Angel, Help me!</td>
-                <td>Angel, Help me! is an Expanded Super Novice skill that is not available to Super Novice.</td>
-                <td>
-                    Skill has been adjusted for Pre-Renewal and added as a platinum skill (see Platinum Skill NPC in Main Office).<br>
-                    Restores HP and SP for you and your party members in a 15x15 cells around you.<br><br>
-                    HP per second 500, SP per second 100. Duration of 20 seconds. Cooldown of 300 seconds.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/nv_breakthrough.png" alt="">Breakthrough</td>
-                <td>Breakthrough is an Expanded Super Novice skill that has been adjusted for Pre-Renewal. <strong>This is a Platinum skill, see Platinum Skill NPC in Main Office</strong></td>
-                <td>
-                    Increases your ATK, MATK, Max HP, Max SP, and incoming healing amounts.<br>
-                     ATK + 50, MATK +50, Max HP + 2000, Max SP + 200, Healing Amount +20%.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/nv_transcendence.png" alt="">Super Blessing</td>
-                <td>N/A</td>
-                <td>
-                   Grants Inc Agi and Blessing status.<br>
-                   Does not stack with other Inc Agi/Blessing skills or scrolls.
-                </td>
-            </tr>
-        </tbody>
-    </table>
+
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Death Count | Reaching Job Level 70 without dying gives +10 to all stats. Dying afterwards removes the bonus for good, and the death count cannot be reset. | The death count can be reset for free at [Lupita](custom-npc.md#other), south of Prontera.<br>The reset also grants a 10 second Super Novice Spirit (Super Novice and Super Baby only), long enough to swap into gear unlocked by the link. |
+| Doridori | Increases SP regeneration only.<br>No status icon.<br>Stays active when you stand up. | Also increases HP regeneration.<br>Shows a status icon while active.<br>Ends when you stand up. |
+| Passive Bonuses | | +2000 weight limit.<br>+10 DEX in total, granted over Job Levels 1-50.<br>Passive ASPD increase. |
+| Removed Skills | Super Novices can learn Increase Agility, Blessing, Enlarge Weight Limit, Identify, Transcendence and Owl's Eye. | These six skills are removed from the skill tree. Blessing and Increase Agility are replaced by Super Blessing (see below). |
+| ![Angel, Help me!](img/Class_Changes/nv_helpangel.png) Angel, Help me! | Angel, Help me! is an Expanded Super Novice skill that is not available to Super Novice. | Skill has been adjusted for Pre-Renewal and added as a platinum skill (see Platinum Skill NPC in Main Office).<br>Restores HP and SP for you and your party members in a 15x15 cells around you.<br>HP per second 500, SP per second 100. Duration of 20 seconds. Cooldown of 300 seconds. |
+| ![Breakthrough](img/Class_Changes/nv_breakthrough.png) Breakthrough | Breakthrough is an Expanded Super Novice skill that has been adjusted for Pre-Renewal. This is a Platinum skill, see Platinum Skill NPC in Main Office | Increases your ATK, MATK, Max HP, Max SP, and incoming healing amounts.<br>ATK + 50, MATK +50, Max HP + 2000, Max SP + 200, Healing Amount +20%. |
+| ![Super Blessing](img/Class_Changes/nv_transcendence.png) Super Blessing | N/A | Grants Inc Agi and Blessing status.<br>Does not stack with other Inc Agi/Blessing skills or scrolls. |
+
 </div>
 
 
