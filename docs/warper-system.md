@@ -38,7 +38,7 @@ To ensure the warp is saved **for all characters on your account**, locate the d
 | Location Name | Location Coordinates | Location on Map |
 |---|---|---|
 | **Amatsu Dungeon**| `/navi ama_dun02 31/47` | ![Amatsu dungeon](img/Ama_dun02.png) |
-| **Ayothaya Dungeon** | `/navi ayo_dun02 19/27` | ![Ayothaya](img/Warpra-Ayothaya-New.png) |
+| **Ayothaya Dungeon** | `/navi ayo_dun02 19/27` | ![Ayothaya](img/Warpra-Ayothaya.png) |
 | **Kiel Dungeon** | `/navi kh_dun01 14/224` | ![Kiel dungeon](img/Kiel_dungeon.png) |
 | **Bio Laboratory** | `/navi lhz_dun01 153/287` | ![Bio Laboratory](img/Lhz_dun01.png) |
 | **Thanatos Tower** | `/navi tha_t03 223/165` | ![Thanatos tower](img/Thanatos_t03.png) |

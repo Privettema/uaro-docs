@@ -107,6 +107,8 @@ To qualify, the guild must meet **all requirements** listed below.
 
 WoE Tokens can be exchanged with the following NPCs, located **under the WoE sign**, outside the **East Prontera Inn**:
 
+![WoE Information sign](img/WoE/WoE-Information.png){ .wiki-screenshot }
+
 ![Joseph NPC](img/WoE/4_M_NEWOZ.gif) **Joseph NPC** — `/navi prontera 217/173`  
 ![Sabrina NPC](img/WoE/4_F_ALCHE_A.gif) **Sabrina NPC** — `/navi prontera 214/173`  
 
