@@ -62,7 +62,7 @@ Hercules and rAthena show the **Official** value (renewal values count as offici
 - A behavior that already matches the pre-renewal default is **not** a change. Don't list it (for example, a trap skill reverted to pre-renewal).
 - A bug fix, animation fix or status icon is not a change unless it alters what players can do. Skip those.
 - uaRO changes monster drops and stats. For a monster uaRO edited, the patch notes or `@mi` screenshots beat the emulator.
-- Skills not in the skill tree (potion or converter creation, Fury, Maximum Over-Thrust) are granted by quests, statuses or scripts. Check who the wiki already lists them under, and say so instead of guessing.
+- Check the constant name before deciding a skill is missing from the tree. Fury, Maximum Over-Thrust, Potion Creation and Converter Creation are normal class skills (Monk, Whitesmith, Alchemist). If a skill really is not in the tree, it may be granted by a quest, status or script: check who the wiki already lists it under, and say so instead of guessing.
 - Never invent a number. If a value isn't in the patch notes, the maintainer's screenshot, or the emulator, write "unknown" and ask.
 
 ## Reporting
