@@ -45,10 +45,10 @@ This will show the inter-map path for your destination.
 
 Use this format in chat to navigate to a specific cell:
 
-/navi mapname X/Y
+`/navi mapname X/Y`
 
 !!! note "Example"
-     /navi prontera 41/337  
+     `/navi prontera 41/337`  
      This command guides you directly to cell 41/337 in Prontera — useful for finding NPCs.
 
 ## :satellite: External Map Tools

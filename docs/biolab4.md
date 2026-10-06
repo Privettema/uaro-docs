@@ -19,13 +19,13 @@ The table includes only regular mobs; mini-bosses and MVPs are not included.
 
 | Monster | Quantity | In-game command |
 |---------|----------|----------|
-| ![2221](img/Biolab4/2221.gif) Randel | 42 | @mi 2221 |
-| ![2222](img/Biolab4/2222.gif) Flamel  | 42 | @mi 2222 |
-| ![2223](img/Biolab4/2223.gif) Celia | 81 | @mi 2223 |
-| ![2224](img/Biolab4/2224.gif) Chen | 42 | @mi 2224 |
-| ![2225](img/Biolab4/2225.gif) Gertie |57  | @mi 2225 |
-| ![2226](img/Biolab4/2226.gif) Alphoccio | 42 | @mi 2226 |
-| ![2227](img/Biolab4/2227.gif) Trentini | 42 | @mi 2227 |
+| ![2221](img/Biolab4/2221.gif) Randel (`2221`{ .copy }) | 42 | `@mi 2221`{ .copy } |
+| ![2222](img/Biolab4/2222.gif) Flamel  | 42 | `@mi 2222`{ .copy } |
+| ![2223](img/Biolab4/2223.gif) Celia | 81 | `@mi 2223`{ .copy } |
+| ![2224](img/Biolab4/2224.gif) Chen | 42 | `@mi 2224`{ .copy } |
+| ![2225](img/Biolab4/2225.gif) Gertie |57  | `@mi 2225`{ .copy } |
+| ![2226](img/Biolab4/2226.gif) Alphoccio | 42 | `@mi 2226`{ .copy } |
+| ![2227](img/Biolab4/2227.gif) Trentini | 42 | `@mi 2227`{ .copy } |
 
 !!! note "MVP Tomb"
     The Bio Lab 4 MVP has a permanent tomb at a fixed spot on the map, showing the last killer, the top

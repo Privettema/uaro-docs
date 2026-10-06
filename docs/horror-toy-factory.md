@@ -19,7 +19,7 @@ The instance offers unique rewards, including rare items and equipment, making i
 ## How to get there
 
 ![HTF-NPC](img/HTF/HTF-NPC.jpg.png)<br>
-To start this instance, you need to go to Lutie and find the NPC Catherine Jet Johnson (**/navi xmas 237/303**). Talk to her and agree to help her.
+To start this instance, you need to go to Lutie and find the NPC Catherine Jet Johnson (`/navi xmas 237/303`). Talk to her and agree to help her.
 
 !!! note " After the instance starts, the party will have one minute for each member to type the **!ready** command in general chat. Otherwise, the instance will need to be restarted."
 
@@ -294,7 +294,7 @@ Inside, you'll find 10 treasure box NPCs that will drop items when interacted wi
 
 ![HTF-NPC-Shop](img/HTF/HTF-NPC-Shop.png)
 
-You can exchange your Bloody Coins with NPC Mister Cat (**/navi xmas 240/300**) for unique items.
+You can exchange your Bloody Coins with NPC Mister Cat (`/navi xmas 240/300`) for unique items.
 
 How [Red Lantern](item-changes.md#red-lantern), [Old Parasol](item-changes.md#old-parasol), [Noble Cross](item-changes.md#noble-cross), [Evil Glove](item-changes.md#evil-glove) and [Celine's Ribbon](item-changes.md#celines-ribbon) differ from the official versions is on [Item Changes](item-changes.md).
 
