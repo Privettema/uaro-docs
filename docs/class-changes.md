@@ -302,9 +302,9 @@ No other changes to Hunter skills.
 | Doridori | Increases SP regeneration only.<br>No status icon.<br>Stays active when you stand up. | Also increases HP regeneration.<br>Shows a status icon while active.<br>Ends when you stand up. |
 | Passive Bonuses | | +2000 weight limit.<br>+10 DEX in total, granted over Job Levels 1-50.<br>Passive ASPD increase. |
 | Removed Skills | Super Novices can learn Increase Agility, Blessing, Enlarge Weight Limit, Identify, Transcendence and Owl's Eye. | These six skills are removed from the skill tree. Blessing and Increase Agility are replaced by Super Blessing (see below). |
-| ![Angel, Help me!](img/Class_Changes/nv_helpangel.png) Angel, Help me! | Angel, Help me! is an Expanded Super Novice skill that is not available to Super Novice. | Skill has been adjusted for Pre-Renewal and added as a platinum skill (see Platinum Skill NPC in Main Office).<br>Restores HP and SP for you and your party members in a 15x15 cells around you.<br>HP per second 500, SP per second 100. Duration of 20 seconds. Cooldown of 300 seconds. |
-| ![Breakthrough](img/Class_Changes/nv_breakthrough.png) Breakthrough | Breakthrough is an Expanded Super Novice skill that has been adjusted for Pre-Renewal. This is a Platinum skill, see Platinum Skill NPC in Main Office | Increases your ATK, MATK, Max HP, Max SP, and incoming healing amounts.<br>ATK + 50, MATK +50, Max HP + 2000, Max SP + 200, Healing Amount +20%. |
-| ![Super Blessing](img/Class_Changes/nv_transcendence.png) Super Blessing | N/A | Grants Inc Agi and Blessing status.<br>Does not stack with other Inc Agi/Blessing skills or scrolls. |
+| ![Angel, Help me!](img/Class_Changes/nv_helpangel.png) Angel, Help me! | Expanded Super Novice skill, not available to Super Novice. | Available as a platinum skill from the Platinum Skill NPC in the Main Office.<br>Restores HP and SP for you and your party members in a 15x15 area around you: 500 HP and 100 SP per second for 20 seconds. Cooldown of 300 seconds. |
+| ![Breakthrough](img/Class_Changes/nv_breakthrough.png) Breakthrough | Expanded Super Novice skill with a maximum Level of 5. | Available as a platinum skill from the Platinum Skill NPC in the Main Office. Combines Breakthrough and Transcendence, with a maximum Level of 1.<br>ATK +50, MATK +50, Max HP +2000, Max SP +200, healing received +20%. |
+| ![Super Blessing](img/Class_Changes/nv_transcendence.png) Super Blessing | | Grants the Increase AGI and Blessing statuses.<br>Does not stack with other Increase AGI or Blessing skills or scrolls. |
 
 </div>
 
