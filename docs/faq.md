@@ -11,6 +11,10 @@ To delete a character, follow these steps:
 3. For final confirmation of deletion, you need to enter the registered email on your account.<br>
 ![Delete-Char3](img/Delete-Char3.png)
 
+## What is the Mimic Card drop rate?
+
+Mimic Card gives monsters a 0.5% chance to drop an Old Blue Box. That is the official 0.10% at our 5x drop rate, and uaRO has not changed it. For a card whose rate we did change, see [Myst Case Card](item-changes.md#myst-case-card).
+
 ## Screenshot for Reports and Troubleshooting  
 
 To make a Screenshot, press the PRINT button. It will make a screenshot with a time stamp and contain everything you see right now. They are saved in …\uaRO\ScreenShot  

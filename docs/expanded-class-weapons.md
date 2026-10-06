@@ -68,7 +68,7 @@ To create a token, you must combine:
 
 ### 🏛 NPC Location
 
-All related NPCs are located in the **eastern room of the Prontera Upgrade Shop** (**/navi prt_in 90/72**)  
+All related NPCs are located in the **eastern room of the Prontera Upgrade Shop** (`/navi prt_in 90/72`)  
 
 ![Expanded_Class_Weapons](img/Expanded_Class_Weapons/Location.png)<br>
 ---

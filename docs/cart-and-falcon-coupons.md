@@ -12,12 +12,12 @@ Cart Unlock Coupons and Falcon Coupons unlock new cart and falcon appearances. B
 ## 🦅 Falcon Coupon
 
 Redeem Falcon Coupons at the **Retired Ranger** outside the Hunter Guild in Hugel
-(`/navi hugel 209, 213`).
+(`/navi hugel 209/213`).
 
 ### Requirements
 
 - A **Sniper** with the **Falcon Mastery** skill
-- A Falcon rented from the **Falcon Breeder** in the Hunter Guild (`/navi hugel_in 381, 304`)
+- A Falcon rented from the **Falcon Breeder** in the Hunter Guild (`/navi hugel_in 381/304`)
 - A **Falcon Coupon**
 
 | Retired Ranger | Falcon Breeder |
