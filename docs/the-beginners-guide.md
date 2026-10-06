@@ -1,6 +1,6 @@
 # The Beginner's Guide
 
-Logging into World of Your Dream is fun, but newer players will benefit from having some knowledge of what will occur during the game. Remember, though, that World of Your Dream, like all MMORPGs, is dynamic and things constantly change.
+A walkthrough of what to expect when you start playing uaRO, from creating your first character onward. Newer players will benefit from knowing what will occur during the game. Remember, though, that World of Your Dream, like all MMORPGs, is dynamic and things constantly change.
 
 ## Creating A Character
 

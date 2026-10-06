@@ -55,7 +55,7 @@ Crushing it in Hugel's minigames? Nice! Every win gets you some shiny Prize Meda
 💾 But hey, you can stash them up and swap ‘em later for cool loot! 😎✨
 
 🛍️ What can you get?  
-There’s a bunch of items you can exchange them for right in Hugel — from useful gear to fun rewards. Just find the **Wayne NPC** ( /navi hugel 71/83 ) or **Ei'felle** (/navi hugel 73/91) and start trading! 🏙️📦
+There’s a bunch of items you can exchange them for right in Hugel — from useful gear to fun rewards. Just find the **Wayne NPC** (`/navi hugel 71/83`) or **Ei'felle** (`/navi hugel 73/91`) and start trading! 🏙️📦
 
 **Wayne**
 

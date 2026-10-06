@@ -10,6 +10,8 @@ Every day, fortune favors the bold! Step up and take part in the **daily lottery
 💰 **Ticket Price:** Just 25k zeny for a shot at greatness.<br>
 ⏳ **Results Announcement:** Every day at 20:45 server time – will you be the lucky one?
 
+![Lottery NPC](img/NPC/lottery.png)
+
 🔢 **How to Play:**
 Simply choose six numbers from 1 to 40 and let fate decide your fortune.
 

@@ -1,3 +1,7 @@
+---
+description: An alphabetical list of every page on the uaRO wiki, for finding anything that is not in the menu.
+---
+
 # All Pages (A-Z)
 
 Can't find something in the menu? Every page on the wiki is listed here, in alphabetical order.

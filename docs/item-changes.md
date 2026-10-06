@@ -2,6 +2,8 @@
 
 Items, weapons and armor that work differently from the official game. See [What's Different](whats-different.md) for how to read the tables.
 
+Drop rates in the Original column are the official rates multiplied by the server's 5x drop rate, so they match what you would see in game. Where the official 1x rate adds context, it is given too.
+
 ## Weapon
 
 | Item | Item ID | Original | uaRO Changes |
@@ -18,7 +20,7 @@ Items, weapons and armor that work differently from the official game. See [What
 | Glorious Jamadhar | 1282 | Ignores 20% of demi-human defense | Changed 20% defense ignore against demi-humans to be replaced with a straight +20% critical damage<br><br>Acquisition: Battlegrounds Weapon Shop |
 | Golden Wrench [2] | 1333 | 3rd and 4th job Blacksmith line only (Mechanic, Meister)<br>ATK 220<br>Required Level 170<br>Unbreakable<br>ATK +5%<br>Base ATK +4 per refine level<br>At +9, Axe Boomerang and Power Swing damage +20%<br>At +11, Axe Boomerang and Power Swing damage +35% | Whitesmith only<br>ATK 240<br>Required Level 85<br>STR +3<br>At +7, CRIT +20<br>At +8, ASPD +10%<br>At +9, Base ATK +50<br>Indestructible in battle<br><br>Acquisition: Conversion from +10 Vecer Axe (50%) from the Golden Wrench Forger in the Geffen and Einbroch Smith job change areas (Geffen: `/navi geffen_in 102/176`, Einbroch: `/navi ein_in01 27/40`) |
 | [](){ #green-whistle } Green Whistle [1] | 1930 | Reduces Rush Windmill and Deep Sleep Lullaby cast time by 2 seconds<br>Above +5, reduces their SP cost by 4 per refine level | Increases Arrow Vulcan damage by 30%<br>At +7, increase damage of Arrow Vulcan by 10%<br>At +10, increase damage of Arrow Vulcan by 20%<br>Decreases cast time of Arrow Vulcan by 2 seconds<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop): Biolabs Shop |
-| Healing Staff | 1625 | Drop rate from Anubis (`1098`) is 0.50%<br><br>Acquisition: Dropped by Anubis (`1098`) | Drop rate from Anubis (`1098`) reduced from 0.50% to 0.35%.<br> Added as a drop to Margaretha Sorin (`1637`) at 1%<br><br>Acquisition: Dropped by Anubis (`1098`), Margaretha Sorin (`1637`) |
+| Healing Staff | 1625 | Acquisition: Dropped by Anubis (`1098`) | Acquisition: Dropped by Anubis (`1098`), Margaretha Sorin (`1637`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | [](){ #imperial-spear } Imperial Spear [1] | 1433 | Increases Cannon Spear and Banishing Point damage by 20%, plus 1% per 2 refine levels | Increases Shield Boomerang and Shield Charge damage by 20%, plus 1% each per refine<br>Shield Chain SP cost -20 when combined with Imperial Guard<br><br>Acquisition: [El Dicastes](el-dicastes.md#gear-and-drops): One-Horned Scaraba (`2083`) |
 | Inverse Scale | 1269 (unslotted)<br>35650 ([3]) | No slots | Slots can be added through S-tier socket crafting |
 | Knuckle weapons | - | Size penalty 100% / 75% / 50% (Small / Medium / Large) | Size penalty 100% / 100% / 75% (Small / Medium / Large) |
@@ -35,7 +37,7 @@ Items, weapons and armor that work differently from the official game. See [What
 | Thorn Staff of Darkness | 1636 | Cannot be equipped by Soul Linker<br>Not slottable | Can be equipped by Soul Linker<br> Can be slotted<br> Skull Cap combo (slotted and unslotted staff): the -10% cast time is only granted at +10 or higher MATK per refine is unchanged<br><br>Acquisition: Dropped by Entweihen Crothen (`1957`) |
 | Trident [2] | 1460 | Sold in the Prontera, Comodo and Einbroch weapon shops<br><br>Acquisition: Forgeable by Blacksmiths and dropped by Merman (`1264`) | Removed from the Prontera, Comodo and Einbroch weapon shops<br><br>Acquisition: Forgeable by Blacksmiths and drops from Merman (`1264`) |
 | [](){ #two-handed-chrome-metal-sword } Two-Handed Chrome Metal Sword | 1196 | Required Level 110<br>Equippable by Swordman High, Lord Knight and Paladin<br>Unbreakable<br>AGI +3<br>MAX HP -10% | Required Level 85<br>Equippable by Lord Knight and Paladin<br>Unbreakable<br>AGI +3<br>MAX HP -10%<br><br>Acquisition: [El Dicastes](el-dicastes.md#queen-scaraba): Queen Scaraba (`2087`) |
-| Vecer Axe [2] | 1311 | Not dropped by Majoruros (`1310`) | Added as a drop to Majoruros (`1310`) at 0.20% |
+| Vecer Axe [2] | 1311 | Not dropped by Majoruros (`1310`) | Dropped by Majoruros (`1310`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Veteran Axe [2] | 1384 | +10 ATK for each Forging skill (Dagger, Sword, Two-Handed Sword, Knuckle, Spear, Axe, Mace) at Level 3 | +10 ATK for each Forging skill (Dagger, Sword, Two-Handed Sword, Knuckle, Spear, Axe, Mace) at Level 2 or higher |
 
 ## Armor
@@ -44,16 +46,16 @@ Items, weapons and armor that work differently from the official game. See [What
 |-|-|-|-|
 | Advanced Assassin Mask | 18774 | Equippable by Priest and Assassin<br>Critical +1<br>Increases Critical Damage by 1% | Usable by all jobs |
 | Alchemy Glove [1] | 2854 | INT +1<br>Fire property magic damage +10% | INT +2<br>Fire property magic damage +15% |
-| Angel Spirit | 5389 | Not dropped by any monster | Added as a rare drop from Valkyrie Randgris (`1751`) MVP at 2.25% |
+| Angel Spirit | 5389 | Not dropped by any monster | Dropped by Valkyrie Randgris (`1751`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Angelic Protection [1] | 2355 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | [](){ #assassins-handcuffs } Assassin's Handcuffs [1] | 2892 | MAX SP +20<br>CRIT +3 | MAX HP +500<br> CRIT +8<br> CRIT DMG +10%<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | [](){ #bible-of-promise } Bible of Promise [1] | 2162 | Required Level 140<br>Equippable by Arch Bishop (3rd job)<br>MDEF +5<br>Enables Odin's Power Level 2<br>Increases healing effectiveness by 5% | Required Level 90<br>High Priest only<br>MDEF +5<br>INT +2<br>Increases healing effectiveness by 5%<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | Blood Sucker | 18754 | Unbreakable | Adds 1% chance of absorbing 3% physical damage inflected on target as HP<br> Disables natural HP and SP recovery |
 | [](){ #bone-plate } Bone Plate [1] | 15000 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
-| Bradium Brooch[1] | 2790 | Not dropped by any monster | Added as a rare drop from Bradium Golem (`2024`) at 0.05% |
+| Bradium Brooch[1] | 2790 | Not dropped by any monster | Dropped by Bradium Golem (`2024`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | [](){ #celines-ribbon } Celine's Ribbon [1] | 18849 | DEX +3<br>MATK +40, plus 7 per refine level<br>Recover 200 HP each time you kill a monster with magic<br>50 HP drain every 5 seconds | DEX +3<br>MATK +20<br>MATK +1 per refine level<br>25 HP drain every 5 seconds<br>Equippable by all Trans classes |
 | Chick Hat | 5283 | Reduces damage from Demi-Human monsters by 3% | Also reduces damage taken from Brute monsters by 3% |
-| Crown of Deceit [1] | 5564 | Unbreakable<br>MDEF +10<br>INT +4<br>Variable cast time -10%<br>Not dropped by any monster | Adds drop to Fallen Bishop (`1871`)<br>INT +3<br>Reduces cast time by 10% |
+| Crown of Deceit [1] | 5564 | Unbreakable<br>MDEF +10<br>INT +4<br>Variable cast time -10%<br>Not dropped by any monster | Dropped by Fallen Bishop (`1871`)<br>Drop rate: [Monster Changes](monster-changes.md)<br>INT +3<br>Reduces cast time by 10% |
 | [](){ #dance-shoes } Dance Shoes [1] | 2465 | AGI +1<br>ASPD +2%<br>Reduces the SP cost of Swing Dance by 32 | AGI +1<br> ASPD +5%<br> Reduces the SP cost of Arrow Vulcan by 5<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | Defolty Doll Hat [1] | 5340 | STR +2 | No STR bonus |
 | [](){ #evil-glove } Evil Glove [1] | 2980 | Required Level 110<br>MAX HP +500<br>MAX SP +200<br>Enables Spider Web Level 1<br>2% chance to cast Psychic Wave Level 1 when attacking<br>1% chance to cast Magic Power Level 1 and Frost Nova Level 10 when attacking with magic<br>2% chance to cast Frost Nova Level 10 when attacking with a weapon<br>5% chance to cast Scream Level 1 when hit | MAX HP +300<br>MAX SP +50<br>INT +2<br>No level requirement.<br>Equippable by all Trans jobs except Novice. |
@@ -62,12 +64,12 @@ Items, weapons and armor that work differently from the official game. See [What
 | Festival Pumpkin Hat | 5356 | Physical damage against Demon monsters +5%<br>Damage taken from Demon monsters -5% | All stats +3<br>Physical and magical damage against Demon monsters +5%<br>Damage taken from Demon monsters -5% |
 | Forbidden Grimoire [1] | 28984 | Equippable by Sage<br>ASPD +10%<br>MAX HP +100 per refine level<br>Increases Earth and Water property magic damage by 4% per 3 refine levels<br>At +9, INT +10 and DEX +10<br>At +11, 4% chance when attacking with magic to gain INT +150 for 10 seconds, stop natural HP and SP recovery and reduce Diamond Dust and Earth Grave cooldown by 4.5 seconds | ASPD +5%, INT +2<br>Refine Level +7 or Higher: Increases damage of Magic Elemental Earth Skills by 20%<br>With Death Note: +1% MATK per refine of the Death Note, and -10% cast time at +10 |
 | [](){ #geffenia-water-book } Geffenia Water Book [1] | 2161 | MDEF +2<br>INT +1<br>If base INT is at least 120: MATK +10 and MAX HP +800 | INT +2<br> MDEF +5<br> If base INT at least 90: MATK +30 and MAX HP +800<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
-| [](){ #gentle-heart } Gentle Heart [1] | 2978 | Required Level 110<br>MAX HP +500<br>Recover 300 HP every 10 seconds | STR +2<br>DEX +1<br>+5% damage to all races<br>Required Level 90<br>Equippable by all Transcendent jobs |
+| [](){ #gentle-heart } ![2978](img/2978.gif) Gentle Heart [1] | 2978 | Required Level 110<br>MAX HP +500<br>Recover 300 HP every 10 seconds | STR +2<br>DEX +1<br>+5% damage to all races<br>Required Level 90<br>Equippable by all Transcendent jobs |
 | Ghost Whisper [1] | 400396 | MDEF +10<br>ASPD +10%<br>Skill delay -3% per refine level<br>Increases Meteor Assault damage by your Base Level<br>At +7, Meteor Assault damage is doubled and Breaker damage +Base Level<br>At +9, Meteor Assault damage is tripled and Breaker damage +2x Base Level<br>Learning Weapon Crush Level 5, Weapon Blocking Level 5, Counter Slash Level 10 or Hallucination Walk Level 5 grants additional bonuses | STR +3<br>At +7, +10% Meteor Assault damage<br>At +9, STR +2 and a further +10% Meteor Assault damage |
 | Glaris Doll Hat [1] | 5341 | INT +2 | No INT bonus |
 | Golden Trinket | 2843 |  | MAX SP +50<br>Required Level 75<br><br>Acquisition: [El Dicastes](el-dicastes.md#enchanting): Jahbong, 1 Certificate |
 | [](){ #green-operation-coat } Green Operation Coat [1] | 15044 | DEX +1<br>MAX SP +30 | DEX +1, INT +3<br>Additional enchants available<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
-| Hermode Cap[1] | 5481 | Not dropped by any monster | Added as a Uncommon drop from Assassin Cross Eremes (`1641`) (Mini Boss) at 15% |
+| Hermode Cap[1] | 5481 | Not dropped by any monster | Dropped by Assassin Cross Eremes (`1641`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Holy Robe | 2327 (unslotted)<br>2373 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | [](){ #imperial-guard } Imperial Guard [1] | 2153 | MDEF +5<br>Increases Shield Press damage by 20%<br>Above +5, an additional 2% per refine level | MDEF +5<br>Increases Shield Chain damage by 20%, plus 1% per refine<br>At +8, halves Shield Chain cast time |
 | [](){ #light-of-el-dicastes } Light of El Dicastes | 2844 | Grants Return to El Dicastes | Untradeable and unrefinable, character bound<br>Enchantable by Kareka in El Dicastes<br>Grants Return to El Dicastes |
@@ -77,15 +79,15 @@ Items, weapons and armor that work differently from the official game. See [What
 | Mitra [1] | 5747 | MATK +10 at base INT 120 or higher<br>Required Level 100 | MATK +10 at base INT 90 or higher<br>Required Level 90 |
 | Ninja Suit | 2337 (unslotted)<br>2359 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | Novice Breastplate [1] | 2340 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
-| Old Mitra [1] | 18972 |  | INT +1<br>MDEF +5<br>For each 2 refine levels: MAX HP +1%, MAX SP +1%, ATK +8, MATK +4 and Magnus Exorcismus damage +4%<br>Required Level 70<br>Priest only<br><br>Acquisition: Margaretha Sorin (`1637`) at 0.1% |
+| Old Mitra [1] | 18972 |  | INT +1<br>MDEF +5<br>For each 2 refine levels: MAX HP +1%, MAX SP +1%, ATK +8, MATK +4 and Magnus Exorcismus damage +4%<br>Required Level 70<br>Priest only<br><br>Acquisition: Margaretha Sorin (`1637`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Puppy Hat | 5182 | Randomly autocasts Gloria when dealing physical attack<br>At base AGI 77 or higher, the chance is 3% | At base AGI 77 or higher, the chance is 5% |
 | [](){ #red-lantern } Red Lantern [1] | 2976 | Required Level 100<br>MAX SP -300<br>Enables Sight Level 1<br>Adds a 0.5% chance each for Alcohol, Detrimindexta and Karvodailnirol to drop when killing a monster | Required Level 20<br> Equippable by All except Novice, Taekwon, Star Gladiator |
-| Robo Eye | 5325 | Not dropped by any monster | Added as a rare drop from Vesper (`1685`) MVP at 2.1% |
+| Robo Eye | 5325 | Not dropped by any monster | Dropped by Vesper (`1685`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Satanic Bone Helm [1] | 5529 | Required Level 70 | Required Level 1 |
 | Shinobi Sash | 2654 (unslotted)<br>52290 ([1]) | No slots | Slots can be added by Leablem: 5% success rate for 1,000,000z and 1 Elunium |
-| Sigrun's Wings | 5592 | Not dropped by any monster | Added as a rare drop from Gryphon (`1259`) at 0.9% |
-| Snake Head | 5388 | Not dropped by any monster<br>1 slot | Added as a rare drop from Evil Snake Lord (`1418`) MVP at 0.9%<br>No slots |
-| Sting Hat | 5509 | Not dropped by any monster | Added as a drop from Sting (`1207`) at 0.05% |
+| Sigrun's Wings | 5592 | Not dropped by any monster | Dropped by Gryphon (`1259`)<br>Drop rate: [Monster Changes](monster-changes.md) |
+| Snake Head | 5388 | Not dropped by any monster<br>1 slot | Dropped by Evil Snake Lord (`1418`)<br>Drop rate: [Monster Changes](monster-changes.md)<br>No slots |
+| Sting Hat | 5509 | Not dropped by any monster | Dropped by Sting (`1207`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Swordsman Medal of Honor | 2720 | Cannot be equipped by Taekwon | Can be equipped by Taekwon |
 | [](){ #telekinetic-orb } Telekinetic Orb | 2853 (unslotted)<br>28530 ([1]) | MDEF +1<br>INT +3<br>MAX SP +30<br>Increases Soul Expansion and Psychic Wave damage by 10%<br>Reduces Soul Expansion and Psychic Wave SP cost by 50<br>No slots | INT +3<br> MAX SP +30<br> Reduces damage and cast time of Lightning Bolt by 25% <br> Slots can be added by Seiyablem: 400,000z and 1 Elunium, 20% success rate. Failure destroys the item<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | Temporal AGI Boots | 22002 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, ASPD +3%<br>Base AGI at least 120: ASPD +1 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, ASPD +3%<br>Base AGI at least 90: ASPD +3% |
@@ -95,8 +97,8 @@ Items, weapons and armor that work differently from the official game. See [What
 | Temporal STR Boots | 22000 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, ATK +7<br>Base STR at least 120: ATK +50 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10, STR +1<br>Base STR at least 90: ATK +5% |
 | Temporal VIT Boots | 22003 | MAX HP +300, MAX SP +30<br>For each 3 refine levels: MAX HP +100, MAX SP +10<br>Base VIT at least 120: MAX HP +8% | MAX HP +500, MAX SP +30<br>For each 3 refine levels: MAX HP +200, MAX SP +10, MAX HP +4%<br>Base VIT at least 75: MAX HP +10% |
 | Umbala Spirit | 18505 | VIT +1 | Max HP +1%<br>Increases the recovery rate of Meat by 25%<br>Chance of dropping Meat when defeating monsters |
-| Valkyrie Drop | 28564 | Required Level 100<br>SP recovery rate +50%<br>Variable cast time -10%<br>After skill delay -5%<br>Oratio: variable cast time -50% and fixed cast time -100%<br>Magical damage against all sizes +3% per level of Impositio Manus<br>Magnus Exorcismus damage +3% per 2 Base Levels<br>At Impositio Manus Level 5, enables Odin's Power Level 2<br>Not dropped by any monster | Cast time -5%<br>After skill delay -5%<br>For each level of Impositio Manus: Magnus Exorcismus damage +4%<br>Required Level 70<br>Priest only<br><br>Acquisition: Dropped by High Priest Margaretha (`1643`) |
-| Waterdrop Brooch [1] | 2787 | Not dropped by any monster | Added as a drop from Kraken (`2202`) |
+| Valkyrie Drop | 28564 | Required Level 100<br>SP recovery rate +50%<br>Variable cast time -10%<br>After skill delay -5%<br>Oratio: variable cast time -50% and fixed cast time -100%<br>Magical damage against all sizes +3% per level of Impositio Manus<br>Magnus Exorcismus damage +3% per 2 Base Levels<br>At Impositio Manus Level 5, enables Odin's Power Level 2<br>Not dropped by any monster | Cast time -5%<br>After skill delay -5%<br>For each level of Impositio Manus: Magnus Exorcismus damage +4%<br>Required Level 70<br>Priest only<br><br>Acquisition: Dropped by High Priest Margaretha (`1649`)<br>Drop rate: [Monster Changes](monster-changes.md) |
+| Waterdrop Brooch [1] | 2787 | Not dropped by any monster | Dropped by Kraken (`2202`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | [](){ #wounded-heart } Wounded Heart [1] | 2977 | Required Level 110<br>MAX SP +200<br>Enables Scream Level 3 | DEX +2<br>AGI +1<br>+5% damage to all races<br>Required Level 90<br>Equippable by all Transcendent jobs |
 | Yellow Bandana | 5277 | Cannot be acquired | Available from Sabrina for 15 WoE Tokens |
 
@@ -129,7 +131,7 @@ Items, weapons and armor that work differently from the official game. See [What
 
 | Item | Item ID | Original | uaRO Changes |
 |-|-|-|-|
-| Crystal Mirror | 747 | Dropped by Corrupted Monk (`2465`) at 5% | Dropped by Corrupted Monk (`20898`) at 50% |
+| Crystal Mirror | 747 | Dropped by Corrupted Monk (`2465`) | Dropped by Corrupted Monk (`20898`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Great Nature | 997 | Can be sent by mail | Cannot be sent by mail |
 | Poring Coin | 7539 | Can be sold to NPCs | Cannot be sold to NPCs |
 
@@ -147,6 +149,7 @@ For weapons, see [Expanded Class Weapons](expanded-class-weapons.md).
 | Isilla Card | 4412 | INT +2<br>5% chance when dealing magic damage to reduce cast time by 50% and give Flee +30 for 5 seconds. | Also triggers from AoE magic skills, not only single target magic. |
 | Kraken Card | 4525 | FLEE +10<br>Enables the use of Level 1 Hiding.<br>Enables the use of Level 1 Raid, which has a 25% chance to also cast Wide Bleeding. | FLEE +10<br>Increases resistance to all elemental properties by 25%.<br>Enables the use of Level 1 Hiding. |
 | Moonlight Flower Card | 4131 | Movement speed +25%. | Movement speed +40%. |
+| [](){ #myst-case-card } Myst Case Card | 4206 | Adds a 1.5% chance for monsters to drop a Gift Box (`644`) (official 0.30%). | Gift Box (`644`) drop chance is 2.25%. |
 | Queen Scaraba Card | 4507 | Inflicts 30% more damage against Scaraba monsters<br>Small chance of dropping an Antler Scaraba Scroll when defeating any monster | Inflicts 30% more damage against Scaraba monsters<br>MDEF -30<br>Flee -30<br>Deals more magical damage depending on the target's magic defense<br>Small chance of dropping an Antler Scaraba Scroll when defeating any monster |
 | Shinobi Card | 4230 | AGI +1<br>10% chance to cast Cloaking Level 5 when hit | AGI +1<br>10% chance to cast Cloaking Level 5 when hit<br>The Cloaking chance is nullified when the Thief card set is equipped together: The Paper Card (`4172`), Wanderer Card (`4210`), Shinobi Card, Wild Rose Card (`4257`) and Zhu Po Long Card (`4272`) |
 
