@@ -255,7 +255,7 @@ Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-deal
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| ![Backstab](img/Class_Changes/rg_backstab.gif) Backstab | Can only be used from behind the enemy. Cannot miss, and turns the target to face the caster, which prevents repeated use.<br>Cooldown of 0.5 seconds. | Can be performed like most attack skills.<br>Cooldown of 0.333 seconds. |
+| ![Backstab](img/Class_Changes/rg_backstab.gif) Backstab | Can only be used from behind the enemy. Cannot miss, and turns the target to face the caster, which prevents repeated use.<br>The delay depends on ASPD. | Can be performed like most attack skills.<br>Fixed cooldown of 0.333 seconds. |
 | ![Chase Walk](img/Class_Changes/st_chasewalk.gif) Chase Walk | After a delay of 10 seconds, it increases STR for 30 seconds. | Delay reduced to 5 seconds. |
 | ![Plagiarism](img/Class_Changes/rg_plagiarism.gif) Plagiarism | Skills must be copied from another player. | The [Plagiarism Tutor](custom-npc.md#skills) lets Rogues and Stalkers copy skills for 25,000z, and refuses the trade while Preserve is active.<br>A skill you already know can be overwritten when a higher Level is offered, including with normal in-combat Plagiarism. |
 | ![Preserve](img/Class_Changes/st_preserve.gif) Preserve | Duration of 10 minutes.<br>Does not persist through logout. | Infinite duration. Becomes an on/off toggle.<br>Persists through logout. |
