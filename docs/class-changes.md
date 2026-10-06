@@ -54,7 +54,7 @@ Status effects that behave differently from the official game.
 | ![Berserk](img/Class_Changes/lk_berserk.png) Berserk | No items can be used while Berserked.<br>Red body tint while active. | Fly Wing, Novice Fly Wing, and Infinite Fly Wing can be used while Berserked (all other items remain blocked).<br>The red body tint is replaced with an aura effect and a cast sound (the aura can be hidden via the Status Color Effect setting). |
 | ![Concentration](img/skill_357.png) Concentration | Runs for its normal duration, unaffected by Berserk. | If active when you cast Berserk, it is refreshed and extended to 2.6x its normal duration (Level 5: 45 seconds to 117 seconds), and it ends when Berserk ends. |
 | ![Bowling Bash](img/Class_Changes/kn_bowlingbash.gif) Bowling Bash | Knockback distance of 1 cell.<br>Skill range of 1 cell. | Knockback distance of 2 cells.<br>Skill range increased to 2 cells. |
-| ![Brandish Spear](img/Class_Changes/kn_brandishspear.gif) Brandish Spear | Knockback distance of 3 cells. | Knockback decreased to 1 cell. |
+| ![Brandish Spear](img/Class_Changes/kn_brandishspear.gif) Brandish Spear | Knockback distance of 3 cells. | Knockback decreased to 2 cells. |
 
 </div>
 
