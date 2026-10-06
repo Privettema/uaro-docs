@@ -7,8 +7,8 @@ The Taming Gift Set is a beautifully decorated gift set that contains a taming i
  ![Orange Juice](img/620.gif) **Orange Juice**<br>
  ![Bitter Herb](img/621.gif) **Bitter Herb**<br>
  ![Rainbow Carrot](img/622.gif) **Rainbow Carrot**<br>
- ![Earthworm the Dude](img/623.png) **Earthworm the Dude**<br>
- ![Rotten Fish](img/624.png) **Rotten Fish**<br>
+ ![Earthworm the Dude](img/623.gif) **Earthworm the Dude**<br>
+ ![Rotten Fish](img/624.gif) **Rotten Fish**<br>
  ![Rusty Iron](img/625.gif) **Rusty Iron**<br>
  ![Monster Juice](img/626.gif) **Monster Juice**<br>
  ![Sweet Milk](img/627.png) **Sweet Milk**<br>
