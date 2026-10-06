@@ -390,89 +390,19 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](deal
 ### Gunslinger
 Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers](dealers.md#gunslinger-materials) in addition to their typical locations. Weapons and other gear are not sold at this NPC.
 
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Madness Break</td>
-                <td>N/A</td>
-                <td>New platinum skill that cancels the Madness Canceller buff.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/gs_adjustment.gif" alt="">Adjustment</td>
-                <td>
-                    Cost of 2 coins.<br>
-                    SP cost of 15.<br>
-                    Duration of 30 seconds.
-                </td>
-                <td>
-                    Decreased cost to 1 coin.<br>
-                    Decreased SP cost to 10.<br>
-                    Increased duration to 60 seconds.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/gs_glittering.gif" alt="">Flip the Coin</td>
-                <td>
-                    Success chance for level 1-5 of 10-30%.<br>
-                    SP cost of 2.
-                </td>
-                <td>
-                    Increased success chance to 100%.<br>
-                    Decreased SP cost to 1.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/gs_fullbuster.gif" alt="">Full Buster</td>
-                <td>
-                    After cast delay for level 1-10 of 1.2-3 seconds.<br>
-                    SP cost level 5-10 of 40-65.
-                </td>
-                <td>
-                    Decreased maximum after cast delay to 2 seconds.<br>
-                    Decreased SP cost of level 5-10 to 35.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/gs_increasing.png" alt="">Increasing Accuracy</td>
-                <td>Cost of 4 coins.<br>SP cost of 30.</td>
-                <td>Decreased cost to 2 coins.<br>Decreased SP cost to 15.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/skill_504.png" alt="">Madness Canceller</td>
-                <td>
-                    Costs 4 coins and 30 SP.<br>
-                    Lasts 15 seconds, during which the player cannot do anything until it is over.
-                </td>
-                <td>Costs 2 coins and 15 SP.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/gs_rapidshower.gif" alt="">Rapid Shower</td>
-                <td>
-                    After cast delay of 1 second.<br>
-                    SP cost level 1-10 of 22-40.<br>
-                    Consumes 5 bullets.
-                </td>
-                <td>
-                    Decreased after cast delay to 0.75 seconds.<br>
-                    Decreased SP cost of level 1-10 to 12-20.<br>
-                    Modified bullet consumption: 1 ammo at level 1/2, 2 ammo at 3/4, 3 ammo at 5/6, 4 ammo at 7/8, and 5 ammo at 9/10.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/gs_tripleaction.gif" alt="">Triple Action</td>
-                <td>SP cost of 20.</td>
-                <td>Decreased SP cost to 12.</td>
-            </tr>
-        </tbody>
-    </table>
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| ![Adjustment](img/Class_Changes/gs_adjustment.gif) Adjustment | Cost of 2 coins.<br>SP cost 15.<br>Duration of 30 seconds. | Cost of 1 coin.<br>SP cost 10.<br>Duration of 60 seconds. |
+| ![Flip the Coin](img/Class_Changes/gs_glittering.gif) Flip the Coin | Success chance of 10-30% at Levels 1-5.<br>SP cost 2. | Success chance of 100%.<br>SP cost 1. |
+| ![Full Buster](img/Class_Changes/gs_fullbuster.gif) Full Buster | After-cast delay of 1.2-3 seconds at Levels 1-10.<br>SP cost of 40-65 at Levels 5-10. | Maximum after-cast delay of 2 seconds.<br>SP cost of 35 at Levels 5-10. |
+| ![Increasing Accuracy](img/Class_Changes/gs_increasing.png) Increasing Accuracy | Cost of 4 coins.<br>SP cost 30. | Cost of 2 coins.<br>SP cost 15. |
+| ![Madness Canceller](img/skill_504.png) Madness Canceller | Costs 4 coins and 30 SP. | Costs 2 coins and 15 SP. |
+| Madness Break | | New platinum skill that cancels the Madness Canceller buff. |
+| ![Rapid Shower](img/Class_Changes/gs_rapidshower.gif) Rapid Shower | After-cast delay of 1 second.<br>SP cost of 22-40 at Levels 1-10.<br>Consumes 5 bullets. | After-cast delay of 0.75 seconds.<br>SP cost of 12-20 at Levels 1-10.<br>Consumes 1 bullet at Levels 1-2, 2 at 3-4, 3 at 5-6, 4 at 7-8 and 5 at 9-10. |
+| ![Triple Action](img/Class_Changes/gs_tripleaction.gif) Triple Action | SP cost 20. | SP cost 12. |
+
 </div>
 
 
