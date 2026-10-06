@@ -24,6 +24,7 @@ How to read it:
 
 | Skill | Original | uaRO change | Hercules / rAthena | iRO Wiki | Result and caveat |
 |-|-|-|-|-|-|
+| Dispell | Songs and dances cannot be dispelled | Removable once the target is outside the song area; protected inside | Hercules: songs flagged no-dispel; rAthena: no flag shown | Not checked | emulator only (patch 10062026) |
 | Please Don't Forget Me | Not removed on death | Removed on death | Not removed on death | Not checked | emulator only (patch 24112025) |
 
 ## Knight / Lord Knight
@@ -94,7 +95,7 @@ How to read it:
 | Bio Cannibalize | 3 Flora, 2 Parasites, 1 Geographer | Increased plant counts (no numbers) | 6 minus skill level | 5, 4, 3, 2, 1 by level | match. Caveat: new counts not published; prose approved |
 | Bioethics | Allows learning homunculus skills | Active; swaps homunculi for 1 embryo; Rest first | No data | Passive skill | match |
 | Call Homunculus | Summons or recalls | Calls the last selected homunculus | No data | Restores a vaporized one | partial |
-| Mental Change | Cooldown 10, 15, 20 min; ends on warp | Cooldown 5 min; kept through warp | rAthena: ends on warp; durations differ (1, 2, 3 vs 1, 3, 5 min) | Duration 1, 3, 5 min, cooldown 10, 15, 20 min | match. Caveat: duration left off; official equals uaRO |
+| Mental Change | Cooldown 10, 15, 20 min; ends on warp, cooldown keeps running | Cooldown 5 min; cooldown resets when it ends from a teleport or map change | rAthena: ends on warp; durations differ (1, 2, 3 vs 1, 3, 5 min) | Duration 1, 3, 5 min, cooldown 10, 15, 20 min | match. Caveat: duration left off because official equals uaRO (patch 10062026 reversed the earlier carry-through line) |
 | Plant Cultivation | Any walkable cell | Blocked in town buildings | No data | Blocked in WoE castles only | match |
 | Twilight Alchemy | 3 skills; 3 second cast; 10 second delay | One skill; no cast; 2 second cooldown; up to 300 | Same as Original | Not checked | emulator only |
 

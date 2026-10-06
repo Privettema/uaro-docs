@@ -34,6 +34,7 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
+| Dispell | Bard songs and Dancer dances cannot be removed by Dispell. | Bard songs and Dancer dances can be removed by Dispell once the target is outside the song area. Inside the area they are still protected. |
 | ![Please Don't Forget Me](img/Class_Changes/dc_dontforgetme.png) Please Don't Forget Me | Not removed on death. | Removed on death. |
 
 </div>
@@ -163,7 +164,7 @@ Status effects that behave differently from the official game.
 | ![Bio Cannibalize](img/Class_Changes/am_cannibalize.gif) Bio Cannibalize | At most 3 Flora, 2 Parasites or 1 Geographer can be out at once (6 minus the skill level). | Increased plant count of Flora, Parasite and Geographer on non-PvP maps. |
 | ![Bioethics](img/Class_Changes/am_bioethics.gif) Bioethics | Allows the Alchemist to begin learning the Homunculus skill tree. | Now an active skill, used as the interface to swap between your stored homunculi (costs 1 embryo to swap).<br>Use Rest on your active homunculus before you can open it. |
 | ![Call Homunculus](img/Class_Changes/am_callhomun.gif) Call Homunculus | Summons or recalls an already created Homunculus. | Calls your most recently selected homunculus. Your active choice won't show on your Bioethics storage list. |
-| ![Mental Change (Lif)](img/Class_Changes/hlif_change.png) Mental Change (Lif) | Cooldown of 10, 15 and 20 minutes for Levels 1-3.<br>The effect ends when the homunculus warps (Fly Wing, Teleport). | Cooldown of 5 minutes at every Level.<br>Effects carry through Fly Wing and Teleport for the full duration. |
+| ![Mental Change (Lif)](img/Class_Changes/hlif_change.png) Mental Change (Lif) | Cooldown of 10, 15 and 20 minutes for Levels 1-3.<br>The effect ends when the homunculus warps (Fly Wing, Teleport), and the cooldown keeps running. | Cooldown of 5 minutes at every Level.<br>The cooldown resets when the effect ends from a teleport or map change, so it can be cast again right away. |
 | ![Plant Cultivation](img/Class_Changes/cr_cultivation.png) Plant Cultivation | Can be used on any walkable cell. | Blocked in all town buildings (inns, shops, guild halls, etc.). |
 | ![Twilight Alchemy](img/Class_Changes/am_twilight3.gif) Twilight Alchemy | Three separate skills (Twilight Alchemy 1, 2 and 3). 1 makes 200 White Potions, 2 makes 200 Slim White Potions, and 3 makes 100 Alcohol, 50 Acid Bottles and 50 Flame Bottles.<br>Cast time of 3 seconds.<br>Cooldown of 10 seconds. | One skill that brews up to 300 of any create-potion item, based on resources in your inventory.<br>Auto-crafts if only one potion type is available (no ingredient selection screen).<br>No cast time.<br>Cooldown of 2 seconds. |
 

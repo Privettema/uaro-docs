@@ -167,6 +167,18 @@ Buying stores are created differently depending on your character class:
 
 ---
 
+## Price limits
+Vending and buying store prices are checked against NPC shop prices when the shop opens.
+
+- **Vending can't go above the NPC price.** An item that NPC shops sell can't be vended for more than the NPC price. A higher price is lowered to the NPC price automatically.
+- **Unique items are exempt.** Crafted, carded, refined and named items, plus items with random options, are not affected.
+- **Buying stores can't go below the NPC sell price.** A buying store can't offer less than what an NPC pays for the item. A lower price is raised automatically.
+- **You're told about every change.** You get a message for each price that was adjusted.
+- **Autotrade follows the same limits.** Autotrade shops restored after maintenance are checked the same way.
+- **Circumventing the limits is punished.** Attempting to circumvent this mechanic will result in punishment like any other game mechanic.
+
+---
+
 ## Import your last shop
 The client's **Import** function reopens your most recent vending or buying store without re-entering
 everything by hand. It also works with `@autotrade` (`@at`).
