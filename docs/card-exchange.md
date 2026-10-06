@@ -13,9 +13,9 @@ Trade in cards you're no longer using for points, redeemable for a small selecti
 
 | Item Name | ID | Cost |
 |---|---|---|
-| ![Old Card Album](img/616.gif) Old Card Album | `616` | **170 Points** |
-| ![Bloody Branch](img/12103_1.png) Bloody Branch | `12103` | **120 Points** |
-| ![7x Poring Coins](img/7539.gif) Poring Coin | `7539` | **1 Point** |
+| ![Old Card Album](img/616.gif) Old Card Album | `616`{ .copy } | **170 Points** |
+| ![Bloody Branch](img/12103_1.png) Bloody Branch | `12103`{ .copy } | **120 Points** |
+| ![7x Poring Coins](img/7539.gif) Poring Coin | `7539`{ .copy } | **1 Point** |
 
 !!! note
     Be careful when entering a card's name — some cards' original names don't match their in-game description.

@@ -1,5 +1,5 @@
 # How to Start
-Every version of the MMORPG has a different way to create accounts. This wiki covers the uaRO version of creating accounts.
+Register a free uaRO account on uaro.net and confirm it by e-mail before you play. Every version of the MMORPG has a different way to create accounts, and this page covers the uaRO version.
 
 To play on the uaRO server you must first create an account. To do this, go to the website: [https://www.uaro.net/](https://www.uaro.net/)
 

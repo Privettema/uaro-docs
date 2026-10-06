@@ -1,3 +1,7 @@
+---
+description: War of Emperium (WoE) is the guild event where guilds fight to conquer a castle, which unlocks a Guild Dungeon, nightly treasure chests and other bonuses.
+---
+
 # WoE
 
 The War of Emperium is a game feature where guilds compete to conquer a castle, which then becomes the guild’s headquarters and grants various bonuses and advantages.
@@ -7,13 +11,13 @@ Owning a castle provides several benefits for the guild. First, it unlocks acces
 
 | Town       | Coordinates          |
 |------------|-----------------------|
-| Prontera | /navi prontera 217/178 |
-| Alberta | /navi alberta 58/248 |
-| Morocc | /navi morocc 225/65 |
-| Aldebaran | /navi aldebaran 207/66 |
-| Gonryun | /navi gonryun 118/140 |
+| Prontera | `/navi prontera 217/178` |
+| Alberta | `/navi alberta 58/248` |
+| Morocc | `/navi morocc 225/65` |
+| Aldebaran | `/navi aldebaran 207/66` |
+| Gonryun | `/navi gonryun 118/140` |
 
-The **Repairman** in Morocc can be found at /navi morocc 220/61.
+The **Repairman** in Morocc can be found at `/navi morocc 220/61`.
 
 ## Schedule
 
@@ -102,6 +106,8 @@ To qualify, the guild must meet **all requirements** listed below.
 ### 📍 NPC Locations
 
 WoE Tokens can be exchanged with the following NPCs, located **under the WoE sign**, outside the **East Prontera Inn**:
+
+![WoE Information sign](img/WoE/WoE-Information.png){ .wiki-screenshot }
 
 ![Joseph NPC](img/WoE/4_M_NEWOZ.gif) **Joseph NPC** — `/navi prontera 217/173`  
 ![Sabrina NPC](img/WoE/4_F_ALCHE_A.gif) **Sabrina NPC** — `/navi prontera 214/173`  

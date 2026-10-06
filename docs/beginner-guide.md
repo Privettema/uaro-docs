@@ -1,6 +1,6 @@
 
 # uaRO Beginner's Info & Quick Start Guide
-This is a player-written guide for new uaRO players, originally written by Angebo. There have been edits by the Wiki maintainers.
+A quick-start guide for new uaRO players covering the server's key features, a short class overview and a fast route to level 60+. It was originally written by Angebo. There have been edits by the Wiki maintainers.
 
 Discord is your best resource for player guides. Check out the "Class Theory" category. [Join Discord](https://discord.gg/Zn6jrQy9x).
 
@@ -434,7 +434,7 @@ Sleeper drop GNs by 75%. Either sell them to players or split them yourself. The
 
 
 #### Split GNs
-As soon as you have basic funds, you can make the quest, buy some GNs from players (3,250z or less) and [split them](https://irowiki.org/wiki/Ore_Downgrading). The Green Lives per GN sells for avg 4k to NPCs on a Merchant with Overcharge 10. It's a safe 20% return on investment. Here, the Utan Shaman is much less chatty!
+As soon as you have basic funds, you can make the quest, buy some GNs from players (3,250z or less) and [split them](https://irowiki.org/wiki/Ore_Downgrading). The Green Lives per GN sells for avg 4k to NPCs on a Merchant with Overcharge 10. It's a safe 20% return on investment. Here, the Utan Shaman is much less chatty! You find the **Utan Shaman** in Umbala, and she splits `1` stone or your whole stack at once (see [Quest Changes](quest-changes.md)).
 
 !!! note
     When you farm for items to sell to NPC, check the [Modified Sales Prices](modified-sales-prices.md), as uaRO has some adjustments to item prices.

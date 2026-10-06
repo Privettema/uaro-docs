@@ -161,7 +161,7 @@ Talk to the Bastion NPC in **Veins, the Canyon Village** (`/navi veins 218/136`)
 
 ## Bastion Coin Shop
 
-Exchange <img src="../img/406105.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Coins** (`406105`) at **Vulcarion** in **Veins** (223, 133).
+Exchange <img src="../img/406105.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bastion Coins** (`406105`) at **Vulcarion** in **Veins** `/navi veins 223/133`.
 Each costume costs `10` **Bastion Coins**.
 
 | Costume |

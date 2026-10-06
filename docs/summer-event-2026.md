@@ -71,7 +71,7 @@ they all reward the same coins.
 
 ![Daily Supply Run](img/summer_supply_run.webp){ .wiki-screenshot }
 
-Talk to **Admiral Jack** in **Alberta** (148, 66).
+Talk to **Admiral Jack** in **Alberta** `/navi alberta 148/66`.
 
 Each day Admiral Jack asks you to gather a short list of items from a specific region's
 field monsters. Bring them back for coins.
@@ -111,14 +111,14 @@ There are `8` tasks. Finish all eight to earn the title of **Summer Hero**.
 
 | Task | NPC - Location | What to do |
 |------|----------------|------------|
-| Furious Mummies | Volunteer Researcher `60, 287` | Defeat `6` Furious Mummies |
-| Hungry Cats | Yen the Explorer `57, 136` | Feed `3` Stray Cats nearby |
-| A Little Errand | Little Girl `113, 92` | Buy some juice for `300z` |
-| Old Man's Project | Old Grandpa `273, 237` | Hand over `24` <img src="../img/916.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feather of Birds + `24` <img src="../img/907.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Resin |
-| The Sisters' Tale | Elira / Mavelle / Sariyah `204-209, 286-288` | Hear out their full story |
-| Peco Problem | Desert Guard `177, 39` | Defeat `15` Peco Peco Eggs |
-| Summer Trivia | Scholar `133, 268` | Answer a `10`-question quiz |
-| Special Delivery | Spice Merchant `90, 33` | Deliver a package to Izlude `94, 136` and report back |
+| Furious Mummies | Volunteer Researcher `/navi morocc 60/287` | Defeat `6` Furious Mummies |
+| Hungry Cats | Yen the Explorer `/navi morocc 57/136` | Feed `3` Stray Cats nearby |
+| A Little Errand | Little Girl `/navi morocc 113/92` | Buy some juice for `300z` |
+| Old Man's Project | Old Grandpa `/navi morocc 273/237` | Hand over `24` <img src="../img/916.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feather of Birds + `24` <img src="../img/907.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Resin |
+| The Sisters' Tale | Elira / Mavelle / Sariyah `/navi morocc 204/286` (area spans `204-209, 286-288`) | Hear out their full story |
+| Peco Problem | Desert Guard `/navi morocc 177/39` | Defeat `15` Peco Peco Eggs |
+| Summer Trivia | Scholar `/navi morocc 133/268` | Answer a `10`-question quiz |
+| Special Delivery | Spice Merchant `/navi morocc 90/33` | Deliver a package to Izlude `/navi izlude 94/136` and report back |
 
 !!! tip "One at a Time"
     Finish one task before picking up the next.
@@ -201,7 +201,7 @@ account** for each.
 
 ### Furious Phreeoni
 
-Talk to the **Morroc Soldier** on **moc_fild12** (161, 232).
+Talk to the **Morroc Soldier** on `/navi moc_fild12 161/232`.
 
 Rally a **party** to enter the Furious Phreeoni instance and defend Morroc as the boss
 summons Sandman waves.
@@ -229,14 +229,14 @@ His **stock rotates**, and he trades only in **Summer Festival Coins**.
 
     | Town | Coordinates |
     |------|-------------|
-    | Prontera | `146, 99` |
-    | Morroc | `149, 99` |
-    | Geffen | `126, 70` |
-    | Payon | `187, 127` |
-    | Alberta | `102, 75` |
-    | Izlude | `106, 113` |
-    | Aldebaran | `146, 113` |
-    | Comodo | `226, 150` |
+    | Prontera | `/navi prontera 146/99` |
+    | Morroc | `/navi morocc 149/99` |
+    | Geffen | `/navi geffen 126/70` |
+    | Payon | `/navi payon 187/127` |
+    | Alberta | `/navi alberta 102/75` |
+    | Izlude | `/navi izlude 106/113` |
+    | Aldebaran | `/navi aldebaran 146/113` |
+    | Comodo | `/navi comodo 226/150` |
 
 === "Shop Stock"
 
@@ -267,7 +267,7 @@ His **stock rotates**, and he trades only in **Summer Festival Coins**.
 | Mob | Where | Notes |
 |-----|-------|-------|
 | **Sunring** | Prontera, Geffen, Morroc, Payon, Einbroch & Juno fields | Beat the Heat community mob - every kill feeds the server-wide goal |
-| **Furious Mummy** | Near the Volunteer Researcher, Morroc `60, 287` | Summer Hero task target |
+| **Furious Mummy** | Near the Volunteer Researcher, Morroc `/navi morocc 60/287` | Summer Hero task target |
 | **Furious Phreeoni** | Furious Phreeoni instance (party boss) | Weekly desert-defense boss - summons Sandman reinforcements |
 
 ---

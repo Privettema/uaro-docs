@@ -23,7 +23,7 @@ The appearance and naming of these NPCs may vary by town.
 | Town | Location |
 |---|---|
 | Prontera - East | `/navi prontera 204/190` |
-| Prontera - West | `/navi 110/117` |
+| Prontera - West | `/navi prontera 110/117` |
 | Alberta | `/navi alberta 61/233` |
 | Aldebaran | `/navi aldebaran 198/68` |
 | Amatsu | `/navi amatsu 52/145` |

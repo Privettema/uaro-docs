@@ -66,6 +66,9 @@ Only guilds that meet these conditions and receive GM approval will be allowed t
 
 One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. **Current zone = Prontera**. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
 
+!!! note "WoE Tokens"
+    For WoE Tokens, how to qualify and the WoE sign with the NPCs that exchange them, see [WoE](woe.md#woe-token) and its [NPC Locations](woe.md#npc-locations).
+
 | Package 1           | Package 2         | Package 3            |
 |---------------------|-------------------|----------------------|
 | ![12103](img/12103.gif) Bloody Branch - 25 | ![12103](img/12103.gif) Bloody Branch - 50 | ![12103](img/12103.gif) Bloody Branch - 50 |
@@ -486,8 +489,8 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Pirate Dagger [0] | 5305 |
 	| Purple Cowboy Hat [1] | 5409 |
 	| Santa Poring Hat [1] | 5381 |
-	| Pisces Crown [0] | 5515 |
-	| Pisces Diadem [0] | 5514 |
+	| ![5515](img/5515.png) Pisces Crown [0] | 5515 |
+	| ![5514](img/5514.png) Pisces Diadem [0] | 5514 |
 	| Necromancer's Hood [0] | 5502 |
 	| Koneko Hat [0] | 5372 |
 	| Moonlight Flower Hat [0] | 5214 |

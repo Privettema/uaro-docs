@@ -24,7 +24,7 @@ To return to Prontera, use the **Prontera Return option** from the Vending Helpe
 | Available Spots | Properly spaced vending spots automatically generated across the map (`prt_mk`) |
 | Bulletin Boards | Removed |
 | Vending Skill | "Market Street-only" — teleports you to the closest available vending spot |
-| `@market` Command | "Market Street-only" — teleports you to the center of the Prontera Market Street (`prt_mk 162, 142`) |
+| `@market` Command | "Market Street-only" — teleports you to the center of the Prontera Market Street (`/navi prt_mk 162/142`) |
 | Vending Helper NPC | Includes "Find random vending spot" option |
 | Prontera Return | Integrated into the Vending Helper NPC |
 | Idle Timer | Players are kicked if a shop is not opened within 5 minutes |
@@ -123,7 +123,7 @@ the name. If nobody is buying the item, the command replies "No one is currently
 ### Use trade channel
 In the game, you can write in the `#trade` channel what you need to sell. You might say `S> Gold` and list an amount and price.
 
-![Trade Channel](img/Vendor_System/trade-channel-buy.png)
+![Trade Channel](img/Vendor_System/trade-channel-sell.png)
 
 
 ### Use Discord

@@ -37,7 +37,7 @@ Welcome to the Christmas Event! Here's everything you need to know.
 !!! info "Heartwarming Story Quest"
     Help a little girl named Mimi deliver her letter to Santa!
 
-**Location:** `prontera,161,111`
+**Location:** `/navi prontera 161/111`
 
 This heartwarming story unfolds over **12 days** - a new chapter unlocks each day with item collection and monster hunting tasks.
 
@@ -60,12 +60,12 @@ Stick with it until the end for the best rewards, including a special meeting wi
 !!! tip "Quick Daily Rewards"
     Talk to **Festi Snowman** for a random daily mission!
 
-**Location:** `xmas,159,132`
+**Location:** `/navi xmas 159/132`
 
 You might be asked to:
 
 - Hunt monsters
-- Rescue someone (find the **Little Girl** at `xmas,163,224`)
+- Rescue someone (find the **Little Girl** at `/navi xmas 163/224`)
 - Find a sneaky Antonio in Geffen
 - Complete other festive tasks
 
@@ -82,7 +82,7 @@ Quick and easy way to earn currencies every day!
 !!! success "Party Instance"
     Party instance for **2+ players**!
 
-**Location:** Talk to **Santa's Cat Helper** at `xmas,152,112`
+**Location:** Talk to **Santa's Cat Helper** at `/navi xmas 152/112`
 
 Enter the Gift Garden and chase away imposter Porings and Lunatics while avoiding the real Santa Helpers.
 
@@ -138,8 +138,8 @@ Just walk up and say hello!
 
 | Snowman | Location | Daily Reward |
 |---------|----------|--------------|
-| **Winter** | `prontera,150,244` | 5 Snow Globes, 10 Winter Cookies |
-| **Snow** | `prontera,161,244` | 5 Snow Globes, 10 Snow Cookies |
+| **Winter** | `/navi prontera 150/244` | 5 Snow Globes, 10 Winter Cookies |
+| **Snow** | `/navi prontera 161/244` | 5 Snow Globes, 10 Snow Cookies |
 
 **Total Daily:** 10 Snow Globes + 20 Cookies
 
@@ -177,7 +177,7 @@ While hunting any monsters, you have a small chance to receive event currencies 
 
 ### Poring Merchant (Items & Consumables)
 
-**Location:** `xmas,142,123`
+**Location:** `/navi xmas 142/123`
 
 ![Poring Merchant Items](img/Christmas/xmas_items_2025.webp)
 
@@ -185,7 +185,7 @@ While hunting any monsters, you have a small chance to receive event currencies 
 
 ### Costume Collector (Costumes)
 
-**Location:** `xmas,153,123`
+**Location:** `/navi xmas 153/123`
 
 ![Costume Collector](img/Christmas/xmas_costumes_2025.webp)
 
