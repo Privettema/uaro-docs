@@ -28,7 +28,7 @@ A disagreement between sources is a question for the maintainer, not something t
 
 - Save any page you rely on with `~/game-data/bin/save_page.sh <url>`, so it is read from disk next time. It keeps the page unmodified, with a `.meta` file for the URL and date. For a page you could only read through the browser pane, save its HTML to a file and run `save_page.sh <url> --file <path>`. Never edit a saved page.
 - Write what you learn about a page in `~/game-data/notes/<host>/<slug>.md`, kept apart from the raw copy.
-- Append confirmed facts to `~/game-data/notes/learnings.md` with the date and source. These notes stay on this machine.
+- Append confirmed facts to `~/game-data/notes/learnings.md` with the date and source. The notes folder is its own private repo (`rhya-games/game-data-notes`): commit and push it after adding notes.
 
 ## Where data comes from (most reliable first)
 
