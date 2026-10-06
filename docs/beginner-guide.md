@@ -21,19 +21,19 @@ The sight range is increased so you are allowed to scroll out further than usual
 This allows you to use ranged skills like DS to its fullest, buffing Bow classes. In addition it's easier to mob and avoid enemies you dislike.
 
 !!! note
-     For Archer and Rogue: DS has a 3 cells higher range than your auto attacks. If you DS on max range and then try to AA, your character will run “weird” because your target is out of range.
+    For Archer and Rogue: DS has a 3 cells higher range than your auto attacks. If you DS on max range and then try to AA, your character will run “weird” because your target is out of range.
 
 
 ### Rodex Mail System
-You can send items to and from everywhere for a small fee of 2.5k per item stack. So you can restock consumables and send your loot away wherever you want. You have to care less for weight limit because your solution is only a few seconds away. You can send more than one mail and open them one after the other when you want, they are stored for 14 days. You can only send tradeable items this way, not account bound ones.
+You can send items to and from everywhere for a small fee of 2,500z per item stack. So you can restock consumables and send your loot away wherever you want. You have to care less for weight limit because your solution is only a few seconds away. You can send more than one mail and open them one after the other when you want, they are stored for 14 days. You can only send tradeable items this way, not account bound ones.
 
 [Read more about the Mail System](improvements.md#rodex-mail-system).
 
 !!! warning
-     It is said that it is possible to lose the items in the mail system. If this happens, go to the Discord, and use the channel `#submit-ticket`. Do not send important or expensive items this way.
+    It is said that it is possible to lose the items in the mail system. If this happens, go to the Discord, and use the channel `#submit-ticket`. Do not send important or expensive items this way.
 
 !!! note
-     You can not send Great Nature this way.
+    You can not send Great Nature this way.
 
 ### ![7539](img/7539.gif) [Poring Coins (PC)](poring-coins-system.md)
 Most enemies have a 5% Chance to drop an item called Poring Coin, making high kill count valuable by itself. They have various use cases.
@@ -59,7 +59,7 @@ There are various powerful headgears you can craft using Poring Coins, for examp
 
 
 ### [Elemental Converter](https://irowiki.org/w/index.php?title=Create_Elemental_Converter&oldid=47391)
-The item “Elemental Converter” endows your weapon with one of the four elements, fire, water, wind or earth - like Endow. Other than the item description they last for 30 minutes and are sold by players for around 5-10k. These allow you to not care for elemental weapons or arrows, except some rare use cases (or f.e. Holy).
+The item “Elemental Converter” endows your weapon with one of the four elements, fire, water, wind or earth - like Endow. Other than the item description they last for 30 minutes and are sold by players for around 5,000z to 10,000z. These allow you to not care for elemental weapons or arrows, except some rare use cases (or f.e. Holy).
 
 
 ### [Card Exchanger](card-exchange.md)
@@ -71,11 +71,11 @@ The drop chance for ![644](img/Beginner_Guide/644.gif) Gift boxes from Myst Case
 
 
 ### [Warper System](warper-system.md)
-Once you finish a Dungeon access quest you can unlock a Warpra helper. This allows you to always warp there with all your characters of this account for a fee of 5k.
+Once you finish a Dungeon access quest you can unlock a Warpra helper. This allows you to always warp there with all your characters of this account for a fee of 5,000z.
 
 
 ### [Inn Buffs](improvements.md#superior-inns)
-Using an Inn costs 10k and gives you Agi Up and Blessing 10 for 10 Minutes. This is very useful if you level on maps you can access very fast, close to a town, with a warp if you are Aco Class, or with Warpra.
+Using an Inn costs 10,000z and gives you Agi Up and Blessing 10 for 10 Minutes. This is very useful if you level on maps you can access very fast, close to a town, with a warp if you are Aco Class, or with Warpra.
 
 
 ### [Sitting Regeneration](improvements.md#increased-natural-recovery)
@@ -151,10 +151,10 @@ For magic classes:
 2. Soul Linker (Esma)
 3. Priest (TU)
 
-!!! Disclaimer
+!!! note "Disclaimer"
     This information is highly subjective! You should explore and try out different classes that interest you. This is just a series of suggestions on how you could start on this server. Ask questions and find out what you like.
 
-!!! Warning
+!!! warning "Warning"
     The recommended guides are player written and not verified to be the latest and most accurate information at your time of reading. Confirm the information before making expensive commitments.
 
 ### Swordsman
@@ -283,7 +283,7 @@ Mercenaries are a helpful tool for beginners because they offer quite some stren
 First decide which job you want to take. Then create a new character, choose name and hair style. Start.
 
 !!! note
-     Check your hairstyle in game, it might vary. You can change your hair style and color freely [in Prontera at the Stylist](custom-npc.md) later on. Changing cloth color costs zeny.
+    Check your hairstyle in game, it might vary. You can change your hair style and color freely [in Prontera at the Stylist](custom-npc.md) later on. Changing cloth color costs zeny.
 
 
 ### Novice Grounds
@@ -312,13 +312,13 @@ After your job change, talk to the Kafra and warp to Prontera. We have 2 things 
 1. Enter the [Main Office](main-office.md) (south-west from prontera fountain; left to where you spawn) and talk to the Platinum Skill NPC. You will receive the Quest Skills without further quest. For example: As a Thief, you want Back Slide and as Merchant you want Cart Revolution.
 2. Go to the north-west corner of Prontera and talk to the Mercenary Manager.
 
-!!! Hint
-     Copy `/navi prontera 41/337` in the Chat and follow the arrows on the ground.
+!!! tip "Hint"
+    Copy `/navi prontera 41/337` in the Chat and follow the arrows on the ground.
 
 That’s what you saved up 7,000z for: Hire Mercenary -> 1st Grade Spear Mercenary -> Yes.
 
-!!! Hint
-     If you have some more zeny, you can talk to the Mercenary Merchant left of it and buy one Mercenary Concentration Potion.
+!!! tip "Hint"
+    If you have some more zeny, you can talk to the Mercenary Merchant left of it and buy one Mercenary Concentration Potion.
 
 After you picked up the Skills and one Scroll, go back to any Kafra (or use one of your Novice Butterfly Wings if you saved in town already). There are a few areas to go now, I recommend going to Spores, one map south of Payon. Now let your mercenary rage on for 30 minutes. Do not attack on your own, because you risk dying and losing your mercenary.
 
@@ -326,16 +326,16 @@ After that, you will be level 25 or higher and have some Strawberry.
 
 Sell these to players using `@wb Strawberry`. Every single one of them will give you more than 1,000z and provide enough funds to buy your next Scroll: go to Prontera, buy a level 2 scroll, and go back to Payon. Repeat this until you are level 35.
 
-!!! Hint
-     A level 2 Spearman can survive at Wolves (2 maps south of Payon) for a while. They will die but kill some of them. This is faster EXP, but you might need a new one sooner.
+!!! tip "Hint"
+    A level 2 Spearman can survive at Wolves (2 maps south of Payon) for a while. They will die but kill some of them. This is faster EXP, but you might need a new one sooner.
 
 
 ### Sidestep: Your first Merchant
 
 !!! note
-     If you already have a merchant, skip this part.
+    If you already have a merchant, skip this part.
 
-By now you should take a small break and create a Merchant. So put some zeny (like 10k) in your Bank (CTRL+B) and create a new character: your Overcharge and Discount Merchant. You can start as Novice just as you did before. Put all your stat points into STR. After you hit base 15, leave the Novice Ground and say you want to become a Merchant.
+By now you should take a small break and create a Merchant. So put some zeny (like 10,000z) in your Bank (CTRL+B) and create a new character: your Overcharge and Discount Merchant. You can start as Novice just as you did before. Put all your stat points into STR. After you hit base 15, leave the Novice Ground and say you want to become a Merchant.
 
 Follow this guide: [Merchant Job Quest](https://irowiki.org/classic/Merchant_Job_Change_Guide)
 
@@ -348,10 +348,10 @@ Buy a Mercenary and kill Spores again. You want at the very least these skills:
 [Discount Merchant Job Build](https://oldskillsim.irowiki.org/bsm.html?10cAjX93cL)
 
 !!! note
-     Discount does only apply for basic NPC stores. It does not decrease the price of mercenary scrolls or potions, nor from player set shops.
+    Discount does only apply for basic NPC stores. It does not decrease the price of mercenary scrolls or potions, nor from player set shops.
 
 !!! note
-     Item Appraisal is pointless, because in uaRO all items dropped are already identified.
+    Item Appraisal is pointless, because in uaRO all items dropped are already identified.
 
 Your Stat is still STR only for weight limit. After you hit job 24 you can let it rest. If you want, you can continue later with better funds. Bring your Merchant to Prontera, save there, sell your NPC loot to an NPC, and buy the supplies you want, esp. Fly Wings.
 
@@ -379,8 +379,8 @@ Ideas for alternative leveling spots:
 - Porcellio
 - Toy Factory 2. Cruiser and Myst Case Card sells well and can be useful for you, too.
 - Geographer, in the Lazy Archer Way.
-- Les (Hint: Spend 10k in the Inn to get Agi up and Blessing for 10 Minutes. Those +12 Flee will do you quite some good.)
-- Map in front of Orc Dungeon: Orc Ladies (Hint: Spend 10k in the Inn to get Agi up and Blessing for 10 Minutes. These +12 Flee will do you quite some good.), get a card.
+- Les (Hint: Spend 10,000z in the Inn to get Agi up and Blessing for 10 Minutes. Those +12 Flee will do you quite some good.)
+- Map in front of Orc Dungeon: Orc Ladies (Hint: Spend 10,000z in the Inn to get Agi up and Blessing for 10 Minutes. These +12 Flee will do you quite some good.), get a card.
 - Remover, Biolabs 1 (Quest needed). Don’t forget to take the Repeatable Exp Quest. They are slow so you can kill them from a distance using hit and run tactics If you are still too weak to face them.
 
 A bit later:
@@ -417,8 +417,8 @@ You will always find a buying shop somewhere. Wolf and Choco drop them, both can
 ### Repeatable EXP Quest items
 Earthworm Peeling (Hode), Anolian Skin (Alligator) usually sell well to players. Sharp Leaf and Huge Leaf (early Les, [Finding The Moving Island Quest](https://irowiki.org/classic/Finding_The_Moving_Island_Quest), later Pinguicula [Onward to the New World Quest](https://irowiki.org/classic/Onward_to_the_New_World_Quest), see also [El Dicastes](el-dicastes.md) ) can be sold as well, and they offer good EXP as well.
 
-!!! hint
-     When you are above 90, save some zeny for your own rebirth. You will need 1,285,000z.
+!!! tip "Hint"
+    When you are above 90, save some zeny for your own rebirth. You will need 1,285,000z.
 
 ### Toy Factory
 Solid NPC stuff and some cards you can use or sell.
@@ -426,7 +426,7 @@ Solid NPC stuff and some cards you can use or sell.
 
 ### ![997](img/Beginner_Guide/997.gif) Great Nature
 !!! note
-     You can't send GNs by mail, one of a few nerfs. You have to carry them the old way.
+    You can't send GNs by mail, one of a few nerfs. You have to carry them the old way.
 
 
 #### Hunt Sleeper
@@ -434,7 +434,7 @@ Sleeper drop GNs by 75%. Either sell them to players or split them yourself. The
 
 
 #### Split GNs
-As soon as you have basic funds, you can make the quest, buy some GNs from players (3,250z or less) and [split them](https://irowiki.org/wiki/Ore_Downgrading). The Green Lives per GN sells for avg 4k to NPCs on a Merchant with Overcharge 10. It's a safe 20% return on investment. Here, the Utan Shaman is much less chatty!
+As soon as you have basic funds, you can make the quest, buy some GNs from players (3,250z or less) and [split them](https://irowiki.org/wiki/Ore_Downgrading). The Green Lives per GN sells for avg 4,000z to NPCs on a Merchant with Overcharge 10. It's a safe 20% return on investment. Here, the Utan Shaman is much less chatty!
 
 !!! note
     When you farm for items to sell to NPC, check the [Modified Sales Prices](modified-sales-prices.md), as uaRO has some adjustments to item prices.
@@ -504,8 +504,8 @@ Now you can easily share items between characters of different accounts. There i
 
 
 ### Settings
-!!! Important Hint
-     A lot of setting changes requires you to start your uaRO Client as admin, else it can not be saved.
+!!! important "Important Hint"
+    A lot of setting changes requires you to start your uaRO Client as admin, else it can not be saved.
 
 Open your game options by pressing ESC.
 
