@@ -68,7 +68,19 @@ Give the number whenever one exists. Sometimes the patch notes and databases do 
 
 ## Sources for Original Values
 
-In order: maintainer screenshots or in-game checks, uaRO patch notes, Hercules `db/pre-re`, Hercules `db/re`, rAthena, iRO Wiki Classic. Values that could not be checked go in the pull request description as unverified. Do not name the source inside the table.
+The Original column means the official game, because that is what players compare uaRO against. Hercules and rAthena are evidence for official behavior, not the definition of it. uaRO was built on Hercules, which has gaps (it has no status icon for songs, Devotion or Mind Breaker, for example), so a missing Hercules feature is not proof that official lacks it.
+
+Rank the evidence in this order:
+
+1. Maintainer screenshots or in-game checks.
+2. Official-facing references: iRO Wiki Classic, RateMyServer and similar.
+3. Hercules `db/pre-re` and rAthena `db/pre-re` when they agree. Use `db/re` when there is no pre-renewal version.
+4. uaRO patch notes for the uaRO side (the newer note wins).
+5. A value found in only one emulator is unverified.
+
+When uaRO only matches official (for example, a patch that adds an icon the emulator was missing), it is not a change. Do not write a row for it.
+
+Values that could not be checked go in the pull request description as unverified. Do not name the source inside the table.
 
 ## Wording
 
