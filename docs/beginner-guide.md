@@ -83,7 +83,7 @@ If you sit, after 10 seconds you have a super regeneration that fills your HP / 
 
 
 
-### Party features
+### Party Features
 
 #### Party EXP Bonus
 For every member in the party, all get a +15% Exp Bonus. So at a full party, all get 280% Exp instead of 100%.
@@ -126,7 +126,7 @@ This site is a big database for items, monsters, skills and quests. Most of thes
 
 
 ### [Rocalc](https://rocalc.com/)
-This is the best calculator I know, and generally fits to uaRO with some exceptions. If you want to compare equipment, builds and ideas, this is your way to go.
+This is the best calculator available, and it generally fits to uaRO with some exceptions. If you want to compare equipment, builds and ideas, this is your way to go.
 
 
 ### [Skillsim](https://skills.irowiki.org)
@@ -294,10 +294,10 @@ Start with the [Novice Grounds](remastered-novice-location.md). You can collect 
 Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job. [Read the Classes Job List](https://irowiki.org/classic/Classes) and familiarize yourself with server [class changes](class-changes.md).
 
 
-### Short Information about Mercenaries
+### Short Information About Mercenaries
 [Read about Mercenaries](mercenary-system.md).
 
-Mercenaries are a helpful tool for beginners. Their cost is low and their power high compared to any low-level class without very good equipment. They can push you quickly to level 50 and higher, but then they will fall behind. You can purchase up to lvl 6 scrolls for zeny only, above you need Loyalty. I don’t go deeper into it, because it is hard to farm loyalty – you will grow too fast in levels – and you should start to be self-dependent after this.
+Mercenaries are a helpful tool for beginners. Their cost is low and their power high compared to any low-level class without very good equipment. They can push you quickly to level 50 and higher, but then they will fall behind. You can purchase up to lvl 6 scrolls for zeny only, above you need Loyalty. This guide doesn’t go deeper into it, because it is hard to farm loyalty – you will grow too fast in levels – and you should start to be self-dependent after this.
 
 There are three types of Mercenaries:
 
@@ -320,7 +320,7 @@ That’s what you saved up 7,000z for: Hire Mercenary -> 1st Grade Spear Mercena
 !!! tip "Hint"
     If you have some more zeny, you can talk to the Mercenary Merchant left of it and buy one Mercenary Concentration Potion.
 
-After you picked up the Skills and one Scroll, go back to any Kafra (or use one of your Novice Butterfly Wings if you saved in town already). There are a few areas to go now, I recommend going to Spores, one map south of Payon. Now let your mercenary rage on for 30 minutes. Do not attack on your own, because you risk dying and losing your mercenary.
+After you picked up the Skills and one Scroll, go back to any Kafra (or use one of your Novice Butterfly Wings if you saved in town already). There are a few areas to go now, but Spores, one map south of Payon, is a good pick, one map south of Payon. Now let your mercenary rage on for 30 minutes. Do not attack on your own, because you risk dying and losing your mercenary.
 
 After that, you will be level 25 or higher and have some Strawberry.
 
@@ -330,7 +330,7 @@ Sell these to players using `@wb Strawberry`. Every single one of them will give
     A level 2 Spearman can survive at Wolves (2 maps south of Payon) for a while. They will die but kill some of them. This is faster EXP, but you might need a new one sooner.
 
 
-### Sidestep: Your first Merchant
+### Sidestep: Your First Merchant
 
 !!! note
     If you already have a merchant, skip this part.
@@ -414,7 +414,7 @@ Just kill a lot and gather ![7539](img/7539.gif) Poring Coins. Myst Case Card is
 You will always find a buying shop somewhere. Wolf and Choco drop them, both can be easily killed by mercenaries.
 
 
-### Repeatable EXP Quest items
+### Repeatable EXP Quest Items
 Earthworm Peeling (Hode), Anolian Skin (Alligator) usually sell well to players. Sharp Leaf and Huge Leaf (early Les, [Finding The Moving Island Quest](https://irowiki.org/classic/Finding_The_Moving_Island_Quest), later Pinguicula [Onward to the New World Quest](https://irowiki.org/classic/Onward_to_the_New_World_Quest), see also [El Dicastes](el-dicastes.md) ) can be sold as well, and they offer good EXP as well.
 
 !!! tip "Hint"
@@ -480,7 +480,7 @@ To open a buying store, [you need to do a small quest](vendor-system.md#create-a
 
 ### Bank System
 
-The second icon in the third row, or `CTRL + B`. You can store and transfer zeny between all your characters without a fee to everywhere. I recommend having at least some zeny on every character to use services like Kafra Storage and Teleport, but to store the main zeny in your bank account, so you can access it easily at any time.
+The second icon in the third row, or `CTRL + B`. You can store and transfer zeny between all your characters without a fee to everywhere. Keep at least some zeny on every character to use services like Kafra Storage and Teleport, but to store the main zeny in your bank account, so you can access it easily at any time.
 
 ### Guild Storage & Bank
 
@@ -520,7 +520,7 @@ If you have a new client you need to assign the keys for your Battlemode first.
 
 
 ### Shortcuts
-They contain a lot of well-known basic commands. I recommend to take it as a source of information and don’t change much, because they are often named in guides.
+They contain a lot of well-known basic commands. Use it as a source of information and don’t change much, because they are often named in guides.
 
 ![Shortcuts-setting](img/Beginner_Guide/Shortcuts-setting.png)
 
