@@ -62,7 +62,7 @@ Hercules and rAthena show the **Official** value (renewal values count as offici
 - A behavior that already matches the pre-renewal default is **not** a change. Don't list it (for example, a trap skill reverted to pre-renewal).
 - A bug fix, animation fix or status icon is not a change unless it alters what players can do. Skip those.
 - uaRO changes monster drops and stats. For a monster uaRO edited, the patch notes or `@mi` screenshots beat the emulator.
-- Check the constant name before deciding a skill is missing from the tree. Fury, Maximum Over-Thrust, Potion Creation and Converter Creation are normal class skills (Monk, Whitesmith, Alchemist). If a skill really is not in the tree, it may be granted by a quest, status or script: check who the wiki already lists it under, and say so instead of guessing.
+- Platinum skills are learned through a quest, not by spending skill points: Making Arrow, Charge Arrow, Change Cart and Holy Light, for example. The emulator skill tree still lists them under the first class (Archer, Merchant, Acolyte), so the compare tools show that class with no sign of the quest. Name the quest requirement in the docs, and don't treat a skill as a normal class skill just because the tree lists it. Fury, Maximum Over-Thrust, Potion Creation and Converter Creation are normal skills (Monk, Whitesmith, Alchemist), not platinum.
 - Never invent a number. If a value isn't in the patch notes, the maintainer's screenshot, or the emulator, write "unknown" and ask.
 
 ## Reporting
