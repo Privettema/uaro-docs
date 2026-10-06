@@ -489,8 +489,8 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Pirate Dagger [0] | 5305 |
 	| Purple Cowboy Hat [1] | 5409 |
 	| Santa Poring Hat [1] | 5381 |
-	| Pisces Crown [0] | 5515 |
-	| Pisces Diadem [0] | 5514 |
+	| ![5515](img/5515.png) Pisces Crown [0] | 5515 |
+	| ![5514](img/5514.png) Pisces Diadem [0] | 5514 |
 	| Necromancer's Hood [0] | 5502 |
 	| Koneko Hat [0] | 5372 |
 	| Moonlight Flower Hat [0] | 5214 |
