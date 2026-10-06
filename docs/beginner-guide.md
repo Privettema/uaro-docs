@@ -33,10 +33,10 @@ You can send items to and from everywhere for a small fee of 2,500z per item sta
     It is said that it is possible to lose the items in the mail system. If this happens, go to the Discord, and use the channel `#submit-ticket`. Do not send important or expensive items this way.
 
 !!! note
-    You can not send Great Nature this way.
+    You can not send Great Nature (`997`) this way.
 
 ### ![7539](img/7539.gif) [Poring Coins (PC)](poring-coins-system.md)
-Most enemies have a 5% Chance to drop an item called Poring Coin, making high kill count valuable by itself. They have various use cases.
+Most enemies have a 5% Chance to drop an item called Poring Coin (`7539`), making high kill count valuable by itself. They have various use cases.
 
 #### Zeny
 They sell well to players and always will. Sell them whenever you need some zeny fast.
@@ -63,7 +63,7 @@ The item “Elemental Converter” endows your weapon with one of the four eleme
 
 
 ### [Card Exchanger](card-exchange.md)
-Cards can be traded for points and exchanged for Bloody Branches or Old Card Album. So any card has at least a basic value.
+Cards can be traded for points and exchanged for Bloody Branches (`12103`) or Old Card Album (`616`). So any card has at least a basic value.
 
 
 ### ![Myst Case Card](img/4227.png) Myst Case Card
@@ -162,8 +162,8 @@ For magic classes:
 #### Knight
 [Recommended: Griever's LK Leveling Guide](https://discord.com/channels/702960460168953946/1517220731908526261)
 
-A Knight is a very beginner friendly farming character. The weapon Ahlspiess is cheap and allows you to kill high DEF characters very fast. You can level fast and earn money by going to Sleepers. A good build is STR / AGI based - as a beginner, the Flee will help you more than VIT will do. Skills to use are either Bowling Bash (BB) or Brandish Spear.
-Sleeper is a very common farming map for raw Zeny: They drop Great Nature which can be split up into Green Live ([Ore Downgrading Quest](https://irowiki.org/classic/Ore_Downgrading)) and sold to an NPC. Transcends to Lord Knight (LK).
+A Knight is a very beginner friendly farming character. The weapon Ahlspiess (`1478`) is cheap and allows you to kill high DEF characters very fast. You can level fast and earn money by going to Sleepers. A good build is STR / AGI based - as a beginner, the Flee will help you more than VIT will do. Skills to use are either Bowling Bash (BB) or Brandish Spear.
+Sleeper is a very common farming map for raw Zeny: They drop Great Nature (`997`) which can be split up into Green Live (`993`) ([Ore Downgrading Quest](https://irowiki.org/classic/Ore_Downgrading)) and sold to an NPC. Transcends to Lord Knight (LK).
 
 #### Crusader
 [Recommended: Acadiano's GC Paladin Guide](https://discord.com/channels/702960460168953946/1513593872159342822)
@@ -176,7 +176,7 @@ Crusaders are less beginner friendly than Knights. Their build typically focuses
 #### Hunter
 [Recommended: SoEpic's DS Sniper Guide for Beginners](https://discord.com/channels/702960460168953946/1507939786860527666)
 
-Hunter is a generally good starting character: the weapon Orc Archer Bow is cheap and powerful, especially combined with Elemental Converter. Double Strafe Hunter (high DEX, medium AGI, medium INT) is a good choice for beginners; it deals a lot of damage in a short period of time and can one-hit several targets. A good starting place for EXP and Zeny is Hill Winds. Transcends to Sniper.
+Hunter is a generally good starting character: the weapon Orc Archer Bow (`1734`) is cheap and powerful, especially combined with Elemental Converter. Double Strafe Hunter (high DEX, medium AGI, medium INT) is a good choice for beginners; it deals a lot of damage in a short period of time and can one-hit several targets. A good starting place for EXP and Zeny is Hill Winds. Transcends to Sniper.
 
 #### Bard / Dancer
 [Recommended: Laude's FS Gypsy/Clown Guide](https://discord.com/channels/702960460168953946/1535596146724970496)
@@ -318,11 +318,11 @@ After your job change, talk to the Kafra and warp to Prontera. We have 2 things 
 That’s what you saved up 7,000z for: Hire Mercenary -> 1st Grade Spear Mercenary -> Yes.
 
 !!! tip "Hint"
-    If you have some more zeny, you can talk to the Mercenary Merchant left of it and buy one Mercenary Concentration Potion.
+    If you have some more zeny, you can talk to the Mercenary Merchant left of it and buy one Mercenary Concentration Potion (`12241`).
 
-After you picked up the Skills and one Scroll, go back to any Kafra (or use one of your Novice Butterfly Wings if you saved in town already). There are a few areas to go now, but Spores, one map south of Payon, is a good pick, one map south of Payon. Now let your mercenary rage on for 30 minutes. Do not attack on your own, because you risk dying and losing your mercenary.
+After you picked up the Skills and one Scroll, go back to any Kafra (or use one of your Novice Butterfly Wings (`12324`) if you saved in town already). There are a few areas to go now, but Spores, one map south of Payon, is a good pick. Now let your mercenary rage on for 30 minutes. Do not attack on your own, because you risk dying and losing your mercenary.
 
-After that, you will be level 25 or higher and have some Strawberry.
+After that, you will be level 25 or higher and have some Strawberry (`578`).
 
 Sell these to players using `@wb Strawberry`. Every single one of them will give you more than 1,000z and provide enough funds to buy your next Scroll: go to Prontera, buy a level 2 scroll, and go back to Payon. Repeat this until you are level 35.
 
@@ -357,7 +357,7 @@ Your Stat is still STR only for weight limit. After you hit job 24 you can let i
 
 
 ### Level 35+
-Once you hit base 35, go to Prontera and buy 1 - 2 level 3 Spearman Scrolls and restock some Fly Wings from the Tool Dealer. You should have enough zeny to look for your first equipment now:
+Once you hit base 35, go to Prontera and buy 1 - 2 level 3 Spearman Scrolls and restock some Fly Wings (`601`) from the Tool Dealer. You should have enough zeny to look for your first equipment now:
 
 `@ws Pantie`
 `@ws Undershirt`
@@ -370,7 +370,7 @@ An alternative leveling spot is Payon Cave first floor. Some of them are aggress
 ### Level 50+
 Either you go on for another round of Wolves to gather some Strawberries or you switch to higher leveling places. This will also switch your role: Instead of just watching it kill with ease, you have to do your part, because the mercenaries will more and more drop off in strength and don’t survive on their own anymore. If your build has a defensive stat (usually AGI, sometimes VIT) you can push it and follow the “Tank for your Mercenary” strategy.
 
-It’s suggested to buy some Meat with your Merchant. It is heavy but the best item in terms of zeny to health ratio.
+It’s suggested to buy some Meat (`517`) with your Merchant. It is heavy but the best item in terms of zeny to health ratio.
 
 You can go to Morroc and move to `/navi moc_fild17 208/346`, killing Hodes, but watch out for Frilldoras. Don’t forget to take the [Repeatable EXP Quest](repeatable-quests.md).
 
@@ -411,11 +411,11 @@ Just kill a lot and gather ![7539](img/7539.gif) Poring Coins. Myst Case Card is
 
 
 ### ![578](img/Beginner_Guide/578.gif) Strawberry
-You will always find a buying shop somewhere. Wolf and Choco drop them, both can be easily killed by mercenaries.
+You will always find a buying shop somewhere. Wolf (`1013`) and Choco drop them, both can be easily killed by mercenaries.
 
 
 ### Repeatable EXP Quest Items
-Earthworm Peeling (Hode), Anolian Skin (Alligator) usually sell well to players. Sharp Leaf and Huge Leaf (early Les, [Finding The Moving Island Quest](https://irowiki.org/classic/Finding_The_Moving_Island_Quest), later Pinguicula [Onward to the New World Quest](https://irowiki.org/classic/Onward_to_the_New_World_Quest), see also [El Dicastes](el-dicastes.md) ) can be sold as well, and they offer good EXP as well.
+Earthworm Peeling (`1055`) (Hode (`1127`)), Anolian Skin (`7003`) (Alligator (`1271`)) usually sell well to players. Sharp Leaf (`7100`) and Huge Leaf (`7198`) (early Les, [Finding The Moving Island Quest](https://irowiki.org/classic/Finding_The_Moving_Island_Quest), later Pinguicula [Onward to the New World Quest](https://irowiki.org/classic/Onward_to_the_New_World_Quest), see also [El Dicastes](el-dicastes.md) ) can be sold as well, and they offer good EXP as well.
 
 !!! tip "Hint"
     When you are above 90, save some zeny for your own rebirth. You will need 1,285,000z.
@@ -430,7 +430,7 @@ Solid NPC stuff and some cards you can use or sell.
 
 
 #### Hunt Sleeper
-Sleeper drop GNs by 75%. Either sell them to players or split them yourself. They are not easy targets; only go there with a fitting class and setup.
+Sleeper (`1386`) drop GNs by 75%. Either sell them to players or split them yourself. They are not easy targets; only go there with a fitting class and setup.
 
 
 #### Split GNs
@@ -445,7 +445,7 @@ Bow classes can kill these one-hit with DS and have a solid income by selling th
 
 
 ### Thors Volcano 2
-It’s hard to get there, but Knockers are easy to kill and they drop Thorny Buckler, Elven Ears and their card.
+It’s hard to get there, but Knockers (`1838`) are easy to kill and they drop Thorny Buckler (`2124`), Elven Ears (`2286`) and their card.
 
 
 ---
@@ -490,7 +490,7 @@ Requirements:
 
 How to do it:
 
-1. Use the Emperium to create a guild
+1. Use the Emperium (`714`) to create a guild
 2. Invite the characters of your choice
 3. Tax 2M for first Guild Level
 4. Level up “Guild Storage Expansion”
