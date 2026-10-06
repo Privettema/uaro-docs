@@ -366,7 +366,7 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
 
 <!---------------------------------------------------------------------------->
 
-### Ninja 
+### Ninja
 Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](dealers.md#ninja-materials) in addition to their typical locations. Weapons and other gear are not sold at this NPC.
 
 <div class="class-changes-table" markdown>
