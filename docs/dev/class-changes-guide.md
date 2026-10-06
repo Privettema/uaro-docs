@@ -54,7 +54,7 @@ Readers are players with average familiarity with Ragnarok Online. They come to 
 
 ## What Belongs in a Row
 
-- List only what differs from the official pre-renewal game. Bug fixes, cosmetics and normal drop-rate scaling are not changes.
+- List only what differs from the official pre-renewal game. Bug fixes and normal drop-rate scaling are not changes. Cosmetic differences (status icons, timers, effects, party list markers) are changes and belong in the row, because players notice them.
 - One row per skill or mechanic. Fold related NPCs and icons into the skill's row instead of giving them their own.
 - The Original column holds only what the uaRO column compares against, rewritten as the official value. Do not copy a skill's full description.
 - Leave Original blank when uaRO added something with no official counterpart. Do not write "N/A".
