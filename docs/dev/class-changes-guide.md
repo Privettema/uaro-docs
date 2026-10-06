@@ -80,7 +80,7 @@ Rank the evidence in this order:
 
 When uaRO only matches official (for example, a patch that adds an icon the emulator was missing), it is not a change. Do not write a row for it.
 
-Values that could not be checked go in the pull request description as unverified. Do not name the source inside the table.
+Values that could not be checked go in the pull request description as unverified. Do not name the source inside the table. The [Source Comparison](class-changes-sources.md) records what each reference said for every checked row; update it when you recheck a row.
 
 ## Wording
 
