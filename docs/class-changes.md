@@ -34,7 +34,6 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| Song Buff Icons | No status icon for songs. | Song buff icons are added with the other player buffs. |
 | ![Please Don't Forget Me](img/Class_Changes/dc_dontforgetme.png) Please Don't Forget Me | Not removed on death. | Removed on death. |
 
 </div>
