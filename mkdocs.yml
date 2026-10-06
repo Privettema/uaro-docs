@@ -60,12 +60,12 @@ nav:
     - getting-started/index.md
     - ⭐ How to start: how-to-start.md
     - ⚙️ Commands: commands.md
-    - 🌱 Beginner Guide: beginner-guide.md
-    - 📘 The Beginner's Guide: the-beginners-guide.md
     - 🦋 QOL Improvements: improvements.md
     - 📢 Guild Starter Support System: guild-starter-support-system.md
     - 🛟 Troubleshooting: troubleshooting.md
     - 💬 FAQ: faq.md
+    - 🎮 How to Play RO: how-to-play-ro.md
+    - 🌱 Beginner Guide: beginner-guide.md
   - Features & Enhancements:
     - features-enhancements/index.md
     - Features:
@@ -272,7 +272,8 @@ plugins:
         Spring_Event_2026.md: spring-event-2026.md
         Summer_Event_2026.md: summer-event-2026.md
         Taming_Gift_Set.md: taming-gift-set.md
-        The_Beginner's_Guide.md: the-beginners-guide.md
+        The_Beginner's_Guide.md: how-to-play-ro.md
+        the-beginners-guide.md: how-to-play-ro.md
         Twilight_Festival.md: twilight-festival.md
         Vendor_System.md: vendor-system.md
         Warper_System.md: warper-system.md
