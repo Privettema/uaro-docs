@@ -98,7 +98,7 @@ These are important for three reasons:
 
 - Most Exp items can be sold to players for a reasonable price, so it's a possible source of money.
 - The Killing Quests can help you to level faster (namely Alligator, Dryad, and Remover).
-- Once you rebirth, you will have a lot of Huge and Sharp Leaf (Pinguicula drop them). They will help you to become a higher level really quick.
+- Once you rebirth, you will have a lot of Huge and Sharp Leaf (Pinguicula (`1995`) drop them). They will help you to become a higher level really quick.
 
 ### ![Reset NPC](img/JP_ARUNA.gif) Reset NPC
 This NPC is located in the Prontera Main Office and allows you to reset your skills, your stats, or your skills and stats. You can do it as often as you like for a fee, with the first time being free. This allows you to first choose a beginners friendly build and once you own the money (and equipment) you can change to a late game one.
@@ -320,7 +320,7 @@ That’s what you saved up 7,000z for: Hire Mercenary -> 1st Grade Spear Mercena
 !!! tip "Hint"
     If you have some more zeny, you can talk to the Mercenary Merchant left of it and buy one Mercenary Concentration Potion (`12241`).
 
-After you picked up the Skills and one Scroll, go back to any Kafra (or use one of your Novice Butterfly Wings (`12324`) if you saved in town already). There are a few areas to go now, but Spores, one map south of Payon, is a good pick. Now let your mercenary rage on for 30 minutes. Do not attack on your own, because you risk dying and losing your mercenary.
+After you picked up the Skills and one Scroll, go back to any Kafra (or use one of your Novice Butterfly Wings (`12324`) if you saved in town already). There are a few areas to go now, but Spores (`1014`), one map south of Payon, is a good pick. Now let your mercenary rage on for 30 minutes. Do not attack on your own, because you risk dying and losing your mercenary.
 
 After that, you will be level 25 or higher and have some Strawberry (`578`).
 
@@ -372,21 +372,21 @@ Either you go on for another round of Wolves to gather some Strawberries or you 
 
 It’s suggested to buy some Meat (`517`) with your Merchant. It is heavy but the best item in terms of zeny to health ratio.
 
-You can go to Morroc and move to `/navi moc_fild17 208/346`, killing Hodes, but watch out for Frilldoras. Don’t forget to take the [Repeatable EXP Quest](repeatable-quests.md).
+You can go to Morroc and move to `/navi moc_fild17 208/346`, killing Hodes, but watch out for Frilldoras (`1119`). Don’t forget to take the [Repeatable EXP Quest](repeatable-quests.md).
 
 Ideas for alternative leveling spots:
 
 - Porcellio
-- Toy Factory 2. Cruiser and Myst Case Card sells well and can be useful for you, too.
-- Geographer, in the Lazy Archer Way.
-- Les (Hint: Spend 10,000z in the Inn to get Agi up and Blessing for 10 Minutes. Those +12 Flee will do you quite some good.)
-- Map in front of Orc Dungeon: Orc Ladies (Hint: Spend 10,000z in the Inn to get Agi up and Blessing for 10 Minutes. These +12 Flee will do you quite some good.), get a card.
-- Remover, Biolabs 1 (Quest needed). Don’t forget to take the Repeatable Exp Quest. They are slow so you can kill them from a distance using hit and run tactics If you are still too weak to face them.
+- Toy Factory 2. Cruiser (`1248`) and Myst Case Card sells well and can be useful for you, too.
+- Geographer (`1368`), in the Lazy Archer Way.
+- Les (`1881`) (Hint: Spend 10,000z in the Inn to get Agi up and Blessing for 10 Minutes. Those +12 Flee will do you quite some good.)
+- Map in front of Orc Dungeon: Orc Ladies (`1273`) (Hint: Spend 10,000z in the Inn to get Agi up and Blessing for 10 Minutes. These +12 Flee will do you quite some good.), get a card.
+- Remover (`1682`), Biolabs 1 (Quest needed). Don’t forget to take the Repeatable Exp Quest. They are slow so you can kill them from a distance using hit and run tactics If you are still too weak to face them.
 
 A bit later:
 
-- Sandman
-- Dokebi
+- Sandman (`1165`)
+- Dokebi (`1110`)
 
 
 ### Second Class Job Change Quest
@@ -411,7 +411,7 @@ Just kill a lot and gather ![7539](img/7539.gif) Poring Coins. Myst Case Card is
 
 
 ### ![578](img/Beginner_Guide/578.gif) Strawberry
-You will always find a buying shop somewhere. Wolf (`1013`) and Choco drop them, both can be easily killed by mercenaries.
+You will always find a buying shop somewhere. Wolf (`1013`) and Choco (`1214`) drop them, both can be easily killed by mercenaries.
 
 
 ### Repeatable EXP Quest Items
