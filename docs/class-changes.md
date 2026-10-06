@@ -143,7 +143,7 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| Fame System | Fame points (used for class rankings) are kept permanently. | Fame points (used for class rankings) decay by 5% per month. |
+| Fame System | Fame points are kept permanently. | Fame points decay by 5% per month. |
 | Forging System | 1, 2 or 3 Star Crumbs add +5, +10 or +40 Mastery ATK to all of the weapon's attacks. | 1 Star Crumb: +20 ATK.<br>2 Star Crumbs: +40 ATK (+60 total).<br>2 Star Crumbs and an element: +60 ATK and +10% bonus damage (element).<br>3 Star Crumbs: +60 ATK and +10% neutral damage bonus.<br>Weapons forged by top-ranked smiths get an additional +10 ATK. |
 | ![Adrenaline Rush](img/Class_Changes/bs_adrenaline.gif) Adrenaline Rush | Increases attack speed with Mace and Axe weapons. | One-Handed Swords can also be used. |
 | ![Cart Termination](img/Class_Changes/ws_carttermination.gif) Cart Termination | Costs 600z to 1,500z. Damage depends on cart weight. | Cart assumes max weight regardless of cart weight.<br>Cost is 0z in Battlegrounds.<br>Cost reduced to 500z while you carry a [Bag of Gold Coins](#bag-of-gold-coins).<br>Cost removed entirely once the [Avarice](#bag-of-gold-coins) platinum skill is learned. |
@@ -161,7 +161,7 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| Fame System | Fame points (used for class rankings) are kept permanently. | Fame points (used for class rankings) decay by 5% per month. |
+| Fame System | Fame points are kept permanently. | Fame points decay by 5% per month. |
 | ![Bio Cannibalize](img/Class_Changes/am_cannibalize.gif) Bio Cannibalize | At most 3 Flora, 2 Parasites or 1 Geographer can be out at once (6 minus the skill level). | Increased plant count of Flora, Parasite and Geographer on non-PvP maps. |
 | ![Bioethics](img/Class_Changes/am_bioethics.gif) Bioethics | Allows the Alchemist to begin learning the Homunculus skill tree. | Now an active skill, used as the interface to swap between your stored homunculi (costs 1 embryo to swap). |
 | ![Call Homunculus](img/Class_Changes/am_callhomun.gif) Call Homunculus | Summons or recalls an already created Homunculus. | Calls your most recently selected homunculus. Your active choice won't show on your Bioethics storage list. |
@@ -301,7 +301,7 @@ No other changes to Hunter skills.
 | Death Count | Reaching Job Level 70 without dying gives +10 to all stats. Dying afterwards removes the bonus for good, and the death count cannot be reset. | The death count can be reset for free at [Lupita](custom-npc.md#other), south of Prontera.<br>The reset also grants a 10 second Super Novice Spirit (Super Novice and Super Baby only), long enough to swap into gear unlocked by the link. |
 | Doridori | Increases SP regeneration only.<br>No status icon.<br>Stays active when you stand up. | Also increases HP regeneration.<br>Shows a status icon while active.<br>Ends when you stand up. |
 | Passive Bonuses | | +2000 weight limit.<br>+10 DEX in total, granted over Job Levels 1-50.<br>Passive ASPD increase. |
-| Removed Skills | Super Novices can learn Increase Agility, Blessing, Enlarge Weight Limit, Identify, Transcendence and Owl's Eye. | These six skills are removed from the skill tree. Blessing and Increase Agility are replaced by Super Blessing (see below). |
+| Removed Skills | Super Novices can learn Increase Agility, Blessing, Enlarge Weight Limit, Identify, Transcendence and Owl's Eye. | These six skills are removed from the skill tree. Blessing and Increase Agility are replaced by the Super Blessing platinum skill. |
 | ![Angel, Help me!](img/Class_Changes/nv_helpangel.png) Angel, Help me! | Expanded Super Novice skill, not available to Super Novice. | Available as a platinum skill from the Platinum Skill NPC in the Main Office.<br>Restores HP and SP for you and your party members in a 15x15 area around you: 500 HP and 100 SP per second for 20 seconds. Cooldown of 300 seconds. |
 | ![Breakthrough](img/Class_Changes/nv_breakthrough.png) Breakthrough | Expanded Super Novice skill with a maximum Level of 5. | Available as a platinum skill from the Platinum Skill NPC in the Main Office. Combines Breakthrough and Transcendence, with a maximum Level of 1.<br>ATK +50, MATK +50, Max HP +2000, Max SP +200, healing received +20%. |
 | ![Super Blessing](img/Class_Changes/nv_transcendence.png) Super Blessing | | Grants the Increase AGI and Blessing statuses.<br>Does not stack with other Increase AGI or Blessing skills or scrolls. |
@@ -319,28 +319,13 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
 <!---------------------------------------------------------------------------->
 ### Taekwon
 
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Fame System</td>
-                <td>Fame points earned are kept permanently. The top 10 ranked taekwon players are able to perform infinite combos and receive tripled Maximum HP and SP at level 90. Fame points are ignored if player changes job to Star Gladiator. Rankings can be checked with <code>@taekwon</code> in game.</td>
-                <td>Fame points decay by 5% per month, to support better game balance.</td>
-            </tr>
-             <tr>
-                <td><img src="../img/Class_Changes/tk_mission.gif" alt="">Taekwon Mission</td>
-                <td>SP Cost: 10<br> Reset Chance: 1%<br> Cast Time: 1 second</td>
-                <td>SP Cost: 1<br> Reset Chance: 5%<br> Cast Time: 0.5 second</td>
-            </tr>
-        </tbody>
-    </table>
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Fame System | Fame points are kept permanently. | Fame points decay by 5% per month. |
+| ![Taekwon Mission](img/Class_Changes/tk_mission.gif) Taekwon Mission | SP cost 10.<br>Reset chance 1%.<br>Cast time of 1 second. | SP cost 1.<br>Reset chance 5%.<br>Cast time of 0.5 seconds. |
+
 </div>
 
 
@@ -349,38 +334,15 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
 
 #### Star Gladiator
 
-<div class="class-changes-table">
-    <table>
-        <thead>
-            <tr>
-                <th>Topic</th>
-                <th>Original Behavior</th>
-                <th>uaRO Changed Behavior</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><img src="../img/Class_Changes/sg_feel.gif" alt="">Feeling of the Sun, Moon, and Stars</td>
-                <td>Permanently memorize a map for bonuses for "Place of the Sun", "Place of the Moon", and/or "Place of the Stars".</td>
-                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns/#locations">Prontera West inn</a> to reset Feeling for a fee.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/sg_hate.gif" alt="">Hatred of the Sun, Moon, and Stars</td>
-                <td>Permanently memorize a monster for bonuses for "Target of the Sun", "Target of the Moon", or "Target of the Stars".</td>
-                <td>An <a href="../custom-npc/#skills">NPC named Salvia</a> is available in the <a href="../inns/#locations">Prontera West inn</a> to reset Hatred for a fee.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/sj_document.gif" alt="">Miracle of the Sun, Moon, and Stars</td>
-                <td>Miracle has a low rate to grant the ability to use all Solar, Lunar, and Stellar-aligned skills on any map on any day of the week. This means offensive and supporting skills are stacked as well. The effect lasts for one hour and disappears if the player logs off or switches maps.</td>
-                <td>Success rate increased from 0.02% to 0.1%.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/sg_warmth.png" alt="">Warmth of the Sun, Moon, and Stars</td>
-                <td>Does not damage targets standing on Land Protector.</td>
-                <td>Properly bypasses Land Protector.</td>
-            </tr>
-        </tbody>
-    </table>
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| ![Feeling of the Sun, Moon, and Stars](img/Class_Changes/sg_feel.gif) Feeling of the Sun, Moon, and Stars | Memorizes a map permanently for the Place of the Sun, Moon and Stars bonuses. It cannot be reset. | [Salvia](custom-npc.md#skills) resets Feeling for 500,000z. |
+| ![Hatred of the Sun, Moon, and Stars](img/Class_Changes/sg_hate.gif) Hatred of the Sun, Moon, and Stars | Memorizes a monster permanently for the Target of the Sun, Moon and Stars bonuses. It cannot be reset. | [Salvia](custom-npc.md#skills) resets Hatred for 250,000z. |
+| ![Miracle of the Sun, Moon, and Stars](img/Class_Changes/sj_document.gif) Miracle of the Sun, Moon, and Stars | Success rate of 0.02%. | Success rate of 0.1%. |
+| ![Warmth of the Sun, Moon, and Stars](img/Class_Changes/sg_warmth.png) Warmth of the Sun, Moon, and Stars | Land Protector prevents the damage. | Land Protector does not prevent the damage. |
+
 </div>
 
 

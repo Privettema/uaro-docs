@@ -17,6 +17,7 @@ Readers are players with average familiarity with Ragnarok Online. They come to 
 
 ### Writer Goals
 
+- Make each row stand on its own. Readers jump straight to their class and will not have read the rows above, so do not write "see above" or "see below", and do not rely on an earlier row for context. Link to the page that explains something instead.
 - Make every row answer "what is different, and by how much" in one glance.
 - Keep Original and uaRO Changes comparable, so a reader can line the two cells up property by property.
 - Be accurate. A wrong Original misleads more than a missing row does.
