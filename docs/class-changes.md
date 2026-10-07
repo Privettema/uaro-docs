@@ -184,8 +184,8 @@ Status effects that behave differently from the official game.
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/cr_grandcross.gif" alt="">Grand Cross</td>
-                <td>Grand Cross hits 1-5 times, depending highly on position and movement of enemy/enemies. When one or more monsters are on a single cell of GC, the number of hits are reduced by 1 per monster (to a minimum of one hit to one monster).</td>
-                <td>Due to increased mob stack size, mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range.</td>
+                <td>Grand Cross hits 1-5 times, depending highly on position and movement of enemy/enemies. When one or more monsters are on a single cell of GC, the number of hits are reduced by 1 per monster (to a minimum of one hit to one monster). Does not trigger HP leech effects.</td>
+                <td>Due to increased mob stack size, mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range. Triggers HP leech effects, such as Hunter Fly cards.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/cr_reflectshield.gif" alt="">Shield Reflect</td>
