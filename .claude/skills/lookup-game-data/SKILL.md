@@ -17,7 +17,7 @@ Run the compare tools from the root of this repo, so they can also search `docs/
 |---|---|
 | Is this item value right? | `~/game-data/bin/compare_item.py <id or name>` (also shows a saved irowiki page and the client description) |
 | Is this monster value right? | `~/game-data/bin/compare_mob.py <id or name>` |
-| Is this skill value right, and which class learns it? | `~/game-data/bin/compare_skill.py <constant, name or id>` |
+| Is this skill value right, and which class learns it? | `~/game-data/bin/compare_skill.py <constant, name or id>`, or `--quest` to list every quest skill |
 | Which monsters drop an item, or what does a monster drop? | `~/game-data/bin/drops.py <item>` or `drops.py --mob <monster>` |
 | Item description, slots, view ID | `~/game-data/bin/parse_iteminfo.py <id or name>`, or `--view N` for the items using a headgear view ID |
 | Sprite or headgear view ID | `~/game-data/bin/parse_sprites.py <id or name>`, or `--gaps` for view IDs missing from the list |
