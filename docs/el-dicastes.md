@@ -1,234 +1,172 @@
----
-hide:
-  - toc
----
-
 # El Dicastes
 
-<!-- Recommended: 800x450px webp - El Dicastes promo banner -->
-<!-- ![El Dicastes](img/el_dicastes_promo.webp){ .wiki-screenshot } -->
-
-**El Dicastes** is the Sapha capital and the last stop in the New World. It offers daily quests paid in
-**Sapha Certificates**, the **Scaraba Hole** dungeon and four enchantable bound items.
+In **El Dicastes**, the Sapha capital, every favor is paid in certificates and every guest wears the Ring of the Ancient Wise King. Run the city's errands, earn your standing, and see what stirs in the tunnels of [Scaraba Hole](scaraba-hole.md) below.
 
 **Content type:** [Renewal](whats-different.md#content-tags)
 
----
+!!! info "Quick Facts"
+    - **Currency:** Sapha Certificates, earned from quests
+    - **Level Required:** Base Level 80 for daily quests, Base Level 75 to wear the enchantable items
+    - **Daily Reset:** All dailies share one account-wide cooldown that resets at 00:00 server time (`@time`)
+
+!!! danger "Keep the Ring Equipped"
+    Sapha NPCs only talk to you while the Ring of the Ancient Wise King is **worn**. It cannot be traded or stored, so every character must earn its own.
 
 ## Getting There
 
-El Dicastes is reached through the Ep 13.2 quest chain. Complete the steps in order.
+El Dicastes is reached through the Episode 13.2 quest chain, which opens after you complete the Episode 13.1 Ash Vacuum quest chain.
 
-| Step | NPC - Location | What to do |
-|---|---|---|
-| `1` | **Promotional Staff** - `/navi prontera 163/53`, then `/navi aldebaran 127/138`, then `/navi geffen 90/67` | Ash Vacuum chain. The Geffen staff requires base level `70`. |
-| `2` | **Recruiter for the Brave** - `/navi prt_castle 83/67` | Sends you on to Lighthalzen and the Expedition Camp. |
-| `3` | **Schwartzvalt Mechanic** - `/navi mid_camp 197/237` | Gives the **Ring of the Ancient Wise King** after a `1` hour wait. |
-| `4` | **Guard Aello** - `/navi mid_campin 93/114` | Leads to the Sapha audience. |
-| `5` | **Inspector Doha** - `/navi mid_campin 168/170` | Required stop. Opens **Ahat's Secret**. |
-| `6` | **Guard Captain Avalanche** - `/navi man_in01 315/52` | Authorises your passage. Do not skip him or the city guards turn you away. |
-| `7` | **Entrance Manager** - `/navi manuk 321/182` | Warps you into the Kamidal Tunnel. |
+Once you speak to the [Cat Hand Agent](new-world-travel.md) in El Dicastes, you can return on your other characters. However, they cannot complete any local quests without the Ring of the Ancient Wise King.
 
-Cross the tunnel west to east, then head north-east on **dic_fild01** to the **Capital City Guards** at
-`/navi dic_fild01 146/281`, who warp you to the city.
+### Prerequisites
 
-!!! danger "Keep the Ring Equipped"
-    Sapha NPCs only talk to you while the Ring is **worn**. It cannot be traded or stored, so every character
-    must earn its own.
+Completing these quests will take you to El Dicastes and unlock local quests there.
 
----
+1. [Onward to the New World](https://irowiki.org/classic/Onward_to_the_New_World_Quest)
+2. [Finding a Fairy](https://irowiki.org/classic/Finding_a_Fairy)
+3. Two of these four: [Attitude to the New World](https://irowiki.org/classic/Attitude_to_the_New_World), [Report from the New World](https://irowiki.org/classic/New_Surroundings), [Tripatriate Union's Feud](https://irowiki.org/classic/Tripatriate_Union%27s_Feud) or [Pursuing Rayan Moore](https://irowiki.org/classic/Pursuing_Rayan_Moore)
+4. [Ring of the Ancient Wise King](https://irowiki.org/classic/Ring_of_the_Wise_King)
+5. [Sapha's Visit](https://irowiki.org/wiki/Sapha%27s_Visit), up to step 7
 
-## New World Travel
+!!! warning "Possible Quest Differences"
+    Some content from external guides may vary on uaRO, especially modified renewal content.
 
-The [Warper](warper-system.md) stops at the Midgard Expedition Camp. All travel beyond it uses
-**Cat Hand Services**. Sign the contract once with **Fluffy Gyaruk** (`/navi mid_camp 190/242`) for
-**200 Delicious Fish**, **20 Fish Tail** and `550,000` **Zeny**. It applies to your whole account.
+### Guide
 
-| Service | Cost |
+This list walks through the major steps to be completed. For detailed instructions, refer to the prerequisite quests above.
+
+| Step | NPC | Location | What to do |
+|---|---|---|---|
+| 1 | Recruiter for the Brave | `/navi prt_castle 83/67` | Starts "Onward to the New World". |
+| 2 | Schwartzvalt Mechanic | `/navi mid_camp 197/237` | Gives the Ring of the Ancient Wise King after a 1 hour wait. |
+| 3 | Guard Aello | `/navi mid_campin 93/114` | Leads to "Sapha's Visit". |
+| 4 | Inspector Doha | `/navi mid_campin 168/170` | Required stop. Starts "Doha's Secret Orders" and "Ahat's Secret". |
+| 5 | Guard Captain Avalanche | `/navi man_in01 315/52` | Authorizes your passage. Do not skip him or the city guards turn you away. |
+| 6 | Entrance Manager | `/navi manuk 320/181` | Warps you into the Kamidal Tunnel (Scaraba Hole Level 1). |
+| 7 | Capital City Guards | `/navi dic_fild01 146/281` | Warps you into the city. |
+
+!!! danger "Dangerous Field Maps"
+    `dic_fild01` and `dic_fild02` are full of aggressive Centipedes and Dolomedes that detect hiding and hit for up to 16,000. Carry **Fly Wings**.
+
+## Important Stops
+
+### Registration
+
+Register with **Adventure Clerk Rhawyne** (`/navi dic_in01 42/264`, entered through `/navi dicastes01 198/353`) to acquire the **Light of El Dicastes**.
+
+The Light of El Dicastes grants the skill **Return to El Dicastes** when equipped, which warps you back to the city. It has a 10 minute cooldown and cannot be used in Battlegrounds, GvG, or on maps where warping or teleporting is disabled.
+
+### Unlocking More
+
+Certain steps of [Doha's Secret Orders](https://irowiki.org/wiki/Doha%27s_Secret_Orders) unlock Scaraba Hole, enchanting at the Cat Merchants and one of the daily quests.
+
+| Doha's Secret Orders Step | Unlock |
 |---|---|
-| Save location | Free |
-| Storage / Guild Storage | `120` **Zeny** |
-| Teleport - Midgard cities | `5,500` – `19,800` **Zeny** |
-| Teleport - Midgard Expedition Camp | `19,000` **Zeny** |
-| Teleport - El Dicastes | `24,000` **Zeny** |
-| Teleport - Manuk / Mora / Eclage | `22,000` / `17,000` / `17,000` **Zeny** |
-| Teleport - Splendide | `17,000` **Zeny** |
-| Teleport - Scaraba Hole | `19,000` **Zeny** |
+| 7 | Scaraba Hole Level 2 |
+| 8 | Cat Merchant Enchantments |
+| 20 | Cheshire's Call daily quest |
+| Complete | x9 Unknown Relics (`6308`) |
 
-Agents are located in El Dicastes (`/navi dicastes01 200/194`), Manuk, Splendide, Mora, Eclage and the camp.
-Midgard-city teleports are sold at the camp only, and a New World city must be visited on foot once before you
-can teleport to it. [**Inn Attendants**](inns.md) are available in El Dicastes, Manuk and Splendide.
-**Scaraba Hole** is sold once you have visited the agent spot at the entrance to its first floor. The
-**Midgard Expedition Camp**, **Manuk** and **Splendide** count as towns, so town-only conveniences such as
-[`@restock`](commands.md#restock-qstore-fast-storage) work there.
-
----
+!!! warning "Quest Differences"
+    You will not receive a Bradium Brooch or Dragon's Manteau for completing Doha's Secret Orders.
 
 ## The City
 
-Register first with **Adventure Clerk Rhawyne** (`/navi dic_in01 42/264`, entered through
-`/navi dicastes01 198/353`). Registration is free and gives you the **Light of El Dicastes**.
-
-!!! info "Return to El Dicastes"
-    The **Light of El Dicastes** grants the skill **Return to El Dicastes**, which warps you back to the
-    city. It has a `10` minute cooldown and cannot be used in Battlegrounds, GvG, or on maps where
-    warping or teleporting is disabled.
-
-| NPC | Location | Function |
+| NPC | Location | Use For |
 |---|---|---|
-| **Adventure Clerk Rhawyne** | `/navi dic_in01 42/264` | Registration |
-| **Cat Hand Agent** | `/navi dicastes01 200/194` | Save, storage, teleports |
-| **Inn Attendant** | `/navi dic_in01 31/114` | Save free; rest `10,000` **Zeny** |
-| **Healer** | `/navi dicastes01 201/194` | Free, no cooldown |
-| **Hanknitt** | `/navi dicastes01 93/149` | Refiner |
-| **Tool Dealer** | `/navi dicastes01 154/210` | Supplies |
-| **Papyrus** | `/navi dic_in01 40/193` | Archive Room - relic exchange |
-| **Item Storage** | `/navi dic_in01 254/119` | Storage for `500` **Zeny** |
-| **Shay** | `/navi dic_in01 245/119` | Pub; food menu and the phrase for Ahat's Secret |
+| Adventure Clerk Rhawyne | `/navi dic_in01 42/264` | Acquire Light of El Dicastes |
+| Cat Hand Agent | `/navi dicastes01 199/195` | Save, storage, teleports |
+| Inn Attendant | `/navi dic_in01 31/114` | Save free; rest for 10,000z |
+| Healer | `/navi dicastes01 201/194` | Free healing, no cooldown |
+| Hanknitt | `/navi dicastes01 93/149` | Refiner |
+| Tool Dealer | `/navi dicastes01 154/210` | Supplies |
+| Item Storage | `/navi dic_in01 254/119` | Storage for 500z |
+| Shay | `/navi dic_in01 245/119` | Pub; food menu and the phrase for Ahat's Secret |
+| Papyrus | `/navi dic_in01 40/193` | Archive Room: relic exchange |
+| Laponte | `/navi dicastes01 187/230` | Daily request: Hunting 1 (kill a target) |
+| Kalipo | `/navi dicastes01 175/217` | Daily request: Hunting 2 (kill a target) |
+| Pura | `/navi dicastes01 208/230` | Daily request: Supply 1 (deliver items) |
+| Tragis | `/navi dicastes01 225/211` | Daily request: Supply 2 (deliver items) |
+| Calyon | `/navi dicastes01 223/190` | Daily request: Transport 1 (deliver items) |
+| Moltuka | `/navi dicastes01 211/178` | Daily request: Transport 2 (deliver items) |
 
-There is no death penalty in the city and fortress. Vending, Dead Branches, Warp Portal and memo points are
-disabled.
+## Earning Certificates
 
----
+### Daily Requests
 
-## Sapha Certificates
+Take a request from one of six quest givers in the square, complete it, then report to the matching manager inside Diel. Each pays 1 Certificate plus 4,000 to 82,800 base EXP, rolled per request.
 
-**Sapha Certificates** are the only currency in El Dicastes. Base level `80` is required for every repeatable
-source. All dailies share one account-wide cooldown that resets at server midnight.
+These quests reset daily at 00:00 server time (`@time`). Any quest you have not turned in by then is reset, and progress does not carry over between days.
 
-**Department dailies.** Take a request from a giver in the square, complete it, then report to the matching
-manager inside Diel. Each pays `1` Certificate plus `4,000` – `82,800` base EXP, rolled per request.
+!!! warning "Daily Quest Reset"
+    To reset a quest, return to each manager in Diel before taking a new day's request.
 
-| Giver | Location | Department |
+### Cheshire's Call
+
+Unlocked by completing Doha's Secret Orders. Once per day, bring Cheshire 10 Clotted Bloodstains, 10 Strange Magic Stones and 10 Frozen Pieces of Skin to receive 70,000 base EXP, 30,000 job EXP and 1 Certificate.
+
+### Research Documents
+
+Read a **Document Package** in the Archive Room to get a dig spot on a Midgard field map. Digging has a 50% chance to give an **Unidentified Relic**. Papyrus trades 3 relics for 1 Certificate or 30 for 11.
+
+A bad document read can leave you **Dizzy**, which locks the Archive Room for 6 hours.
+
+### Frede's Request
+
+A one-time quest that pays 3 Certificates. Start with **Frede** (`/navi dicastes01 117/262`, Base Level 70) and find his six missing friends in Scaraba Hole. Then bring **Bouy** (`/navi dic_in01 349/129`) 30 **Small Bradium** (`6319` dropped by Dolomedes (`2092`), 75%). After a 2 hour wait, deliver the refined ore to all six again.
+
+One of Frede's friends is on the lower floor of Scaraba Hole, which stays locked until "Doha's Secret Orders" has progressed far enough.
+
+## Spending Certificates
+
+Certificates are spent on enchanting four bound items.
+
+### Enchantable Items
+
+| Item | Equip | Enchanter | Acquisition | Binding |
+|---|---|---|---|---|
+| <img src="../img/2844.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Light of El Dicastes | Accessory | Kareka<br>(`/navi dic_in01 353/37`) | Adventure Clerk Rhawyne<br>(`/navi dic_in01 42/264`) | Character |
+| <img src="../img/2463.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feral Boots | Shoes | Jalapeno<br>(`/navi dic_fild01 240/198`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`)| Account |
+| <img src="../img/2564.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feral Tail | Garment | Mancho<br>(`/navi dic_fild01 259/172`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
+| <img src="../img/2843.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Golden Trinket | Accessory | Brare<br>(`/navi dic_fild01 251/183`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
+
+These items cannot be refined, traded, put in a cart, put in guild storage, mailed or sold. Light of El Dicastes also cannot be stored.
+
+### Stats
+
+Each layer rolls a bonus from its column. Only Feral Boots and Feral Tail can roll +3 on layer 3. The Light of El Dicastes and Golden Trinket top out at +2.
+
+| Layer 1 | Layer 2 | Layer 3 (Light, Golden Trinket) | Layer 3 (Feral Boots, Feral Tail) |
+|---|---|---|---|
+| ATK +2% or 3% | AGI +1 or 2 | AGI +1 or 2 | AGI +1, 2 or 3 |
+| MATK +1% or 2% | DEX +1 or 2 | DEX +1 or 2 | DEX +1, 2 or 3 |
+| Critical +5 or 7 | INT +1 or 2 | INT +1 or 2 | INT +1, 2 or 3 |
+| Flee +6 or 12 | - | - | - |
+
+Layers 2 and 3 can stack on the same stat, up to +5 on Feral Boots and Feral Tail and +4 on the Light of El Dicastes and Golden Trinket.
+
+### Enchanting with Kareka
+
+**Kareka** (`/navi dic_in01 353/37`) only enchants the Light of El Dicastes. You must wear the Ring of the Ancient Wise King to speak with him.
+
+| Step | Cost | Result |
 |---|---|---|
-| **Laponte** | `/navi dicastes01 187/230` | Hunting `1` - kill a target |
-| **Kalipo** | `/navi dicastes01 175/217` | Hunting `2` - kill a target |
-| **Pura** | `/navi dicastes01 208/230` | Supply `1` - deliver items |
-| **Tragis** | `/navi dicastes01 225/211` | Supply `2` - deliver items |
-| **Calyon** | `/navi dicastes01 223/190` | Transport `1` - deliver items |
-| **Moltuka** | `/navi dicastes01 211/178` | Transport `2` - deliver items |
+| Layer 1 | 1 Certificate | 20% fail, item safe |
+| Layer 2 | 2 Certificates | 20% fail, item safe |
+| Layer 3 | 3 Certificates | 20% fail, item safe |
+| Reset | 6 Certificates | Strips enchants, item safe |
 
-**Research documents.** Read a **Document Package** in the Archive Room to get a dig spot on a Midgard field
-map. Digging has a `50%` chance to give an **Unidentified Relic**. Papyrus trades `3` relics for `1` Certificate
-or `30` for `11`. A bad read can leave you **Dizzy**, which locks the Archive Room for `6` hours.
+### Enchanting with the Cat Merchants
 
----
+The cat merchants enchant the Feral Boots, Feral Tail and Golden Trinket, and the item must be equipped. You do not need to wear the Ring of the Ancient Wise King to speak with the cats.
 
-## Quest Chains
+| Step | Cost | Result |
+|---|---|---|
+| Layer 1 | 1 Certificate | 10% fail, item safe |
+| Layer 2 | 2 Certificates | 10% fail, item safe |
+| Layer 3 | 3 Certificates | 20% chance it destroys the item |
+| Add a socket | 60 Certificates | Never fails, item safe |
+| Reset | Free | Destroys the item |
 
-**Ahat's Secret** starts with **Inspector Doha** (`/navi mid_campin 168/170`). It costs `6` Certificates,
-rewards `9` Unidentified Relics, **opens Scaraba Hole** and unlocks a repeatable daily worth `70,000` base EXP,
-`30,000` job EXP and `1` Certificate. Note the phrase Shay gives you exactly: you must type it for **BK**
-(`/navi dic_fild01 231/174`) and Shay will not repeat it.
-
-**Frede's Request** starts with **Frede** (`/navi dicastes01 117/262`, base level `70`). Find his six missing
-friends in Scaraba Hole, then bring **Bouy** (`/navi dic_in01 349/129`) `30` **Small Bradium** (Dolomedes,
-`75%`). After a `2` hour wait, deliver the refined ore to all six again. Pays `3` Certificates.
-
-!!! warning "Finish Ahat's Secret First"
-    One of Frede's friends is on the lower floor of Scaraba Hole, which stays locked until **Ahat's Secret** has
-    progressed far enough.
-
----
-
-## Scaraba Hole
-
-**dic_dun01** is the Kamidal Tunnel; **dic_dun02** is the dungeon proper and requires **Ahat's Secret** to open.
-
-| Monster | Floor | Quantity | In-game command |
-|---|---|---|---|
-| ![2083](img/2083.gif) One-Horned Scaraba | `dic_dun01` | `50` | `@mi 2083` |
-| ![2084](img/2084.gif) Two-Horned Scaraba | `dic_dun01` | `45` | `@mi 2084` |
-| ![2088](img/2088.gif) One-Horned Scaraba Egg | `dic_dun01` | `15` | `@mi 2088` |
-| ![2089](img/2089.gif) Two-Horned Scaraba Egg | `dic_dun01` | `15` | `@mi 2089` |
-| ![2085](img/2085.gif) Antler Scaraba | `dic_dun02` | `50` | `@mi 2085` |
-| ![2086](img/2086.gif) Rake Scaraba | `dic_dun02` | `45` | `@mi 2086` |
-| ![2090](img/2090.gif) Antler Scaraba Egg | `dic_dun02` | `15` | `@mi 2090` |
-| ![2091](img/2091.gif) Rake Scaraba Egg | `dic_dun02` | `15` | `@mi 2091` |
-| ![2087](img/2087.gif) Queen Scaraba | `dic_dun02` | `1` | `@mi 2087` |
-
-Upper floor monsters are not aggressive; the lower floor is aggressive and can root you with Spider Web. Antler
-and Rake Scaraba teleport away when hit from range while idle. **Queen Scaraba** (`2` hour respawn,
-`1,304,459` HP) heals and summons escorts, silences the party below `80%` HP and takes only `25%` of the damage
-dealt to her.
-
-Both floors are part of the rotating bonus EXP zones, which you can check with
-[`@mapexp`](commands.md#general-commands).
-
-!!! danger "Field Maps"
-    **dic_fild01** and **dic_fild02** are full of aggressive Centipedes and Dolomedes that detect hiding and hit
-    for up to `16,000`. Carry Fly Wings.
-
----
-
-## Gear and Drops
-
-The following items drop only in Scaraba Hole.
-
-How [Imperial Spear](item-changes.md#imperial-spear), [Imperial Guard](item-changes.md#imperial-guard), [Alca Bringer](item-changes.md#alca-bringer), [Chrome Metal Two-Handed Sword](item-changes.md#two-handed-chrome-metal-sword) and [Bone Plate](item-changes.md#bone-plate) differ from the official versions is on [Item Changes](item-changes.md).
-
-| Item | Slot | Drops from | Rate |
-|---|---|---|---|
-| **Forbidden Grimoire** | Sage shield, `Def 5`, `1` slot, Lv `90` | Two-Horned Scaraba | `0.05%` |
-| **Ghost Whisper** | Assassin headgear, `Def 3`, `1` slot, Lv `90` | Antler Scaraba | `0.05%` |
-| <img src="../img/1433.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Imperial Spear** | Crusader spear, `Atk 220`, `1` slot, Lv `85` | One-Horned Scaraba | `0.10%` |
-| <img src="../img/2153.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Imperial Guard** | Crusader shield, `Def 6`, `1` slot, Lv `85` | Rake Scaraba Egg | `0.05%` |
-| <img src="../img/15000.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bone Plate** | Armor | Rake Scaraba | `0.10%` |
-| <img src="../img/4505.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Scaraba Card** | Card | all four adult Scaraba | `0.05%` |
-
-- **Forbidden Grimoire** - ASPD `+5%`, INT `+2`. At `+7` or higher, increases damage of Magic Elemental Earth
-  Skills by `20%`. With a **Death Note**, `+1%` MATK per refine of the Death Note and `-10%` cast time at `+10`.
-- **Ghost Whisper** - STR `+3`. At `+7` or higher, `+10%` Meteor Assault damage. At `+9` or higher, a further
-  STR `+2` and `+10%` Meteor Assault damage.
-- **Imperial Spear** - `+20%` Shield Boomerang and Shield Charge damage, plus `+1%` each per refine.
-- **Imperial Guard** - MDEF `+5`, `+20%` Shield Chain damage plus `+1%` per refine. At `+8` or higher, Shield
-  Chain's cast time is halved. With the **Imperial Spear**, Shield Chain costs `20` less SP.
-- **Bone Plate** - can be enchanted at the **Apprentice Craftsman** High Grade Armor service in Prontera (`/navi prontera 165/60`).
-
-### Queen Scaraba
-
-| Drop | Rate |
-|---|---|
-| <img src="../img/6326.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Piece of Queen's Wing** | `35%` |
-| <img src="../img/1191.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Alca Bringer** - `Atk 280` two-handed sword, Knight/Crusader Lv `85`, unbreakable, ASPD `+1` per `2` refine | `15%` |
-| <img src="../img/2364.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Meteor Plate** - `Def 10`, `1` slot, Lv `55`, `30%` Stun and Freeze resistance | `15%` |
-| <img src="../img/1196.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Chrome Metal Two-Handed Sword** - `Atk 280`, unbreakable, AGI `+3`, max HP `-10%` | `6%` |
-| <img src="../img/25731.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Zelunium** | `1.5%` |
-| <img src="../img/4507.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Queen Scaraba Card** | `0.01%` |
-
-MVP drops: **Old Card Album** (`60%`), **Yggdrasilberry** (`60%`) or **Old Blue Box** (`90%`), plus `75,000` MVP
-EXP. **Queen Scaraba Card** grants `+30%` damage against all Scaraba Hole monsters, adds `100%` of the
-target's MDEF on top of your magic damage, and gives a small chance of a **Scaraba Scroll** from any kill.
-
----
-
-## Enchanting
-
-Four **untradeable and unrefinable** items, base level `75` to wear:
-
-| Item | Slot | Where | Bound to |
-|---|---|---|---|
-| **Light of El Dicastes** | Accessory | Free, from registration | Your **character** |
-| <img src="../img/2463.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Feral Boots** | Shoes | **Jahbong**, `/navi dic_fild01 228/159` - `1` Certificate | Your **account** |
-| <img src="../img/2564.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Feral Tail** | Garment | **Jahbong** - `1` Certificate | Your **account** |
-| **Golden Trinket** | Accessory | **Jahbong** - `1` Certificate | Your **account** |
-
-**Kareka** (`/navi dic_in01 353/37`) enchants the Light and needs the Ring worn. The cat merchants **Jalapeno**
-(`/navi dic_fild01 240/198`), **Mancho** (`/navi dic_fild01 259/172`) and **Brare** (`/navi dic_fild01 251/183`)
-enchant the Boots, Tail and Trinket. The item must be equipped.
-
-| Step | Cost | Kareka | Cat Merchants |
-|---|---|---|---|
-| Layer `1` | `1` Certificate | `20%` fail, item safe | `10%` fail, item safe |
-| Layer `2` | `2` Certificates | `20%` fail, item safe | `10%` fail, item safe |
-| Layer `3` | `3` Certificates | `20%` fail, item safe | `20%` **destroys the item** |
-| Add a socket | `60` Certificates | Never fails | Never fails |
-| Reset | `6` Certificates (Kareka) / free (cats) | Strips enchants, keeps refine, card and socket | **Destroys the item** |
-
-The first layer rolls ATK, MATK, Critical or Flee, the second adds `+1` or `+2` to AGI, INT or DEX, and the third
-combines them into a larger bonus. The cat merchants give better odds on the stronger rolls (`40%` against
-Kareka's `14%`), and only **Feral Boots** and **Feral Tail** can reach the top tier.
-
-!!! danger "Cat Merchant Failures Destroy the Item"
-    A failed third layer or a reset at the cat merchants destroys the item, including its socket and any card.
-    Finish all three layers before adding a socket. Kareka's reset is safe.
+!!! danger "Some Cat Merchant failures can destroy the item"
+    A failed third layer or a reset at the cat merchants destroys the item, including its socket and any card. Finish all three layers before adding a socket.

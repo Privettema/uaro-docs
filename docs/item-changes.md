@@ -8,7 +8,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 
 | Item | Item ID | Original | uaRO Changes |
 |-|-|-|-|
-| [](){ #alca-bringer } Alca Bringer | 1191 | Required Level 100<br>Equippable by Rune Knight<br>ASPD +1 per 2 refine levels | Unbreakable<br>Required Level 85<br>Equippable by Lord Knight and Paladin<br>ASPD +1 per 2 refine levels<br><br>Acquisition: [El Dicastes](el-dicastes.md#queen-scaraba): Queen Scaraba (`2087`) |
+| [](){ #alca-bringer } Alca Bringer | 1191 | Required Level 100<br>Equippable by Rune Knight<br>ASPD +1 per 2 refine levels | Unbreakable<br>Required Level 85<br>Equippable by Lord Knight and Paladin<br>ASPD +1 per 2 refine levels<br><br>Acquisition: [Scaraba Hole](scaraba-hole.md#queen-scaraba): Queen Scaraba (`2087`) |
 | [](){ #black-wing } Black Wing [2] | 13061 | Increases Fatal Menace damage by 30%<br>Above +5, per refine level: Fatal Menace damage +2% and MATK +3<br>1 slot | Increases Backstab damage by 25%<br>For each refine level above +6:<br>ATK +5 Increases damage of Backstab by 5%<br>2 slots<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop): Biolabs Shop |
 | [](){ #cannon-spear } Cannon Spear [1] | 1435 | Max SP -100<br>Increases Cannon Spear damage by 10%<br>ATK +1 per 3 refine levels | Max HP +500<br>Increases damage by 4% per refine level<br>Increases Holy Cross damage by 3% per refine level<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop): Biolabs Shop |
 | [](){ #catapult } Catapult [2] | 18109 | Increases Triangle Shot damage by 2% per refine level<br>Reduces Triangle Shot SP cost by 2 per refine level | DEX +2<br> At +7, +10% Ranged Physical damage and +10% ASPD<br> At +8, enables use of Long Range Snatcher when auto attacking<br> At +10, a further +10% Ranged Physical damage and +10% ASPD<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop): Biolabs Shop |
@@ -22,7 +22,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Golden Wrench [2] | 1333 | 3rd and 4th job Blacksmith line only (Mechanic, Meister)<br>ATK 220<br>Required Level 170<br>Unbreakable<br>ATK +5%<br>Base ATK +4 per refine level<br>At +9, Axe Boomerang and Power Swing damage +20%<br>At +11, Axe Boomerang and Power Swing damage +35% | Whitesmith only<br>ATK 240<br>Required Level 85<br>STR +3<br>At +7, CRIT +20<br>At +8, ASPD +10%<br>At +9, Base ATK +50<br>Indestructible in battle<br><br>Acquisition: Conversion from +10 Vecer Axe (50%) from the Golden Wrench Forger in the Geffen and Einbroch Smith job change areas (Geffen: `/navi geffen_in 102/176`, Einbroch: `/navi ein_in01 27/40`) |
 | [](){ #green-whistle } Green Whistle [1] | 1930 | Reduces Rush Windmill and Deep Sleep Lullaby cast time by 2 seconds<br>Above +5, reduces their SP cost by 4 per refine level | Increases Arrow Vulcan damage by 30%<br>At +7, increase damage of Arrow Vulcan by 10%<br>At +10, increase damage of Arrow Vulcan by 20%<br>Decreases cast time of Arrow Vulcan by 2 seconds<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop): Biolabs Shop |
 | Healing Staff | 1625 | Acquisition: Dropped by Anubis (`1098`) | Acquisition: Dropped by Anubis (`1098`), Margaretha Sorin (`1637`)<br>Drop rate: [Monster Changes](monster-changes.md) |
-| [](){ #imperial-spear } Imperial Spear [1] | 1433 | Increases Cannon Spear and Banishing Point damage by 20%, plus 1% per 2 refine levels | Increases Shield Boomerang and Shield Charge damage by 20%, plus 1% each per refine<br>Shield Chain SP cost -20 when combined with Imperial Guard<br><br>Acquisition: [El Dicastes](el-dicastes.md#gear-and-drops): One-Horned Scaraba (`2083`) |
+| [](){ #imperial-spear } Imperial Spear [1] | 1433 | Increases Cannon Spear and Banishing Point damage by 20%, plus 1% per 2 refine levels | Increases Shield Boomerang and Shield Charge damage by 20%, plus 1% each per refine<br>Shield Chain SP cost -20 when combined with Imperial Guard<br><br>Acquisition: [Scaraba Hole](scaraba-hole.md#gear-and-drops): One-Horned Scaraba (`2083`) |
 | Inverse Scale | 1269 (unslotted)<br>35650 ([3]) | No slots | Slots can be added through S-tier socket crafting |
 | Knuckle weapons | - | Size penalty 100% / 75% / 50% (Small / Medium / Large) | Size penalty 100% / 100% / 75% (Small / Medium / Large) |
 | Lich's Bone Wand [2] | 1624 | Equippable by Mage, Acolyte, Priest, Wizard, Monk and Sage | Can be equipped by Soul Linker |
@@ -38,7 +38,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | [](){ #suras-rampage } Sura's Rampage [1] | 1830 | Increases Earth Shaker and Sky Net Blow damage by 20%<br>Increases SP cost of all skills by 5%<br>Each refine above +6 decreases SP cost of skills by 1% | Increases Finger Offensive damage by 20%<br>Increases Occult Impact damage by 20%<br>Increases SP cost of all skills by 5%<br>Each refine above +5 decreases SP cost of skills by 1%<br>At +7 or higher: Increases Finger Offensive and Occult Impact damage by 5%<br>At +10: Increases Finger Offensive and Occult Impact damage by 10%<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop): Biolabs Shop |
 | Thorn Staff of Darkness | 1636 | Cannot be equipped by Soul Linker<br>Not slottable | Can be equipped by Soul Linker<br> Can be slotted<br> Skull Cap combo (slotted and unslotted staff): the -10% cast time is only granted at +10 or higher MATK per refine is unchanged<br><br>Acquisition: Dropped by Entweihen Crothen (`1957`) |
 | Trident [2] | 1460 | Sold in the Prontera, Comodo and Einbroch weapon shops<br><br>Acquisition: Forgeable by Blacksmiths and dropped by Merman (`1264`) | Removed from the Prontera, Comodo and Einbroch weapon shops<br><br>Acquisition: Forgeable by Blacksmiths and drops from Merman (`1264`) |
-| [](){ #two-handed-chrome-metal-sword } Two-Handed Chrome Metal Sword | 1196 | Required Level 110<br>Equippable by Swordman High, Lord Knight and Paladin<br>Unbreakable<br>AGI +3<br>MAX HP -10% | Required Level 85<br>Equippable by Lord Knight and Paladin<br>Unbreakable<br>AGI +3<br>MAX HP -10%<br><br>Acquisition: [El Dicastes](el-dicastes.md#queen-scaraba): Queen Scaraba (`2087`) |
+| [](){ #two-handed-chrome-metal-sword } Two-Handed Chrome Metal Sword | 1196 | Required Level 110<br>Equippable by Swordman High, Lord Knight and Paladin<br>Unbreakable<br>AGI +3<br>MAX HP -10% | Required Level 85<br>Equippable by Lord Knight and Paladin<br>Unbreakable<br>AGI +3<br>MAX HP -10%<br><br>Acquisition: [Scaraba Hole](scaraba-hole.md#queen-scaraba): Queen Scaraba (`2087`) |
 | Vecer Axe [2] | 1311 | Not dropped by Majoruros (`1310`) | Dropped by Majoruros (`1310`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Veteran Axe [2] | 1384 | +10 ATK for each Forging skill (Dagger, Sword, Two-Handed Sword, Knuckle, Spear, Axe, Mace) at Level 3 | +10 ATK for each Forging skill (Dagger, Sword, Two-Handed Sword, Knuckle, Spear, Axe, Mace) at Level 2 or higher |
 
@@ -69,7 +69,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | [](){ #gentle-heart } ![2978](img/2978.gif) Gentle Heart [1] | 2978 | Required Level 110<br>MAX HP +500<br>Recover 300 HP every 10 seconds | STR +2<br>DEX +1<br>+5% damage to all races<br>Required Level 90<br>Equippable by all Transcendent jobs |
 | Ghost Whisper [1] | 400396 | MDEF +10<br>ASPD +10%<br>Skill delay -3% per refine level<br>Increases Meteor Assault damage by your Base Level<br>At +7, Meteor Assault damage is doubled and Breaker damage +Base Level<br>At +9, Meteor Assault damage is tripled and Breaker damage +2x Base Level<br>Learning Weapon Crush Level 5, Weapon Blocking Level 5, Counter Slash Level 10 or Hallucination Walk Level 5 grants additional bonuses | STR +3<br>At +7, +10% Meteor Assault damage<br>At +9, STR +2 and a further +10% Meteor Assault damage |
 | Glaris Doll Hat [1] | 5341 | INT +2 | No INT bonus |
-| Golden Trinket | 2843 |  | MAX SP +50<br>Required Level 75<br><br>Acquisition: [El Dicastes](el-dicastes.md#enchanting): Jahbong, 1 Certificate |
+| Golden Trinket | 2843 |  | MAX SP +50<br>Required Level 75<br><br>Acquisition: [El Dicastes](el-dicastes.md#spending-certificates): Jahbong, 1 Certificate |
 | [](){ #green-operation-coat } Green Operation Coat [1] | 15044 | DEX +1<br>MAX SP +30 | DEX +1, INT +3<br>Additional enchants available<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | Hermode Cap[1] | 5481 | Not dropped by any monster | Dropped by Assassin Cross Eremes (`1641`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Holy Robe | 2327 (unslotted)<br>2373 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
@@ -108,6 +108,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 
 | Item | Item ID | Original | uaRO Changes |
 |-|-|-|-|
+| Antelope Horn | 7106 | Can be discounted and moved to the cart | Cannot be bought with the Discount skill<br>Cannot be moved to the cart |
 | Bubble Gum | 12210 | Cash shop item | [Poring Coin shop](poring-coins-system.md#consumable-items): 1,000 Poring Coins<br>[Attendance reward](attendance-system.md) on login day 20 |
 | Convex Mirror | 12214 | No cooldown | 60 minute cooldown |
 | Cursed Water | 12020 | Acquired individually from NPC<br>Dropped by mobs | Bulk conversion at Niff Fountain, reached through the sign quest at `/navi niflheim 146/241`: choose Singular or All, based on your empty bottles. Includes a weight check |
@@ -120,6 +121,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Home Cooking Kit | 12126 | Consumed when used | Not consumed until a craft is attempted |
 | Infinite Butterfly Wing | 52283 |  | Works like a Butterfly Wing: unusable during duels and on no-return maps<br><br>Acquisition: Exchanged at Lydia (`/navi prt_in 38/105`) |
 | Infinite Fly Wing | 12887 | Cannot be used while Berserked | Can be used while Berserked |
+| Item Use Delay | | No delay between using items | 50 milliseconds between using items |
 | Iron Hammer | 613 | Consumed when used | Not consumed until a craft is attempted |
 | Novice Fly Wing | 12323 | Cannot be used while Berserked | Can be used while Berserked |
 | Oridecon Hammer | 615 | Consumed when used | Not consumed until a craft is attempted |
@@ -133,6 +135,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Item | Item ID | Original | uaRO Changes |
 |-|-|-|-|
 | Crystal Mirror | 747 | Dropped by Corrupted Monk (`2465`) | Dropped by Corrupted Monk (`20898`)<br>Drop rate: [Monster Changes](monster-changes.md) |
+| Great Nature | 997 | Can be sent by mail | Cannot be sent by mail |
 | Poring Coin | 7539 | Can be sold to NPCs | Cannot be sold to NPCs |
 
 ## Extended Classes
@@ -150,7 +153,7 @@ For weapons, see [Expanded Class Weapons](expanded-class-weapons.md).
 | Kraken Card | 4525 | FLEE +10<br>Enables the use of Level 1 Hiding.<br>Enables the use of Level 1 Raid, which has a 25% chance to also cast Wide Bleeding. | FLEE +10<br>Increases resistance to all elemental properties by 25%.<br>Enables the use of Level 1 Hiding. |
 | Moonlight Flower Card | 4131 | Movement speed +25%. | Movement speed +40%. |
 | [](){ #myst-case-card } Myst Case Card | 4206 | Adds a 1.5% chance for monsters to drop a Gift Box (`644`) (official 0.30%). | Gift Box (`644`) drop chance is 2.25%. |
-| Queen Scaraba Card | 4507 | Inflicts 30% more damage against Scaraba monsters<br>Small chance of dropping an Antler Scaraba Scroll when defeating any monster | Inflicts 30% more damage against Scaraba monsters<br>MDEF -30<br>Flee -30<br>Deals more magical damage depending on the target's magic defense<br>Small chance of dropping an Antler Scaraba Scroll when defeating any monster |
+| Queen Scaraba Card | 4507 | Inflicts 30% more damage against Scaraba monsters<br>Small chance of dropping a Scaraba Summoning Scroll (`12806`) when defeating any monster | Inflicts 30% more damage against Scaraba monsters<br>MDEF -30<br>Flee -30<br>Deals more magical damage depending on the target's magic defense<br>Small chance of dropping a Scaraba Summoning Scroll (`12806`) when defeating any monster |
 | Shinobi Card | 4230 | AGI +1<br>10% chance to cast Cloaking Level 5 when hit | AGI +1<br>10% chance to cast Cloaking Level 5 when hit<br>The Cloaking chance is nullified when the Thief card set is equipped together: The Paper Card (`4172`), Wanderer Card (`4210`), Shinobi Card, Wild Rose Card (`4257`) and Zhu Po Long Card (`4272`) |
 
 

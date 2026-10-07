@@ -70,7 +70,7 @@ Use `??? note "Title"` (collapsible) for a block that's long and mostly referenc
 ## Tables
 
 - Standard Markdown pipe tables. Keep every row's cell content on one line — don't rely on trailing double-spaces for a line break; if a cell genuinely needs a forced break, use `<br>` inside it.
-- An item/monster column shows the icon and name together: `![Name](img/1234.gif) Name`. When the things a table lists (items, monsters, NPCs, skills — anything with an ID) are the subject of the table, give their IDs in their own column, last. A thing that merely appears in a cell, such as a monster listed in an item-change table, gets the inline form instead, without bold: Poring (`1002`) (see Names and terms).
+- An item/monster column shows the icon and name together: `![Name](img/1234.gif) Name`. When the things a table lists (items, monsters, NPCs — anything players look up by ID) are the subject of the table, give their IDs in their own column, last. Skills are the exception: players don't look them up by ID, so skill tables have no ID column. A thing that merely appears in a cell, such as a monster listed in an item-change table, gets the inline form instead, without bold: Poring (`1002`) (see Names and terms).
 - No trailing whitespace on any line, in or out of a table.
 
 ## Links
