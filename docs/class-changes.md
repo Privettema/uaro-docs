@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Class Changes
 
 uaRO uses the pre-renewal class system, with selected adjustments to skills and mechanics for balance and smoother gameplay. These changes preserve the classic feel while improving the overall experience.

@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Item Changes
 
 Items, weapons and armor that work differently from the official game. See [What's Different](whats-different.md) for how to read the tables.

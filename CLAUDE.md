@@ -42,6 +42,9 @@ this file doesn't repeat it. Before opening a PR, run the linter on the pages yo
 python3 scripts/lint_style.py docs/some-page.md
 ```
 
+When a change alters what a page says (not formatting, typos, links or renames), set its `updated:` date before opening the
+PR: `python3 scripts/stamp_updated.py` stamps every page changed on the branch (see "Last updated" in the guide).
+
 Existing pages predate the guide, so only fix findings on pages you are already editing, and don't restyle text that
 has nothing to do with your change.
 
