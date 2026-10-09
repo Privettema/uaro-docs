@@ -186,9 +186,19 @@ code.copyable:focus-visible {
     }
 }
 
-/* "Last updated" line under a page title (hooks/last_updated.py) */
-.uaro-updated {
-  margin: -1rem 0 1.2rem;
+/* Top-right bar on every page: "Last updated" and "Report a problem" (hooks/page_meta.py) */
+.uaro-page-meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.25rem 1rem;
+  margin: 0 0 -0.5rem;
   font-size: 0.7rem;
   color: var(--md-default-fg-color--light);
+}
+
+@media (max-width: 44.9375em) {
+  .uaro-page-meta {
+    margin-bottom: 0.4rem;
+  }
 }

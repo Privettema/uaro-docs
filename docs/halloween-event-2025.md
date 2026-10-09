@@ -1,3 +1,7 @@
+---
+updated: 2026-10-03
+---
+
 # Halloween Event 2025
 
 !!! warning "Event Concluded"

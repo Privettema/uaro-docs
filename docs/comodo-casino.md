@@ -1,3 +1,7 @@
+---
+updated: 2026-09-16
+---
+
 # Comodo Casino
 
 !!! success "New Feature"

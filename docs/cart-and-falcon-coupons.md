@@ -1,3 +1,7 @@
+---
+updated: 2026-10-03
+---
+
 # Cart & Falcon Coupons
 
 Cart Unlock Coupons and Falcon Coupons unlock new cart and falcon appearances. Buy them with

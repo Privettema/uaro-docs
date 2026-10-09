@@ -1,3 +1,7 @@
+---
+updated: 2026-10-03
+---
+
 # Eternal Bastion
 
 ![Eternal Bastion](img/eternal_bastion_promo.webp){ .wiki-screenshot }

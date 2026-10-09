@@ -1,3 +1,7 @@
+---
+updated: 2026-10-03
+---
+
 # :world_map: Navigation System and World Map
 
 The Navigation System is a powerful feature that helps players find their way across Rune Midgard. This guide explains how to use it effectively.

@@ -1,3 +1,7 @@
+---
+updated: 2026-10-04
+---
+
 # El Dicastes
 
 In **El Dicastes**, the Sapha capital, every favor is paid in certificates and every guest wears the Ring of the Ancient Wise King. Run the city's errands, earn your standing, and see what stirs in the tunnels of [Scaraba Hole](scaraba-hole.md) below.

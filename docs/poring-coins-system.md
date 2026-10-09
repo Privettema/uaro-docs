@@ -1,3 +1,7 @@
+---
+updated: 2026-10-02
+---
+
 # Poring Coins System
 
 Poring Coins are a tradable currency that monsters drop, which you can use for certain quests or trade with other players.

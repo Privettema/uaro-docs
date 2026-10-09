@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Vendor System
 The server provides a diverse range of options for players to find, purchase, and trade items. Additionally, it implements specialized mechanisms to ensure the stability of the server's economy.
 

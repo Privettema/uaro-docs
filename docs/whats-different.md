@@ -1,3 +1,7 @@
+---
+updated: 2026-10-02
+---
+
 # What's Different
 
 uaRO is built on the pre-renewal game, with changes to existing content and some extra content you would not expect. This page explains how the wiki labels it all so you can find what you are looking for.

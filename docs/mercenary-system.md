@@ -1,3 +1,7 @@
+---
+updated: 2026-09-28
+---
+
 # :crossed_swords: Mercenary System
 
 Mercenaries are hired companions that fight alongside you for a limited time. They are a budget-friendly way to grind

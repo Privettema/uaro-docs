@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+updated: 2026-10-03
 ---
 
 # Spring Festival 2026

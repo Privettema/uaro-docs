@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Set `updated:` in the front matter of the pages whose content you changed.
 
-The wiki shows "Last updated" under a page's title from this field (see hooks/last_updated.py). Run it once
+The wiki shows "Last updated" at the top right of a page from this field (see hooks/page_meta.py). Run it once
 before you open a pull request, after your edits are done. Skip it for changes that don't alter what a page says
 (formatting, link or typo cleanup, renames).
 
@@ -10,7 +10,7 @@ Usage:
     scripts/stamp_updated.py docs/pets.md    # only the pages named
     scripts/stamp_updated.py --date 2026-10-08 --dry-run
 
-Patch notes (they carry their own `date:`), the generated listings and docs/dev/ are never stamped.
+Patch notes (they carry their own `date:`) and the generated listings are never stamped.
 """
 import argparse
 import datetime
@@ -21,7 +21,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
-SKIP_PREFIXES = ("patch-notes/", "dev/")
+SKIP_PREFIXES = ("patch-notes/",)
 SKIP_FILES = {"all-patch-notes.md", "all-pages.md"}
 BASES = ("upstream/main", "origin/main", "main")
 

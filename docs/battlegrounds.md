@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Battlegrounds
 
 Battlegrounds (BG) are team-based PvP matches where two teams compete to complete objectives and earn **Valor Badges**.

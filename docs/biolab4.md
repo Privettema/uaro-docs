@@ -1,5 +1,6 @@
 ---
 description: Bio Laboratory 4 (Lighthalzen Dungeon 4) is a high-risk dungeon of third-job character clones and powerful monsters, with rare loot and cards.
+updated: 2026-10-03
 ---
 
 # Biolab 4

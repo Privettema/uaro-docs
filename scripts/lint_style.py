@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 IGNORE = "style-ignore"
 MAX_TABLE_LINE = 120
+NO_UPDATED = {"all-pages.md", "all-patch-notes.md"}  # generated listings
 
 MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December"
 UK_WORDS = ("colour", "armour", "favour", "honour", "behaviour", "centre", "cancelled", "neighbour", "labour",
@@ -103,6 +104,11 @@ def lint_file(path):
         for rule, pattern, msg in LINE_RULES:
             if pattern.search(text):
                 add(n, rule, msg)
+
+    rel_docs = path.relative_to(DOCS).as_posix()
+    if (not rel_docs.startswith("patch-notes/") and rel_docs not in NO_UPDATED
+            and not any(re.match(r"updated:\s*\S", l) for l in lines[:body_start])):
+        add(1, "updated-missing", "add `updated: YYYY-MM-DD` to the front matter (scripts/stamp_updated.py does it)")
 
     if not h1_lines:
         add(1, "h1", "page has no # title")

@@ -1,3 +1,7 @@
+---
+updated: 2026-10-05
+---
+
 # Style Guide
 
 How to write and format a wiki page, so pages feel consistent no matter who wrote them. This page is not in the nav — it's for editors, not players.
@@ -167,7 +171,7 @@ Event pages get more flavor than any other page. They are temporary, themed and 
 
 ## Last updated
 
-A page can show "Last updated" under its title. It comes from an `updated:` date in the page's front matter, which is set by hand (or by the script below) and not taken from git, so it means "the information changed" and not "the file was touched".
+Every page except patch notes and the generated listings (`all-pages.md`, `all-patch-notes.md`) shows "Last updated" at the top right of its content, next to a "Report a problem" link to the Wiki Errors channel on Discord. The date comes from an `updated:` date in the page's front matter, which is set by hand (or by the script below) and not taken from git, so it means "the information changed" and not "the file was touched".
 
 ```markdown
 ---
@@ -179,7 +183,7 @@ updated: 2026-10-08
 
 - **Set it when what the page says changes:** a new or corrected number, a new section, a rewritten procedure. Don't set it for formatting, typo, link or rename changes.
 - **Format:** ISO, `YYYY-MM-DD`. The site shows it as "October 8, 2026".
-- **Skip it** on patch notes (they carry their own `date:`), generated pages and `docs/dev/` pages.
+- **Every page needs one.** A new page starts with it (the stamp script adds it). Patch notes and the generated listings don't get one; patch notes carry their own `date:`.
 - **The script does it for you:** after your edits, run `python3 scripts/stamp_updated.py` to stamp every page you changed on the branch with today's date, or name the pages (`python3 scripts/stamp_updated.py docs/pets.md`). Use `--dry-run` to preview and `--date YYYY-MM-DD` for another day. Then un-stamp any page whose change was only cosmetic (delete its `updated:` line, or `git checkout` it if the whole change was cosmetic).
 
 ## Raw HTML
@@ -199,7 +203,7 @@ python3 scripts/lint_style.py
 python3 scripts/lint_style.py docs/card-exchange.md
 ```
 
-The first command checks every page; the second checks only the files you name. The linter flags the rules that can be checked mechanically: title and heading structure, trailing whitespace, `Lv`, abbreviated or unformatted Zeny, spaced percentages, non-US date formats, common UK spellings, "click here" links, images with no alt text, `<br>` outside tables, long table lines, a malformed `updated:` date and duplicate nav emojis. It can't judge voice, Title Case or missing item IDs — those are for review.
+The first command checks every page; the second checks only the files you name. The linter flags the rules that can be checked mechanically: title and heading structure, trailing whitespace, `Lv`, abbreviated or unformatted Zeny, spaced percentages, non-US date formats, common UK spellings, "click here" links, images with no alt text, `<br>` outside tables, long table lines, a missing or malformed `updated:` date and duplicate nav emojis. It can't judge voice, Title Case or missing item IDs — those are for review.
 
 To silence a line that is deliberately different (an official in-game spelling, say), end it with `<!-- style-ignore -->`.
 

@@ -1,3 +1,7 @@
+---
+updated: 2026-09-26
+---
+
 # Dungeons & Instances
 
 Dungeons, party instances and the New World.

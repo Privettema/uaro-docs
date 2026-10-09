@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # uaRO Beginner's Info & Quick Start Guide
 
 A quick-start guide for new uaRO players covering the server's key features, a short class overview and a fast route to level 60+. It was originally written by Angebo. There have been edits by the Wiki maintainers.

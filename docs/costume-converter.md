@@ -1,3 +1,7 @@
+---
+updated: 2026-10-03
+---
+
 # Costume Converter
 ![Chameleon_NPC](img/NPC/chameleon.gif)
 

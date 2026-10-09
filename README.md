@@ -53,7 +53,7 @@ mkdocs build --strict
 - **Check your page:** `python3 scripts/lint_style.py docs/your-page-name.md` flags style-guide problems. Older pages
   still have findings, so you only need to clear the ones on lines you touched.
 - **Mark the page as updated:** if you changed what a page says, run `python3 scripts/stamp_updated.py` to set its
-  `updated:` date, shown as "Last updated" under the title. Skip it for typo, formatting or link-only changes.
+  `updated:` date, shown as "Last updated" at the top right of the page. Skip it for typo, formatting or link-only changes.
 - **Check links and images:** after changing links or images, run `python3 scripts/link_health.py` to find missing alt
   text, orphaned pages and unreferenced images. Add `--check external` to test outside links too (slower).
 - **Add a page:** create `docs/your-page-name.md` (lowercase, words joined with hyphens), start it with a single

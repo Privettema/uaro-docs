@@ -1,3 +1,7 @@
+---
+updated: 2026-09-26
+---
+
 # Events & Activities
 
 Guild wars, PvP, scheduled events and games.

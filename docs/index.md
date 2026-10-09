@@ -1,3 +1,7 @@
+---
+updated: 2026-09-30
+---
+
 # World of Your Dream Documentation
 
 Welcome to the official wiki for **uaRO: World of Your Dream**. Find guides for new and veteran players, how the
