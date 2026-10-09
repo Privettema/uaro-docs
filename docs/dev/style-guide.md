@@ -65,6 +65,7 @@ Use `??? note "Title"` (collapsible) for a block that's long and mostly referenc
 - A standalone image (screenshot, NPC portrait) gets its own line: `![Alt text](img/filename.webp)`. Write a real alt text, not `""` or the filename.
 - Give a standalone screenshot the `.wiki-screenshot` class: `![Alt text](img/filename.webp){ .wiki-screenshot }`. It adds the frame and the spacing above and below. Don't use blank lines or `<br>` to add space.
 - An inline icon (an item or skill next to its name in a sentence or table cell) stays inline: `![Item Name](img/1234.gif) Item Name`.
+- Images no page uses but that are kept on purpose are listed in [Image Reference](image-reference.md). Check it before deleting an unreferenced image, and add a row when you keep one.
 - For a layout markdown can't do alone (floating an image beside text), use `<img src="img/filename.webp" alt="Alt text" align="left" />` — this is the one place raw HTML is expected on a content page.
 
 ## Tables
@@ -77,7 +78,7 @@ Use `??? note "Title"` (collapsible) for a block that's long and mostly referenc
 
 Link to a page by its current filename (`pet-system.md`, not `Pet_System.md`) — see `all-pages.md` for the full list if you're not sure a page exists yet. Old filenames still redirect, but links should use the new one.
 
-New pages use lowercase, hyphen-separated filenames with no underscores or parentheses: `cart-and-falcon-coupons.md`. Don't rename an existing file as part of a routine content edit; renames also need a redirect entry in `mkdocs.yml`.
+New pages use lowercase, hyphen-separated filenames with no underscores or parentheses: `cart-and-falcon-coupons.md`. Don't rename an existing file as part of a routine content edit; renames also need a redirect entry in `mkdocs.yml`. After a rename, run `mkdocs build` and then `python3 scripts/check_redirects.py`, which confirms that every address the site used before still resolves. A rename that changes only letter case needs no entry: the 404 page sends the old address to the new page.
 
 - From a page in a subfolder (a section hub), go up first: `../pet-system.md`.
 - Link text says where the link goes: "Read the full Halloween Event guide", not "click here" or a bare URL.
@@ -150,6 +151,7 @@ Event pages get more flavor than any other page. They are temporary, themed and 
 
 - Zeny: always the full amount, with thousands separators and a `z` suffix — `5,000z`, `200,000,000z`. Never `5k`, `7k zeny` or `1m Zeny`. Spell out "Zeny" only when the word stands alone ("costs a lot of Zeny").
 - Percentages have no space: `7%`. Durations spell the unit out: `30 seconds`, `5 minutes` — abbreviate to `sec`/`min` only where a table column is tight.
+- Quantities, percentages, durations and other plain numbers are normal text, not code: 12 members, 20%, 60 seconds. Backticks are for commands, map addresses and IDs.
 - Say what a value applies to when it isn't obvious (per card, per day, per character).
 - If a value hasn't been verified in game, say so in a `note` instead of guessing.
 
