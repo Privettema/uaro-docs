@@ -171,7 +171,7 @@ Event pages get more flavor than any other page. They are temporary, themed and 
 
 ## Last updated
 
-Every page except patch notes, the generated listings (`all-pages.md`, `all-patch-notes.md`), the home page and the section hubs (every `index.md`) shows "Last updated" at the top right of its content, next to a "Report a problem" link to the Wiki Errors channel on Discord. The date comes from an `updated:` date in the page's front matter, which is set by hand (or by the script below) and not taken from git, so it means "the information changed" and not "the file was touched".
+Every page except patch notes, the generated listings (`all-pages.md`, `all-patch-notes.md`), the home page and the section hubs (every `index.md`) shows "Last updated" in a small line under its title, next to a "Spotted a mistake?" link to the Wiki Errors channel on Discord. The date comes from an `updated:` date in the page's front matter, which is set by hand (or by the script below) and not taken from git, so it means "the information changed" and not "the file was touched".
 
 ```markdown
 ---

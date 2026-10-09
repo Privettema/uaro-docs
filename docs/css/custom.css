@@ -186,18 +186,22 @@ code.copyable:focus-visible {
     }
 }
 
-/* Top-right bar on every page: "Last updated" and "Report a problem" (hooks/page_meta.py) */
+/* Line under a page title: "Last updated" and the mistake-report link (hooks/page_meta.py) */
 .uaro-page-meta {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-end;
-  gap: 0.25rem 1rem;
-  margin: 0 0 -0.5rem;
+  gap: 0.25rem 0.5rem;
+  margin: -1rem 0 1.2rem;
   font-size: 0.65rem;
   color: var(--md-default-fg-color--light);
 }
 
-/* The report link reads as plain text until hovered, so it doesn't compete with the page */
+.uaro-page-meta span::after {
+  content: "\00b7";
+  margin-left: 0.5rem;
+}
+
+/* The link reads as plain text until hovered, so it doesn't compete with the page */
 .md-typeset .uaro-page-meta a {
   color: inherit;
   text-decoration: none;
@@ -207,10 +211,4 @@ code.copyable:focus-visible {
 .md-typeset .uaro-page-meta a:hover {
   color: var(--md-accent-fg-color);
   text-decoration: underline;
-}
-
-@media (max-width: 44.9375em) {
-  .uaro-page-meta {
-    margin-bottom: 0.4rem;
-  }
 }
