@@ -18,7 +18,7 @@ Tell us in the **Wiki Errors** channel on the uaRO Discord, or open an issue or 
 | `docs/dev/` | Editor pages, including the [style guide](docs/dev/style-guide.md) |
 | `hooks/` | Build-time Python hooks (A-Z page list, patch notes, 404 suggestions, descriptions, dates, lazy images) |
 | `overrides/` | Theme template overrides, such as the 404 page |
-| `scripts/` | Helper scripts: `serve.sh`, `lint_style.py` (style), `stamp_updated.py` (last-updated dates), `link_health.py` (links, images) |
+| `scripts/` | Helper scripts: `serve.sh`, `lint_style.py`, `stamp_updated.py`, `link_health.py` |
 
 ## Run the site locally
 
