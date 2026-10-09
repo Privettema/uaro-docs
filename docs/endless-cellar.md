@@ -1,14 +1,12 @@
 # Endless Cellar
 
-**Endless Cellar** is one of the most popular instances on uaRO, designed for coordinated, team-based gameplay.  
+**Endless Cellar** is one of the most popular instances on uaRO, designed for coordinated, team-based gameplay.
 It belongs to the category of *endless instances*, where parties progress through multiple dungeon floors filled with increasingly powerful monsters, mini-bosses, and formidable MVPs.
 
 This instance offers not only a challenging PvE experience, but also valuable rewards and a true test of teamwork, coordination, and endurance. The Cellar is always ready to challenge those seeking adventure in the world of **Your Dreams**.
 
 !!! info
     Read [Instance Guide](instance-guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
-
----
 
 ## Rules
 
@@ -18,18 +16,15 @@ This instance offers not only a challenging PvE experience, but also valuable re
 | **Base Level** | `85` |
 | **Time Limit** | `4` hours |
 | **Re-entry** | Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon. If all members exit, **the instance will be deleted** and the weekly run is consumed. |
-| **Monster Count** | Monsters remaining per floor will be announced starting with 5 remaining. | 
-
----
+| **Monster Count** | Monsters remaining per floor will be announced starting with 5 remaining. |
 
 ## How to Start the Instance
 
-![EC-Captain-Janssen](img/EC-Captain-Janssen.png)<br>
+![EC-Captain-Janssen](img/EC-Captain-Janssen.png)
 
-To get to the instance starting point, talk to **Captain Janssen** in Prontera  
-(`/navi prontera 217/187`). Speak with him multiple times to initiate the journey.
+To get to the instance starting point, talk to **Captain Janssen** in Prontera (`/navi prontera 217/187`). Speak with him multiple times to initiate the journey.
 
-!!! info 
+!!! info
     Once you unlock the Warp Helper on the island, you can use Warpra for no cost to get to Misty Island.
 
 A **Kafra NPC** on the island provides:
@@ -43,7 +38,8 @@ On Misty Island, locate the **Cellar Protection Stone** NPC and select **Enter E
 !!! note
     After the instance is initiated, the party has **60 seconds** for all members to type `!ready` in public chat. Failure to do so will return the entire party to their save point and the instance must be restarted.
 
-![EC-Cellar-Protection-Stone](img/EC-Cellar%20Prot-Stone.png)  
+![EC-Cellar-Protection-Stone](img/EC-Cellar%20Prot-Stone.png)
+
 ![EC-Cellar-Protection-Stone-2](img/EC-Cellar%20Prot-Stone1.png)
 
 ## Floors
@@ -51,11 +47,11 @@ On Misty Island, locate the **Cellar Protection Stone** NPC and select **Enter E
 
 | Floor 1 | Floor 2 | Floor 3 | Floor 4 |
 |:---------|:---------|:---------|:---------|
-| ![1007](img/1007.gif) Fabre - 20<br> ![1049](img/1049.gif) Picky - 10<br> ![1045](img/1050.gif) Picky - 10 | ![1010](img/1010.gif) Willow - 10<br> ![1013](img/1013.gif) Wolf - 10<br> ![1018](img/1018.gif) Creamy - 10 | ![1009](img/1009%20(1).gif) Condor - 10<br> ![1019](img/1019.gif) Peco Peco - 10<br> ![1055](img/1055.gif) Muka - 10<br> | ![1277](img/1277.gif) Greatest General - 25<br> ![1115](img/1115.gif) Eddga - 1 
+| ![1007](img/1007.gif) Fabre - 20<br> ![1049](img/1049.gif) Picky - 10<br> ![1045](img/1050.gif) Picky - 10 | ![1010](img/1010.gif) Willow - 10<br> ![1013](img/1013.gif) Wolf - 10<br> ![1018](img/1018.gif) Creamy - 10 | ![1009](img/1009%20(1).gif) Condor - 10<br> ![1019](img/1019.gif) Peco Peco - 10<br> ![1055](img/1055.gif) Muka - 10<br> | ![1277](img/1277.gif) Greatest General - 25<br> ![1115](img/1115.gif) Eddga - 1
 | **Floor 5** | **Floor 6** | **Floor 7** | **Floor 8** |
 | ![1014](img/1014.gif) Spore - 15<br> ![1077](img/1077.gif) Poison Spore - 15<br> | ![1073](img/1073.gif) Crab - 15<br> ![1074](img/1074.gif) Shellfish - 15<br> ![1266](img/1266.gif) Aster - 15 | ![1066](img/1066%20(1).gif) Vadon - 10<br> ![1067](img/1067.gif) Cornutus - 10<br> ![1141](img/1141.gif) Marina - 10<br> ![1161](img/1161.gif) Plankton - 10 | ![1515](img/1515.gif) Garm Baby - 10<br> ![1142](img/1142.gif) Marine Sphere - 20<br> ![1252](img/1252.gif) Garm - 1 |
 | **Floor 9** | **Floor 10** | **Floor 11** | **Floor 12** |
- ![1058](img/1058.gif) Metaller - 20<br> ![1138](img/1138.gif) Magnolia - 20 | ![1104](img/1104.gif) Coco - 15<br> ![1103](img/1103.gif) Caramel - 15<br> ![1128](img/1128.gif) Horn - 15 | ![1023](img/1023.gif) Orc Warrior - 25<br> ![1116](img/1116.gif) Eggyra - 25 | ![1274](img/1274.gif)Megalith - 10<br> ![1308](img/1308.gif)Panzer Goblin - 10<br> ![1392](img/1392.gif)Rotar Zairo - 10<br> ![1280](img/1280.gif)Steam Goblin - 10<br> ![1583](img/1583.gif)Tao Gunka - 1 |
+| ![1058](img/1058.gif) Metaller - 20<br> ![1138](img/1138.gif) Magnolia - 20 | ![1104](img/1104.gif) Coco - 15<br> ![1103](img/1103.gif) Caramel - 15<br> ![1128](img/1128.gif) Horn - 15 | ![1023](img/1023.gif) Orc Warrior - 25<br> ![1116](img/1116.gif) Eggyra - 25 | ![1274](img/1274.gif)Megalith - 10<br> ![1308](img/1308.gif)Panzer Goblin - 10<br> ![1392](img/1392.gif)Rotar Zairo - 10<br> ![1280](img/1280.gif)Steam Goblin - 10<br> ![1583](img/1583.gif)Tao Gunka - 1 |
 | **Floor 13** | **Floor 14** | **Floor 15** | **Floor 16** |
 | ![1056](img/1056.gif) Smokie - 15<br> ![1121](img/1121.gif) Giearth - 15<br> ![1145](img/1145.gif) Martin - 15<br> ![1254](img/1254.gif) Raggler - 15 | ![1024](img/1024.gif) Worm Tail - 25<br> ![1215](img/1215.gif) Stem Worm - 25 | ![1244](img/1244.gif) Christmas Jakk - 10<br> ![1245](img/1245.gif) Christmas Goblin - 10<br> ![1246](img/1246.gif) Christmas Cookie - 10<br> ![1265](img/1265.gif) Cookie - 10<br> ![1588](img/1588.gif) Christmas Orc - 10 | ![1247](img/1247.gif) Antonio - 25<br> ![1062](img/1062.gif)Santa Poring - 25<br> ![1251](img/1251.gif) Stormy Knight - 1 |
 | **Floor 17** | **Floor 18** | **Floor 19** | **Floor 20** |
@@ -110,13 +106,11 @@ On Misty Island, locate the **Cellar Protection Stone** NPC and select **Enter E
 !!! note
     (2) RANDOM Bio Labs 3 MVPs will be spawned with full drop-rate. The rest are reduced.
 
----
-
 ## Finish
 
-![EC-ArcPoriPori](img/EC-ArcPoriPori.png)<br>
+![EC-ArcPoriPori](img/EC-ArcPoriPori.png)
 
-After defeating Pori Pori, the NPC Arc Pori Pori will appear and provide a reward for completing the instance to each party member:<br>
+After defeating Pori Pori, the NPC Arc Pori Pori will appear and provide a reward for completing the instance to each party member:
 
 | Name | Amount |
 |------|--------|

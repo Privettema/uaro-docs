@@ -1,6 +1,6 @@
 # Horror Toy Factory
 
-Horror Toy Factory is an instance where players explore a sinister toy factory filled with aggressive monsters and ghosts. The main objective is to defeat the final boss, Celine Kimi, while overcoming traps and powerful enemies along the way.  
+Horror Toy Factory is an instance where players explore a sinister toy factory filled with aggressive monsters and ghosts. The main objective is to defeat the final boss, Celine Kimi, while overcoming traps and powerful enemies along the way.
 The instance offers unique rewards, including rare items and equipment, making it popular among players.
 
 **Content type:** [Renewal](whats-different.md#content-tags)
@@ -18,7 +18,8 @@ The instance offers unique rewards, including rare items and equipment, making i
 
 ## How to get there
 
-![HTF-NPC](img/HTF/HTF-NPC.jpg.png)<br>
+![HTF-NPC](img/HTF/HTF-NPC.jpg.png)
+
 To start this instance, you need to go to Lutie and find the NPC Catherine Jet Johnson (`/navi xmas 237/303`). Talk to her and agree to help her.
 
 !!! note " After the instance starts, the party will have one minute for each member to type the **!ready** command in general chat. Otherwise, the instance will need to be restarted."
@@ -42,27 +43,27 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 ??? note "Storyline, click to expand"
 
     Once, Factory No.1 was a place where toys and dolls were stored before being gifted to children. It was always bustling with activity, and workers strictly followed the rules. If someone wasn't wearing their uniform, the guards would immediately step in and reprimand them.
-    
+
     But now, everything had changed. The silence was suddenly broken by a loud announcement:
-    
+
     — Wake up, toy factory working time has come…
-    
+
     Something was wrong. Dolls and toys were now moving on their own, replacing the workers who once filled this place with life.
-   
+
     — Waste and other debris should be kept clear from work areas. This is to keep you safe at all times.
-    
+
     It looked as if the factory was still operating, only now, ghostly entities had taken over.
-   
+
     — Let's make presents for every child's dream today.
-    
+
     But this was no place for joy. Ahead lay the final section of the factory, where all production lines needed to be shut down.
-   
+
     — Please start product line No.1. Don't forget to wear a safety helmet! This means you, Bob!
-   
+
     What if the toys and gift boxes could be restored to their original state?
-    
+
     — We should… return them to how they were… Yes… — the voice trembled. — But do we need to fight them? I… I don’t know how exactly…
-    
+
     Another ominous announcement echoed through the eerie silence:
 
     — All employees must wear a proper uniform and identification. Please check with security if you do not have yours.
@@ -87,7 +88,7 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 
 3. Next, move to the northwest section of the room and interact with the Green Cookie NPC. You must be in the Red Cookie form to proceed. If you are not transformed, the NPC will temporarily vanish before reappearing and will not respond to you until you regain the Red Cookie form.
 
-4. After completing the dialogue, locate the new Myst Case NPC to transform into a Myst Case. You must be in this form to advance to the next area. 
+4. After completing the dialogue, locate the new Myst Case NPC to transform into a Myst Case. You must be in this form to advance to the next area.
 5. Finally, enter the portal to the right of the Green Cookie to progress to the next phase.
 
 | Monster | Quantity | In-game command |
@@ -99,14 +100,14 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 
 ??? note "Storyline, click to expand"
 
-    You made it here safely – that’s good. This place was once Factory No.2, filled with life and people. But now, everything has changed…  
-    
-    While I was coming here, I realized something. The children… There are many of them. Their souls look terrifying, yet there is so much sorrow in them. They are suffering, and perhaps the only way to help them is to grant them peace. If they attack you, please set them free. Luckily, they won’t harm me.  
-    
-    There’s one more thing. If you come across a worker toy still performing its duty, ask it about the doll maker. If it remembers him, maybe the master will finally find peace. That is our only hope…  
-    
+    You made it here safely – that’s good. This place was once Factory No.2, filled with life and people. But now, everything has changed…
+
+    While I was coming here, I realized something. The children… There are many of them. Their souls look terrifying, yet there is so much sorrow in them. They are suffering, and perhaps the only way to help them is to grant them peace. If they attack you, please set them free. Luckily, they won’t harm me.
+
+    There’s one more thing. If you come across a worker toy still performing its duty, ask it about the doll maker. If it remembers him, maybe the master will finally find peace. That is our only hope…
+
     If you manage to gather all the clues, continue searching in other areas. In the meantime, I will find the place where I last saw the doll maker.
-    
+
     Sorry that I can't be of more help. See you soon.
 
 1. After speaking with Catherine, interact with the Myst Case NPC again to transform into a Red Cookie. Just like in the first phase, you must remain transformed while exploring; otherwise, Cruisers will spawn in large numbers throughout the room. If you accidentally re-enter the portal you came from before completing this phase, you’ll need to return to the first room, transform into a Myst Case again, and then make your way back to the second room.
@@ -244,14 +245,14 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 
     — I don’t want to be abandoned... I don’t want to be left alone... — her voice faded into the encroaching darkness, slowly swallowing her figure.
 
-1. Listen to the conversation between Catherine and Celine Kimi. Once it finishes, both Celine Kimi and her phantom will appear. 
+1. Listen to the conversation between Catherine and Celine Kimi. Once it finishes, both Celine Kimi and her phantom will appear.
 
 !!! warning "Celine Kimi's Information"
-    She is a Large-sized, Ghost 1 property, and Undead Race creature. Celine Kimi has a large, spongy Max HP, high DEF, and high MDEF. To defeat her efficiently, it is recommended to use high ASPD AoE (Area of Effect) skills.  
+    She is a Large-sized, Ghost 1 property, and Undead Race creature. Celine Kimi has a large, spongy Max HP, high DEF, and high MDEF. To defeat her efficiently, it is recommended to use high ASPD AoE (Area of Effect) skills.
 
-    She also casts various skills, including Dispell, Power Up, and Critical Wounds.  
+    She also casts various skills, including Dispell, Power Up, and Critical Wounds.
 
-    If she is separated from her phantom, the phantom will heal her for a significant amount. Therefore, always ensure the phantom stays close to her, and deal damage to both of them at the same time. If Celine Kimi is moved too far from her spawn area, the fight will reset, so avoid dragging her too far away. It’s advisable to stay near the wall where she spawns to keep her in place.  
+    If she is separated from her phantom, the phantom will heal her for a significant amount. Therefore, always ensure the phantom stays close to her, and deal damage to both of them at the same time. If Celine Kimi is moved too far from her spawn area, the fight will reset, so avoid dragging her too far away. It’s advisable to stay near the wall where she spawns to keep her in place.
 
     **Furthermore, if her HP is 1.5% (or approximately 100,000 HP lower) than her phantom’s, the phantom will heal Celine Kimi for 8x the difference in HP.**
 
