@@ -1,6 +1,6 @@
 """Add a small bar at the top right of a page's content: "Last updated" and "Report a problem".
 
-The home page and the section hubs (every `index.md`) don't get one.
+The home page, the section hubs (every `index.md`) and the generated listings don't get one.
 
 "Last updated" comes from an `updated:` date in the page's front matter:
 
@@ -17,11 +17,12 @@ import logging
 
 log = logging.getLogger("mkdocs.hooks.page_meta")
 
+NO_BAR = ("all-pages.md", "all-patch-notes.md")  # generated listings
 REPORT_URL = "https://discord.com/channels/702960460168953946/1456450631584846011"
 
 
 def on_page_content(html, page, config, files):
-    if page.file.src_uri.endswith("index.md"):
+    if page.file.src_uri.endswith(("index.md", *NO_BAR)):
         return html
     parts = []
     value = page.meta.get("updated")
