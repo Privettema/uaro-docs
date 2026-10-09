@@ -44,8 +44,10 @@ Poring Coins can be exchanged for you by Lydia, she is in the main office of Pro
 
 ### **Consumable items**
 
+<div class="uaro-nowrap-first-col" markdown>
+
 | Item Name                                | Description                                                                                                                                                                                                                                          | Cost |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----:|
 | ![Field Manual 100%](img/12263_1.png) **Field Manual 100%**      | A manual that explains the effective way of the battle. It is a very detailed and well composed manual. Exp rate is increased to 100% for 30 minutes.                                       | 40   |
 | ![Bubble Gum](img/12210.png)  **Bubble Gum**             | Sweet, tasty bubble gum. Item drop rate +100% for 30 minutes.                                                                                                                             | 1000  |
 | ![LV10 Blessing Scroll](img/12215.gif) **LV10 Blessing Scroll**      | A scroll in which a single use of Level 10 Blessing has been recorded. Caution-- This item won't work while your character is casting a spell or skill.                                    | 2    |
@@ -73,3 +75,5 @@ Poring Coins can be exchanged for you by Lydia, she is in the main office of Pro
 | ![Tyr's Blessing](img/14601.gif)  **Tyr's Blessing**            | Increases ATK & 20 MATK for 5 minutes. HIT + 30, Flee Rate + 30                                                                                                                               | 25   |
 | ![14287](img/14287.gif) **Barricade Repair Kit** | A box contains the necessary items to repaired demolished Fortress Gates. It contains 30 Trunks, 10 Steel, 10 Envertacon, 5 Oridecon. | 75 |
 | ![6220](img/6220.png) **Mysterious Dyestuff** | Various colors are mixed into this mysterious dye mixture. Can be used to dye a Beanie, Drooping Cat, Mage Hat, or Deviruchi Hat to a different color. | 500 |
+
+</div>

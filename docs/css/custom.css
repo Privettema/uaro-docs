@@ -213,3 +213,10 @@ code.copyable:focus-visible {
   color: var(--md-accent-fg-color);
   text-decoration-color: currentcolor;
 }
+
+/* Tables whose first column is a name that shouldn't wrap (wrap the table in
+   <div class="uaro-nowrap-first-col" markdown>) */
+.uaro-nowrap-first-col td:first-child,
+.uaro-nowrap-first-col th:first-child {
+  white-space: nowrap;
+}
