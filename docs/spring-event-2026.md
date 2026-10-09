@@ -23,8 +23,8 @@ your **Elegant Flowers** at the Wandering Merchant for rare items and pets.
 
 | Currency | Used For |
 |----------|----------|
-| <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** | Wandering Merchant shop |
-| <img src="../img/103430.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Butter Cookie** | Consumable - restores HP and SP |
+| <img src="../img/6510.png" alt=""> **Elegant Flower** | Wandering Merchant shop |
+| <img src="../img/103430.gif" alt=""> **Butter Cookie** | Consumable - restores HP and SP |
 
 Both drop passively from any monster during the event (capped at `50` per day each).
 
@@ -61,13 +61,13 @@ day - that sends you across Rune-Midgarts to restore her late husband's cookbook
 
 | Day | NPC Location | Key Rewards |
 |-----|-------------|-------------|
-| 1 | Prontera | <img src="../img/103430.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Butter Cookie**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
-| 2 | Geffen | <img src="../img/12208.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Battle Manual**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
-| 3 | Payon | <img src="../img/12215.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Blessing Scroll**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
-| 4 | Prontera | <img src="../img/12215.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **AGI Scroll**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
-| 5 | Morroc | <img src="../img/7621.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Token of Siegfried**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
-| 6 | Aldebaran | <img src="../img/7869.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Ingredient Pouch**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
-| 7 | Prontera (Finale) | <img src="../img/12210.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bubble Gum**, <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** |
+| 1 | Prontera | <img src="../img/103430.gif" alt=""> **Butter Cookie**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
+| 2 | Geffen | <img src="../img/12208.gif" alt=""> **Battle Manual**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
+| 3 | Payon | <img src="../img/12215.gif" alt=""> **Blessing Scroll**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
+| 4 | Prontera | <img src="../img/12215.gif" alt=""> **AGI Scroll**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
+| 5 | Morroc | <img src="../img/7621.gif" alt=""> **Token of Siegfried**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
+| 6 | Aldebaran | <img src="../img/7869.gif" alt=""> **Ingredient Pouch**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
+| 7 | Prontera (Finale) | <img src="../img/12210.png" alt=""> **Bubble Gum**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
 
 !!! tip "Gathering Materials"
     Each day requires gathering materials from monsters - the NPCs will tell you what
@@ -92,7 +92,7 @@ cooking minigame.
 Gather ingredients, deliver them to chefs, and score points. Daily rankings are tallied
 at midnight - rewards sent via mail.
 
-| Rank | <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flower** | <img src="../img/103430.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Butter Cookie** | <img src="../img/12211.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Kafra Card** |
+| Rank | <img src="../img/6510.png" alt=""> **Elegant Flower** | <img src="../img/103430.gif" alt=""> **Butter Cookie** | <img src="../img/12211.gif" alt=""> **Kafra Card** |
 |------|---------------|---------------|------------|
 | **Top 50 pairs** | `30` | `50` | `3` |
 | **All other pairs** | `15` | `30` | `1` |
@@ -139,20 +139,20 @@ A traveling merchant appears in **one random town** for `2-3` hours, then vanish
 | Aldebaran | `/navi aldebaran 146/113` |
 | Comodo | `/navi comodo 226/150` |
 
-| Item | Price (<img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flowers**) |
+| Item | Price (<img src="../img/6510.png" alt=""> **Elegant Flowers**) |
 |------|------------------------|
-| <img src="../img/12016.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Speed Up Potion** | `12` |
-| <img src="../img/12209_1.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Insurance** | `20` |
-| <img src="../img/603.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Blue Box** | `25` |
-| <img src="../img/12214_1.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Convex Mirror** | `200` |
-| <img src="../img/7621.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Token of Siegfried** | `50` |
-| <img src="../img/617.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Violet Box** | `50` |
-| <img src="../img/12208.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Battle Manual** | `50` |
-| <img src="../img/616.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Old Card Album** | `150` |
-| <img src="../img/12210.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bubble Gum** | `300` |
-| <img src="../img/12103.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Bloody Dead Branch** | `250` |
-| <img src="../img/9092.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Eggring Egg** | `300` |
-| <img src="../img/9170.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Angelgolt Egg** | `400` |
+| <img src="../img/12016.png" alt=""> **Speed Up Potion** | `12` |
+| <img src="../img/12209_1.png" alt=""> **Insurance** | `20` |
+| <img src="../img/603.gif" alt=""> **Old Blue Box** | `25` |
+| <img src="../img/12214_1.png" alt=""> **Convex Mirror** | `200` |
+| <img src="../img/7621.gif" alt=""> **Token of Siegfried** | `50` |
+| <img src="../img/617.png" alt=""> **Old Violet Box** | `50` |
+| <img src="../img/12208.gif" alt=""> **Battle Manual** | `50` |
+| <img src="../img/616.gif" alt=""> **Old Card Album** | `150` |
+| <img src="../img/12210.png" alt=""> **Bubble Gum** | `300` |
+| <img src="../img/12103.gif" alt=""> **Bloody Dead Branch** | `250` |
+| <img src="../img/9092.png" alt=""> **Eggring Egg** | `300` |
+| <img src="../img/9170.png" alt=""> **Angelgolt Egg** | `400` |
 
 ---
 
@@ -168,23 +168,23 @@ Payon, Einbroch, and Yuno regions. Both are Level `1` with `50` HP.
 
     | Item |
     |------|
-    | <img src="../img/909.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Jellopy** |
-    | <img src="../img/25290.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Sweets Coin** |
-    | <img src="../img/7539.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Poring Coin** |
-    | <img src="../img/6249.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Savage Meat** |
-    | <img src="../img/7324.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Octopus Leg** |
+    | <img src="../img/909.gif" alt=""> **Jellopy** |
+    | <img src="../img/25290.gif" alt=""> **Sweets Coin** |
+    | <img src="../img/7539.gif" alt=""> **Poring Coin** |
+    | <img src="../img/6249.png" alt=""> **Savage Meat** |
+    | <img src="../img/7324.gif" alt=""> **Octopus Leg** |
     | **Mountain Mint** |
-    | <img src="../img/4659.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Eggring Card** |
+    | <img src="../img/4659.png" alt=""> **Eggring Card** |
 
 ??? info "Creamring Drops"
 
     | Item |
     |------|
-    | <img src="../img/909.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Jellopy** |
-    | <img src="../img/512.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Apple** |
-    | <img src="../img/7539.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Poring Coin** |
-    | <img src="../img/6261.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Fine Noodle** |
-    | <img src="../img/6263.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Coconut Fruit** |
-    | <img src="../img/6501.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Salt Bag** |
+    | <img src="../img/909.gif" alt=""> **Jellopy** |
+    | <img src="../img/512.png" alt=""> **Apple** |
+    | <img src="../img/7539.gif" alt=""> **Poring Coin** |
+    | <img src="../img/6261.png" alt=""> **Fine Noodle** |
+    | <img src="../img/6263.png" alt=""> **Coconut Fruit** |
+    | <img src="../img/6501.png" alt=""> **Salt Bag** |
 
 ---
