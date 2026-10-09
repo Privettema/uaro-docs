@@ -10,20 +10,24 @@ updated: 2026-10-08
 
 !!! info "Quick Facts"
     - **Location:** Bastion NPC in Veins, the Canyon Village (`/navi veins 218/136`)
-    - **Party Size:** `12` person minimum
-    - **Base Level:** `85`
-    - **Duration:** `4 hours` max, the instance fails if the timer runs out
+    - **Party Size:** 12 person minimum
+    - **Base Level:** 85
+    - **Duration:** 4 hours max, the instance fails if the timer runs out
 
 ## Rules
+
+<div class="uaro-nowrap-first-col" markdown>
 
 | Rule | Detail |
 |------|--------|
 | **Mob Loot** | No loot drops from wave mobs |
-| **Death** | Permadeath: you are warped out with no resurrection inside (see [Extra Lives](#extra-lives)) |
+| **Death** | Permadeath: you are warped out with no resurrection inside (see [Permadeath & Extra Lives](#permadeath-extra-lives)) |
 | **Storage** | Accessible waves 1–79, NPC destroyed at wave 80+ |
 | **Party Lock** | If party composition changes at any point, the instance resets and is destroyed |
 | **Re-entry** | Once you leave or die out, you cannot return to the instance — disconnects are the exception: if the run is still active and a party member is still inside, you are returned to your party when you log back in |
 | **Run Unlock** | No end-of-dungeon NPC requirement: your next run unlocks automatically on completing floor 100 |
+
+</div>
 
 ## Wave Progression
 
@@ -40,25 +44,32 @@ The wave 100 boss is picked each week from this pool: Satan Morocc, Scholar Celi
 
 ### Wave Mechanics
 
+<div class="uaro-nowrap-first-col" markdown>
+
 | Mechanic | Description |
 |----------|-------------|
-| **Wave Timer** | `120 seconds` per wave, `300 seconds` for Wave 100 |
+| **Wave Timer** | 120 seconds per wave, 300 seconds for Wave 100 |
 | **Skip Vote** | `!skip` command (majority vote >50%) to advance — stacks current and next wave mobs for faster clearing. Disabled at milestone waves |
-| **Ready Check** | All 12 members must type `!ready` within `60 seconds` or the instance closes |
+| **Ready Check** | All 12 members must type `!ready` within 60 seconds or the instance closes |
+
+</div>
 
 ### Environmental Hazards
 
-- **Wave 61+:** random status effects every `60 seconds` (`50%` chance): Curse, Silence, Confusion, Blind, or Bleeding (`10 seconds`, unavoidable).
-- **Wave 81+:** Meteor Storm eruptions every `60 seconds` (`25%` chance): volcanic strikes around each player, `3-5` bursts with `2-second` intervals.
+- **Wave 61+:** random status effects every 60 seconds (50% chance): Curse, Silence, Confusion, Blind, or Bleeding (10 seconds, unavoidable).
+- **Wave 81+:** Meteor Storm eruptions every 60 seconds (25% chance): volcanic strikes around each player, 3-5 bursts with 2-second intervals.
 
-## Extra Lives
+## Permadeath & Extra Lives
+
+!!! danger "Permadeath"
+    If you die, you are warped out of the instance. There is **no resurrection** inside the instance. Once you're out, you're out. Come prepared or don't come at all.
 
 Milestone rewards also grant extra lives to each party member:
 
-- **Wave 75:** each member gains `1` extra life
-- **Wave 90:** each member gains `1` additional extra life (max `2`)
+- **Wave 75:** each member gains 1 extra life
+- **Wave 90:** each member gains 1 additional extra life (max 2)
 
-When you die with an extra life, you revive at full HP after a `3-second` cooldown. When you die with no extra lives remaining, you are permanently removed from the instance.
+When you die with an extra life, you revive at full HP after a 3-second cooldown. When you die with no extra lives remaining, you are permanently removed from the instance.
 
 ## Milestone Rewards
 
@@ -78,8 +89,6 @@ Each milestone gives a reward box with the contents below.
 | | | ![Sillit Pong Bottle](img/6443.gif) **Sillit Pong Bottle** (`6443`) | 1 |
 | | | **Zeny** | 2,000,000 |
 
-Since the April 2, 2026 hotfix, shadow costume equipment with stat bonuses has been replaced with Enchant Stones. Enchant Stones are tradeable and can be removed from gear for a Zeny fee.
-
 ## Bastion Coin Shop
 
 Exchange ![Bastion Coin](img/406105.png) **Bastion Coins** (`406105`) at **Vulcarion** in **Veins** (`/navi veins 223/133`).
@@ -92,12 +101,12 @@ Exchange ![Bastion Coin](img/406105.png) **Bastion Coins** (`406105`) at **Vulca
 | ![Bastion Magic Weapon](img/406103.gif) **Bastion Magic Weapon** (`406103`) | 10 |
 | ![Bastion Physical Weapon](img/406104.gif) **Bastion Physical Weapon** (`406104`) | 10 |
 
-**Vulcarion** also offers enchants at `10` **Bastion Coins** each. The newest additions:
+**Vulcarion** also offers enchants at 10 **Bastion Coins** each. The newest additions:
 
 | Enchant | Effect |
 |---------|--------|
-| **SP Consumption** | Reduces SP consumption by `20%` |
-| **Healing Effectiveness** | Raises the amount your own healing skills restore by `10%` |
+| **SP Consumption** | Reduces SP consumption by 20% |
+| **Healing Effectiveness** | Raises the amount your own healing skills restore by 10% |
 
 Enchants can be removed again by the **Master Craftsman** in Prontera. All enchants are switched off inside WoE and GvG castles.
 
