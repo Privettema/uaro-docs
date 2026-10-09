@@ -306,10 +306,6 @@ No other changes to Hunter skills.
 
 </div>
 
-
-
----
-
 ## Extended Classes
 Many previously unequippable items are now accessible to Extended Classes: [see the full list](item-changes.md#extended-classes).
 
