@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Set `updated:` in the front matter of the pages whose content you changed.
 
-The wiki shows "Last updated" at the bottom of a page from this field (see hooks/last_updated.py). Run it once
+The wiki shows "Last updated" under a page's title from this field (see hooks/last_updated.py). Run it once
 before you open a pull request, after your edits are done. Skip it for changes that don't alter what a page says
 (formatting, link or typo cleanup, renames).
 

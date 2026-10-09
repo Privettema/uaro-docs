@@ -167,7 +167,7 @@ Event pages get more flavor than any other page. They are temporary, themed and 
 
 ## Last updated
 
-A page can show "Last updated" at the bottom. It comes from an `updated:` date in the page's front matter, which is set by hand (or by the script below) and not taken from git, so it means "the information changed" and not "the file was touched".
+A page can show "Last updated" under its title. It comes from an `updated:` date in the page's front matter, which is set by hand (or by the script below) and not taken from git, so it means "the information changed" and not "the file was touched".
 
 ```markdown
 ---
