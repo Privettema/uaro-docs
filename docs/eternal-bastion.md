@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-03
+updated: 2026-10-08
 ---
 
 # Eternal Bastion
@@ -28,6 +28,7 @@ Talk to the Bastion NPC in **Veins, the Canyon Village** (`/navi veins 218/136`)
 | Rule | Detail |
 |------|--------|
 | **Party Size** | `12` person minimum |
+| **Base Level** | `85` |
 | **Duration** | `4 hours` max — instance fails if the timer runs out |
 | **Mob Loot** | No loot drops from wave mobs |
 | **Death** | Permadeath — warped out of the instance, no resurrection inside |
