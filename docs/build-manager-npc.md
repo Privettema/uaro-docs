@@ -1,3 +1,7 @@
+---
+updated: 2026-03-29
+---
+
 
 !!! success "New Build Manager NPC"
     Save and load pre-determined stat/skill builds! Conveniently located next to the reset NPC

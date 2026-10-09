@@ -1,3 +1,7 @@
+---
+updated: 2026-10-04
+---
+
 # Warper System
 
 Distant dungeons don't have to mean long walks. The **Warpra** is a quest warper that knows the way, and it remembers the places you have already earned.

@@ -1,3 +1,7 @@
+---
+updated: 2025-09-17
+---
+
 # Remastered Novice Location
 
 Training Ground in World of Your Dream is a special area designated for players who have just created a new character, also known as Novice.

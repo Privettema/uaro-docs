@@ -58,6 +58,8 @@ Run:
 
 mkdocs build
 
+Then run `python3 scripts/stamp_updated.py` so every page whose content you changed gets today's `updated:` date (not for formatting, typo, link or rename-only changes; see "Last updated" in `docs/dev/style-guide.md`).
+
 Report:
 
 * Files modified

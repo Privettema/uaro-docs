@@ -1,3 +1,7 @@
+---
+updated: 2026-09-27
+---
+
 # Repeatable EXP Quests
 Repeatable EXP quests are a reliable way to level up while also collecting useful loot. They come in two forms: **item gathering**, where you turn in monster drops, and **monster hunting**, where you defeat a set number of enemies. Both give Base and Job EXP and can be repeated as often as you like, making them a steady option when regular grinding slows down.  
 

@@ -1,3 +1,7 @@
+---
+updated: 2026-10-02
+---
+
 # Hourly Rewards System
 
 Earn Coins just for staying logged in, redeemable for symbolic prizes and Main Office costumes.

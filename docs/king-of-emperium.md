@@ -1,3 +1,7 @@
+---
+updated: 2026-09-22
+---
+
 # King of Emperium (KoE)
 
 **King of Emperium (KoE)** is a guild-based PvP event where guilds compete for control of the Emperium and the title of King of Emperium.

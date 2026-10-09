@@ -1,3 +1,7 @@
+---
+updated: 2026-09-19
+---
+
 # Instance Guide
 
 ## Instance Start & Readiness Rules

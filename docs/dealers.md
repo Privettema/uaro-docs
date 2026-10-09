@@ -1,3 +1,7 @@
+---
+updated: 2026-09-27
+---
+
 # Convenient NPC Dealers
 Need supplies? Our Convenient NPC Dealers carry the essentials without changing prices — everything costs the same as at standard shops, but gathered in one spot for easier access. Note, standard Tool Dealers found across the game are unchanged.
 

@@ -1,3 +1,7 @@
+---
+updated: 2026-10-03
+---
+
 # 🏇 Hugel Mini Game
 ![Monster Race Logo](img/Hugel-Mini-Games/Monster-Race-Treck.png)
 

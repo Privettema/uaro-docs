@@ -224,6 +224,14 @@
     color: #fff;
 }
 
+/* "Back to top" has the same hover/focus problem: Material fills it with --md-accent-fg-color (pale purple in dark
+   mode) under --md-accent-bg-color (white), so the label was unreadable. Use the checked fill/label pairing. */
+.md-top:focus,
+.md-top:hover {
+    background-color: var(--uaro-purple-on-bg);
+    color: var(--uaro-purple-on-bg-contrast);
+}
+
 /* Buttons placed side by side (e.g. the home page patch and server sections) get breathing room */
 .md-typeset .md-button + .md-button {
     margin-left: 0.75rem; /* 12px */

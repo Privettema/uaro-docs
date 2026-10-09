@@ -1,3 +1,7 @@
+---
+updated: 2026-10-03
+---
+
 # Horror Toy Factory
 
 Horror Toy Factory is an instance where players explore a sinister toy factory filled with aggressive monsters and ghosts. The main objective is to defeat the final boss, Celine Kimi, while overcoming traps and powerful enemies along the way.  

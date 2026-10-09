@@ -42,6 +42,9 @@ def strip_inline(line):
     return re.sub(r"`[^`]*`", "", line)
 
 
+NO_UPDATED = {"all-pages.md", "all-patch-notes.md"}  # generated listings
+
+
 def lint_file(path):
     findings = []
     rel = path.relative_to(ROOT)
@@ -61,6 +64,9 @@ def lint_file(path):
     for i, raw in enumerate(lines):
         n = i + 1
         if i < body_start:
+            m = re.match(r"updated:\s*(.*?)\s*$", raw)
+            if m and not re.fullmatch(r"\d{4}-\d{2}-\d{2}", m.group(1)):
+                add(n, "updated-format", "`updated:` must be an ISO date like 2026-10-08")
             continue
         if IGNORE in raw:
             continue
@@ -101,13 +107,20 @@ def lint_file(path):
             if pattern.search(text):
                 add(n, rule, msg)
 
+    rel_docs = path.relative_to(DOCS).as_posix()
+    if (not rel_docs.startswith("patch-notes/") and rel_docs not in NO_UPDATED
+            and not rel_docs.endswith("index.md")
+            and not any(re.match(r"updated:\s*\S", l) for l in lines[:body_start])):
+        add(1, "updated-missing", "add `updated: YYYY-MM-DD` to the front matter (scripts/stamp_updated.py does it)")
+
     if not h1_lines:
         add(1, "h1", "page has no # title")
     else:
         if len(h1_lines) > 1:
             add(h1_lines[1], "h1", "page has more than one # title")
         first = h1_lines[0]
-        if first != body_start + 1:
+        # A blank line between the front matter and the title is fine; only text above the title is not.
+        if any(l.strip() for l in lines[body_start:first - 1]):
             add(first, "h1", "the # title should be the first line of the page")
         if first < len(lines) and lines[first].strip() != "":
             add(first, "h1-blank", "leave one blank line after the # title")

@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Class Changes Writing Guide
 
 Conventions for [Class Changes](../class-changes.md), so every section reads the same.
