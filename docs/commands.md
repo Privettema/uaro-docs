@@ -1,102 +1,136 @@
 # Commands
 
+Every in-game command on uaRO, grouped by what it does. Type `@commands` in game to list the commands available to you, and `@help <command>` for details on one.
+
 ## System Commands
 
-- `@rates`  
-  Displays the server rates.  
-  **Output in-game Example:**  
-  ![Rates Output](img/@rates-output.png)
+- `@rates`
 
-- `@time`  
-  Displays the local server time, along with day/night information.  
-  **Output in-game Example:**  
-  ![Time Output](img/@time-output.png)
+    Displays the server rates.
 
-- `@uptime`  
-  Show server uptime since last map server restart.  
-  **Output in-game Example:**  
-  ![Uptime Output](img/@uptime-output.png)
+    **Output in-game Example:**
 
-- `@refresh`  
-  Synchronizes the player's position on the client with the one stored on the server.
+    ![Rates Output](img/@rates-output.png)
 
-- `!vsync`  
-  Enable limit of FPS equal 60 frames per second or disable it.
+- `@time`
 
-- `!ping`  
-  Shows statistic of connection.  
-  **Output in-game Example:**  
-  ![Ping Output](img/!ping.png)
+    Displays the local server time, along with day/night information.
 
-- `@showdelay`  
-  Shows or hides the red "Cannot use the skills" message.  
-  **Output Example:**  
-  `[Storm Gust] Cannot use the skills.`
+    **Output in-game Example:**
 
-- `@noask`  
-  Toggles automatic rejection of deals and invites.
+    ![Time Output](img/@time-output.png)
 
-- `@camerainfo`  
-  Displays/hides camera information from the client.  
-  `@camerainfo {<range> <rotation> <latitude>}`  
-  If arguments are given, sets camera position.  
-  **Output in-game Example:**  
-  ![Camerainfo Output](img/@camerainfo.png)
+- `@uptime`
 
----
+    Show server uptime since last map server restart.
+
+    **Output in-game Example:**
+
+    ![Uptime Output](img/@uptime-output.png)
+
+- `@refresh`
+
+    Synchronizes the player's position on the client with the one stored on the server.
+
+- `!vsync`
+
+    Enable limit of FPS equal 60 frames per second or disable it.
+
+- `!ping`
+
+    Shows statistic of connection.
+
+    **Output in-game Example:**
+
+    ![Ping Output](img/!ping.png)
+
+- `@showdelay`
+
+    Shows or hides the red "Cannot use the skills" message.
+
+    **Output Example:**
+
+    `[Storm Gust] Cannot use the skills.`
+
+- `@noask`
+
+    Toggles automatic rejection of deals and invites.
+
+- `@camerainfo`
+
+    Displays/hides camera information from the client.
+
+    `@camerainfo {<range> <rotation> <latitude>}`
+
+    If arguments are given, sets camera position.
+
+    **Output in-game Example:**
+
+    ![Camerainfo Output](img/@camerainfo.png)
 
 ## General Commands
 
-- `@commands`  
-  Displays a list of available commands to the player.
+- `@commands`
 
-- `@help <command>`  
-  Displays the help message for the specified command.
+    Displays a list of available commands to the player.
 
-- `@instanceinfo`  
-  Shows your weekly run count for every instance, tracked both per account and per hardware ID.
+- `@help <command>`
 
-- `@exp`  
-  Displays current levels and % progress.
+    Displays the help message for the specified command.
 
-- `@showexp`  
-  Toggles the display of experience gain messages.  
-  **Output in-game Example:**  
-  ![ShowExp Output](img/@showexp-output.png)
+- `@instanceinfo`
 
-- `@exptrack`  
-  Tracks EXP gained per session. Start, pause and reset via `@exptrack`, quick summary with `@exptrack view`. Progress persists through relogs.
+    Shows your weekly run count for every instance, tracked both per account and per hardware ID.
+
+- `@exp`
+
+    Displays current levels and % progress.
+
+- `@showexp`
+
+    Toggles the display of experience gain messages.
+
+    **Output in-game Example:**
+
+    ![ShowExp Output](img/@showexp-output.png)
+
+- `@exptrack`
+
+    Tracks EXP gained per session. Start, pause and reset via `@exptrack`, quick summary with `@exptrack view`. Progress persists through relogs.
 
 - `@mapexp`
   The @mapexp command introduces a rotating bonus EXP zone that updates every 48 to 72 hours. During this period, selected areas grant an additional 20–30% EXP.
 
-- `@event`  
-  Join open registrations, see which event is currently running, and check the schedule of all `4` [automated events](auto-events.md). Replaces `@bombring` and `@dice`.
+- `@event`
 
-- `@memo {<1-4>}`  
-  Saves a warp point for the "Warp Portal" skill.
+    Join open registrations, see which event is currently running, and check the schedule of all `4` [automated events](auto-events.md). Replaces `@bombring` and `@dice`.
+
+- `@memo {<1-4>}`
+
+    Saves a warp point for the "Warp Portal" skill.
 
 - `@hideloot`
     Blocks display of trash loot on the ground. Disabled by default on every login.
 
-- `@rodexlog`  
-  Displays your Rodex (mail) log, `10` entries per page. `10 second` cooldown between uses.
+- `@rodexlog`
 
-- `@jailtime`  
-  Displays remaining jail time.
+    Displays your Rodex (mail) log, `10` entries per page. `10 second` cooldown between uses.
 
-- `@request <message>`  
-  Sends a message to all connected GMs.
+- `@jailtime`
 
---- 
+    Displays remaining jail time.
+
+- `@request <message>`
+
+    Sends a message to all connected GMs.
 
 ## @settings - Personal Configuration
 
-Personalize your game settings applied on login. Offering a streamlined UI for saving preferences like **announcements, chat channels, and visibility settings**.  
+Personalize your game settings applied on login. Offering a streamlined UI for saving preferences like **announcements, chat channels, and visibility settings**.
 
 `@settings` syncs with in-game commands, so you **don't need to use the menu** separately.
 
-**Output in-game Example:**  
+**Output in-game Example:**
 ![Settings Output](img/@settings.png)
 
 The options in this menu are currently:
@@ -116,17 +150,19 @@ The options in this menu are currently:
 13. **Headgears & Costumes (WoE)** - Toggle costume visibility on/off for WoE only
 
 ### Hide Pets
-Finding pets distracting? Access these options through the menu, or via commands. 
+Finding pets distracting? Access these options through the menu, or via commands.
 
 Pets that are not visible will not vocalize. Visible pets are not muted unless you also choose the mute pets option.
 
-- `@hidepet <1-3>`  
-  Use `@hidepet 1` to hide pets except your own.  
-  Use `@hidepet 2` to hide your pet and show other pets. 
-  Use `@hidepet 3` to hide all pets.
+- `@hidepet <1-3>`
+
+    Use `@hidepet 1` to hide pets except your own.
+
+    Use `@hidepet 2` to hide your pet and show other pets.
+    Use `@hidepet 3` to hide all pets.
 
 ### Mute Pets
-The Mute Pets option hides all pet talk and emotes for you only — pets still function normally and other players are unaffected. 
+The Mute Pets option hides all pet talk and emotes for you only — pets still function normally and other players are unaffected.
 
 ### Show Rare Drops
 The Show Rare Drops option will announce your rare drops to yourself. It is accessed via menu or commands. The minimum value is 1%.
@@ -172,10 +208,10 @@ You will need the item ID for the ignore list and loot list. Find this info by u
 Main Autoloot determines what percentage for general autoloot and the ignore list.
 
 1. Type `@lootconfig` to open the configuration UI
-2. Choose **Main Autoloot** 
+2. Choose **Main Autoloot**
 3. Enable or disable autoloot and set a drop rate
 4. Add or remove items from ignore list
-5. Close the UI, all changes **apply instantly** and **save automatically**  
+5. Close the UI, all changes **apply instantly** and **save automatically**
 
 #### Configure Groups
 
@@ -186,15 +222,13 @@ Autoloot groups select only specific items to be looted. If the main autoloot is
 3. Manage the group by renaming or deleting
 4. Enable or disable the group
 5. Add or remove items from the loot list
-6. Close the UI, all changes **apply instantly** and **save automatically**  
-
----
+6. Close the UI, all changes **apply instantly** and **save automatically**
 
 ## @restock / @qstore - Fast Storage
 
 These commands can speed up your interaction with storage for consumable and miscellaneous items.
 
-- `@restock` 
+- `@restock`
   Pulls preconfigured items **from** storage up to preset quantities.
 - `@restockconfig`
   Configures restock command for items and quantities to pull from storage.
@@ -204,16 +238,16 @@ These commands can speed up your interaction with storage for consumable and mis
   Configures quick store command for items to put into storage.
 
 ### Limitations
-- Only works inside towns, including **Midgard Expedition Camp**, **Manuk** and **Splendide** in the New World  
+- Only works inside towns, including **Midgard Expedition Camp**, **Manuk** and **Splendide** in the New World
 - Must be used within a Kafra (Card or NPC), storage must be open
 - Only works with consumable and miscellaneous items, does not work with equips
-- **Restock**: Works under 90% weight (current or target %) 
-  
+- **Restock**: Works under 90% weight (current or target %)
+
 ### ✨ Key Features
 - Improved management interface
 - Create up to 20 different lists of each type
-- Add/delete/rename lists easily 
-- **Restock**: Pulls directly from storage to restock items 
+- Add/delete/rename lists easily
+- **Restock**: Pulls directly from storage to restock items
 - **Quick Store**: Takes items from inventory into storage
 - **Quick Store**: Define a number of an item to keep in inventory
 
@@ -234,8 +268,8 @@ You will need the item ID for the lists. Find this info by using `@itemid <item 
 2. Choose your group or **Add Restock Group**
 3. Manage the group by renaming or deleting
 4. Enable or disable the group
-5. Add or remove items from the list and set quantities 
-6. Close the UI, all changes **apply instantly** and **save automatically** 
+5. Add or remove items from the list and set quantities
+6. Close the UI, all changes **apply instantly** and **save automatically**
 7. Type `@restock` while you are in a town with storage open to get your list items
 
 ![Restock group menu](img/restock-config.png){ .wiki-screenshot }
@@ -246,11 +280,9 @@ You will need the item ID for the lists. Find this info by using `@itemid <item 
 2. Choose your group or **Add Quick Store Group**
 3. Manage the group by renaming or deleting
 4. Enable or disable the group
-5. Add or remove items from the list: set **0 for ALL** or set quantities to keep 
-6. Close the UI, all changes **apply instantly** and **save automatically** 
+5. Add or remove items from the list: set **0 for ALL** or set quantities to keep
+6. Close the UI, all changes **apply instantly** and **save automatically**
 7. Type `@qstore` while you are in a town with storage open to store list items
-   
----
 
 ## @killcount — Enhanced Kill Tracking System
 
@@ -278,8 +310,6 @@ You will need the mob ID. To find the mob ID, use `@mobinfo <mob name>` or `@mi`
 | `@killcount <mob ID>` | Track a specific monster |
 | `@kc <mob ID>` | Shorthand version of the command |
 
----
-
 ## @noks - Kill Steal Protection
 
 The `@noks` command prevents kill stealing (KS). In a party, `@nokscheck` can used to confirm everyone has the right setting enabled.
@@ -295,8 +325,8 @@ The `@noks` command prevents kill stealing (KS). In a party, `@nokscheck` can us
 ### ✨ Key Features
 - **Idle Release** - If a player is idle for `5 seconds` or longer, aggro lock is released
 - **Lock Timer** - `15 seconds`, timer does NOT start until another player attempts to KS your mob
-- **Hard Cap** - `30 seconds` (will release regardless of variables)                  
-- **MVP/Mini** - Doesn't apply to any MVP/Mini boss that has NoKS null and void       
+- **Hard Cap** - `30 seconds` (will release regardless of variables)
+- **MVP/Mini** - Doesn't apply to any MVP/Mini boss that has NoKS null and void
 - **Max Mob Count** - Unlimited
 
 ### 📋 System UI Options
@@ -307,19 +337,19 @@ The `@noks` command prevents kill stealing (KS). In a party, `@nokscheck` can us
 | **Party** | Allows party members to attack your mobs |
 | **Guild** | Allows guild members to attack your moms |
 
----
-
 ## Trade Commands
 
 Check [Vendor System](vendor-system.md) for more information about shops.
 
-- `@autotrade` or `@at`  
-  Allows you to continue vending offline.
-  The client's **Import** function can reopen your last shop, see
-  [Vendor System](vendor-system.md#import-your-last-shop).
-  
-- `@vendrecap`  
-  Recap of your last vending run: shop name, when the shop opened and closed, and your total zeny earned. The **View All** option lists every item together with each individual sale - buyer name, timestamp and amount.
+- `@autotrade` or `@at`
+
+    Allows you to continue vending offline.
+    The client's **Import** function can reopen your last shop, see
+    [Vendor System](vendor-system.md#import-your-last-shop).
+
+- `@vendrecap`
+
+    Recap of your last vending run: shop name, when the shop opened and closed, and your total zeny earned. The **View All** option lists every item together with each individual sale - buyer name, timestamp and amount.
 
 - `@whosell <item id or name>` or `@ws`
   Opens the store browsing UI for shops selling the requested item. Shops can only be opened in towns. For more detailed searches: `@ws <+min_refine> <item id or name> <min-price> - <max-price>`. Example: `@ws +7 knife 1000-2000`
@@ -333,88 +363,102 @@ Check [Vendor System](vendor-system.md) for more information about shops.
 - `@whobuy2 <item id or name>` or `@wb2`
   Alternative list in chat of shops buying the item. You must navigate to the shop coordinates listed to access the shop.
 
----
-
 ## Database Commands
 
 Get quick, accurate information about mobs and items in-game without having to switch tabs.
 
-- `@mobinfo <mob name or ID>` or `@mi`
-  Displays monster information (rates, stats, drops, MVP data).  
-  **Example:** `@mobinfo Drops`  
-  **Output in-game Example:**  
-  ![Mobinfo Output](img/@mobinfo-outline.png)
+- `@mobinfo <mob name or ID>` or `@mi` Displays monster information (rates, stats, drops, MVP data).
 
-- `@iteminfo <item name or ID>` or `@ii`
-  Displays item information (type, price, weight, drops).  
-  **Example:** `@iteminfo Fang of Hatii`  
-  **Output in-game Example:**  
-  ![Iteminfo Output](img/@iteminfo-outline.png)
+    **Example:** `@mobinfo Drops`
 
-- `@whodrops <item name or ID>`  
-  Displays a list of mobs which drop the specified item. Only the highest drop rates are shown.  
-  **Example:** `@whodrops Hand of God`  
-  **Output in-game Example:**  
-  ![Dropinfo Output](img/@dropinfo-outline.png)
+    **Output in-game Example:**
 
-- `@whereis <monster name or ID>`  
-  Displays the maps in which monster normally spawns.  
-  **Example:** `@whereis Demon Pungus`  
-  **Output in-game Example:**  
-  ![Whereis Output](img/@whereis-outline.png)
+    ![Mobinfo Output](img/@mobinfo-outline.png)
 
----
+- `@iteminfo <item name or ID>` or `@ii` Displays item information (type, price, weight, drops).
+
+    **Example:** `@iteminfo Fang of Hatii`
+
+    **Output in-game Example:**
+
+    ![Iteminfo Output](img/@iteminfo-outline.png)
+
+- `@whodrops <item name or ID>`
+
+    Displays a list of mobs which drop the specified item. Only the highest drop rates are shown.
+
+    **Example:** `@whodrops Hand of God`
+
+    **Output in-game Example:**
+
+    ![Dropinfo Output](img/@dropinfo-outline.png)
+
+- `@whereis <monster name or ID>`
+
+    Displays the maps in which monster normally spawns.
+
+    **Example:** `@whereis Demon Pungus`
+
+    **Output in-game Example:**
+
+    ![Whereis Output](img/@whereis-outline.png)
 
 ## Guild Commands
 
 - `/guildinvite <player name>`
   Invite a character to your guild, even if they are offline. When they login they will get the guild invite prompt.
 
-- `@guild`  
-  All guild functions in a single command:
-  - **Storage Logs** — see who accessed guild storage and when. 150 lines per query,
-    time ranges (last 24h / 7d / 30d / all time), Withdraw / Deposit / Both filters
-  - **Bank Logs** — guild bank activity, moved out of the **Guild Agent** NPC
-  - **Request Tokens** — request WoE tokens
-  - **Management** (guild leader only) — every permission setting per guild position
+- `@guild`
 
-  Members with bank access see the current guild bank balance when the menu opens.  
-  `@guildbank` and `@guildlog` have been removed — everything now lives in `@guild`.
+    All guild functions in a single command:
 
-- `@breakguild <guild_name>`  
-  Breaks the guild of the attached character. You must be the guildmaster to use this command.
+    - **Storage Logs** — see who accessed guild storage and when. 150 lines per query, time ranges (last 24h / 7d / 30d / all time), Withdraw / Deposit / Both filters
+    - **Bank Logs** — guild bank activity, moved out of the **Guild Agent** NPC
+    - **Request Tokens** — request WoE tokens
+    - **Management** (guild leader only) — every permission setting per guild position
 
----
+    Members with bank access see the current guild bank balance when the menu opens.
+
+    `@guildbank` and `@guildlog` have been removed — everything now lives in `@guild`.
+
+- `@breakguild <guild_name>`
+
+    Breaks the guild of the attached character. You must be the guildmaster to use this command.
 
 ## Fame Ranking Commands
 
 !!! note
     Review UaRO changes to the fame system in [Class Changes](class-changes.md).
 
-- `@blacksmith`  
-  Show top 20 blacksmiths.
+- `@blacksmith`
 
-- `@alchemist`  
-  Show top 20 alchemists.
+    Show top 20 blacksmiths.
 
-- `@taekwon`  
-  Show top 20 taekwons.
+- `@alchemist`
 
----
+    Show top 20 alchemists.
+
+- `@taekwon`
+
+    Show top 20 taekwons.
 
 ## Homunculus Commands
 
-- `@hominfo`  
-  Displays homunculus general information and stats.  
-  **Output in-game Example:**  
-  ![Hominfo Output](img/@hominfo-outline.png)
+- `@hominfo`
 
-- `@homstats`  
-  Displays homunculus stats in different formats.  
-  **Output in-game Example:**  
-  ![Homstats Output](img/@homstats-outline.png)
+    Displays homunculus general information and stats.
 
----
+    **Output in-game Example:**
+
+    ![Hominfo Output](img/@hominfo-outline.png)
+
+- `@homstats`
+
+    Displays homunculus stats in different formats.
+
+    **Output in-game Example:**
+
+    ![Homstats Output](img/@homstats-outline.png)
 
 ## Player Combat Commands
 
@@ -432,17 +476,21 @@ Learn more about the [PvP Arena](pvp-arena.md).
 
 Learn more about [Battlegrounds](battlegrounds.md).
 
-- `@bg`  
-  Open the Battleground menu directly.
+- `@bg`
 
-- `@bg queue` or `@bg join`  
-  Join the queue for Battleground.
+    Open the Battleground menu directly.
 
-- `@bg leave`  
-  Leave the Battleground queue.
+- `@bg queue` or `@bg join`
 
-- `@bg shop`  
-  Open the Battleground shop.
+    Join the queue for Battleground.
+
+- `@bg leave`
+
+    Leave the Battleground queue.
+
+- `@bg shop`
+
+    Open the Battleground shop.
 
 ### King of Emperium (KoE) Commands
 
@@ -475,36 +523,42 @@ Use `@duel` to fight one person 1v1 in a town.
 | `@duel gvg`   | GvG          | Guild vs Guild damage mode                |
 | `@duel leave` | Exit         | Withdraw from duel (both players removed) |
 
----
-
 ## Channel Commands
 
 - `@channel`
   Open the UI to modify public channel settings and manage private channels.
 
-- `@channel create <channel name> <channel password>`  
-  Create a new channel.
+- `@channel create <channel name> <channel password>`
 
-- `@channel list`  
-  Lists public channels.
+    Create a new channel.
 
-- `@channel setcolor <channel name> <color name>`  
-  Changes channel color.
+- `@channel list`
 
-- `@channel leave <channel name>`  
-  Leaves the channel.
+    Lists public channels.
 
-- `@channel bindto <channel name>`  
-  Binds your global chat to the channel.
+- `@channel setcolor <channel name> <color name>`
 
-- `@channel ban <channel name> <character name>`  
-  Bans a character from the channel.
+    Changes channel color.
 
-- `@channel unban <channel name> <character name>`  
-  Unbans a character from the channel.
+- `@channel leave <channel name>`
 
-- `@channel unbanall <channel name>`  
-  Unbans everyone from the channel.
+    Leaves the channel.
+
+- `@channel bindto <channel name>`
+
+    Binds your global chat to the channel.
+
+- `@channel ban <channel name> <character name>`
+
+    Bans a character from the channel.
+
+- `@channel unban <channel name> <character name>`
+
+    Unbans a character from the channel.
+
+- `@channel unbanall <channel name>`
+
+    Unbans everyone from the channel.
 
 !!! info "Private Channels"
     The `#channel` system is configured within in-game **Settings** with its own configuration panel.
@@ -516,23 +570,26 @@ Use `@duel` to fight one person 1v1 in a town.
     - Leaving or being kicked applies a `30 minute` delay before you can rejoin.
     - The `#trade`, `#party`, and `#recruit` channels have a `180 second` message delay.
 
----
-
 ## Lite Graphics Plugin (LGP) Commands
 
 LGP makes it easier to see certain skills, particularly AoE spells and songs. It is especially helpful in large group settings like WoE or instance battles.
 
-- `@lgp`  
-  Toggle the LGP feature on or off.
+- `@lgp`
 
-- `@square <on/off/1-18>`  
-  Activates a square overlay around your character, with customizable size options.
+    Toggle the LGP feature on or off.
 
-- `@circle`  
-  Initiates a circular overlay around your character.
+- `@square <on/off/1-18>`
 
-- `@aoes`  
-  Visualizes skill effect areas with color-coded zones for Storm Gust, Lord of Vermillion, and Meteor Storm.
+    Activates a square overlay around your character, with customizable size options.
 
-- `@shake`  
-  Enables or disables the screen shake effect.
+- `@circle`
+
+    Initiates a circular overlay around your character.
+
+- `@aoes`
+
+    Visualizes skill effect areas with color-coded zones for Storm Gust, Lord of Vermillion, and Meteor Storm.
+
+- `@shake`
+
+    Enables or disables the screen shake effect.

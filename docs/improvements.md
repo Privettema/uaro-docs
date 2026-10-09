@@ -130,7 +130,7 @@ To improve large-quantity purchases, the following system has been implemented:
 - When purchasing **30,000 units of a single item**, a confirmation dialog will appear
 - Upon confirmation, the purchased stack will be **automatically sent to storage**
 - A maximum of **10 stacks (30,000 each)** of the same item can exist in storage at any given time
-  
+
 ![Fast Regen](img/bulk_img.webp)
 
 <!--- TODO: Find a home for all the info about our large selection of costumes / cosmetics.
