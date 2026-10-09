@@ -220,3 +220,14 @@ code.copyable:focus-visible {
 .uaro-nowrap-first-col th:first-child {
   white-space: nowrap;
 }
+
+/* Item icons beside a label in a table cell: centre the icon on the text instead of sitting on the baseline.
+   The cell itself stays top-aligned, so the label lines up with the first line of the cells next to it.
+   The negative margin stops the 24px icon from making that line taller than the text, and the relative
+   offset puts the icon back on the text's centre. */
+.md-typeset td img {
+  vertical-align: middle;
+  margin-block: -0.15rem;
+  position: relative;
+  top: -0.15rem;
+}
