@@ -78,7 +78,7 @@ Use `??? note "Title"` (collapsible) for a block that's long and mostly referenc
 
 Link to a page by its current filename (`pet-system.md`, not `Pet_System.md`) — see `all-pages.md` for the full list if you're not sure a page exists yet. Old filenames still redirect, but links should use the new one.
 
-New pages use lowercase, hyphen-separated filenames with no underscores or parentheses: `cart-and-falcon-coupons.md`. Don't rename an existing file as part of a routine content edit; renames also need a redirect entry in `mkdocs.yml`.
+New pages use lowercase, hyphen-separated filenames with no underscores or parentheses: `cart-and-falcon-coupons.md`. Don't rename an existing file as part of a routine content edit; renames also need a redirect entry in `mkdocs.yml`. After a rename, run `mkdocs build` and then `python3 scripts/check_redirects.py`, which confirms that every address the site used before still resolves. A rename that changes only letter case needs no entry: the 404 page sends the old address to the new page.
 
 - From a page in a subfolder (a section hub), go up first: `../pet-system.md`.
 - Link text says where the link goes: "Read the full Halloween Event guide", not "click here" or a bare URL.
