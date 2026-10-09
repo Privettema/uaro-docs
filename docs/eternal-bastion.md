@@ -40,7 +40,23 @@ updated: 2026-10-08
 | **81–99** | Endgame | Bio 4 / HTF / OGH monsters — high-damage mobs with complex mechanics |
 | **100** | Final Boss | A unique MVP with devastating skills, randomly selected from the boss pool |
 
-The wave 100 boss is picked each week from this pool: Satan Morocc, Scholar Celia, Wounded Morroc, Biochemist Flamel, Ifrit, Celine Kimi, Corrupted Soul, Paladin Randel, Amdarais, Valkyrie Randgris, Stalker Gertie and Beelzebub.
+??? info "Wave 100 Boss Pool"
+    The final boss is randomly selected from the following pool each week:
+
+    | Boss |
+    |------|
+    | Satan Morocc |
+    | Scholar Celia |
+    | Wounded Morroc |
+    | Biochemist Flamel |
+    | Ifrit |
+    | Celine Kimi |
+    | Corrupted Soul |
+    | Paladin Randel |
+    | Amdarais |
+    | Valkyrie Randgris |
+    | Stalker Gertie |
+    | Beelzebub |
 
 ### Wave Mechanics
 
