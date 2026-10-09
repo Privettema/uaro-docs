@@ -1,4 +1,6 @@
-"""Add a small bar at the top right of every page's content: "Last updated" and "Report a problem".
+"""Add a small bar at the top right of a page's content: "Last updated" and "Report a problem".
+
+The home page and the section hubs (every `index.md`) don't get one.
 
 "Last updated" comes from an `updated:` date in the page's front matter:
 
@@ -19,6 +21,8 @@ REPORT_URL = "https://discord.com/channels/702960460168953946/145645063158484601
 
 
 def on_page_content(html, page, config, files):
+    if page.file.src_uri.endswith("index.md"):
+        return html
     parts = []
     value = page.meta.get("updated")
     if isinstance(value, str):

@@ -1,7 +1,3 @@
----
-updated: 2026-10-02
----
-
 # Features & Enhancements
 
 uaRO is the classic Ragnarok Online you know, with a lot more going on. Here is everything we built, tuned and

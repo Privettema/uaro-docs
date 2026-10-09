@@ -1,7 +1,3 @@
----
-updated: 2026-10-06
----
-
 # Getting Started
 
 New to uaRO? Start here.

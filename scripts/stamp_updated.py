@@ -10,7 +10,8 @@ Usage:
     scripts/stamp_updated.py docs/pets.md    # only the pages named
     scripts/stamp_updated.py --date 2026-10-08 --dry-run
 
-Patch notes (they carry their own `date:`) and the generated listings are never stamped.
+Patch notes (they carry their own `date:`), the generated listings, the home page and the section hubs
+(every index.md) are never stamped.
 """
 import argparse
 import datetime
@@ -22,7 +23,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 SKIP_PREFIXES = ("patch-notes/",)
-SKIP_FILES = {"all-patch-notes.md", "all-pages.md"}
+SKIP_FILES = {"all-patch-notes.md", "all-pages.md"}  # generated listings; every index.md (home, hubs) is skipped too
 BASES = ("upstream/main", "origin/main", "main")
 
 
@@ -45,7 +46,8 @@ def stampable(path):
         rel = path.resolve().relative_to(DOCS).as_posix()
     except ValueError:
         return False
-    return path.exists() and not rel.startswith(SKIP_PREFIXES) and rel not in SKIP_FILES
+    return (path.exists() and not rel.startswith(SKIP_PREFIXES) and rel not in SKIP_FILES
+            and not rel.endswith("index.md"))
 
 
 def stamp(text, date):
