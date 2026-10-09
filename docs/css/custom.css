@@ -231,3 +231,15 @@ code.copyable:focus-visible {
   position: relative;
   top: -0.15rem;
 }
+
+/* A cell with several icon lines (<br> between them) needs the room back: the tight margins above would make
+   24px icons touch or overlap. Give each line its normal height again, but pull the first icon up so the first
+   line still lines up with the cells next to it. */
+.md-typeset td:has(br) img {
+  margin-block: 0.15rem;
+  top: 0;
+}
+
+.md-typeset td:has(br) img:first-child {
+  margin-top: -0.15rem;
+}
