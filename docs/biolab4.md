@@ -4,7 +4,7 @@ description: Bio Laboratory 4 (Lighthalzen Dungeon 4) is a high-risk dungeon of 
 
 # Biolab 4
 
-Bio Laboratory 4 (also known as Lighthalzen Dungeon 4) is one of the most challenging locations in World of Your Dream, where players face clones of real characters with third job classes. It is inhabited by extremely powerful monsters with strong skills, high attack speed, and advanced AI, making it a tough challenge even for well-organized parties. The location attracts players with rare loot and the chance to obtain valuable cards.  
+Bio Laboratory 4 (also known as Lighthalzen Dungeon 4) is one of the most challenging locations in World of Your Dream, where players face clones of real characters with third job classes. It is inhabited by extremely powerful monsters with strong skills, high attack speed, and advanced AI, making it a tough challenge even for well-organized parties. The location attracts players with rare loot and the chance to obtain valuable cards.
 
 **Content type:** [Renewal](whats-different.md#content-tags)
 
@@ -12,10 +12,10 @@ Bio Laboratory 4 (also known as Lighthalzen Dungeon 4) is one of the most challe
 
 The entrance to Bio Laboratory 4 is located in the bottom-right corner of the Bio Laboratory 3 map (`/navi lhz_dun03 240/76`).
 
-![Warp to Bio Laboratory 4](img/Biolab4/Warp%20to%20Biolab4.png)  
+![Warp to Bio Laboratory 4](img/Biolab4/Warp%20to%20Biolab4.png)
 
-## Monsters  
-The table includes only regular mobs; mini-bosses and MVPs are not included.  
+## Monsters
+The table includes only regular mobs; mini-bosses and MVPs are not included.
 
 | Monster | Quantity | In-game command |
 |---------|----------|----------|

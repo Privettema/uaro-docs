@@ -4,27 +4,28 @@ Old Glast Heim (OGH) is a dungeon instance in World of Your Dream designed for a
 
 **Content type:** [Renewal](whats-different.md#content-tags)
 
-!!! Note
+!!! note
     This instance was designed for Renewal mechanics, but we adapted it for Pre-Renewal mechanics and implemented access to the instance as an open-world map without an instance cooldown.
 
 **Required Level: 99**
 
 ## How to get to there
 
-![OGH-Hugin](img/OGH-Hugin.png)<br>
+![OGH-Hugin](img/OGH-Hugin.png)
 
 To enter Old Glast Heim, you need to talk (еhe first time, you need to talk multiple times.) to the NPC Hugin in Glast Heim (`/navi glast_01 204/273`).
 
  ![OGH-Hugin1](img/OGH-Hugin1.png)
 
-!!! Note
+!!! note
     On the first level, there is an NPC Hugin (`/navi old_gh01 143/18`). Talking to him will allow you to exit the dungeon.
 
 ## Monsters
 
-![OGH-4_M_DIEMAN](img/OGH/4_M_DIEMAN.gif) **A Dead Man** lay on ground, periodically stepping on these will spawn ![2467](img/OGH/2467.gif) maggots (The maggots die if not killed automatically every 15 minutes after spawn regardless of current HP)<br><br>
+![OGH-4_M_DIEMAN](img/OGH/4_M_DIEMAN.gif) **A Dead Man** lay on ground, periodically stepping on these will spawn ![2467](img/OGH/2467.gif) maggots (The maggots die if not killed automatically every 15 minutes after spawn regardless of current HP)
 
-![OGH-Strange-Crack](img/OGH/OGH-Strange-Crack.png)<br>
+![OGH-Strange-Crack](img/OGH/OGH-Strange-Crack.png)
+
 **Strange Crack** located at various places around the map will yield an assortment of Gemstones to one character per account, must be level 99.
 
 ### Floor 1
@@ -59,47 +60,22 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 | ![2467](img/OGH/2467.gif) Maggot | - | @mi 2467 |
 | ![2476](img/OGH/2476.gif) **Amdarais (MVP)** | 1 | @mi 2476 |
 
-!!! Note
+!!! note
     Resurrection cannot one-hit kill Corrupted Monk. Some monsters in this instance have modified behavior compared to
     their original versions.
 
-!!! Note
+!!! note
     Corrupted Soul and Amdarais have 16 hour spawn timer, 1 hour spawn variance.
 
 ## Temporal Boots
 
-<table>
-    <thead>
-        <tr>
-            <th>NPC</th>
-            <th style="width: 45%">Require</th>
-            <th style="width: 38%">Obtain</th>
-            <th>Chance</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img src="../img/OGH/1_F_04.gif" alt="1_F_04"><br>Hugin's Butler</td>
-            <td><img src="../img/OGH/6607.gif" alt="6607"> Temporal Crystal - 100</td>
-            <td><img src="../img/OGH/2499.gif" alt="2499"> Temporal boots [0]</td>
-            <td>100%</td>
-        </tr>
-        <tr>
-            <td><img src="../img/OGH/1_F_04.gif" alt="1_F_04"><br>Hugin's Butler</td>
-            <td><img src="../img/OGH/2499.gif" alt="2499"> Temporal boots - 1<br><img src="../img/OGH/6607.gif" alt="6607"> Temporal Crystal - 1000</td>
-            <td><img src="../img/OGH/22008.gif" alt="22008"> Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk)</td>
-            <td>100%</td>
-        </tr>
-        <tr>
-            <td><img src="../img/OGH/4_F_JOB_BLACKSMITH.gif" alt="4_F_JOB_BLACKSMITH"><br> Hugin's Craftsman</td>
-            <td><img src="../img/OGH/22008.gif" alt="22008"> Upgraded Temporal boots [0] - 1<br><img src="../img/OGH/6607.gif" alt="6607"> Temporal Crystal - 1500<br>15,000,000 Zeny</td>
-            <td><img src="../img/OGH/22008.gif" alt="22008"> Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk)</td>
-            <td>75%</td>
-        </tr>
-    </tbody>
-</table>
+| NPC | Require | Obtain | Chance |
+|---|---|---|---|
+| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal Crystal](img/OGH/6607.gif) Temporal Crystal - 100 | ![Temporal boots](img/OGH/2499.gif) Temporal boots [0] | 100% |
+| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal boots](img/OGH/2499.gif) Temporal boots - 1<br>![Temporal Crystal](img/OGH/6607.gif) Temporal Crystal - 1000 | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk) | 100% |
+| ![Hugin's Craftsman](img/OGH/4_F_JOB_BLACKSMITH.gif)<br>Hugin's Craftsman | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [0] - 1<br>![Temporal Crystal](img/OGH/6607.gif) Temporal Crystal - 1500<br>15,000,000z | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk) | 75% |
 
-!!! Note
+!!! note
     - Can slot only ![22008](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk)
     - The boots lose all refine when attempting slot.
     - Failure uses all mats and breaks boots.
@@ -126,7 +102,7 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 ## Ancient Golden Coin
 
-The MVPs **Corrupted Soul** and **Amdarais** have a **0.09%** chance to drop an Ancient Golden Coin. This coin can be exchanged at the **Hugin's Scribe NPC (`/navi glast_01 188/270`)** for any slotted stat Temporal Boot.  
+The MVPs **Corrupted Soul** and **Amdarais** have a **0.09%** chance to drop an Ancient Golden Coin. This coin can be exchanged at the **Hugin's Scribe NPC (`/navi glast_01 188/270`)** for any slotted stat Temporal Boot.
 
 ![Hugin's Scribe NPC](img/OGH/Hugin's-Scribe-NPC.png)
 
