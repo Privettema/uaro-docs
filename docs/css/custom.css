@@ -186,29 +186,30 @@ code.copyable:focus-visible {
     }
 }
 
-/* Line under a page title: "Last updated" and the mistake-report link (hooks/page_meta.py) */
-.uaro-page-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.25rem 0.5rem;
+/* "Last updated" under a page title and the mistake-report note at the end (hooks/page_meta.py) */
+.uaro-updated {
   margin: -1rem 0 1.2rem;
   font-size: 0.65rem;
   color: var(--md-default-fg-color--light);
 }
 
-.uaro-page-meta span::after {
-  content: "\00b7";
-  margin-left: 0.5rem;
+.uaro-report {
+  margin-top: 2rem;
+  padding-top: 0.6rem;
+  border-top: 0.05rem solid var(--md-default-fg-color--lightest);
+  font-size: 0.65rem;
+  color: var(--md-default-fg-color--light);
 }
 
 /* The link reads as plain text until hovered, so it doesn't compete with the page */
-.md-typeset .uaro-page-meta a {
+.md-typeset .uaro-report a {
   color: inherit;
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: var(--md-default-fg-color--lighter);
 }
 
-.md-typeset .uaro-page-meta a:focus,
-.md-typeset .uaro-page-meta a:hover {
+.md-typeset .uaro-report a:focus,
+.md-typeset .uaro-report a:hover {
   color: var(--md-accent-fg-color);
-  text-decoration: underline;
+  text-decoration-color: currentcolor;
 }
