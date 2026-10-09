@@ -1,8 +1,9 @@
 # Vendor System
+
 The server provides a diverse range of options for players to find, purchase, and trade items. Additionally, it implements specialized mechanisms to ensure the stability of the server's economy.
 
 !!! note
-    Autotrading (`@at`) merchants are allowed while playing on another account. 
+    Autotrading (`@at`) merchants are allowed while playing on another account.
 
 ## 🛒 Prontera Market Street Vending
 
@@ -10,8 +11,7 @@ The server provides a diverse range of options for players to find, purchase, an
 
 ### 🚪 How to Access the Market Street
 
-To travel to the Prontera Market Street, speak to the **Merchants Warp NPC**  
-(`/navi prontera 139/171`) located in Prontera near the Main Office.
+To travel to the Prontera Market Street, speak to the **Merchants Warp NPC** (`/navi prontera 139/171`) located in Prontera near the Main Office.
 
 ![Merchants Warp NPC](img/Vendor_System/merchants-warp.png)
 
@@ -34,14 +34,12 @@ To return to Prontera, use the **Prontera Return option** from the Vending Helpe
 
 The Prontera Market Street is the **main trade zone**, but vending is also allowed in the following towns only:
 
-- Payon  
-- Morocc  
-- Alberta  
-- Comodo  
+- Payon
+- Morocc
+- Alberta
+- Comodo
 
 Vending is **not allowed** in dungeons or unauthorized maps.
-
----
 
 ## 🛠 Vendor Manager System
 
@@ -57,8 +55,6 @@ To prevent overlapping shops and improve marketplace organization, the **Vendor 
     Autotrading merchants are allowed while playing on another account.
 
 ![Vendor Management System](img/Vendor_System/vendor-management-system.png)
-
----
 
 ## Find a store
 There are several ways to find and buy items.
@@ -80,14 +76,16 @@ Next, head to the merchant's location and execute the `/navi` command.
 
 **Example:** I decided to buy gold from Pedro's seller, so I'm entering his coordinates into the command: `/navi payon 136/210`
 
-![Navi Command Example](img/Vendor_System/whosell-gold-navigation-example.png)  
+![Navi Command Example](img/Vendor_System/whosell-gold-navigation-example.png)
+
 ![Navi Result](img/Vendor_System/whosell-gold-navigation.png)
 
 
 ### Use Merchants List page on website
 You can visit the [Merchants List Page](https://uaro.net/cp/?module=merchant&action=vendors), log in, and search for items.
 
-![Log In](img/Vendor_System/log-in.png)  
+![Log In](img/Vendor_System/log-in.png)
+
 ![Merchants List](img/Vendor_System/merch-list.png)
 
 
@@ -101,8 +99,6 @@ In the game, you can write in the `#trade` channel what you need to buy or see i
 Our Discord server has a [#selling](https://discord.com/channels/702960460168953946/1198723464526319706) channel where you can search if someone is already selling what you want to buy. You can also post in [#buying](https://discord.com/channels/702960460168953946/1198723441872863272) to request it.
 
 ![Discord](img/Vendor_System/discord.png)
-
----
 
 ## Find a buying store
 There are several ways to sell items to other players.
@@ -131,12 +127,10 @@ Our Discord server has a [#buying](https://discord.com/channels/7029604601689539
 
 ![Discord](img/Vendor_System/discord.png)
 
----
-
 ## Create a buying store
 Any class can create a buying store. Here are the main requirements for creating a store:
 
-- **Possession of the item**: You must possess the item you wish to purchase. 
+- **Possession of the item**: You must possess the item you wish to purchase.
 - **Allowed items**: Only "Etc" items and non-brewed consumables can be purchased via a buying store. "Equips" and brewed consumables cannot be purchased this way.
 - **Sufficient zeny**: You must have enough zeny to cover the cost of the desired items.
 - **Weight capacity**: Your weight capacity must be sufficient to accommodate the purchased items.
@@ -157,15 +151,14 @@ Buying stores are created differently depending on your character class:
 - Visit the **Merchant Guild** in Alberta (`/navi alberta 35/42`).
 - Talk to the **Purchasing Team NPC**.
 
-![Merchant Guild Location](img/Vendor_System/buying-store-alberta.png)  
+![Merchant Guild Location](img/Vendor_System/buying-store-alberta.png)
+
 ![Purchasing Team NPC](img/Vendor_System/buying-store-skill.png)
 
 - Pay 10,000z to unlock the "**Open Buying Store**" skill, which allows you to open permanent buying shops. You'll also receive 5 free **Bulk Buyer Shop Licenses**.
 - Purchase additional licenses for 200z each (up to 50 at a time).
 - Licenses are required to use the skill.
 - You must have learned the Vending skill to at least level 1.
-
----
 
 ## Price limits
 Vending and buying store prices are checked against NPC shop prices when the shop opens.
@@ -176,8 +169,6 @@ Vending and buying store prices are checked against NPC shop prices when the sho
 - **You're told about every change.** You get a message for each price that was adjusted.
 - **Autotrade follows the same limits.** Autotrade shops restored after maintenance are checked the same way.
 - **Circumventing the limits is punished.** Attempting to circumvent this mechanic will result in punishment like any other game mechanic.
-
----
 
 ## Import your last shop
 The client's **Import** function reopens your most recent vending or buying store without re-entering

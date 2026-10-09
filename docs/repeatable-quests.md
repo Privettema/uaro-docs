@@ -1,21 +1,21 @@
 # Repeatable EXP Quests
-Repeatable EXP quests are a reliable way to level up while also collecting useful loot. They come in two forms: **item gathering**, where you turn in monster drops, and **monster hunting**, where you defeat a set number of enemies. Both give Base and Job EXP and can be repeated as often as you like, making them a steady option when regular grinding slows down.  
 
-Some NPCs offer both quest types. You can accept both, but if they come from the same NPC you’ll need to finish or abandon the **Monster Hunting** quest before turning in items.  
+Repeatable EXP quests are a reliable way to level up while also collecting useful loot. They come in two forms: **item gathering**, where you turn in monster drops, and **monster hunting**, where you defeat a set number of enemies. Both give Base and Job EXP and can be repeated as often as you like, making them a steady option when regular grinding slows down.
+
+Some NPCs offer both quest types. You can accept both, but if they come from the same NPC you’ll need to finish or abandon the **Monster Hunting** quest before turning in items.
 
 
-
----
 
 ## Item Turn-In Quests
 
-Item gathering quests ask you to collect **20**, **25**, or **50** of a specific item. Turning them in rewards **Base and Job EXP**, making these quests a steady way to level while farming useful drops.  
+Item gathering quests ask you to collect **20**, **25**, or **50** of a specific item. Turning them in rewards **Base and Job EXP**, making these quests a steady way to level while farming useful drops.
 
-Collected items also hold value beyond quests:  
-- They can be **traded or sold** to other players  
-- They can be **saved** to boost future characters  
+Collected items also hold value beyond quests:
 
-Because you decide where and how to farm, item quests are flexible—use them to earn zeny, prepare turn-ins ahead of time, or gain reliable EXP outside of your usual grinding spots.    
+- They can be **traded or sold** to other players
+- They can be **saved** to boost future characters
+
+Because you decide where and how to farm, item quests are flexible—use them to earn zeny, prepare turn-ins ahead of time, or gain reliable EXP outside of your usual grinding spots.
 
 ### Item Quest List
 
@@ -39,11 +39,11 @@ Because you decide where and how to farm, item quests are flexible—use them to
 
 
 ### Item Purchase Locations
-Some turn-in items can be bought directly from NPCs. **Antelope Horns** cannot be purchased with the Discount skill and cannot be vended to other players.  
+Some turn-in items can be bought directly from NPCs. **Antelope Horns** cannot be purchased with the Discount skill and cannot be vended to other players.
 
-- **Bill of Birds** – Morroc Ruins (`/navi moc_ruins 81/113`, `/navi moc_ruins 93/53`)  
-- **Acorn** – Moscovia, Acorn Dealer (`/navi moscovia 208/182`)  
-- **Antelope Horn** – Niflheim, Tool Dealer (`/navi niflheim 218/197`), **Discount Skill does not work on Antelope Horns**. 
+- **Bill of Birds** – Morroc Ruins (`/navi moc_ruins 81/113`, `/navi moc_ruins 93/53`)
+- **Acorn** – Moscovia, Acorn Dealer (`/navi moscovia 208/182`)
+- **Antelope Horn** – Niflheim, Tool Dealer (`/navi niflheim 218/197`), **Discount Skill does not work on Antelope Horns**.
 
 
 
@@ -55,20 +55,21 @@ The following NPCs offer players a choice of how many monsters they want to hunt
 
 ## Monster Hunting
 
-Hunting quests let you choose to defeat **50**, **100**, or **150** monsters for **Base and Job EXP** rewards. A 50-monster hunt can grant up to **1 Base Level** and **1 Job Level**, while 100 and 150 hunts can grant up to **2** and **3 levels**.  
+Hunting quests let you choose to defeat **50**, **100**, or **150** monsters for **Base and Job EXP** rewards. A 50-monster hunt can grant up to **1 Base Level** and **1 Job Level**, while 100 and 150 hunts can grant up to **2** and **3 levels**.
 
-These quests are especially effective in parties, since everyone’s kills count toward the total. As long as the killer is visible on screen, nearby party members will share the kill. If you pick the wrong option, you can abandon the quest to reset and choose a different hunt size.  
+These quests are especially effective in parties, since everyone’s kills count toward the total. As long as the killer is visible on screen, nearby party members will share the kill. If you pick the wrong option, you can abandon the quest to reset and choose a different hunt size.
 
-Unlike item turn-ins, every kill counts, no drops required. Hunting quests are also a good way to explore new maps and face a wider variety of monsters while keeping steady EXP gains.  
+Unlike item turn-ins, every kill counts, no drops required. Hunting quests are also a good way to explore new maps and face a wider variety of monsters while keeping steady EXP gains.
 
-Please note that **Homunculus kills do not count**, but **Mercenary kills do**. You can also hold the quest, become a **Transcendent**, and then claim the reward once you meet the minimum level requirement.  
+Please note that **Homunculus kills do not count**, but **Mercenary kills do**. You can also hold the quest, become a **Transcendent**, and then claim the reward once you meet the minimum level requirement.
 
 ### Hunting Quest List
 
 !!! note
-    The rewards listed are based on a **50-monster** turn-in. To calculate rewards for hunting **100** or **150** monsters, simply double or triple the values.  
-    Monsters marked with `*` are on maps that require a quest to access.  
-        
+    The rewards listed are based on a **50-monster** turn-in. To calculate rewards for hunting **100** or **150** monsters, simply double or triple the values.
+
+    Monsters marked with `*` are on maps that require a quest to access.
+
 
 | NPC | Location | Min Level | Max Level | Monster | Base EXP | Job EXP | Base EXP Per Monster | Job EXP Per Monster |
 |:---|:---|---:|---:|:---|---:|---:|---:|---:|
