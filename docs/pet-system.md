@@ -1,4 +1,5 @@
 # Cute Pet System
+
 <!--TODO: Add intro flavor text -->
 <!--TODO: Add Familiar pet -->
 
@@ -76,7 +77,7 @@ To enable auto-feed:
 | ![Flail Goblin](img/1535.gif) Flail Goblin  | ![Green Apple](img/7821.gif) Green Apple | ![Flail Goblin Ring](img/2601.gif) Flail Goblin Ring | None                                | None                                  | 10% |
 | ![Hammer Goblin](img/1537.gif) Hammer Goblin | ![Green Apple](img/7821.gif) Green Apple | ![Hammer Goblin Ring](img/2601.gif) Hammer Goblin Ring | None                                | None                                  | 10% |
 | ![Goblin Leader](img/1299.gif) Goblin Leader | ![Big Cell](img/6104.gif) Big Cell | ![Staff Of Leader](img/12364.gif) Staff Of Leader | ![Beautiful Badges](img/10028.gif) Beautiful Badges | Increases damage to Demi-Human monsters by 3% | 5% |
-| ![Loli Ruri](img/1505.gif) Loli Ruri        | ![Pumpkin Pie](img/6097.png) Pumpkin Pie | ![Very Red Juice](img/12360.gif) Very Red Juice | ![Fashionable Glasses](img/10024.png) Fashionable Glasses | Max HP +3%, may autocast Heal Lv. 1 when physically attacked | 2% |
+| ![Loli Ruri](img/1505.gif) Loli Ruri        | ![Pumpkin Pie](img/6097.png) Pumpkin Pie | ![Very Red Juice](img/12360.gif) Very Red Juice | ![Fashionable Glasses](img/10024.png) Fashionable Glasses | Max HP +3%, may autocast Heal Level 1 when physically attacked | 2% |
 | ![Golem](img/1040.gif) Golem                | ![Mystic Stone](img/6111.png) Mystic Stone | ![Magical Lithography](img/12371.gif) Magical Lithography | ![Spring](img/10035.png) Spring | FLEE -5, Max HP +100                   | 5% |
 | ![Chung E / Green Maiden](img/1631.gif) Chung E / Green Maiden | ![Bun](img/6115.png) Bun | ![Tantan Noodle](img/12395.gif) Tantan Noodle | None                                | DEF +1, Demi Human Resistance +1%      | 20% |
 | ![Imp / Fire Imp](img/1837.gif) Imp / Fire Imp | ![Flame Gemstone](img/6114.png) Flame Gemstone | ![Ice Fireworks](img/12374.gif) Ice Fireworks | ![Horn Barrier](img/10038.png) Horn Barrier | Fire Resistance +2%, Physical damage to Fire monster +2% | 2% |
@@ -109,26 +110,27 @@ To enable auto-feed:
 | ![1005](img/Pet_System/1005.gif) Familiar | ![Pet Food](img/537.png) Pet Food | None | None | INT +4, Prevents Hallucination status. | Obtained from monsters |
 | ![1004](img/Pet_System/1004.gif) Hornet | ![Pet Food](img/537.png) Pet Food | None | None | Decreases Cast Time by 2%. Increases Magical Damage with Wind element by 2%. | 2% |
 
-!!! Intimacy
-    HungerDecrement        = 3 (all)<br>
-    OwnerDeathDecrement    = 5 (all)<br>
+!!! info "Intimacy"
+    - `HungerDecrement` = 3 (all)
+    - `OwnerDeathDecrement` = 5 (all)
 
-    FeedIncrements:<br>
-    - Evolved (1st tier)         = 40<br>
-    - Evolved (2nd or final)     = 30<br>
-    - Evolved (3rd and final)    = 20<br>
-    - Non-evolvable              = 30<br>
+    **FeedIncrements:**
 
-    Exceptions:<br>
-    - Phreeoni (MVP, final)      = 20<br>
-    - Incubus / Succubus         = 20<br>
+    - Evolved (1st tier) = 40
+    - Evolved (2nd or final) = 30
+    - Evolved (3rd and final) = 20
+    - Non-evolvable = 30
 
-!!! note
-    Pet Capture Rates<br>
-    - Lower HP of the mob, higher chance of success (2x success rate @ <1% HP).<br>
-    - All Non-evolved pet taming items are within Taming Gift Set.<br>
-    - Taming Non-evolved pet via AbraCadabra skill have same chance of success as taming items.<br>
-    - All Evolved pets have a 0.01% chance of being taming via AbraCadabra skill.<br>
+    **Exceptions:**
+
+    - Phreeoni (MVP, final) = 20
+    - Incubus / Succubus = 20
+
+!!! note "Pet Capture Rates"
+    - Lower HP of the mob, higher chance of success (2x success rate @ <1% HP).
+    - All Non-evolved pet taming items are within Taming Gift Set.
+    - Taming Non-evolved pet via AbraCadabra skill have same chance of success as taming items.
+    - All Evolved pets have a 0.01% chance of being taming via AbraCadabra skill.
 
 !!! warning
     The pet **Bacsojin**, which was tamed using the skill Abracadabra, **does not have any bonuses**.
@@ -136,8 +138,6 @@ To enable auto-feed:
     This pet is used as a costume.If you evolve the pet **Evil Nymph** into a **Bacsojin**, the pet **will have all the bonuses.**
 
     **Please be mindful when buying this pet. Check if it comes with a bonus!**
-
----
 
 ## Taming Items
 
@@ -180,8 +180,6 @@ The vast majority of taming items drop from monsters according to the RMS databa
 | ![Dark Priest Egg](img/Pet_System/9133.gif) Dark Priest Egg | Dark illusion with a 0.09% and Dark Lord with a 0.9% chance |
 | ![Familiar Egg](img/Pet_System/9133.gif) Familiar Egg | Dracula with a 0.45% chance |
 
----
-
 ## Pet Switch
 
 Use a **Pet Incubator** while a pet is out to swap directly to another pet egg.
@@ -190,8 +188,6 @@ Use a **Pet Incubator** while a pet is out to swap directly to another pet egg.
     - Your current pet returns to its egg. This requires **1 free inventory slot**.
     - The Pet Incubator is only consumed when you select an egg. Closing the list does not waste it.
     - Your [Pet Stylist](#pet-stylist) skin is kept when switching pets.
-
----
 
 ## Pet Stylist
 
@@ -211,8 +207,6 @@ Talk to the **Pet Stylist** NPC, located in **Prontera** `/navi prontera 218/224
     appearance when the pet is rehatched. Switching pets with a Pet Incubator keeps your applied skin
     (see [Pet Switch](#pet-switch)).
 
----
-
 ## Pet Evolution
 
 To evolve a pet, it must be in Loyal intimacy state and require the following items below:
@@ -222,7 +216,7 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![1725](img/1725.gif) Poring    | ![610](img/610.gif) Yggdrasil Leaf - 10 <br> ![7821](img/7821.gif) Unripe Apple - 3                                    | ![1090](img/1090.gif) Mastering     |
 | ![1090](img/1090.gif) Mastering | ![503](img/503.gif) Yellow Potion - 20 <br> ![2282](img/2282.gif) Halo [0] <br> ![509](img/509.gif) White Herb - 50 <br> ![909](img/909.gif) Jellopy - 200 | ![1096](img/1096.gif) Angeling       |
 | ![1052](img/1052.gif) Rocker    | ![707](img/707.gif) Singing Plant - 3 <br> ![940](img/940.gif) Grasshopper's Leg - 777 <br> ![508](img/508.gif) Yellow Herb - 200 <br> ![Card](img/Card.gif) Metaller Card | ![1058](img/1058.gif) Metaller |
-| ![1023](img/1023.gif) Orc Warrior| ![635](img/635.png) Orc Trophy - 3 <br> ![1124](img/1124.gif) Orcish Sword [0] <br> ![931](img/931.gif) Orcish Voucher - 500 <br> ![2267](img/2267.gif) Cigarette [0] <br> ![Card](img/Card.gif) Orc Warrior Card | ![1213](img/1213.gif) High Orc | 
+| ![1023](img/1023.gif) Orc Warrior| ![635](img/635.png) Orc Trophy - 3 <br> ![1124](img/1124.gif) Orcish Sword [0] <br> ![931](img/931.gif) Orcish Voucher - 500 <br> ![2267](img/2267.gif) Cigarette [0] <br> ![Card](img/Card.gif) Orc Warrior Card | ![1213](img/1213.gif) High Orc |
 | ![1213](img/1213.gif) High Orc | ![Card](img/Card.gif) Orc Warrior Card - 10 <br> ![Card](img/Card.gif) Orc Baby Card - 5 <br> ![968](img/968.gif) Heroic Emblem - 100<br> ![7539](img/7539.gif) Poring Coin - 1000 | ![1087](img/1087.gif) Orc Hero |
 | ![1019](img/1019.gif) Pecopeco  | ![537](img/537.png) Pet Food - 10 <br> ![632](img/632.png) Fatty Chubby Earthworm - 3 <br> ![7101](img/7101.gif) Peco Peco Feather - 300 <br> ![Card](img/Card.gif) Peco Peco Card <br> ![522](img/522.png) Mastela Fruit - 10 | ![1369](img/1369.gif) Grand Peco |
 | ![1188](img/1188.gif) Bongun    | ![5367](img/5367.gif) Hyegun Hat [1] <br> ![7277](img/7277.gif) Munak Doll - 100 <br> ![7014](img/7014.gif) Old Portrait - 50 <br> ![Card](img/Card.gif) Yao Jun Card | ![1512](img/1512.gif) Yao Jun |

@@ -10,33 +10,35 @@ Poring Coins are not tied to an account or a character, you can sell them, excha
 
 ## Details
 
-**PC drop decreased from mobs:**  
-![Orc Zombie](img/1463.gif) Orc Zombie  
-![Thief Bug Female](img/1053.gif) Thief Bug Female  
-![Thief Bug Male](img/1054.gif) Thief Bug Male  
-![Familiar](img/1005.gif) Familiar  
+**PC drop decreased from mobs:**
 
-**PC drop removed from mobs:**  
-![Hydra](img/1068.gif) Hydra  
-![Thief Bug Egg](img/1048.gif) Thief Bug Egg  
-![Peco Peco Egg](img/Screenshot_2.png) Peco Peco Egg  
-![Ant Egg](img/Screenshot_3.png) Ant Egg  
-![Blue Plant](img/1079.gif) Blue Plant  
-![Green Plant](img/1080.gif) Green Plant  
-![Yellow Plant](img/1081.gif) Yellow Plant  
-![White Plant](img/1082.gif) White Plant  
-![Shining Plant](img/1083.gif) Shining Plant  
-![Black Mushroom](img/1084.gif) Black Mushroom  
-![Red Mushroom](img/1085.gif) Red Mushroom  
-![Thief Bug](img/1051.gif) Thief Bug  
-![Tarou](img/1175.gif) Tarou  
-![Plankton](img/1161.gif) Plankton  
+- ![Orc Zombie](img/1463.gif) Orc Zombie
+- ![Thief Bug Female](img/1053.gif) Thief Bug Female
+- ![Thief Bug Male](img/1054.gif) Thief Bug Male
+- ![Familiar](img/1005.gif) Familiar
+
+**PC drop removed from mobs:**
+
+- ![Hydra](img/1068.gif) Hydra
+- ![Thief Bug Egg](img/1048.gif) Thief Bug Egg
+- ![Peco Peco Egg](img/Screenshot_2.png) Peco Peco Egg
+- ![Ant Egg](img/Screenshot_3.png) Ant Egg
+- ![Blue Plant](img/1079.gif) Blue Plant
+- ![Green Plant](img/1080.gif) Green Plant
+- ![Yellow Plant](img/1081.gif) Yellow Plant
+- ![White Plant](img/1082.gif) White Plant
+- ![Shining Plant](img/1083.gif) Shining Plant
+- ![Black Mushroom](img/1084.gif) Black Mushroom
+- ![Red Mushroom](img/1085.gif) Red Mushroom
+- ![Thief Bug](img/1051.gif) Thief Bug
+- ![Tarou](img/1175.gif) Tarou
+- ![Plankton](img/1161.gif) Plankton
 
 ## Exchange
 
 Poring Coins can be exchanged for you by Lydia, she is in the main office of Prontera.
 
-![Lydia](img/Screenshot_2023-01-02_at_08.52.06.png)
+![Lydia](img/Screenshot_2023-01-02_at_08.52.06.png) <!-- style-ignore -->
 
 ### **Consumable items**
 
@@ -59,7 +61,7 @@ Poring Coins can be exchanged for you by Lydia, she is in the main office of Pro
 | ![Red Butterfly 5 Box](img/13853.gif)  **Red Butterfly 5 Box**   | A box containing 5 Red Butterfly Wing. Allows teleportation to any Arunafeltz city. Available cities are Rachel, and Veins. | 50 |
 | ![Gym Pass 10 Box](img/13710.png)  **Gym Pass 10 Box**          | A box containing 10 Gym Membership Cards.                                                                                                                                                    | 700  |
 | ![Infinite Flywing](img/12887.gif)  **Infinite Flywing**         | The wings cut from fly to be made into enchanted item. Enables character to move to random spot on map.                                                                                      | 700  |
-| ![602](img/602.gif) **Infinite Butterfly Wing** | An enchanted Infinite butterfly's wing that instantly sends its user to his Save Point when waved in the air. | 600 | 
+| ![602](img/602.gif) **Infinite Butterfly Wing** | An enchanted Infinite butterfly's wing that instantly sends its user to his Save Point when waved in the air. | 600 |
 | ![Speed Potion 10 Box](img/13995_1.png)  **Speed Potion 10 Box**    | A box containing 10 Speed Potions.                                                                                                                                                           | 5    |
 | ![Life Insurance](img/12209_1.png) **Life Insurance**          | If the character dies within the 30 minutes duration, no loss of EXP will be made. Corrected display supposed to be will not lose any experience the first time you KO'ed.                 | 3    |
 | ![Medium Life Potion](img/12459_1.png)  **Medium Life Potion**     | A small bottle of Yggdrasil Tree Sap that is effective in healing wounds. For 10 minutes, you regenerate 7% of your Maximum HP every 4 seconds. Can not be used while in Frenzy.            | 15   |

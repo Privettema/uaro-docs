@@ -1,4 +1,5 @@
 # Custom NPCs
+
 Classic MMORPG at heart, with a few handy NPCs to make your journey smoother while keeping things balanced.
 
 ## Main Office
@@ -77,11 +78,11 @@ Step inside the [Main Office](main-office.md) and you’ll find more to explore,
 | ![Super Novice Death Reset NPC](img/NPC/sn-death-reset.gif)<br>**Super Novice Reset** | `/navi prt_fild08 134/359` | **Lupita** lets Super Novices reset their death record for free, making it easy to shake off bad luck and continue the adventure with a clean slate. The reset also grants a 10 second Super Novice Spirit status (Super Novice and Super Baby only), long enough to swap into headgear (base 91+) or level 4 weapons (base 97+), which stay equipped afterwards. |
 | ![Guild Agent NPC](img/NPC/4_F_AGENTKAFRA.gif)<br>**Guild Agent** | `/navi prt_in 214/163` | Guild Bank NPC for zeny storage and transfers (will be located near WoE NPCs south of eastern Prontera inn).<br>  - Max 2 Billion zeny storage.<br> - Bank logs and permissions have moved out of the NPC — manage them per position via the leader-only Management menu in [`@guild`](commands.md#guild-commands).<br> - Members with bank access see the current balance when opening `@guild` |
 | ![Haruna NPC](img/NPC/JP_AIRI.gif)<br>**Haruna** | `/navi prt_in 214/163` | Added a 1 for 1 swap barter NPC for the following Daily Login items that previously weren't stackable (swapping will now stack these items properly). Located in East Prontera Inn near Inn Employee.<br> Elite Siege Supply Box (ID 14003)<br> Blue Butterfly Wing Box(5) (ID 13855)<br> Green Butterfly Wing Box(5) (ID 13851)<br> Red Butterfly Wing Box(5) (ID 13853). |
-| **Bill Doors** | `/navi prontera 100/253` | **Bill Doors** exchanges 1,000,000,000 zeny for a **1B Zeny Token** and back, letting you store zeny above the 2 billion carry cap as an item. |
+| **Bill Doors** | `/navi prontera 100/253` | **Bill Doors** exchanges 1,000,000,000z for a **1B Zeny Token** and back, letting you store zeny above the 2 billion carry cap as an item. |
 | **Gigantic Lance Forger** | `/navi prt_in 174/136` | Inside the Prontera weapon shop, the **Gigantic Lance Forger** forges the Lord Knight spear **Gigantic Lance** from an equipped +10 Trident [2] at a 50% success rate. On failure the Trident is destroyed, and refine level and cards are not carried over to the lance. |
 | ![Disguise Event NPC](img/NPC/disguise-event.gif)<br>**Disguise Event** | `/navi prontera 139/163` | The **Disguise Event NPC** turns into a random monster during the event. Shout its name to win Poring Coins. See [Auto Events](auto-events.md#disguise-event). |
 | ![Find the Mushroom NPC](img/NPC/mushroom-event.gif)<br>**Find the Mushroom** | `/navi prontera 142/228` | The **Find the Mushroom NPC** tells you whether the event is running. Black Mushrooms appear in a city and drop Poring Coins when killed. See [Auto Events](auto-events.md#find-the-mushroom-event). |
- 
+
 
 <!-- TEMPLATE // | ![Alt Text](img/name.gif)<br> **Functional Name** | `/navi map_name X/Y` | Description: includes actual NPC name, what is does, and what it costs if anything. Link out to other pages if relevant. | // END TEMPLATE -->
 

@@ -4,10 +4,7 @@
 
 Hunting Missions let you track down specific monsters for rewards including zeny, experience, and **Mission Points**.
 
-You’ll find **Hobota** in every inn, including the Prontera inn location at  
-`/navi prt_in 66/140`.
-
----
+You’ll find **Hobota** in every inn, including the Prontera inn location at `/navi prt_in 66/140`.
 
 ## How Missions Work
 
@@ -15,15 +12,14 @@ All missions:
 
 - Each mission assigns **three monsters** to hunt
 - There are **four difficulty levels**:
-  - Beginner  
-  - Intermediate  
-  - Advanced  
-  - Elite  
-  Higher difficulties feature stronger monsters and better rewards
+    - Beginner
+    - Intermediate
+    - Advanced
+    - Elite
+
+    Higher difficulties feature stronger monsters and better rewards
 - Missions can be taken **solo or with a party**
 - Each account can complete **one mission every 8 hours**
-
----
 
 ## Party Missions
 
@@ -33,8 +29,6 @@ For party-based missions:
 - The **Party Leader** accepts the mission
 - All party members receive **the same objectives and rewards**
 - To receive kill credit, party members must be **on the same screen** when the monster is defeated
-
----
 
 ## 🎉 Hunting Mission Party Bonus
 
@@ -50,19 +44,14 @@ Completing Hunting Missions in a party grants **additional Mission Points** base
 | 12 players | +6 points |
 | 8 players  | +4 points |
 
----
-
 ## Abandoning Missions
 
 If a mission doesn’t suit you, it can be abandoned for a fee:
 
-- **Solo:** 50,000 Zeny  
-- **Party:** 100,000 Zeny  
+- **Solo:** 50,000z
+- **Party:** 100,000z
 
-After abandoning a mission, you can immediately pick a new one.  
-For party missions, **all members must abandon** before the Party Leader can select a new mission.
-
----
+After abandoning a mission, you can immediately pick a new one. For party missions, **all members must abandon** before the Party Leader can select a new mission.
 
 ## Restrictions
 
@@ -74,16 +63,13 @@ Please keep the following rules in mind:
 4. Missions may be reset any number of times by paying the abandonment fee
 5. Monsters killed by party members **within your screen view** count toward your total
 
----
-
 ## Extra Notes
 
-- Leaving your party **does not cancel** your mission  
-  You may rejoin the same party or join a different one and continue progress
+- Leaving your party **does not cancel** your mission
+
+    You may rejoin the same party or join a different one and continue progress
 - Experience rewards **stack with all bonuses**, including weekend rates and Battle Manuals
 - Missions **do not expire** — you have unlimited time to complete them
-
----
 
 ## Mission Shop
 
@@ -116,6 +102,5 @@ Mission Points earned from Hunting Missions can be spent at the **Mission Shop**
 | ![Costume Majestic Goat of Dawn](img/Hunting_Mission/400124-costume-majestic-goat-of-dawn.png) | Costume Majestic Goat of Dawn | 1,200 Mission Points |
 | ![Costume Dark Lord Cloak](img/Hunting_Mission/480288-costume-dark-lord-cloak.png) | Costume Dark Lord Cloak | 1,500 Mission Points |-->
 
-If you’d like to see additional items in the Mission Shop, share your ideas in our  
-[Discord #server-suggestions channel](https://discord.com/channels/702960460168953946/1056606733218365512).
+If you’d like to see additional items in the Mission Shop, share your ideas in our [Discord #server-suggestions channel](https://discord.com/channels/702960460168953946/1056606733218365512).
 
