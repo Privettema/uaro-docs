@@ -16,7 +16,6 @@ ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 IGNORE = "style-ignore"
 MAX_TABLE_LINE = 120
-NO_UPDATED = {"all-pages.md", "all-patch-notes.md"}  # generated listings
 
 MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December"
 UK_WORDS = ("colour", "armour", "favour", "honour", "behaviour", "centre", "cancelled", "neighbour", "labour",
@@ -41,6 +40,9 @@ LINE_RULES = [
 def strip_inline(line):
     line = re.sub(r"<!--.*?-->", "", line)
     return re.sub(r"`[^`]*`", "", line)
+
+
+NO_UPDATED = {"all-pages.md", "all-patch-notes.md"}  # generated listings
 
 
 def lint_file(path):
