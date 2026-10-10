@@ -1,3 +1,6 @@
+# Build Manager NPC
+
+The Build Manager NPC saves and loads stat and skill builds, and stands next to the reset NPC in the Main Office.
 
 !!! success "New Build Manager NPC"
     Save and load pre-determined stat/skill builds! Conveniently located next to the reset NPC

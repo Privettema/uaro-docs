@@ -1,5 +1,7 @@
 # Server Info
 
+Rates, server features and technical details for uaRO: World of Your Dream.
+
 ## Rates
 
 ### Basic Rates

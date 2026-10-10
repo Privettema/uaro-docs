@@ -6,6 +6,8 @@
 
 ![Halloween Event Cover](img/Halloween/halloween-cover.webp)
 
+The Halloween Event 2025 took place in Niflheim, with a main quest, daily quests, event monsters, gacha rewards and exclusive costumes and pets.
+
 ## Quick Start
 
 - **Location:** Niflheim
