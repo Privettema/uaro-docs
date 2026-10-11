@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+updated: 2026-07-21
 ---
 
 # ⚔️ PvP Arena
@@ -9,8 +10,6 @@ hide:
 
 **PvP Arena** is a daily tournament system where players compete for Arena Coins, weekly ranking
 rewards, and eternal glory in the Hall of Fame. Four sessions run every day with rotating maps.
-
----
 
 ## Schedule
 
@@ -22,8 +21,6 @@ rewards, and eternal glory in the Hall of Fame. Four sessions run every day with
 | **4** | `22:00` | 45 min |
 
 Maps rotate each session.
-
----
 
 ## Participation
 
@@ -38,8 +35,6 @@ Maps rotate each session.
 | **Re-entry Delay** | `30 seconds` after death |
 
 **Commands:** `@pvparena` to view arena status and schedule, `@arenarank` to check rankings
-
----
 
 ## Scoring
 
@@ -59,15 +54,11 @@ Maps rotate each session.
     All matches and player data are tracked and logged. Despite the anti-abuse system, any attempt
     to bypass or exploit it without reporting will result in a **permanent ban** — no exceptions.
 
----
-
 ## <img src="../img/7960.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Arena Coins
 
 - Earn `1` coin per `2` points (minimum `15` coins guaranteed)
 - Session winner receives `+20` bonus coins
 - Delivered via **RODEX** after each session
-
----
 
 ## Weekly Season Rewards
 

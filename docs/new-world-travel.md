@@ -1,3 +1,7 @@
+---
+updated: 2026-10-04
+---
+
 # New World Travel
 
 Cat Hand Services is the teleport network for the New World. It replaces the [Warper](warper-system.md) for

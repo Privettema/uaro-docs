@@ -1,3 +1,7 @@
+---
+updated: 2026-10-05
+---
+
 # Scaraba Hole
 
 Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen Scaraba** and a handful of drops found nowhere else in the New World.
@@ -40,10 +44,10 @@ How [Imperial Spear](item-changes.md#imperial-spear), [Imperial Guard](item-chan
 |-|-|-|-|
 | Forbidden Grimoire [1] | `28984` | Sage shield, Def 5, Level 90<br>ASPD +5%, INT +2<br>At +7 or higher, increases damage of Magic Elemental Earth Skills by 20%<br>With a Death Note, +1% MATK per refine of the Death Note and -10% cast time at +10 | Two-Horned Scaraba (0.05%) |
 | Ghost Whisper [1] | `400396` | Assassin headgear, Def 3, Level 90<br>STR +3<br>At +7 or higher, +10% Meteor Assault damage<br>At +9 or higher, STR +2 and a further +10% Meteor Assault damage | Antler Scaraba (0.05%) |
-| <img src="../img/1433.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Imperial Spear [1] | `1433` | Crusader spear, Atk 220, Level 85<br>+20% Shield Boomerang and Shield Charge damage, plus +1% each per refine | One-Horned Scaraba (0.10%) |
-| <img src="../img/2153.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Imperial Guard [1] | `2153` | Crusader shield, Def 6, Level 85<br>MDEF +5<br>+20% Shield Chain damage, plus +1% per refine<br>At +8 or higher, halves Shield Chain cast time<br>With Imperial Spear, Shield Chain costs 20 less SP | Rake Scaraba Egg (0.05%) |
-| <img src="../img/15000.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Bone Plate | `15000` | Armor<br>Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) | Rake Scaraba (0.10%) |
-| <img src="../img/4505.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Scaraba Card | `4505` | Card | All four adult Scaraba (0.05%) |
+| <img src="../img/1433.png" alt=""> Imperial Spear [1] | `1433` | Crusader spear, Atk 220, Level 85<br>+20% Shield Boomerang and Shield Charge damage, plus +1% each per refine | One-Horned Scaraba (0.10%) |
+| <img src="../img/2153.png" alt=""> Imperial Guard [1] | `2153` | Crusader shield, Def 6, Level 85<br>MDEF +5<br>+20% Shield Chain damage, plus +1% per refine<br>At +8 or higher, halves Shield Chain cast time<br>With Imperial Spear, Shield Chain costs 20 less SP | Rake Scaraba Egg (0.05%) |
+| <img src="../img/15000.png" alt=""> Bone Plate | `15000` | Armor<br>Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) | Rake Scaraba (0.10%) |
+| <img src="../img/4505.png" alt=""> Scaraba Card | `4505` | Card | All four adult Scaraba (0.05%) |
 
 ## Queen Scaraba
 
@@ -55,9 +59,9 @@ How [Imperial Spear](item-changes.md#imperial-spear), [Imperial Guard](item-chan
 
 | Item | Item ID | Description | Rate |
 |-|-|-|-|
-| <img src="../img/6326.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Piece of Queen's Wing | `6326` | Miscellaneous | 35% |
-| <img src="../img/1191.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Alca Bringer [2] | `1191` | Two-handed sword, Atk 280, Knight and Crusader, Level 85<br>Unbreakable<br>ASPD +1 per 2 refine levels | 15% |
-| <img src="../img/2364.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Meteor Plate [1] | `2364` | Armor, Def 10, Level 55<br>30% Stun and Freeze resistance | 15% |
-| <img src="../img/1196.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Two-Handed Chrome Metal Sword [2] | `1196` | Atk 280<br>Unbreakable<br>AGI +3<br>MAX HP -10% | 6% |
-| <img src="../img/25731.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Zelunium | `25731` | An unusual mineral that hums faintly when held. Its purpose is not yet known | 1.5% |
-| <img src="../img/4507.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Queen Scaraba Card | `4507` | Inflicts 30% more damage against Scaraba monsters<br>MDEF -30<br>Flee -30<br>Deals more magical damage depending on the target's magic defense<br>Small chance of dropping a Scaraba Summoning Scroll (`12806`) when defeating any monster | 0.01% |
+| <img src="../img/6326.png" alt=""> Piece of Queen's Wing | `6326` | Miscellaneous | 35% |
+| <img src="../img/1191.png" alt=""> Alca Bringer [2] | `1191` | Two-handed sword, Atk 280, Knight and Crusader, Level 85<br>Unbreakable<br>ASPD +1 per 2 refine levels | 15% |
+| <img src="../img/2364.png" alt=""> Meteor Plate [1] | `2364` | Armor, Def 10, Level 55<br>30% Stun and Freeze resistance | 15% |
+| <img src="../img/1196.png" alt=""> Two-Handed Chrome Metal Sword [2] | `1196` | Atk 280<br>Unbreakable<br>AGI +3<br>MAX HP -10% | 6% |
+| <img src="../img/25731.png" alt=""> Zelunium | `25731` | An unusual mineral that hums faintly when held. Its purpose is not yet known | 1.5% |
+| <img src="../img/4507.png" alt=""> Queen Scaraba Card | `4507` | Inflicts 30% more damage against Scaraba monsters<br>MDEF -30<br>Flee -30<br>Deals more magical damage depending on the target's magic defense<br>Small chance of dropping a Scaraba Summoning Scroll (`12806`) when defeating any monster | 0.01% |

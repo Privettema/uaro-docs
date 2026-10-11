@@ -1,4 +1,10 @@
+---
+updated: 2026-09-26
+---
+
 # Server Info
+
+Rates, server features and technical details for uaRO: World of Your Dream.
 
 ## Rates
 
@@ -40,7 +46,7 @@
 - [Enhanced Cute Pet System](pet-system.md)
 - [Hunting Missions](hunting-mission.md)
 - [Quality of Life Improvements](improvements.md)
-- [Class Balancing](class-changes.md) 
+- [Class Balancing](class-changes.md)
 - [What's different from the official game](whats-different.md)
 - Balanced Renewal dungeons [Horror Toy Factory](horror-toy-factory.md), [Old Glast Heim](old-glast-heim.md), and [Biolabs 4](biolab4.md)
 - New World: [El Dicastes](el-dicastes.md)
@@ -48,7 +54,7 @@
 - Active Battlegrounds with queuing system
 - Treasure Hunter Guild
 - Lots of classic quests
-- Regular ongoing maintenance 
+- Regular ongoing maintenance
 - Lively, engaged community every day!
 
 ## Technical
@@ -61,7 +67,7 @@
 ## Details
 
 ### About Weekend Rates
-- Runs Saturday 00:00 to Sunday 23:59 server time 
+- Runs Saturday 00:00 to Sunday 23:59 server time
 - Increases EXP earned from [Repeatable EXP Quests](repeatable-quests.md) and Quests
 - Does not increase EXP earned from [Hunting Missions](hunting-mission.md)
 
@@ -70,8 +76,8 @@
 - Increases EXP earned from [Repeatable EXP Quests](repeatable-quests.md) and Quests
 - Does not increase EXP earned from [Hunting Missions](hunting-mission.md)
 - Bonuses EXP earned stacks with Weekend Rates
-- Manuals cannot be traded, dropped, mailed, put in cart, stored in guild storage, or sold to NPC 
-  
+- Manuals cannot be traded, dropped, mailed, put in cart, stored in guild storage, or sold to NPC
+
 #### Battle Manual (`@ii 12208`)
 - Increases **Base *and* Job EXP** earned by 50%
 - Earned from [Novice Grounds](remastered-novice-location.md)
@@ -83,7 +89,7 @@
 - Job EXP is not affected
 - Earned from [Attendance Rewards](attendance-system.md)
 - Can be stored in personal storage
-  
+
 #### Field Manual 100% (`@ii 14533`)
 - Increases **Base EXP** earned by 100%
 - Job EXP is not affected

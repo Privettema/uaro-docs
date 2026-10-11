@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Battlegrounds
 
 Battlegrounds (BG) are team-based PvP matches where two teams compete to complete objectives and earn **Valor Badges**.
@@ -13,8 +17,6 @@ Join Battlegrounds from the **Battlegrounds NPC** in Prontera: `/navi prontera 1
 !!! warning
     **Use caution when joining with `@bg`** — you will be automatically teleported once a match starts.
 
----
-
 ## BG Happy Hour
 
 Battlegrounds have **3 daily Happy Hours** (Server Time - GMT):
@@ -27,8 +29,6 @@ During Happy Hour, **Valor Badge rewards are doubled**. Use Happy Hour to get th
 
 !!! note
     Reminder you can check the current server time with `@time`.
-
----
 
 ## Battleground Modes
 
@@ -120,8 +120,6 @@ Deal more damage to the **Anomaly** than the opposing team.
 * The team that deals the most total damage to the Anomaly wins.
 * PvP is enabled between the teams.
 
----
-
 ## Rewards
 
 Battlegrounds reward **Valor Badges** (item ID `7829`) based on the match result.
@@ -144,15 +142,11 @@ The reward depends on when you joined the match:
 
 Happy Hour and Maroll's Blessing increase these rewards.
 
----
-
 ## Maroll's Blessing
 
 **Maroll's Blessing** provides a reward bonus for players who have not participated in Battlegrounds for a while.
 
 If you have been away from BG for some time, you may receive **additional rewards** when your match ends.
-
----
 
 ## BG Shop
 
@@ -326,8 +320,6 @@ The **BG Shop** is available through the Battlegrounds NPC in Prontera. Most gea
     | BG Rental Monk (7 Day) | 100,000z |
     | BG Rental Priest (7 Day) | 100,000z |
 
----
-
 ## Battleground Changes
 
 | Change | Description |
@@ -349,8 +341,6 @@ The **BG Shop** is available through the Battlegrounds NPC in Prontera. Most gea
 | ![mg_stonecurse](img/Class_Changes/mg_stonecurse.png){ width="24" } Stone Curse | Dispelled automatically when you leave a battleground. |
 | ![i_decreaseagi](img/Class_Changes/i_decreaseagi.png){ width="24" } Decrease AGI | Dispelled automatically when you leave a battleground. |
 | Entering and leaving | You are fully dispelled when you enter and when you leave. |
-
----
 
 ## BG Announcements
 

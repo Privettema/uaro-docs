@@ -1,3 +1,7 @@
+---
+updated: 2026-09-27
+---
+
 # Repeatable Quests
 
 Field NPCs across Rune-Midgard will trade you EXP for the loot you've gathered or the monsters you've cleared, as many times as you like. Pick up the quest on your way out to a hunting spot and it pays you back for the grind.

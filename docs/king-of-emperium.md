@@ -1,10 +1,12 @@
+---
+updated: 2026-09-22
+---
+
 # King of Emperium (KoE)
 
 **King of Emperium (KoE)** is a guild-based PvP event where guilds compete for control of the Emperium and the title of King of Emperium.
 
 The main objective is to hold the Emperium for the longest duration during the event.
-
----
 
 ## Schedule
 
@@ -18,8 +20,6 @@ There is no KoE on Sundays. There is a 5 minute timer announcement prior to the 
 !!! note
     Reminder you can check the current server time with `@time`.
 
----
-
 ## Participation
 
 To participate, speak with the **Sir Albrecht** near the Prontera equipment shop.
@@ -31,8 +31,6 @@ To participate, speak with the **Sir Albrecht** near the Prontera equipment shop
 - You must be a guild member
 - Maximum **12 players (1 party)**
 - You must remain inside the arena for **at least 180 seconds** to receive rewards
-  
----
 
 ## Arena Mechanics
 
@@ -44,7 +42,7 @@ To participate, speak with the **Sir Albrecht** near the Prontera equipment shop
 - **BG consumables** are allowed
 - Respawn delay after death: **30 seconds**
 - Emergency Call is available with a 10-minute cooldown
-- Ownership is reset every KoE 
+- Ownership is reset every KoE
 
 ### Barricade System
 
@@ -53,8 +51,6 @@ To participate, speak with the **Sir Albrecht** near the Prontera equipment shop
 - Flags are placed inside the arena, allowing the owning guild to pass through the walls (with cooldown)
 - For the owner's Emperium to respawn, the opposing guild must destroy **all barricades**
 
----
-
 ## Winning Condition
 
 - The guild that holds the Emperium for the **longest continuous time** becomes the King of Emperium
@@ -62,8 +58,6 @@ To participate, speak with the **Sir Albrecht** near the Prontera equipment shop
 - Defense must be **continuous**
 - If the current Emperium holder at the end of the event is not the longest defender, ownership will transfer to the guild with the longest continuous defense time
 - You can check the timer using the command `@koerank`
-
----
 
 ## Rewards
 
@@ -76,8 +70,6 @@ Rewards are distributed as follows:
 Rewards are handed out **once per account** and **once per hardware ID**, so alts can no longer collect the same placement twice within the same match.
 
 Rewards will be automatically mailed to winners after the event ends.
-
----
 
 ## KoE Rankings
 

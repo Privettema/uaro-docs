@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Class Changes
 
 uaRO uses the pre-renewal class system, with selected adjustments to skills and mechanics for balance and smoother gameplay. These changes preserve the classic feel while improving the overall experience.
@@ -66,7 +70,7 @@ Status effects that behave differently from the official game.
 |-|-|-|
 | Shield Swapping | Swapping a shield while a skill is active cancels the skill. | Swapping shields no longer interrupts the skill. Removing the shield still cancels the skill. |
 | ![Devotion](img/Class_Changes/cr_devotion.gif) Devotion | Usable on party members, including non-guild members.<br>The status icon shows on the devoted player only.<br>No "+" marker in the party list. | Cannot be placed on non-guild members outside of Battlegrounds.<br>The status icon shows on both the caster and the devoted player.<br>A "+" shows next to devoted players in the [party menu](improvements.md#party-menu-buff-letters). |
-| ![Grand Cross](img/Class_Changes/cr_grandcross.gif) Grand Cross | Hits 1-5 times, depending on the position and movement of the enemy. Each monster on a single cell reduces the number of hits by 1 (to a minimum of one hit to one monster). | Mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range. |
+| ![Grand Cross](img/Class_Changes/cr_grandcross.gif) Grand Cross | Hits 1-5 times, depending on the position and movement of the enemy. Each monster on a single cell reduces the number of hits by 1 (to a minimum of one hit to one monster). Does not trigger HP leech effects. | Mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range. Triggers HP leech effects, such as Hunter Fly cards. |
 | Holy Cross | No bonus damage with a two-handed spear. | Deals 2x damage with a two-handed spear. |
 | ![Shield Reflect](img/Class_Changes/cr_reflectshield.gif) Shield Reflect | Returns a percentage of the damage dealt to you back to the enemy, including Boss-type monsters (MVPs). | Reflect damage no longer affects Boss-type monsters (MVPs). |
 
@@ -306,10 +310,6 @@ No other changes to Hunter skills.
 
 </div>
 
-
-
----
-
 ## Extended Classes
 Many previously unequippable items are now accessible to Extended Classes: [see the full list](item-changes.md#extended-classes).
 
@@ -416,6 +416,3 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
 | Maximum Stats | Adopted characters cannot raise a stat past 80 base. | Maximum stat of 99. |
 
 </div>
-
-## Reporting Issues
-Find an error or some item not mentioned here? Report it in [#wiki-errors on Discord](https://discord.com/channels/702960460168953946/1456450631584846011).

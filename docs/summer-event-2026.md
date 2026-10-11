@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+updated: 2026-10-03
 ---
 
 # Summer Festival 2026
@@ -17,16 +18,12 @@ become a **Summer Hero** around Morroc, hunt down hidden Porings, band together 
 **Beat the Heat**, and spend your **Summer Festival Coins** at the wandering merchant for
 exclusive costumes, summer pets, and supplies.
 
----
-
 ## Event Currency
 
 | Currency | Used For |
 |----------|----------|
 | ☀️ **Summer Festival Coin** | The main event currency - spend it at the Summer Festival Merchant |
 | 🧃 **Cold Watermelon Juice** | A refreshing summer treat earned alongside your coins |
-
----
 
 ## Activities
 
@@ -65,8 +62,6 @@ they all reward the same coins.
 
 </div>
 
----
-
 ### Daily Supply Run
 
 ![Daily Supply Run](img/summer_supply_run.webp){ .wiki-screenshot }
@@ -98,8 +93,6 @@ field monsters. Bring them back for coins.
 | 6 | Brasilis Field | `22` Coin + `5` Juice |
 | 7 | Niflheim Fields | `25` Coin + `5` Juice |
 
----
-
 ### Yen's Summer Adventure
 
 There are `8` tasks. Finish all eight to earn the title of **Summer Hero**.
@@ -114,7 +107,7 @@ There are `8` tasks. Finish all eight to earn the title of **Summer Hero**.
 | Furious Mummies | Volunteer Researcher `/navi morocc 60/287` | Defeat `6` Furious Mummies |
 | Hungry Cats | Yen the Explorer `/navi morocc 57/136` | Feed `3` Stray Cats nearby |
 | A Little Errand | Little Girl `/navi morocc 113/92` | Buy some juice for `300z` |
-| Old Man's Project | Old Grandpa `/navi morocc 273/237` | Hand over `24` <img src="../img/916.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Feather of Birds + `24` <img src="../img/907.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Resin |
+| Old Man's Project | Old Grandpa `/navi morocc 273/237` | Hand over `24` <img src="../img/916.gif" alt=""> Feather of Birds + `24` <img src="../img/907.png" alt=""> Resin |
 | The Sisters' Tale | Elira / Mavelle / Sariyah `/navi morocc 204/286` (area spans `204-209, 286-288`) | Hear out their full story |
 | Peco Problem | Desert Guard `/navi morocc 177/39` | Defeat `15` Peco Peco Eggs |
 | Summer Trivia | Scholar `/navi morocc 133/268` | Answer a `10`-question quiz |
@@ -122,8 +115,6 @@ There are `8` tasks. Finish all eight to earn the title of **Summer Hero**.
 
 !!! tip "One at a Time"
     Finish one task before picking up the next.
-
----
 
 ### The Poring Journal
 
@@ -145,8 +136,6 @@ Progress is saved to your account, so you can hunt at your own pace.
 !!! info "No Map, No Hints"
     Sharp eyes win big here - the locations are yours to discover. 🐷
 
----
-
 ### The Ghostring Journal
 
 **Hard mode.** After finding all `64` Little Porings in the Poring Journal, the
@@ -162,8 +151,6 @@ Find them all to receive by mail:
 !!! info "One Completion Per Account"
     The Ghostring Journal can be completed **once per account**.
 
----
-
 ### Beat the Heat
 
 A **server-wide community event**. **Sunrings** appear in field maps all over the world,
@@ -173,7 +160,7 @@ of them, **everyone online receives a random blessing of the sun for one full ho
 Each Sunring you defeat also has a chance to drop **Summer Festival Coins** and
 **Cold Watermelon Juice** - up to `50` of each **per account, per day**.
 
-| <img src="../img/sunoblessing.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> The Sun's Blessing (one at random) |
+| <img src="../img/sunoblessing.png" alt=""> The Sun's Blessing (one at random) |
 |------------------------------------|
 | +2 to all stats |
 | +15 movement speed |
@@ -182,8 +169,6 @@ Each Sunring you defeat also has a chance to drop **Summer Festival Coins** and
 
 !!! note "Blessing Downtime"
     The blessing takes a rest during PvP, WoE, and Battlegrounds.
-
----
 
 ### Festival Spirit
 
@@ -197,8 +182,6 @@ account** for each.
 | King of Emperium | `15` Coin + `15` Juice |
 | Instances | `50` Coin + `50` Juice |
 
----
-
 ### Furious Phreeoni
 
 Talk to the **Morroc Soldier** on `/navi moc_fild12 161/232`.
@@ -211,8 +194,6 @@ summons Sandman waves.
 | **Party** | Required - the leader starts the run |
 | **Limit** | Once per week per account |
 | **Reward** | `25` Coin + `25` Juice + `1` Wanderer's Compass |
-
----
 
 ## The Summer Festival Merchant
 
@@ -242,25 +223,23 @@ His **stock rotates**, and he trades only in **Summer Festival Coins**.
 
     | Item | Price (☀️ Coins) |
     |------|------------------|
-    | <img src="../img/12016.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Speed Potion | `3` |
-    | <img src="../img/12209_1.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Insurance | `5` |
-    | <img src="../img/603.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Old Blue Box | `10` |
-    | <img src="../img/12208.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Battle Manual | `15` |
-    | <img src="../img/617.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Old Violet Box | `30` |
-    | <img src="../img/7621.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Token of Siegfried | `75` |
-    | <img src="../img/400953.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Summer Sunglasses *(costume)* | `120` |
+    | <img src="../img/12016.png" alt=""> Speed Potion | `3` |
+    | <img src="../img/12209_1.png" alt=""> Insurance | `5` |
+    | <img src="../img/603.gif" alt=""> Old Blue Box | `10` |
+    | <img src="../img/12208.gif" alt=""> Battle Manual | `15` |
+    | <img src="../img/617.png" alt=""> Old Violet Box | `30` |
+    | <img src="../img/7621.gif" alt=""> Token of Siegfried | `75` |
+    | <img src="../img/400953.png" alt=""> Summer Sunglasses *(costume)* | `120` |
     | Happy Summer Sun Visor *(costume)* | `120` |
-    | <img src="../img/5474.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> AFK Hat *(costume)* | `140` |
-    | <img src="../img/12103.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Bloody Branch | `200` |
+    | <img src="../img/5474.png" alt=""> AFK Hat *(costume)* | `140` |
+    | <img src="../img/12103.gif" alt=""> Bloody Branch | `200` |
     | Forest Summer Vacation *(costume)* | `250` |
     | Brownie Egg *(pet)* | `250` |
-    | <img src="../img/12210.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Bubble Gum | `300` |
-    | <img src="../img/20548.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Popping Poring Aura *(costume)* | `350` |
-    | <img src="../img/480321.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> Surf Board *(costume)* | `400` |
+    | <img src="../img/12210.png" alt=""> Bubble Gum | `300` |
+    | <img src="../img/20548.png" alt=""> Popping Poring Aura *(costume)* | `350` |
+    | <img src="../img/480321.png" alt=""> Surf Board *(costume)* | `400` |
     | Summer Egg *(pet)* | `500` |
     | **Surf Board Poring** *(costume - grand prize)* | `500` |
-
----
 
 ## Event Mobs
 

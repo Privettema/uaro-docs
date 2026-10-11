@@ -1,3 +1,7 @@
+---
+updated: 2026-09-17
+---
+
 # Modified Sales Prices
 
 Sale prices for various items are decreased for economic purposes to prevent excessive zeny generation.

@@ -1,3 +1,7 @@
+---
+updated: 2026-06-11
+---
+
 # Roulette System is Live!
 
 !!! success "New Feature"
