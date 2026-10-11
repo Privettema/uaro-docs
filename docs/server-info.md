@@ -4,6 +4,8 @@ updated: 2026-09-26
 
 # Server Info
 
+Rates, server features and technical details for uaRO: World of Your Dream.
+
 ## Rates
 
 ### Basic Rates

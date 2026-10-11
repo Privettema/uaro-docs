@@ -28,26 +28,62 @@ def _plain(text):
 
 
 def _intro(markdown):
-    """First prose paragraph after the H1, or None if the page opens with something else."""
+    """First prose paragraph after the H1, or None if the page opens with something else.
+
+    Leading images, comments, admonition boxes and layout lines are skipped, so a page that opens with a banner image
+    or an "Event concluded" box still gets the paragraph below it. Headings, tables and lists end the search.
+    """
     lines = markdown.split("\n")
     start = next((i for i, line in enumerate(lines) if line.startswith("# ")), None)
     if start is None:
         return None
     paragraph = []
+    in_admonition = False
+    in_comment = False
     for line in lines[start + 1:]:
         stripped = line.strip()
-        if not stripped or stripped.startswith("<!--"):
-            if paragraph:
-                break
+        if in_comment:
+            in_comment = "-->" not in stripped
             continue
-        if stripped[0] in "#!<|>-*`{:" or line[0] in " \t" or stripped[:2].isdigit() or stripped[:3] == "---":
+        if stripped.startswith("<!--"):
+            in_comment = "-->" not in stripped
+            continue
+        if not stripped:
+            if paragraph:
+                if len(_plain(" ".join(paragraph))) >= MIN_LENGTH:
+                    break
+                paragraph = []  # just a label or the restated title: keep looking
+            continue
+        if stripped[:3] in ("!!!", "???"):
+            in_admonition = True
+            continue
+        if in_admonition:
+            if line[0] in " \t":
+                continue
+            in_admonition = False
+        if not paragraph and (re.match(r"^!\[[^\]]*\]\([^)]*\)(\{[^}]*\})?$", stripped) or stripped[0] in "<{"):
+            continue  # a lone image or layout line before the text
+        if not paragraph and re.match(r"^#{2,6} ", stripped):
+            continue  # a section heading straight under the title; the text under it is still the intro
+        if stripped[0] == ">":
+            stripped = stripped.lstrip("> ").strip()
+            if not stripped:
+                continue
+        if (stripped[0] in "#|`:" or line[0] in " \t" or stripped[:3] == "---" or stripped[:2].isdigit()
+                or re.match(r"^[-*+] ", stripped)):
             break
         paragraph.append(stripped)
     return _plain(" ".join(paragraph)) if paragraph else None
 
 
 def _sentence(text):
-    first = re.split(r"(?<![eE]\.[gG]\.)(?<![iI]\.[eE]\.)(?<=[.!?])\s", text, maxsplit=1)[0]
+    """The first sentence, plus the next ones while it is too short to be a useful description."""
+    parts = re.split(r"(?<![eE]\.[gG]\.)(?<![iI]\.[eE]\.)(?<=[.!?])\s", text)
+    first = parts[0]
+    for extra in parts[1:]:
+        if len(first) >= MIN_LENGTH:
+            break
+        first = f"{first} {extra}"
     if len(first) > MAX_LENGTH:
         first = first[:MAX_LENGTH].rsplit(" ", 1)[0].rstrip(",;:") + "…"
     return first

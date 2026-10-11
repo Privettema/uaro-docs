@@ -149,6 +149,7 @@ hooks:
   - hooks/patch_notes.py
   - hooks/page_meta.py
   - hooks/seo.py
+  - hooks/search_boost.py
   - hooks/toc.py
 
 # Markdown extensions
