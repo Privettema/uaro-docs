@@ -1,11 +1,14 @@
 # Pet data for docs/pet-system.md. Edit this file, not the tables on the page: hooks/pets.py builds them.
 # kind: base = pet as tamed; evolved = pet reached by evolution (bonus lists intimacy levels).
-# id is the mob ID, icons are paths under docs/img/.
+# id is the mob ID, icons are paths under docs/img/. level and hp (Hercules, pre-renewal then renewal) order the list;
+# a pet without them is placed by its evolutions, or last.
 # Default food is Pet Food (537) and is left out. Only list a food when it differs.
 # Auto-feed: evolved pets and pets with no evolution can; evolvable base pets cannot unless `autofeed: true`.
 pets:
 - name: Poring
   id: 1002
+  level: 1
+  hp: 50
   kind: base
   icon: 1725.gif
   food:
@@ -28,6 +31,8 @@ pets:
     icon: Pet_System/9001.png
 - name: Drops
   id: 1113
+  level: 3
+  hp: 55
   kind: base
   icon: 1113.gif
   food:
@@ -50,6 +55,8 @@ pets:
     icon: Pet_System/9002.png
 - name: Poporing
   id: 1031
+  level: 14
+  hp: 344
   kind: base
   icon: 1031.gif
   food:
@@ -72,6 +79,8 @@ pets:
     icon: Pet_System/9003.png
 - name: Lunatic
   id: 1063
+  level: 3
+  hp: 60
   kind: base
   icon: 1063.gif
   food:
@@ -94,6 +103,8 @@ pets:
     icon: Pet_System/9004.png
 - name: Picky
   id: 1049
+  level: 3
+  hp: 80
   kind: base
   icon: 1049.gif
   food:
@@ -116,6 +127,8 @@ pets:
     icon: Pet_System/9005.png
 - name: Chonchon
   id: 1011
+  level: 4
+  hp: 67
   kind: base
   icon: Chonchon.gif
   taming:
@@ -134,6 +147,8 @@ pets:
     icon: Pet_System/9006.png
 - name: Steel Chonchon
   id: 1042
+  level: 17
+  hp: 530
   kind: base
   icon: Steel_Chonchon.gif
   food:
@@ -156,6 +171,8 @@ pets:
     icon: Pet_System/9007.png
 - name: Hunter Fly
   id: 1035
+  level: 42
+  hp: 5242
   kind: base
   icon: Hunter_Fly.gif
   food:
@@ -178,6 +195,8 @@ pets:
     icon: Pet_System/9008.png
 - name: Savage Babe
   id: 1167
+  level: 7
+  hp: 182
   kind: base
   icon: 1727.gif
   taming:
@@ -196,6 +215,8 @@ pets:
     icon: Pet_System/9009.png
 - name: Baby Desert Wolf
   id: 1107
+  level: 9
+  hp: 164
   kind: base
   icon: 1107.gif
   taming:
@@ -214,6 +235,8 @@ pets:
     icon: Pet_System/9010.png
 - name: Rocker
   id: 1052
+  level: 9
+  hp: 198
   kind: base
   icon: 1052.gif
   taming:
@@ -232,6 +255,8 @@ pets:
     icon: Pet_System/9011.png
 - name: Spore
   id: 1014
+  level: 16
+  hp: 510
   kind: base
   icon: 1014.gif
   taming:
@@ -250,6 +275,8 @@ pets:
     icon: Pet_System/9012.png
 - name: Poison Spore
   id: 1077
+  level: 19
+  hp: 665
   kind: base
   icon: 1077.gif
   taming:
@@ -268,6 +295,8 @@ pets:
     icon: Pet_System/9013.png
 - name: PecoPeco
   id: 1019
+  level: 19
+  hp: 531
   kind: base
   icon: 1019.gif
   taming:
@@ -286,6 +315,8 @@ pets:
     icon: Pet_System/9014.png
 - name: Smokie
   id: 1056
+  level: 18
+  hp: 641
   kind: base
   icon: 1056.gif
   taming:
@@ -304,6 +335,8 @@ pets:
     icon: Pet_System/9015.png
 - name: Yoyo
   id: 1057
+  level: 21
+  hp: 879
   kind: base
   icon: 1057.gif
   food:
@@ -326,6 +359,8 @@ pets:
     icon: Pet_System/9016.png
 - name: Orc Warrior
   id: 1023
+  level: 24
+  hp: 1400
   kind: base
   icon: 1023.gif
   taming:
@@ -344,6 +379,8 @@ pets:
     icon: Pet_System/9017.png
 - name: Munak
   id: 1026
+  level: 30
+  hp: 2872
   kind: base
   icon: 1026.gif
   taming:
@@ -362,6 +399,8 @@ pets:
     icon: Pet_System/9018.png
 - name: Dokebi
   id: 1110
+  level: 33
+  hp: 2697
   kind: base
   icon: 1110.gif
   taming:
@@ -380,6 +419,8 @@ pets:
     icon: Pet_System/9019.png
 - name: Sohee
   id: 1170
+  level: 33
+  hp: 5628
   kind: base
   icon: 1170.gif
   taming:
@@ -398,6 +439,8 @@ pets:
     icon: Pet_System/9020.png
 - name: Isis
   id: 1029
+  level: 47
+  hp: 7003
   kind: base
   icon: 1029.gif
   taming:
@@ -416,6 +459,8 @@ pets:
     icon: Pet_System/9021.png
 - name: Green Petite
   id: 1155
+  level: 44
+  hp: 6881
   kind: base
   icon: 1155.gif
   taming:
@@ -434,6 +479,8 @@ pets:
     icon: Pet_System/9022.png
 - name: Deviruchi
   id: 1109
+  level: 46
+  hp: 6666
   kind: base
   icon: 1109.gif
   food:
@@ -456,6 +503,8 @@ pets:
     icon: Pet_System/9023.png
 - name: Baphomet Jr.
   id: 1101
+  level: 50
+  hp: 8578
   kind: base
   icon: 1101.gif
   food:
@@ -478,6 +527,8 @@ pets:
     icon: Pet_System/9024.png
 - name: Bongun
   id: 1188
+  level: 32
+  hp: 3520
   kind: base
   icon: 1188.gif
   taming:
@@ -496,6 +547,8 @@ pets:
     icon: Pet_System/9025.png
 - name: Zealotus
   id: 1200
+  level: 63
+  hp: 18300
   kind: base
   icon: 1200.gif
   food:
@@ -514,6 +567,8 @@ pets:
     icon: Pet_System/9026.png
 - name: Alice
   id: 1275
+  level: 62
+  hp: 10000
   kind: base
   icon: 1275.gif
   food:
@@ -532,6 +587,8 @@ pets:
     icon: Pet_System/9027.png
 - name: Dullahan
   id: 1504
+  level: 62
+  hp: 12437
   kind: base
   icon: 1504.gif
   food:
@@ -558,6 +615,8 @@ pets:
     icon: Pet_System/9049.png
 - name: Evil Nymph
   id: 1416
+  level: 63
+  hp: 16029
   kind: base
   icon: 1564.gif
   food:
@@ -584,6 +643,8 @@ pets:
     icon: Pet_System/9047.png
 - name: Knife Goblin
   id: 1122
+  level: 25
+  hp: 1176
   kind: base
   icon: 1122.gif
   food:
@@ -602,6 +663,8 @@ pets:
     icon: Pet_System/9032.png
 - name: Flail Goblin
   id: 1535
+  level: 24
+  hp: 1034
   kind: base
   icon: 1535.gif
   food:
@@ -620,6 +683,8 @@ pets:
     icon: Pet_System/9033.png
 - name: Hammer Goblin
   id: 1537
+  level: 23
+  hp: 1359
   kind: base
   icon: 1537.gif
   food:
@@ -638,6 +703,8 @@ pets:
     icon: Pet_System/9034.png
 - name: Goblin Leader
   id: 1299
+  level: 64
+  hp: 20152
   kind: base
   icon: 1299.gif
   food:
@@ -660,6 +727,8 @@ pets:
     icon: Pet_System/9046.png
 - name: Loli Ruri
   id: 1505
+  level: 71
+  hp: 23470
   kind: base
   icon: 1505.gif
   food:
@@ -686,6 +755,8 @@ pets:
     icon: Pet_System/9042.png
 - name: Golem
   id: 1040
+  level: 25
+  hp: 3900
   kind: base
   icon: 1040.gif
   food:
@@ -712,8 +783,8 @@ pets:
     icon: Pet_System/9053.png
 - name: Chung E / Green Maiden
   id: 1519
-  alt_ids:
-  - 1519
+  level: 49
+  hp: 23900
   kind: base
   icon: 1631.gif
   food:
@@ -732,8 +803,8 @@ pets:
     icon: Pet_System/9030.png
 - name: Imp / Fire Imp
   id: 1837
-  alt_ids:
-  - 1837
+  level: 76
+  hp: 46430
   kind: base
   icon: 1837.gif
   food:
@@ -757,8 +828,8 @@ pets:
 - name: Civil Servant / Mao Guai
   autofeed: true  # evolvable, but auto-feed is available
   id: 1513
-  alt_ids:
-  - 1513
+  level: 62
+  hp: 14390
   kind: base
   icon: 1513.gif
   food:
@@ -781,6 +852,8 @@ pets:
     icon: Pet_System/9040.png
 - name: Incubus
   id: 1374
+  level: 75
+  hp: 17281
   kind: base
   icon: 1374.gif
   food:
@@ -804,6 +877,8 @@ pets:
 - name: Leaf Cat
   autofeed: true  # evolvable, but auto-feed is available
   id: 1586
+  level: 38
+  hp: 2396
   kind: base
   icon: 1586.gif
   food:
@@ -830,6 +905,8 @@ pets:
     icon: Pet_System/9041.png
 - name: Marionette
   id: 1143
+  level: 41
+  hp: 3222
   kind: base
   icon: 1143.gif
   food:
@@ -852,6 +929,8 @@ pets:
     icon: Pet_System/9043.png
 - name: Medusa
   id: 1148
+  level: 79
+  hp: 16408
   kind: base
   icon: 1148.gif
   food:
@@ -879,6 +958,8 @@ pets:
 - name: Miyabi Doll
   autofeed: true  # evolvable, but auto-feed is available
   id: 1404
+  level: 33
+  hp: 6300
   kind: base
   icon: 1404.gif
   food:
@@ -901,6 +982,8 @@ pets:
     icon: Pet_System/9048.png
 - name: Nightmare Terror
   id: 1379
+  level: 78
+  hp: 22605
   kind: base
   icon: 1379.gif
   food:
@@ -927,6 +1010,8 @@ pets:
     icon: Pet_System/9054.png
 - name: Shinobi
   id: 1401
+  level: 69
+  hp: 12700
   kind: base
   icon: 1401.gif
   food:
@@ -953,6 +1038,8 @@ pets:
     icon: Pet_System/9044.png
 - name: Stone Shooter
   id: 1495
+  level: 42
+  hp: 4104
   kind: base
   icon: 1495.gif
   food:
@@ -979,6 +1066,8 @@ pets:
     icon: Pet_System/9051.png
 - name: Succubus
   id: 1370
+  level: 85
+  hp: 16955
   kind: base
   icon: 1370.gif
   food:
@@ -1001,6 +1090,8 @@ pets:
     icon: Pet_System/9055.png
 - name: Scatleton
   id: 3731
+  level: 14
+  hp: 140
   kind: base
   icon: Scatleton1.gif
   food:
@@ -1017,6 +1108,8 @@ pets:
     icon: Pet_System/9101.png
 - name: Christmas Goblin
   id: 1245
+  level: 25
+  hp: 1176
   kind: base
   icon: 1245.gif
   food:
@@ -1033,6 +1126,8 @@ pets:
     icon: Pet_System/9029.png
 - name: Gremlin
   id: 1632
+  level: 53
+  hp: 9280
   kind: base
   icon: 1632.gif
   taming:
@@ -1051,6 +1146,8 @@ pets:
     icon: Pet_System/9100.png
 - name: Nine Tail
   id: 1180
+  level: 51
+  hp: 7766
   kind: base
   icon: 1180.gif
   food:
@@ -1073,6 +1170,8 @@ pets:
     icon: Pet_System/9095.png
 - name: Mummy
   id: 1041
+  level: 37
+  hp: 5176
   kind: base
   icon: 1041.gif
   food:
@@ -1095,6 +1194,8 @@ pets:
     icon: Pet_System/9102.png
 - name: Teddy Bear
   id: 1622
+  level: 71
+  hp: 8109
   kind: base
   icon: 1622.gif
   food:
@@ -1117,6 +1218,8 @@ pets:
     icon: Pet_System/9099.png
 - name: Bacsojin
   id: 20423
+  level: 97
+  hp: 720500
   kind: base
   icon: 1630.gif
   food:
@@ -1131,6 +1234,8 @@ pets:
     icon: Pet_System/9115.png
 - name: Domovoi
   id: 2336
+  level: 38
+  hp: 898
   kind: base
   icon: 2336.gif
   food:
@@ -1146,6 +1251,8 @@ pets:
     icon: 9060.png
 - name: Willow
   id: 1010
+  level: 4
+  hp: 95
   kind: base
   icon: 1010.gif
   taming:
@@ -1164,6 +1271,8 @@ pets:
     icon: Pet_System/9103.png
 - name: Wanderer
   id: 1208
+  level: 74
+  hp: 8170
   kind: base
   icon: 1208.gif
   taming:
@@ -1182,6 +1291,8 @@ pets:
     icon: Pet_System/9037.png
 - name: Whisper
   id: 1179
+  level: 34
+  hp: 1796
   kind: base
   icon: 1179.gif
   taming:
@@ -1200,6 +1311,8 @@ pets:
     icon: Pet_System/9045.png
 - name: Christmas Snow Rabbit
   id: 2210
+  level: 1
+  hp: 100
   kind: base
   icon: 2210.gif
   food:
@@ -1226,7 +1339,7 @@ pets:
     id: 9125
     name: Wandering Duck Doll Egg
     icon: Pet_System/9125.png
-    source: 3 Event Tokens (2025 Twilight Festival) from the Event Token NPC Robert in the Main Office
+    source: 3 Event Tokens (`7866`{ .copy }) (2025 Twilight Festival). Purchased in [Main Office](main-office.md).
 - name: Mutating White Knight
   id: 20574
   kind: base
@@ -1240,6 +1353,8 @@ pets:
     source: NPC Pascal in Old Glast Heim
 - name: Roween
   id: 1782
+  level: 31
+  hp: 5716
   kind: base
   icon: Pet_System/1782.gif
   bonus: MATK +3%.
@@ -1254,6 +1369,8 @@ pets:
       rate: 0.03%
 - name: Dark Priest
   id: 1198
+  level: 79
+  hp: 101992
   kind: base
   icon: Pet_System/1198.gif
   bonus: INT +4.
@@ -1271,6 +1388,8 @@ pets:
       rate: 0.9%
 - name: Familiar
   id: 1005
+  level: 8
+  hp: 155
   kind: base
   icon: Pet_System/1005.gif
   bonus: INT +4, Prevents Hallucination status.
@@ -1285,6 +1404,8 @@ pets:
       rate: 0.45%
 - name: Hornet
   id: 1004
+  level: 8
+  hp: 169
   kind: base
   icon: Pet_System/1004.gif
   bonus: Decreases Cast Time by 2%. Increases Magical Damage with Wind element by 2%.
@@ -1295,6 +1416,8 @@ pets:
     icon: Pet_System/9155.png
 - name: Mastering
   id: 1090
+  level: 2
+  hp: 2415
   kind: evolved
   icon: 1090.gif
   bonus:
@@ -1318,6 +1441,8 @@ pets:
     icon: Pet_System/9069.png
 - name: Angeling
   id: 1096
+  level: 20
+  hp: 55000
   kind: evolved
   icon: 1096.gif
   bonus:
@@ -1348,6 +1473,8 @@ pets:
     icon: Pet_System/9088.png
 - name: Metaller
   id: 1058
+  level: 22
+  hp: 926
   kind: evolved
   icon: 1058.gif
   bonus:
@@ -1380,6 +1507,8 @@ pets:
     icon: Pet_System/9106.png
 - name: High Orc
   id: 1213
+  level: 52
+  hp: 6890
   kind: evolved
   icon: 1213.gif
   bonus:
@@ -1412,6 +1541,8 @@ pets:
     icon: Pet_System/9087.png
 - name: Grand Peco
   id: 1369
+  level: 58
+  hp: 8054
   kind: evolved
   icon: 1369.gif
   bonus:
@@ -1419,7 +1550,7 @@ pets:
     neutral: MaxHP +200
     cordial: MaxHP +300
     loyal: MaxHP +400
-  evolves_from: Pecopeco
+  evolves_from: PecoPeco
   materials:
   - id: 537
     name: Pet Food
@@ -1446,6 +1577,8 @@ pets:
     icon: Pet_System/9071.png
 - name: Yao Jun
   id: 1512
+  level: 56
+  hp: 9981
   kind: evolved
   icon: 1512.gif
   bonus:
@@ -1475,6 +1608,8 @@ pets:
     icon: Pet_System/9093.png
 - name: Am Mut
   id: 1301
+  level: 61
+  hp: 12099
   kind: evolved
   icon: 1301.gif
   bonus:
@@ -1506,6 +1641,8 @@ pets:
     icon: Pet_System/9089.png
 - name: Bacsojin
   id: 20423
+  level: 97
+  hp: 720500
   kind: evolved
   icon: 1630.gif
   food:
@@ -1541,6 +1678,8 @@ pets:
     icon: Pet_System/9115.png
 - name: Choco
   id: 1214
+  level: 43
+  hp: 4278
   kind: evolved
   icon: 1214.gif
   bonus:
@@ -1571,6 +1710,8 @@ pets:
     icon: Pet_System/9091.png
 - name: Skelion
   id: 3971
+  level: 150
+  hp: 13000
   kind: evolved
   icon: Skelion1.gif
   food:
@@ -1604,6 +1745,8 @@ pets:
     icon: Pet_System/9113.png
 - name: Earth Deleter
   id: 3670
+  level: 105
+  hp: 10000
   kind: evolved
   icon: 1385.gif
   bonus:
@@ -1661,6 +1804,8 @@ pets:
     icon: 9092.png
 - name: Sweet Drops
   id: 3790
+  level: 1
+  hp: 20
   kind: evolved
   icon: 3790.gif
   food:
@@ -1692,6 +1837,8 @@ pets:
     icon: Pet_System/9109.png
 - name: Little Isis
   id: 3636
+  level: 59
+  hp: 2092
   kind: evolved
   icon: 1029.gif
   bonus:
@@ -1722,6 +1869,8 @@ pets:
     icon: Pet_System/9090.png
 - name: Savage
   id: 1166
+  level: 26
+  hp: 2092
   kind: evolved
   icon: 1221.gif
   bonus:
@@ -1753,6 +1902,8 @@ pets:
     icon: Pet_System/9070.png
 - name: Diabolic
   id: 3669
+  level: 104
+  hp: 10572
   kind: evolved
   icon: 1382.gif
   bonus:
@@ -1783,6 +1934,8 @@ pets:
     icon: Pet_System/9097.png
 - name: Cat o' Nine Tails
   id: 1307
+  level: 76
+  hp: 64512
   kind: evolved
   icon: 1307.gif
   bonus:
@@ -1812,6 +1965,8 @@ pets:
     icon: Pet_System/9096.png
 - name: Moonlight Flower
   id: 20424
+  level: 79
+  hp: 324000
   kind: evolved
   icon: 1150.gif
   food:
@@ -1847,6 +2002,8 @@ pets:
     icon: Pet_System/9112.png
 - name: Hodremlin
   id: 1773
+  level: 61
+  hp: 12180
   kind: evolved
   icon: 1773.gif
   bonus:
@@ -1877,6 +2034,8 @@ pets:
     icon: Pet_System/9105.png
 - name: Leaf Lunatic
   id: 3496
+  level: 3
+  hp: 44
   kind: evolved
   icon: 3496.gif
   bonus:
@@ -1904,6 +2063,8 @@ pets:
     icon: Pet_System/9094.png
 - name: Ancient Mummy
   id: 1297
+  level: 64
+  hp: 40599
   kind: evolved
   icon: 1297.gif
   bonus:
@@ -1934,6 +2095,8 @@ pets:
     icon: Pet_System/9107.png
 - name: Abandoned Teddy Bear
   id: 2995
+  level: 148
+  hp: 180000
   kind: evolved
   icon: 2995.gif
   bonus:
@@ -1964,6 +2127,8 @@ pets:
     icon: Pet_System/9108.png
 - name: Phreeoni
   id: 20425
+  level: 71
+  hp: 300000
   kind: evolved
   icon: 1159.gif
   food:
@@ -1985,6 +2150,8 @@ pets:
       rate: 0.09%
 - name: Aliza
   id: 1737
+  level: 69
+  hp: 19000
   kind: evolved
   icon: 1746.gif
   bonus:
@@ -2013,6 +2180,8 @@ pets:
     icon: Pet_System/9120.png
 - name: Aliot
   id: 1736
+  level: 75
+  hp: 48290
   kind: evolved
   icon: 1736.gif
   bonus:
@@ -2041,6 +2210,8 @@ pets:
     icon: Pet_System/9118.png
 - name: Alicel
   id: 1735
+  level: 75
+  hp: 37520
   kind: evolved
   icon: 1735.gif
   bonus:
@@ -2098,6 +2269,8 @@ pets:
     icon: Pet_System/9130.png
 - name: Baphomet
   id: 1039
+  level: 81
+  hp: 668000
   kind: evolved
   icon: Baphomet.gif
   food:
@@ -2156,6 +2329,8 @@ pets:
     icon: Pet_System/9140.png
 - name: Desert Wolf
   id: 1106
+  level: 27
+  hp: 1716
   kind: evolved
   icon: 1106.gif
   bonus:
@@ -2184,6 +2359,8 @@ pets:
     icon: Pet_System/9129.png
 - name: Gloom Under Night
   id: 20619
+  level: 139
+  hp: 3005000
   kind: evolved
   icon: 1768.gif
   food:
@@ -2217,6 +2394,8 @@ pets:
     icon: Pet_System/9122.png
 - name: Kiel D-01
   id: 1734
+  level: 90
+  hp: 1523000
   kind: evolved
   icon: 1734.gif
   food:
@@ -2250,6 +2429,8 @@ pets:
     icon: Pet_System/9126.png
 - name: Orc Hero
   id: 20571
+  level: 50
+  hp: 362000
   kind: evolved
   icon: 1087.gif
   food:
@@ -2283,6 +2464,8 @@ pets:
     icon: Pet_System/9121.png
 - name: Rigid Nightmare Terror
   id: 20373
+  level: 179
+  hp: 1523377
   kind: evolved
   icon: 20373.gif
   bonus:
@@ -2312,6 +2495,8 @@ pets:
     icon: Pet_System/9116.png
 - name: Contaminated Wanderer
   id: 20420
+  level: 187
+  hp: 2387582
   kind: evolved
   icon: 20420.gif
   bonus:
@@ -2369,6 +2554,8 @@ pets:
     icon: Pet_System/9134.png
 - name: Abysmal Knight
   id: 2470
+  level: 142
+  hp: 225789
   kind: evolved
   icon: OGH/2470.gif
   bonus:
@@ -2398,6 +2585,8 @@ pets:
     icon: Pet_System/9132.png
 - name: Wild Rose
   id: 1261
+  level: 38
+  hp: 2980
   kind: evolved
   icon: Pet_System/1261.gif
   bonus:
@@ -2427,6 +2616,8 @@ pets:
     icon: Pet_System/9135.png
 - name: Valkyrie Randgris
   id: 1751
+  level: 99
+  hp: 3567200
   kind: evolved
   icon: 1751.gif
   food:
@@ -2440,6 +2631,8 @@ pets:
     loyal: Increases physical and magical damage against Dark and Neutral element enemies by 20%.
 - name: Eddga
   id: 1115
+  level: 65
+  hp: 152000
   kind: evolved
   icon: Pet_System/1115.gif
   food:
@@ -2473,6 +2666,8 @@ pets:
     icon: Pet_System/9136.png
 - name: Dark Illusion
   id: 1302
+  level: 77
+  hp: 103631
   kind: evolved
   icon: Pet_System/1302.gif
   bonus:
@@ -2502,6 +2697,8 @@ pets:
     icon: Pet_System/9139.png
 - name: Dark Lord
   id: 1272
+  level: 80
+  hp: 720000
   kind: evolved
   icon: Pet_System/1272.gif
   food:
@@ -2564,6 +2761,8 @@ pets:
     icon: Pet_System/9131.png
 - name: Giant Hornet
   id: 1303
+  level: 56
+  hp: 13105
   kind: evolved
   icon: Pet_System/1303.gif
   bonus:
@@ -2589,6 +2788,8 @@ pets:
     icon: Pet_System/9192.png
 - name: Mistress
   id: 1059
+  level: 74
+  hp: 212000
   kind: evolved
   icon: Pet_System/1059.gif
   food:
@@ -2625,30 +2826,66 @@ pets:
     icon: Pet_System/9193.png
 - name: New Year Doll
   id: 1963
+  level: 49
+  hp: 23900
   kind: base
+  icon: Pet_System/1963.gif
   food:
     id: 554
     name: Mochi
-  taming:
-    name: Event Token
   bonus: None
   capture: Event
   egg:
     id: 9038
     name: New Year Doll Egg
     icon: Pet_System/9038.png
+    source: 2 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
 - name: Blue Unicorn
   id: 3261
+  level: 30
+  hp: 20
   kind: base
+  icon: Pet_System/3261.gif
   food:
     id: 510
     name: Blue Herb
     icon: 510.gif
-  taming:
-    name: Event Token
-  bonus: Increases walk speed during the event.
+  bonus: None
   capture: Event
   egg:
     id: 9068
     name: Blue Unicorn Egg
     icon: Pet_System/9068.png
+    source: Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
+- name: Rice Cake
+  id: 1815
+  level: 12
+  hp: 777
+  kind: base
+  icon: Pet_System/1815.gif
+  food:
+    id: 511
+    name: Green Herb
+    icon: 511.png
+  bonus: Max HP -1%, Neutral element resistance +1%
+  capture: Event
+  egg:
+    id: 9028
+    name: Hard Rice Cake Egg
+    icon: Pet_System/9028.png
+    source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
+- name: Violet
+  id: 21919   # rAthena has it commented out as LARVA_VIOLET
+  kind: base
+  icon: Pet_System/21919.gif
+  food:
+    id: 511
+    name: Green Herb
+    icon: 511.png
+  bonus: None
+  capture: Event
+  egg:
+    id: 9144
+    name: Violet Egg
+    icon: Pet_System/9144.png
+    source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).

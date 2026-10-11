@@ -120,12 +120,13 @@ def _pet_link(name):
 
 
 def _ids(p):
-    ids = " / ".join(_code(i) for i in [p.get("id")] + list(p.get("alt_ids") or []) if i)
-    out = f"Mob ID {ids}" if ids else ""
+    """Mob ID and Egg ID as separate lines; the header lays them out side by side."""
+    ids = " / ".join(_code(i) for i in dict.fromkeys([p.get("id")] + list(p.get("alt_ids") or [])) if i)
+    out = [f"Mob ID {ids}"] if ids else []
     egg = p.get("egg")
     if egg:
-        out += f" | Egg ID {_code(egg['id'])}"
-    return out.lstrip(" |")
+        out.append(f"Egg ID {_code(egg['id'])}")
+    return "\n\n".join(out)
 
 
 def _bonus(p):
@@ -157,7 +158,7 @@ def card(p, evolves_into):
     if not icon or not os.path.exists(os.path.join(_docs, "img", icon)):
         icon = DEFAULT_EGG
     egg_icon = f"![{egg['name'] if egg else 'Egg'}](img/{icon}) "
-    tag = ' <span class="pet-tag">Evolved</span>' if p.get("kind") == "evolved" else ""
+    tag = f' <span class="pet-tag">{_stage(p)}</span>'
     evolved = p.get("kind") == "evolved"
     # Three independent columns, so a tall section only lengthens its own column.
     left = [_section("Loyal bonus", _bonus(p), "bonus")]
@@ -197,9 +198,66 @@ def card(p, evolves_into):
                         for c in (left, middle, right))
     sprite = f"![{p['name']}](img/{p['icon']})" if p.get("icon") else ""
     return (f'<div class="pet" id="{_anchor(p)}" markdown>\n\n'
-            f'<div class="pet-head" markdown>\n\n{egg_icon}**{p["name"]}**{tag}\n\n{_ids(p)}\n\n</div>\n\n'
+            f'<div class="pet-head" markdown>\n\n{egg_icon}**{p["name"]}**{tag}\n\n<div class="pet-ids" markdown>\n\n{_ids(p)}\n\n</div>\n\n</div>\n\n'
             f'<div class="pet-body" markdown>\n\n<div class="pet-sprite" markdown>\n\n{sprite}\n\n</div>\n\n'
             f'<div class="pet-sections" markdown>\n\n' + cols + "\n\n</div>\n\n</div>\n\n</div>")
+
+
+def _parent(p):
+    """The pet this one evolves from, or None. A tamed pet wins over an evolved one of the same name."""
+    name = p.get("evolves_from")
+    match = sorted((q for q in _pets if q["name"] == name), key=lambda q: q.get("kind") == "evolved")
+    return match[0] if match else None
+
+
+def _stage(p):
+    """Non-Evolved, Evolved (1), Evolved (2) ... or Evolved (Final) when nothing evolves from it."""
+    if p.get("kind") != "evolved":
+        return "Non-Evolved"
+    if not any(_parent(q) is p for q in _pets):
+        return "Evolved (Final)"
+    step, parent, seen = 1, _parent(p), {id(p)}
+    while parent is not None and parent.get("kind") == "evolved" and id(parent) not in seen:
+        seen.add(id(parent))
+        step, parent = step + 1, _parent(parent)
+    return f"Evolved ({step})"
+
+
+def _ordered():
+    """Weakest to strongest by mob level then HP, each evolution line kept together: Poring, Mastering, Angeling.
+
+    A line sits where its first pet sits. A pet without stats takes its weakest evolution's, else it goes last.
+    """
+    kids = {}
+    for p in _pets:
+        parent = _parent(p)
+        if parent is not None:
+            kids.setdefault(id(parent), []).append(p)
+    none = (float("inf"), 0)
+
+    def weight(p, seen=()):
+        own = (p["level"], p.get("hp") or 0) if p.get("level") is not None else none
+        if own != none or id(p) in seen:
+            return own
+        return min((weight(k, seen + (id(p),)) for k in kids.get(id(p), [])), default=none)
+
+    def key(p):
+        return (weight(p), p["name"].lower())
+
+    out, seen = [], set()
+
+    def walk(p):
+        if id(p) in seen:
+            return
+        seen.add(id(p))
+        out.append(p)
+        for kid in sorted(kids.get(id(p), []), key=key):
+            walk(kid)
+
+    for root in sorted((p for p in _pets if _parent(p) is None), key=key):
+        walk(root)
+    out += [p for p in _pets if id(p) not in seen]  # a loop in evolves_from, should not happen
+    return out
 
 
 def table():
@@ -209,8 +267,7 @@ def table():
             into.setdefault(p["evolves_from"].lower(), []).append((p, p["materials"]))
         for alt in p.get("alt_recipes") or []:
             into.setdefault(alt["from"].lower(), []).append((p, alt["materials"]))
-    cards = [card(p, into.get(p["name"].lower()))
-             for p in sorted(_pets, key=lambda x: x["name"].lower())]
+    cards = [card(p, into.get(p["name"].lower())) for p in _ordered()]
     return '<div class="pet-list" markdown>\n\n' + "\n\n".join(cards) + "\n\n</div>"
 
 
