@@ -2635,11 +2635,11 @@ pets:
   accessory:
     name: Randgris's Accessory
   bonus:
-    cordial: Increases physical and magical damage against Dark and Neutral element enemies by 15%.
-    loyal: Increases physical and magical damage against Dark and Neutral element enemies by 20%.
+    cordial: Increases Physical and Magical damage to Shadow and Neutral monsters by 15%.
+    loyal: Increases Physical and Magical damage to Shadow and Neutral monsters by 20%.
   egg:
     id: 9185
-    name: Valkyrie Randgris Egg
+    name: Randgris Egg
     icon: Pet_System/9185.png
 - name: Eddga
   id: 1115
@@ -2890,8 +2890,6 @@ pets:
 - name: Violet
   kind: base
   icon: Pet_System/21919.gif
-  food:
-    name: Unknown
   bonus: None
   capture: Event
   egg:
@@ -2901,8 +2899,6 @@ pets:
     source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
 - name: Tai-Zi
   kind: base
-  food:
-    name: Unknown
   bonus: None
   capture: Event
   egg:
