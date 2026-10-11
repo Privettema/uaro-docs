@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Dimonka Headgear Quests
 
 ![Dimonka NPC](img/NPC/dimonka.gif)

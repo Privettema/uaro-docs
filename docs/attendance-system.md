@@ -1,3 +1,7 @@
+---
+updated: 2026-09-21
+---
+
 # Attendance System
 
 Every day you show up is a day closer to something good. A little loyalty goes a long way on your adventures.

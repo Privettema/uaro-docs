@@ -1,3 +1,7 @@
+---
+updated: 2026-10-03
+---
+
 # Adventurer Inns
 Adventurer Inns are gathering places found across the towns of uaRO, offering travelers a safe pause between battles. They’re familiar landmarks where you can rest, reset, and prepare for whatever comes next on your journey. Most towns have at least one inn, with Prontera East being one of the most popular.
 

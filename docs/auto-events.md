@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+updated: 2026-08-25
 ---
 
 # 🤖 Auto Events

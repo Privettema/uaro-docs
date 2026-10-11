@@ -1,3 +1,7 @@
+---
+updated: 2025-11-19
+---
+
 # 📢 Guild Starter Support System
 
 > **Support system for newly created guilds**

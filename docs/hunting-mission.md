@@ -1,3 +1,7 @@
+---
+updated: 2026-09-08
+---
+
 # Hunting Missions — Hobota
 
 ![Hobota](img/NPC/hobota.gif)

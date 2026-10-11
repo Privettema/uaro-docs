@@ -1,3 +1,7 @@
+---
+updated: 2026-10-04
+---
+
 # Custom NPCs
 Classic MMORPG at heart, with a few handy NPCs to make your journey smoother while keeping things balanced.
 

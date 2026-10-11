@@ -1,5 +1,6 @@
 ---
 description: War of Emperium (WoE) is the guild event where guilds fight to conquer a castle, which unlocks a Guild Dungeon, nightly treasure chests and other bonuses.
+updated: 2026-10-04
 ---
 
 # WoE

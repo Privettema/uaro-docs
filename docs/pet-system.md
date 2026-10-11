@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Cute Pet System
 <!--TODO: Add intro flavor text -->
 <!--TODO: Add Familiar pet -->

@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Class Changes
 
 uaRO uses the pre-renewal class system, with selected adjustments to skills and mechanics for balance and smoother gameplay. These changes preserve the classic feel while improving the overall experience.
@@ -416,6 +420,3 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
 | Maximum Stats | Adopted characters cannot raise a stat past 80 base. | Maximum stat of 99. |
 
 </div>
-
-## Reporting Issues
-Find an error or some item not mentioned here? Report it in [#wiki-errors on Discord](https://discord.com/channels/702960460168953946/1456450631584846011).

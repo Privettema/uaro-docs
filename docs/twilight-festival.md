@@ -1,3 +1,7 @@
+---
+updated: 2026-10-04
+---
+
 # The Twilight Festival 2025
 
 !!! warning "The Twilight Festival 2025 has ended. It may return in the future."

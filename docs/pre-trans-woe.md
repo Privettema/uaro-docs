@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Pre-Trans WoE
 
 Pre-Trans WoE in World of Your Dream is a guild-based PvP event where only **second jobs and below** can participate, creating a unique and balanced battlefield. Without transcendent skills, **strategy and teamwork** become far more important.

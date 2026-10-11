@@ -147,6 +147,7 @@ nav:
 hooks:
   - hooks/all_pages.py
   - hooks/patch_notes.py
+  - hooks/page_meta.py
   - hooks/seo.py
   - hooks/toc.py
 

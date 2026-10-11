@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Quest Changes
 
 Quests that uaRO has reworked, whether that is the requirements, the rewards or the NPCs involved.

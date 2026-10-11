@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Class Changes Source Comparison
 
 A record of what each reference says about the rows on [Class Changes](../class-changes.md), so a later edit can see what was checked, what the page logs, and where the references disagree. The ranking of sources is in the [Class Changes Writing Guide](class-changes-guide.md#sources-for-original-values). Checked on October 6, 2026.

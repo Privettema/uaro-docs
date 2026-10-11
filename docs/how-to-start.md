@@ -1,3 +1,7 @@
+---
+updated: 2026-10-02
+---
+
 # How to Start
 Register a free uaRO account on uaro.net and confirm it by e-mail before you play. Every version of the MMORPG has a different way to create accounts, and this page covers the uaRO version.
 

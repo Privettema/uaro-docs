@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Image Reference
 
 Images that are kept on purpose even though no page uses them right now. Check this list before pruning unreferenced images, and remove an entry once the image is used or no longer needed.

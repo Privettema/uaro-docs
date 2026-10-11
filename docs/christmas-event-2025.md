@@ -1,3 +1,7 @@
+---
+updated: 2026-09-26
+---
+
 # Christmas 2025 Event Guide
 
 !!! warning "Event Concluded"

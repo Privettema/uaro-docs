@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Taming Gift Set
 
 ![Taming Gift Set](img/12105.gif) **Taming Gift Set**

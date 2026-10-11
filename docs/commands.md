@@ -1,3 +1,7 @@
+---
+updated: 2026-10-04
+---
+
 # Commands
 
 ## System Commands

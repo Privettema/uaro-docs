@@ -1,3 +1,7 @@
+---
+updated: 2026-10-03
+---
+
 # Card Exchange
 
 Trade in cards you're no longer using for points, redeemable for a small selection of items.

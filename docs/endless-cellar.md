@@ -1,3 +1,7 @@
+---
+updated: 2026-10-03
+---
+
 # Endless Cellar
 
 **Endless Cellar** is one of the most popular instances on uaRO, designed for coordinated, team-based gameplay.  

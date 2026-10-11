@@ -1,3 +1,7 @@
+---
+updated: 2026-10-05
+---
+
 # Monster Changes
 
 Monsters where uaRO has altered the stats, skills, spawns or drops.

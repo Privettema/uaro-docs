@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # Quality of Life Improvements
 
 Quality of life improvements on uaRO include faster natural recovery, upgraded inns and other conveniences that smooth out everyday play. At World of Your Dream, we are dedicated to providing the ultimate gaming experience for our players. One of our top priorities is to actively listen to player feedback and use it to improve the game.
