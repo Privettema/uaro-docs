@@ -12,8 +12,6 @@ While playing on the server is free, donations assist with covering expenses suc
 
 **Minimum donation**: $10
 
----
-
 ## Cash Shop
 The Cash Shop contains a wide variety of **cosmetic items** for every style and taste. Costume Headgears, Accessories, and Garments can be traded, stored, and sold to other players. New items are added regularly!
 
@@ -23,8 +21,6 @@ Look for the icon in the top right of your window to browse and purchase: ![Cash
     If you can't see the icon, use `/cashshop` to bring it back.
 
 ![Cash Shop Preview](img/400px-Cash-shop-preview.png)
-
----
 
 ## Coupons & Vouchers
 
@@ -54,8 +50,6 @@ Redeem these clothing color vouchers at the [Stylist](custom-npc.md#style).
 - **Color Change Voucher** pays for one clothing color change
 - **Infinite Color Change Voucher** makes all clothing color changes free while it's in your inventory
 
----
-
 ## Donation Rules
 
 - Donations to our service are entirely optional, and any benefits received from donations are **non-refundable**.
@@ -63,8 +57,6 @@ Redeem these clothing color vouchers at the [Stylist](custom-npc.md#style).
 - Your personal information provided during the donation process will be kept confidential.
 - Please note that making a donation does not excuse you from following the server rules.
 - By making a donation, you are agreeing to these terms and conditions.
-
----
 
 ## Donation Options
 
@@ -75,9 +67,9 @@ Redeem these clothing color vouchers at the [Stylist](custom-npc.md#style).
 3. Pay via Stripe using a valid payment method.
 4. Cash points will be added to your account.
 5. Login to the game or relog if current online and use the ![Cash Shop](img/32px-Cash-shop.png) to buy items.
-   
+
 !!! note
-    If you pay with Stripe, it is not necessary to submit a ticket. The points are credited to your account when you relog. 
+    If you pay with Stripe, it is not necessary to submit a ticket. The points are credited to your account when you relog.
 
 
 ### How to make a donation using different method

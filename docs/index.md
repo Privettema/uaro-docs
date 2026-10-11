@@ -82,7 +82,7 @@ server's systems work, event details and the latest patch notes.
 - Episode 13.1: Ash Vacuum
 - Classic Pre-renewal experience
 - Select rebalanced renewal content
-- Quality of life enhancements 
+- Quality of life enhancements
 </div>
 
 <div class="glance-card" markdown>
