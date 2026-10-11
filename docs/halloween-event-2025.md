@@ -30,8 +30,6 @@ updated: 2026-10-03
 | Get costumes | [Costume Shop](#costume-shop) |
 | Gamble for rare items | [Gacha Machine](#halloween-gacha-machine) |
 
----
-
 ## Quests
 
 === "Main Quest"
@@ -109,8 +107,6 @@ updated: 2026-10-03
 
     **Reward:** Scatelon Crate, containing the Scatelon pet.
 
----
-
 ## Hunting Spots
 
 === "Fields"
@@ -121,7 +117,7 @@ updated: 2026-10-03
 
     | Monster | Level | Spawn Count | Drops |
     |---------|-------|-------------|-------|
-    | ![Skelion](img/Halloween/skelion-mob.png){ width="60" }<br/>**Skelion** | Lv 82 | ~10/field | ![Bone](img/Halloween/bone.gif){ width="20" } Skelion Bone Fragment<br/>![Soul](img/Halloween/CapturedSoul.gif){ width="20" } Captured Soul<br/>![Cake](img/Halloween/PumpkinCake.png){ width="20" } Pumpkin Cake<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin |
+    | ![Skelion](img/Halloween/skelion-mob.png){ width="60" }<br/>**Skelion** | Level 82 | ~10/field | ![Bone](img/Halloween/bone.gif){ width="20" } Skelion Bone Fragment<br/>![Soul](img/Halloween/CapturedSoul.gif){ width="20" } Captured Soul<br/>![Cake](img/Halloween/PumpkinCake.png){ width="20" } Pumpkin Cake<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin |
     | ![Garling](img/Halloween/garling.png){ width="60" }<br/>**Garling** | - | ~30-40/field | ![Stem](img/Halloween/whiteStem.png){ width="20" } White Thin Stem<br/>![Decor](img/Halloween/PumpkinDecor.png){ width="20" } Pumpkin Decor<br/>![Bat](img/Halloween/CookieBat.gif){ width="20" } Cookie Bat<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin |
 
 === "Dungeon F1"
@@ -159,14 +155,12 @@ updated: 2026-10-03
 
     | Monster | Level | Spawn Count | Drops |
     |---------|-------|-------------|-------|
-    | ![Disguiser](img/Halloween/Disguiser.gif){ width="60" }<br/>**Disguiser** | Lv 108+ | ~20-25 | ![Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
-    | ![Blue Moon](img/Halloween/BlueMoon.gif){ width="60" }<br/>**Blue Moon** | Lv 110+ | ~15-20 | ![Candy](img/Halloween/TransCandyB.png){ width="20" } Transform Candy (Blue)<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
-    | ![Grote](img/Halloween/Grote.gif){ width="60" }<br/>**Grote** | Lv 112+ | ~12-18 | ![Cake](img/Halloween/PumpkinCake.png){ width="20" } Pumpkin Cake<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
-    | ![Pierrotzoist](img/Halloween/Pierrotzoist.gif){ width="60" }<br/>**Pierrotzoist** | Lv 115+ | ~10-15 | ![Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul<br/>![Candy](img/Halloween/TransCandyR.png){ width="20" } Transform Candy (Red)<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
+    | ![Disguiser](img/Halloween/Disguiser.gif){ width="60" }<br/>**Disguiser** | Level 108+ | ~20-25 | ![Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
+    | ![Blue Moon](img/Halloween/BlueMoon.gif){ width="60" }<br/>**Blue Moon** | Level 110+ | ~15-20 | ![Candy](img/Halloween/TransCandyB.png){ width="20" } Transform Candy (Blue)<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
+    | ![Grote](img/Halloween/Grote.gif){ width="60" }<br/>**Grote** | Level 112+ | ~12-18 | ![Cake](img/Halloween/PumpkinCake.png){ width="20" } Pumpkin Cake<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
+    | ![Pierrotzoist](img/Halloween/Pierrotzoist.gif){ width="60" }<br/>**Pierrotzoist** | Level 115+ | ~10-15 | ![Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul<br/>![Candy](img/Halloween/TransCandyR.png){ width="20" } Transform Candy (Red)<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
 
     ![Dungeon F2 Map](img/Halloween/nif_dun02.gif)
-
----
 
 ## Costume Shop
 
@@ -207,8 +201,6 @@ updated: 2026-10-03
 
 ![Costume Shop](img/Halloween/halloween-costumes.webp)
 
----
-
 ## Currencies and Materials
 
 | Item | Where to get it | Used for |
@@ -223,8 +215,6 @@ updated: 2026-10-03
 | ![Pumpkin Decor](img/Halloween/PumpkinDecor.png){ width="20" } **Pumpkin Decor** | Garling, Gan Ceann | Mid-tier costumes |
 | ![White Thin Stem](img/Halloween/whiteStem.png){ width="20" } **White Thin Stem** | Garling | Specific costumes |
 | ![Transform Candy](img/Halloween/TransCandyR.png){ width="20" } **Transform Candy** (Red, Blue, Yellow, Green) | F2 monsters | Premium costumes |
-
----
 
 ## Halloween Gacha Machine
 
@@ -249,8 +239,6 @@ updated: 2026-10-03
 - **Common:** Poring Coins, Potions, Event materials
 - **JACKPOT (`0.05%`):** 1,000 Poring Coins!
 
----
-
 ## Key NPCs
 
 | NPC | Location | Purpose |
@@ -265,8 +253,6 @@ updated: 2026-10-03
 | Gacha Machines | `/navi niflheim 213/187`, `/navi prontera 218/195`, `/navi alberta 130/60` | Gacha spins |
 | Mysterious Cat | `/navi alberta 220/30` | A fun easter egg |
 
----
-
 ## Tips
 
 | Level | Suggested plan |
@@ -280,26 +266,30 @@ updated: 2026-10-03
 - **Black Soul:** Ghost Cube in F1, or Disguiser and Pierrotzoist in F2.
 - **Pumpkin Decor and Cookie Bat:** Garling in the fields or F1.
 
----
-
 ## FAQ
 
-**Can I do the main quest on multiple characters?**<br>
+**Can I do the main quest on multiple characters?**
+
 No, only one character per account can complete it.
 
-**Can all my characters do dailies?**<br>
+**Can all my characters do dailies?**
+
 Yes, once the main quest is done on one character. Only one character can have an active daily at a time.
 
-**How many Scatelon pets can I get?**<br>
+**How many Scatelon pets can I get?**
+
 One per account. It is the rarest pet of the event.
 
-**Should I save coins or buy costumes now?**<br>
+**Should I save coins or buy costumes now?**
+
 If you want the Scatelon pet, keep 300 Halloween Coins for its quest. Costumes are permanent rewards.
 
-**Is F2 soloable?**<br>
+**Is F2 soloable?**
+
 The monsters are level 108-115 and very strong. Some classes can manage, but a party is strongly recommended.
 
-**Can I abandon and retake a daily?**<br>
+**Can I abandon and retake a daily?**
+
 Yes, but you lose its progress, and you can only complete 4 per day.
 
 ---

@@ -15,8 +15,6 @@ Welcome to the Christmas Event! Here's everything you need to know.
 !!! warning "Subject to Change"
     Event rewards and new items may appear in event shops throughout the event. All content is subject to change based on how the event progresses.
 
----
-
 ## Event Currencies
 
 | Currency | Use |
@@ -25,14 +23,10 @@ Welcome to the Christmas Event! Here's everything you need to know.
 | **Snow Cookie** | HP healing + shop currency |
 | **Winter Cookie** | SP healing + shop currency |
 
----
-
 ## Seasonal Healing Bonus
 
 !!! tip "Extra Healing Power"
     `Candy`, `Candy Cane`, `Well-baked Cookie`, and `Piece of Cake` all receive `~50%` bonus healing during the Christmas season!
-
----
 
 ## Main Activities
 
@@ -57,8 +51,6 @@ Stick with it until the end for the best rewards, including a special meeting wi
 
 ![Mimi NPC Screenshot](img/Christmas/mimi-xmas.webp)
 
----
-
 ### Daily Quests
 
 !!! tip "Quick Daily Rewards"
@@ -79,8 +71,6 @@ Quick and easy way to earn currencies every day!
 
 ![Festi Snowman Screenshot](img/Christmas/xmas_daily_santa.webp)
 
----
-
 ### Santa's Gift Garden
 
 !!! success "Party Instance"
@@ -100,8 +90,6 @@ Your party's score gets recorded on the rankings - top players receive bonus rew
 **Ranking Rewards:** Snow Globes, Poring Coins, Cookies, Firecracker Baskets (top rankers get extra!)
 
 ![Santa's Gift Garden Screenshot](img/Christmas/xmas_instance_2.webp)
-
----
 
 ### King Poring Boss Invasion
 
@@ -129,8 +117,6 @@ Everyone on the map when they fall gets rewards - don't miss it!
 
 ![King Poring Screenshot](img/Christmas/king_poring_event.webp)
 
----
-
 ## Free Daily Stuff
 
 ### Prontera Snowmen
@@ -149,8 +135,6 @@ Just walk up and say hello!
 
 ![Prontera Snowmen Screenshot](img/Christmas/prt_snowmap.webp)
 
----
-
 ### Monster Drops
 
 While hunting any monsters, you have a small chance to receive event currencies as bonus drops. Just play normally and watch them stack up!
@@ -163,8 +147,6 @@ While hunting any monsters, you have a small chance to receive event currencies 
 | Snow Cookies | 150 |
 | Winter Cookies | 75 |
 
----
-
 ### Login Bonuses
 
 !!! success "Free Costumes"
@@ -175,8 +157,6 @@ While hunting any monsters, you have a small chance to receive event currencies 
 | December 25 | Cat Santa Hat Costume |
 | January 1 | Santa's Hat Costume |
 
----
-
 ## Event Shops
 
 ### Poring Merchant (Items & Consumables)
@@ -184,8 +164,6 @@ While hunting any monsters, you have a small chance to receive event currencies 
 **Location:** `/navi xmas 142/123`
 
 ![Poring Merchant Items](img/Christmas/xmas_items_2025.webp)
-
----
 
 ### Costume Collector (Costumes)
 

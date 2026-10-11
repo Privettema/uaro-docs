@@ -22,7 +22,7 @@ The **Repairman** in Morocc can be found at `/navi morocc 220/61`.
 
 ## Schedule
 
-On our server, WoE takes place every Saturday and lasts for one hour.<br>
+On our server, WoE takes place every Saturday and lasts for one hour.
 
 ### Saturday
 
@@ -53,7 +53,9 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 
 !!! note
-    Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.<br> If you possess an FE version of Saturday castles, upon breaking an SE castle you will automatically abandon your FE castles.
+    Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
+
+    If you possess an FE version of Saturday castles, upon breaking an SE castle you will automatically abandon your FE castles.
 
 ## Treasure Chest Drop
 
@@ -88,8 +90,6 @@ WoE Tokens are awarded to guilds that actively participate in WoE and contribute
 
 To qualify, the guild must meet **all requirements** listed below.
 
----
-
 ### 📋 Eligibility Requirements
 
 - A **minimum of 10 guild members** must participate in WoE
@@ -102,18 +102,14 @@ To qualify, the guild must meet **all requirements** listed below.
 
 - **1 × WoE Token per participating member**
 
----
-
 ### 📍 NPC Locations
 
 WoE Tokens can be exchanged with the following NPCs, located **under the WoE sign**, outside the **East Prontera Inn**:
 
 ![WoE Information sign](img/WoE/WoE-Information.png){ .wiki-screenshot }
 
-![Joseph NPC](img/WoE/4_M_NEWOZ.gif) **Joseph NPC** — `/navi prontera 217/173`  
-![Sabrina NPC](img/WoE/4_F_ALCHE_A.gif) **Sabrina NPC** — `/navi prontera 214/173`  
-
----
+- ![Joseph NPC](img/WoE/4_M_NEWOZ.gif) **Joseph NPC** — `/navi prontera 217/173`
+- ![Sabrina NPC](img/WoE/4_F_ALCHE_A.gif) **Sabrina NPC** — `/navi prontera 214/173`
 
 ### 🎭 Costumes
 
@@ -125,15 +121,11 @@ WoE Tokens can be exchanged with the following NPCs, located **under the WoE sig
 | Joseph | ![31682](img/WoE/31682.png) Costume Drooping Elven Ears | 10 |
 | Joseph | ![420209](img/WoE/420209.gif) Costume Cookie Ribbon | 10 |
 
----
-
 ### 🛡 Equipment
 
 | NPC | Item | Cost (WoE Tokens) |
 |-----|------|-------------------|
 | Sabrina | ![5277](img/WoE/5277.gif) Yellow Bandana | 15 |
-
----
 
 ### 🧪 Consumables
 
@@ -146,22 +138,22 @@ WoE Tokens can be exchanged with the following NPCs, located **under the WoE sig
 
 ## WoE Mechanics
 
-- 36 member cap within any given castle (Recall prioritizes top most rank downwards until number met).<br>
-- All MVP cards render no effect within WoE Castles (Still equippable, but have no effect).<br>
-- The following mini-boss cards render no effect within WoE Castles (Ghostring, Angeling, Deviling and Maya Purple).<br>
-- Alliances are allowances with one Guild.<br>
-- @GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).<br>
-- Guild Emblems must be visible and clearly identifiable to participate<br>
-- RODEX is now blocked<br>
-- Butterfly Wing teleport delay: using a Butterfly Wing, Novice Butterfly Wing, or Infinite Butterfly Wing on GvG maps (including castles during WoE and KoE) starts a `3` second countdown before you return to your save point, regardless of combat status.<br>
-- Castle restrictions are applied when WoE starts and cleared when it ends. WoE SE castles are no longer restricted outside of WoE hours.<br>
+- 36 member cap within any given castle (Recall prioritizes top most rank downwards until number met).
+- All MVP cards render no effect within WoE Castles (Still equippable, but have no effect).
+- The following mini-boss cards render no effect within WoE Castles (Ghostring, Angeling, Deviling and Maya Purple).
+- Alliances are allowances with one Guild.
+- @GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).
+- Guild Emblems must be visible and clearly identifiable to participate
+- RODEX is now blocked
+- Butterfly Wing teleport delay: using a Butterfly Wing, Novice Butterfly Wing, or Infinite Butterfly Wing on GvG maps (including castles during WoE and KoE) starts a `3` second countdown before you return to your save point, regardless of combat status.
+- Castle restrictions are applied when WoE starts and cleared when it ends. WoE SE castles are no longer restricted outside of WoE hours.
 
 ### Item Restrictions:
 
-![607](img/607.gif) Yggdrasil Berry<br>
-![608](img/608.gif) Yggdrasil Seeds<br>
-![12192](img/12192.gif) Pumpkin Pie<br>
-![Kafra Card](img/12211.gif) Kafra Card<br> 
+- ![607](img/607.gif) Yggdrasil Berry
+- ![608](img/608.gif) Yggdrasil Seeds
+- ![12192](img/12192.gif) Pumpkin Pie
+- ![Kafra Card](img/12211.gif) Kafra Card
 
 !!! note
     All consumables, items, and card effects have been reviewed for proper blocking within WoE.
@@ -169,6 +161,6 @@ WoE Tokens can be exchanged with the following NPCs, located **under the WoE sig
 
 ### Skill Restrictions:
 
-![bd_rokisweil](img/WoE/bd_rokisweil.gif) Loki's Veil<br>
-![tk_highjump](img/WoE/tk_highjump.gif) High Jump<br>
-![tk_highjump](img/WoE/hp_assumptio.gif) Assumptio<br>
+- ![bd_rokisweil](img/WoE/bd_rokisweil.gif) Loki's Veil
+- ![tk_highjump](img/WoE/tk_highjump.gif) High Jump
+- ![tk_highjump](img/WoE/hp_assumptio.gif) Assumptio

@@ -10,8 +10,6 @@ Guilds compete to break the Emperium and hold castles while defending against en
 
 For many players, Pre-Trans WoE evokes strong nostalgia, recalling the early days of the MMORPG when WoE was more about tactics than raw power. Preparation is also significantly easier, as required gear is more accessible compared to WoE FE or WoE SE, making this mode ideal for both new and returning players.
 
----
-
 ## Schedule
 
 On our server, Pre-Trans WoE takes place **every Sunday** and lasts for **1 hour**.
@@ -21,8 +19,6 @@ On our server, Pre-Trans WoE takes place **every Sunday** and lasts for **1 hour
 | Server Time (UTC) | CET (UTC +1) | EET (UTC +2) | IST (UTC +5) | PST (UTC -8) | MST (UTC -7) | CST (UTC -6) | EST (UTC -5) |
 |-------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
 | 15:00             | 16:00        | 17:00        | 20:00        | 07:00        | 08:00        | 09:00        | 10:00        |
-
----
 
 ## 📝 Guild Registration Requirement (Pre-Trans WoE)
 
@@ -35,8 +31,6 @@ To enter Pre-Trans WoE castles, guilds must be officially **registered and white
 - The representative must remain active in the designated **War Room Discord channel**
 
 Only guilds that meet these conditions and receive GM approval will be allowed to enter castles during active Pre-Trans WoE.
-
----
 
 #### Available Castles
 
@@ -82,11 +76,9 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 
 ## WoE Mechanics (Pre-Trans)
 
-- **26-player cap** per castle  
-  (Recall prioritizes highest-ranked members until the cap is reached)
+- **26-player cap** per castle (Recall prioritizes highest-ranked members until the cap is reached)
 - **Extended, Baby, and Trans classes cannot move** inside Pre-Trans castles
-- **All MVP cards have no effect**  
-  (They can be equipped but provide no bonuses)
+- **All MVP cards have no effect** (They can be equipped but provide no bonuses)
 - **Alliances are removed within castles during active Pre-Trans WoE**
 - Buffs applied by **Trans or Extended classes** are automatically removed upon castle entry
 - Using **FCP outside castles** prior to entering Pre-Trans WoE is strictly forbidden and will result in a ban
@@ -94,12 +86,9 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 - Guild emblems **must be visible** to participate
 - **Chat spam filter is disabled** inside Pre-Trans WoE
 
----
-
 ### Castle & Combat Rules
 
-- **Guild Menu Warp** is disabled during Pre-Trans WoE  
-  (Re-enabled outside WoE; warp points appear next to the lever)
+- **Guild Menu Warp** is disabled during Pre-Trans WoE (Re-enabled outside WoE; warp points appear next to the lever)
 - **Guild Flag Warp** has been relocated:
   - Guild Flag Warp moved to the **castle entrance**
   - Return flags moved to **Floor 2**
@@ -108,8 +97,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
   or Infinite Butterfly Wing starts a `3` second countdown before you return to
   your save point, regardless of combat status
   (Closes an escape that let players bail out mid-engagement)
-- **Gym Pass – Enlarge Weight Limit** has no effect during Pre-Trans WoE  
-  Merchant base skill behavior remains unchanged
+- **Gym Pass – Enlarge Weight Limit** has no effect during Pre-Trans WoE. Merchant base skill behavior remains unchanged
 - **Blocked equipment inside castles:**
   - All enchant effects
 
@@ -126,25 +114,25 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 | ![tk_highjump](img/WoE/tk_highjump.gif) High Jump | Blocked. |
 | ![hp_assumptio](img/WoE/hp_assumptio.gif) Assumptio | Blocked. |
 
-## Item Block Lists	
+## Item Block Lists
 
 [Pre-trans/GvG block list](https://discord.com/channels/702960460168953946/1335435778356150366/1472734186950627348)
 
 ### Consumables Restrictions:
 
-![607](img/607.gif) Yggdrasil Berry<br>
-![608](img/608.gif) Yggdrasil Seeds<br>
-![12192](img/12192.gif) Pumpkin Pie<br>
-![12016](img/WoE/12016.gif) Speed Potion<br>
-![12188](img/WoE/12188.gif) Grace Moon Cake<br>
-![12118](img/WoE/12118.gif) Fireproof Potion<br>
-![12119](img/WoE/12119.gif) Coldproof Potion<br>
-![12120](img/WoE/12120.gif) Earthproof Potion<br>
-![12121](img/WoE/12121.gif) Thunderproof Potion<br>
-![12354](img/WoE/12354.gif) Buche De Noel<br>
-![12321](img/WoE/12321.gif) Arunafeltz Desert Sandwich<br>
-![12319](img/WoE/12319.gif) Rune Strawberry Cake<br>
-![12320](img/607.gif) Schwarzwald Pine Jubilee<br>
+- ![607](img/607.gif) Yggdrasil Berry
+- ![608](img/608.gif) Yggdrasil Seeds
+- ![12192](img/12192.gif) Pumpkin Pie
+- ![12016](img/WoE/12016.gif) Speed Potion
+- ![12188](img/WoE/12188.gif) Grace Moon Cake
+- ![12118](img/WoE/12118.gif) Fireproof Potion
+- ![12119](img/WoE/12119.gif) Coldproof Potion
+- ![12120](img/WoE/12120.gif) Earthproof Potion
+- ![12121](img/WoE/12121.gif) Thunderproof Potion
+- ![12354](img/WoE/12354.gif) Buche De Noel
+- ![12321](img/WoE/12321.gif) Arunafeltz Desert Sandwich
+- ![12319](img/WoE/12319.gif) Rune Strawberry Cake
+- ![12320](img/607.gif) Schwarzwald Pine Jubilee
 - All Stats Foods
 
 !!! note
@@ -166,9 +154,9 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
     | Maya Card | 4146 |
     | Moonlight Flower Card | 4131 |
     | Pharaoh Card | 4148 |
-    | Phreeoni Card | 4121 | 
+    | Phreeoni Card | 4121 |
     | Orc Load Card | 4135 |
-    | Knight Windstorm Card | 4318 | 
+    | Knight Windstorm Card | 4318 |
     | Garm Card | 4324 |
     | Dark Lord Card | 4168 |
     | Turtle General Card | 4305 |
@@ -183,24 +171,24 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
     | Lord Knight Card | 4357 |
     | Assassin Cross Card | 4359 |
     | MasterSmith Card | 4361 |
-    | High Priest Card | 4363 | 
+    | High Priest Card | 4363 |
     | Sniper Card | 4367 |
-    | High Wizard Card | 4365 | 
+    | High Wizard Card | 4365 |
     | General Egnigem Cenia Card | 4352 |
     | Vesper Card | 4374 |
     | Lady Tanee Card | 4376 |
     | Memory of Thanatos Card | 4399 |
     | Detardeurus Card | 4386 |
     | Kiel-D-01 Card | 4403 |
-    | Randgris Card | 4407 | 
-    | Gloom Under Night Card | 4408 | 
-    | Ktullanux Card | 4419 | 
+    | Randgris Card | 4407 |
+    | Gloom Under Night Card | 4408 |
+    | Ktullanux Card | 4419 |
     | Atroce Card | 4425 |
-    | Ifrit Card | 4430 | 
+    | Ifrit Card | 4430 |
     | Fallen Bishop Card | 4441 |
-    | Berzebub Card | 4145 | 
+    | Berzebub Card | 4145 |
     | Corruption Root Card | 4603 |
-    | Amdarais Card | 4601 | 
+    | Amdarais Card | 4601 |
     | Ghostring Card | 4047 |
     | Angeling Card | 4054 |
     | Deviling Card | 4174 |
@@ -218,7 +206,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
     | Drosera Card | 4421 |
     | Galion Card | 4423 |
     | Roween Card | 4422 |
-    | Stapo Card | 4424 | 
+    | Stapo Card | 4424 |
     | Metaling Card | 4341 |
     | Beholder Card | 4356 |
     | Vanberk Card | 4411 |
@@ -230,9 +218,9 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
     | Sky Deleter Card | 4158 |
     | Mole Card | 4343 |
     | Earth Deleter Card | 4279 |
-    | Lady Solace Card | 4394 | 
+    | Lady Solace Card | 4394 |
     | Death Word Card | 4388 |
-    | Ancient Mimic Card | 4387 | 
+    | Ancient Mimic Card | 4387 |
     | Mistress of Shelter Card | 4393 |
     | Dame of Sentinel Card | 4392 |
     | Dolor of Thanatos Card| 4398 |
@@ -260,7 +248,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
     | Luciola Vespa Card | 4445 |
     | Centipede Card | 4447 |
     | Hilsrion Card | 4453 |
-    | Centipede Larva Card | 4452 | 
+    | Centipede Larva Card | 4452 |
     | Tatacho Card | 4442 |
     | Aqua Elemental Card | 4443 |
     | Dark Shadow Card | 4449 |
@@ -279,19 +267,19 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 ### Consumables Restrictions:
 
 ??? note "Block List, click to expand"
-    ![607](img/607.gif) Yggdrasil Berry<br>
-    ![608](img/608.gif) Yggdrasil Seeds<br>
-    ![12192](img/12192.gif) Pumpkin Pie<br>
-	![12016](img/WoE/12016.gif) Speed Potion<br>
-	![12188](img/WoE/12188.gif) Grace Moon Cake<br>
-	![12118](img/WoE/12118.gif) Fireproof Potion<br>
-	![12119](img/WoE/12119.gif) Coldproof Potion<br>
-	![12120](img/WoE/12120.gif) Earthproof Potion<br>
-	![12121](img/WoE/12121.gif) Thunderproof Potion<br>
-	![12354](img/WoE/12354.gif) Buche De Noel<br>
-	![12321](img/WoE/12321.gif) Arunafeltz Desert Sandwich<br>
-	![12319](img/WoE/12319.gif) Rune Strawberry Cake<br>
-	![12320](img/607.gif) Schwarzwald Pine Jubilee<br>
+    - ![607](img/607.gif) Yggdrasil Berry
+    - ![608](img/608.gif) Yggdrasil Seeds
+    - ![12192](img/12192.gif) Pumpkin Pie
+	- ![12016](img/WoE/12016.gif) Speed Potion
+	- ![12188](img/WoE/12188.gif) Grace Moon Cake
+	- ![12118](img/WoE/12118.gif) Fireproof Potion
+	- ![12119](img/WoE/12119.gif) Coldproof Potion
+	- ![12120](img/WoE/12120.gif) Earthproof Potion
+	- ![12121](img/WoE/12121.gif) Thunderproof Potion
+	- ![12354](img/WoE/12354.gif) Buche De Noel
+	- ![12321](img/WoE/12321.gif) Arunafeltz Desert Sandwich
+	- ![12319](img/WoE/12319.gif) Rune Strawberry Cake
+	- ![12320](img/607.gif) Schwarzwald Pine Jubilee
     - All Stats Foods
 
 ### Gear Restrictions:
@@ -307,7 +295,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Saphien's Armor of Ocean [0] | 2346 |
 	| Saphien's Armor of Ocean [1] | 2347 |
 	| Claytos Cracking Earth Armor [0] | 2350 |
-	| Claytos Cracking Earth Armor [1] | 2351 | 
+	| Claytos Cracking Earth Armor [1] | 2351 |
 	| Valkyrja's Shield [1] | 2115 |
 	| Skin of Ventus [1] | 2536 |
 	| Veteran Sword [1] | 1188 |
@@ -327,7 +315,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Bloody Roar [0] | 1265 |
 	| Tomahawk [0] | 1368 |
 	| Ice Pick [1] | 13017 |
-	| Ice Pick [0] | 1230 | 
+	| Ice Pick [0] | 1230 |
     | Combat Knife [0] | 1228 |
 	| Sage's Diary [2] | 1560 |
 	| Luna Bow [2] | 1723 |
@@ -454,7 +442,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
     | Warlock_Battle_Robe | 2379 |
     | Medic's Robe [1] | 2380 |
     | Elite Archer Suit [1] | 2381 |
-    | Elite Shooter Suit [1] | 2382 | 
+    | Elite Shooter Suit [1] | 2382 |
     | Sheriff Badge [0] (Swordman) | 2733 |
     | Medal of Honor [0] | 2720 |
     | Medal of Honor [0] (Thief) | 2721 |
@@ -485,7 +473,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Fish In Mouth [0] | 5403 |
 	| Alice Doll [1] | 5137 |
 	| Glaris Doll Hat [1] | 5341 |
-	| Defolty Doll Hat [1] | 5340 | 
+	| Defolty Doll Hat [1] | 5340 |
 	| Carmen Miranda's Hat [0] | 5307 |
 	| Dress Hat [1] | 5211 |
 	| Rideword Hat [1] | 5208 |
