@@ -15,8 +15,7 @@ Open questions and confirmed values for the data in `data/pets.yml`. Not in the 
 - [x] Baphomet egg `9137`: confirmed.
 
 ## Mob and item IDs
-- [x] Evil Nymph: egg `9047` and bonus match your screenshot. Mob ID is `1416` (Wicked Nymph); its drop-source
-      entry and old sprite use `1564`.
+- [x] Evil Nymph: egg `9047` and bonus match your screenshot. Mob ID is `1416` (Wicked Nymph); the drop source uses it too (`1564` is the no-EXP copy)
 - [x] 12 custom pets had their mob ID taken from the sprite filename on the old page, not a database:
       Green Petite, Knife Goblin, Flail Goblin, Hammer Goblin, Wandering Duck Doll, Mutating White Knight,
       Yao Jun, Chaotic Bapho Jr, Blue Moon Loli Ruri, Contaminated Wanderer, Abysmal Knight, Fire Golem.
@@ -31,7 +30,7 @@ Open questions and confirmed values for the data in `data/pets.yml`. Not in the 
 The pet page now says "Dropped by Name (ID) (rate)". The drop rates are from the old page, unchanged. Several of
 these monsters exist under more than one ID in the database; I used the original spawn. Please confirm in game.
 - [x] Vagabond Wolf is mob `1092`.
-- [x] Evil Nymph `1564` (also `1416`, `2004`, `2214`)
+- [x] Evil Nymph `1416` (also `1564`, `2004`, `2214`; `1564` is the no-EXP copy)
 - [x] Moonlight Flower `1150` (also `20424`, which looks like the pet version)
 - [x] Gloom Under Night `1768` (also `2108`, `20619`)
 - [x] Galion `1783` (also `1791`)
@@ -51,3 +50,11 @@ these monsters exist under more than one ID in the database; I used the original
 - [x] Loyal intimacy is 900 (confirmed).
 - [x] Hunger drops 3 points every 60 seconds: 3 is from the old page, the 60 seconds is the Hercules default.
 - [x] Intimacy per feeding (40 / 30 / 20): from the old page; the emulators have no per-tier values.
+
+## Food and accessory review against Hercules
+- [x] Gremlin food Cheap Lubricant (`25232`), Willow Fine-grained Trunk (`1066`), Roween Rotten Meat (`7564`): taken from Hercules.
+- [x] Wanderer, Whisper, Diabolic and Rigid Nightmare Terror use Pet Food in game; Domovoi uses Luxurious Pet Food.
+- [x] Incubus food is Vital Flower (Yellow) (`6110`) and Succubus is Vital Flower (Blue) (`6113`).
+- [x] Skelion food `11616` is Delicious Meat in game (Hercules calls it Yummy Meat).
+- [ ] Bug to report: Teddy Bear's food shows as Cotton Wads in game, but item `25233` is named Cotton Tufts.
+- [x] Whisper accessory is Pet Soul Ring (`10027`). Scatleton's Red Bell Necklace (`10040`) has no description, so it is not listed.

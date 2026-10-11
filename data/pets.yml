@@ -629,7 +629,7 @@ pets:
     icon: 12365.gif
     drops:
     - mob: Evil Nymph
-      id: 1564
+      id: 1416
       rate: 0.1%
   accessory:
     id: 10029
@@ -858,7 +858,7 @@ pets:
   icon: 1374.gif
   food:
     id: 6110
-    name: Yellow Vital Flower
+    name: Vital Flower (Yellow)
     icon: 6110.gif
   taming:
     id: 12370
@@ -869,7 +869,7 @@ pets:
     name: Masked Ball
     icon: 10034.gif
   bonus: Max SP +5%, adds a 5% chance of restoring 4% of damage as SP when performing a physical attack
-  capture: 0,5%
+  capture: 0.5%
   egg:
     id: 9052
     name: Incubus Egg
@@ -1072,8 +1072,8 @@ pets:
   icon: 1370.gif
   food:
     id: 6113
-    name: Blue Vital Flower
-    icon: 710.gif
+    name: Vital Flower (Blue)
+    icon: 6113.png
   taming:
     id: 12373
     name: Boy's Pure Heart
@@ -1081,7 +1081,7 @@ pets:
   accessory:
     id: 10037
     name: Black Butterfly Mask
-    icon: 10034.gif
+    icon: 10037.png
   bonus: 5% chance to leech 5% of the damage as HP when performing a physical attack
   capture: 2%
   egg:
@@ -1130,8 +1130,12 @@ pets:
   hp: 9280
   kind: base
   icon: 1632.gif
+  food:
+    id: 25232
+    name: Cheap Lubricant
+    icon: 25232.png
   taming:
-    id: 231800
+    id: 23188
     name: Airship Part
     icon: 231800_1.png
     drops:
@@ -1255,6 +1259,10 @@ pets:
   hp: 95
   kind: base
   icon: 1010.gif
+  food:
+    id: 1066
+    name: Fine-grained Trunk
+    icon: 1066.gif
   taming:
     id: 23257
     name: Old Tree's Dew
@@ -1295,6 +1303,10 @@ pets:
   hp: 1796
   kind: base
   icon: 1179.gif
+  accessory:
+    id: 10027
+    name: Pet Soul Ring
+    icon: 10027.png
   taming:
     id: 12363
     name: Ghost Coffin
@@ -1357,6 +1369,10 @@ pets:
   hp: 5716
   kind: base
   icon: Pet_System/1782.gif
+  food:
+    id: 7564
+    name: Rotten Meat
+    icon: 7564.png
   bonus: MATK +3%.
   capture: Obtained from monsters
   egg:
@@ -2021,7 +2037,7 @@ pets:
     loyal: CRIT DMG +9%, HIT +2, DEX +2
   evolves_from: Gremlin
   materials:
-  - id: 231800
+  - id: 23188
     name: Airship Part
     icon: 231800_1.png
     qty: 3
