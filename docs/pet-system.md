@@ -34,8 +34,6 @@ To enable auto-feed:
 | Pet | Type | Feeding |
 |---|---|---|
 | Leaf Cat | Evolvable | Auto-feed Available |
-| Miyabi Doll | Evolvable | Auto-feed Available |
-| Civil Servant | Evolvable | Auto-feed Available |
 
 
 

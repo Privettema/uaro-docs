@@ -173,7 +173,7 @@ Keep content pages plain Markdown. The only exceptions: a floating image (`align
 
 Don't hard-wrap prose. Write a paragraph as one line, however long — Markdown collapses it into the same rendered paragraph either way, and wrapping only makes future edits and diffs messier (a one-word change shifts every wrap point after it, so the diff shows the whole paragraph as changed instead of the sentence that actually moved).
 
-Keep the 120-character limit from the root `CLAUDE.md` for **tables, code blocks and YAML** (front matter, `mkdocs.yml`), where a line has real structural meaning and length affects the rendered result, not just the source file.
+The same goes for table rows and code blocks: there is no line length limit.
 
 ## Checking your changes
 

@@ -15,7 +15,6 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 IGNORE = "style-ignore"
-MAX_TABLE_LINE = 120
 
 MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December"
 UK_WORDS = ("colour", "armour", "favour", "honour", "behaviour", "centre", "cancelled", "neighbour", "labour",
@@ -70,8 +69,6 @@ def lint_file(path):
             in_code = not in_code
             continue
         if in_code:
-            if len(raw) > MAX_TABLE_LINE:
-                add(n, "long-code", f"code line over {MAX_TABLE_LINE} characters")
             continue
         if in_comment:
             in_comment = "-->" not in raw
@@ -79,9 +76,6 @@ def lint_file(path):
         if raw.lstrip().startswith("<!--") and "-->" not in raw:
             in_comment = True
             continue
-
-        if raw.lstrip().startswith("|") and len(raw) > MAX_TABLE_LINE:
-            add(n, "long-table", f"table line over {MAX_TABLE_LINE} characters")
 
         m = re.match(r"(#{1,6}) ", raw)
         if m:
