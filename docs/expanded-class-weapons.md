@@ -4,13 +4,11 @@ hide:
 updated: 2026-10-03
 ---
 
-# Expanded Class Weapons  
+# Expanded Class Weapons
 
 uaRO introduces **Expanded Class weapons** designed specifically for **Gunslinger** and **Ninja** and **Super Novice** classes.
 
 These weapons use **Renewal-era sprites and names**, but their stats have been carefully reworked to fit a **generalized pre-renewal balance**, allowing greater flexibility and freedom in skill builds.
-
----
 
 ## ⚔️ Weapon Overview
 
@@ -39,8 +37,6 @@ These weapons use **Renewal-era sprites and names**, but their stats have been c
 
 Each weapon is tailored to support diverse playstyles without forcing rigid builds.
 
----
-
 ## 🧬 Acquisition System
 
 Expanded Class weapons are obtained through a **token-based system**, allowing players to choose the weapon that best fits their class and build.
@@ -55,9 +51,7 @@ Expanded Class weapons are obtained through a **token-based system**, allowing p
 To create a token, you must combine:
 
 - **1000 × Expanded Token Fragments**
-- **10,000,000 Zeny**
-
----
+- **10,000,000z**
 
 ## 🧩 Expanded Token Fragments
 
@@ -69,10 +63,9 @@ To create a token, you must combine:
 
 ### 🏛 NPC Location
 
-All related NPCs are located in the **eastern room of the Prontera Upgrade Shop** (`/navi prt_in 90/72`)  
+All related NPCs are located in the **eastern room of the Prontera Upgrade Shop** (`/navi prt_in 90/72`)
 
-![Expanded_Class_Weapons](img/Expanded_Class_Weapons/Location.png)<br>
----
+![Expanded_Class_Weapons](img/Expanded_Class_Weapons/Location.png)
 
 ## 👾 Eligible Monsters
 
@@ -116,8 +109,6 @@ Expanded Token Fragments can be obtained from the following monsters:
 - Pot Dofle (@mi 2203)
 - Sropho (@mi 2201)
 - Sedora (@mi 2204)
-
----
 
 ## ℹ️ Notes
 
