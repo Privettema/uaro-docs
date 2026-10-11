@@ -1408,6 +1408,14 @@ pets:
   hp: 169
   kind: base
   icon: Pet_System/1004.gif
+  taming:
+    id: 102723
+    name: Beehive
+    icon: Pet_System/102723.gif
+    drops:
+    - mob: Hornet
+      id: 1004
+      rate: 1%
   bonus: Decreases Cast Time by 2%. Increases Magical Damage with Wind element by 2%.
   capture: 2%
   egg:
