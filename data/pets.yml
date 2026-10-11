@@ -18,7 +18,7 @@ pets:
   taming:
     id: 619
     name: Unripe Apple
-    icon: 7821.gif
+    icon: 619.gif
   accessory:
     id: 10013
     name: Backpack
@@ -781,7 +781,7 @@ pets:
     id: 9053
     name: Golem Egg
     icon: Pet_System/9053.png
-- name: Chung E / Green Maiden
+- name: Chung E
   id: 1519
   level: 49
   hp: 23900
@@ -801,7 +801,7 @@ pets:
     id: 9030
     name: Green Maiden Egg
     icon: Pet_System/9030.png
-- name: Imp / Fire Imp
+- name: Imp
   id: 1837
   level: 76
   hp: 46430
@@ -825,7 +825,7 @@ pets:
     id: 9056
     name: Imp Egg
     icon: Pet_System/9056.png
-- name: Civil Servant / Mao Guai
+- name: Civil Servant
   autofeed: true  # evolvable, but auto-feed is available
   id: 1513
   level: 62
@@ -1433,7 +1433,7 @@ pets:
     qty: 10
   - id: 619
     name: Unripe Apple
-    icon: 7821.gif
+    icon: 619.gif
     qty: 3
   egg:
     id: 9069
@@ -2611,9 +2611,8 @@ pets:
     icon: Card.gif
     qty: 10
   egg:
-    id: 9135
+    id: 9141
     name: Wild Rose Egg
-    icon: Pet_System/9135.png
 - name: Valkyrie Randgris
   id: 1751
   level: 99
@@ -2661,9 +2660,8 @@ pets:
     icon: 7539.gif
     qty: 1000
   egg:
-    id: 9136
+    id: 9142
     name: Eddga Egg
-    icon: Pet_System/9136.png
 - name: Dark Illusion
   id: 1302
   level: 77
@@ -2856,7 +2854,7 @@ pets:
     id: 9068
     name: Blue Unicorn Egg
     icon: Pet_System/9068.png
-    source: Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
+    source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
 - name: Rice Cake
   id: 1815
   level: 12
@@ -2875,17 +2873,25 @@ pets:
     icon: Pet_System/9028.png
     source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
 - name: Violet
-  id: 21919   # rAthena has it commented out as LARVA_VIOLET
   kind: base
   icon: Pet_System/21919.gif
   food:
-    id: 511
-    name: Green Herb
-    icon: 511.png
-  bonus: None
+    name: Unknown
+  bonus: Unknown
   capture: Event
   egg:
     id: 9144
     name: Violet Egg
     icon: Pet_System/9144.png
     source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
+- name: Tai-Zi
+  kind: base
+  food:
+    name: Unknown
+  bonus: Unknown
+  capture: Event
+  egg:
+    id: 9184
+    name: Tai-Zi Egg
+    icon: Pet_System/9184.png
+    source: Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md) when it is on rotation.

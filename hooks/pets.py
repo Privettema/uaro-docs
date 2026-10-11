@@ -184,8 +184,9 @@ def card(p, evolves_into):
         if taming and egg and _where(egg):  # tamed, but the egg can also be had another way
             taming.append(f"Egg: {_where(egg)}")
         middle.append(_section("Taming item", "\n\n".join(taming) or "None", "taming"))
-    auto = evolved or not evolves_into or p.get("autofeed")
-    food = _line(p.get("food") or PET_FOOD) + f"\n\nAuto-feed: {'Yes' if auto else 'No'}"
+    unknown = (p.get("food") or {}).get("name") == "Unknown"
+    auto = "Unknown" if unknown else "Yes" if evolved or not evolves_into or p.get("autofeed") else "No"
+    food = _line(p.get("food") or PET_FOOD) + f"\n\nAuto-feed: {auto}"
     left.append(_section("Food", food, "food"))
     if not from_in_taming:
         middle.append(_section("Evolves from", sources_md or "None", "from"))
