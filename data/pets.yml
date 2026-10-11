@@ -1330,7 +1330,7 @@ pets:
 - name: Wandering Duck Doll
   id: 21089
   kind: base
-  icon: Pet_System/21089.png
+  icon: Pet_System/21089.gif
   taming:
     name: 2025 Summer Event Special
   bonus: Perfect Hit +10
@@ -1343,7 +1343,7 @@ pets:
 - name: Mutating White Knight
   id: 20574
   kind: base
-  icon: Pet_System/20574.png
+  icon: Pet_System/20574.gif
   bonus: ATK +2%, MATK +2%
   capture: Exchange
   egg:

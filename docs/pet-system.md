@@ -40,23 +40,6 @@ To turn it on:
 !!! warning "Enable Auto-Feed Before You Leave"
     A pet that starves returns to its egg with intimacy at Awkward. Turn on auto-feed before you leave a pet unattended.
 
-<!-- Auto-feed is listed on each card in All Pets, so these tables are hidden for now.
-
-| Type | Feeding |
-|---|---|
-| Evolvable pet | Manual only. Poring evolves into Mastering, so it has no auto-feed. |
-| Evolved pet | Auto-feed available. Angeling is an evolved pet, so it can be auto-fed. |
-| Pet without an evolution | Auto-feed available. Incubus has no evolution, so it can be auto-fed. |
-
-These evolvable pets can still be auto-fed:
-
-| Pet | Type | Feeding |
-|---|---|---|
-| Leaf Cat | Evolvable | Auto-feed available |
-| Miyabi Doll | Evolvable | Auto-feed available |
-| Civil Servant | Evolvable | Auto-feed available |
--->
-
 ### Intimacy
 
 Every feeding raises intimacy, and the amount depends on the pet. Your pet loses 5 intimacy each time you die.
