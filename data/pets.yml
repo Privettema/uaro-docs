@@ -1280,8 +1280,8 @@ pets:
     name: Vagabond's Skull
     icon: 14574.gif
     drops:
-    - mob: Vagabond
-      id: null
+    - mob: Vagabond Wolf
+      id: 1092
       rate: 12%
   bonus: AGI +3, DEX +1.
   capture: 10%
@@ -2621,6 +2621,7 @@ pets:
   egg:
     id: 9141
     name: Wild Rose Egg
+    icon: Pet_System/9141.png
 - name: Valkyrie Randgris
   id: 1751
   level: 99
@@ -2636,6 +2637,10 @@ pets:
   bonus:
     cordial: Increases physical and magical damage against Dark and Neutral element enemies by 15%.
     loyal: Increases physical and magical damage against Dark and Neutral element enemies by 20%.
+  egg:
+    id: 9185
+    name: Valkyrie Randgris Egg
+    icon: Pet_System/9185.png
 - name: Eddga
   id: 1115
   level: 65
@@ -2670,6 +2675,7 @@ pets:
   egg:
     id: 9142
     name: Eddga Egg
+    icon: Pet_System/9142.png
 - name: Dark Illusion
   id: 1302
   level: 77
@@ -2839,6 +2845,7 @@ pets:
   food:
     id: 554
     name: Mochi
+    icon: 554.png
   bonus: None
   capture: Event
   egg:
@@ -2885,7 +2892,7 @@ pets:
   icon: Pet_System/21919.gif
   food:
     name: Unknown
-  bonus: Unknown
+  bonus: None
   capture: Event
   egg:
     id: 9144
@@ -2896,7 +2903,7 @@ pets:
   kind: base
   food:
     name: Unknown
-  bonus: Unknown
+  bonus: None
   capture: Event
   egg:
     id: 9184
