@@ -10,7 +10,7 @@ Open questions and confirmed values for the data in `data/pets.yml`. Not in the 
 ## Egg IDs to confirm in game
 - [x] Wild Rose `9141`, Eddga `9142`, Fire Golem `9131`, Kiel D-01 `9126`, Chaotic Bapho Jr `9130`: confirmed.
 - [x] Wild Rose and Eddga egg icons downloaded.
-- [x] Valkyrie Randgris egg is `9185`. The name "Valkyrie Randgris Egg" is a guess (not in the client file).
+- [x] Valkyrie Randgris egg is `9185`. The name is "Randgris Egg", from `monster-changes.md`.
 - [x] White Knight (evolved) may not be a real mob, so it has no mob ID. Egg `9134` and Mutating White Knight's `9133` match the client file.
 - [x] Baphomet egg `9137`: confirmed.
 
@@ -65,7 +65,6 @@ Left open after the data review. Come back to these.
 ### Confirm in game
 - [ ] Gremlin taming item: the ID is `23188`, but the name is still "Airship Part" with icon `231800_1.png`. The client file calls `23188` "Broken Part". If the in-game name differs, rename it in `data/pets.yml`, the Hodremlin material and `taming-gift-set.md`.
 - [ ] Evil Nymph drop source was changed to mob `1416` (the real spawn). Confirm that is what was meant.
-- [ ] Valkyrie Randgris egg name ("Valkyrie Randgris Egg") is a guess.
 - [x] Valkyrie Randgris egg drops from her at 0.15%, taken from `monster-changes.md` (Hercules has no egg in her drops).
 - [ ] Valkyrie Randgris accessory: the old page listed "Randgris's Accessory" with no item ID or icon, and it is not in Hercules. Removed from the page until the real name and ID are known.
 - [ ] Tai-Zi event shop price is unknown.
