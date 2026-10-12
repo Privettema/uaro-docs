@@ -4,7 +4,7 @@ updated: 2026-10-11
 
 # Custom NPCs
 
-Classic MMORPG at heart, with a few handy NPCs to make your journey smoother while keeping things balanced.
+The handy NPCs uaRO adds to smooth out your journey, and the shortcut NPCs it leaves out on purpose.
 
 ## Our approach
 We aim for a classic, balanced experience, so you won’t find the shortcut NPCs common on heavily customized servers. Travel, quests, and party play are all part of the journey here.
