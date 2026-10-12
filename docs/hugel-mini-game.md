@@ -1,4 +1,9 @@
+---
+updated: 2026-10-03
+---
+
 # 🏇 Hugel Mini Game
+
 ![Monster Race Logo](img/Hugel-Mini-Games/Monster-Race-Treck.png)
 
 🐾 Monster Races — Hugel's Wildest Betting Game!
@@ -9,11 +14,11 @@ Looking for a fun way to spend some zeny in Hugel? 🎲 Try your luck with the M
 
 Buy a Monster Ticket for 2,000z per race.
 
-Singles Race win: ![Prize Medal](img/Hugel-Mini-Games/7515.gif) Prize Medals - 4  
-Dual Race win: ![Prize Medal](img/Hugel-Mini-Games/7515.gif) Prize Medals - 15  
+- Singles Race win: ![Prize Medal](img/Hugel-Mini-Games/7515.gif) Prize Medals - 4
+- Dual Race win: ![Prize Medal](img/Hugel-Mini-Games/7515.gif) Prize Medals - 15
 
-While the chances of winning singles are 1 in 6!  
-While the chances of winning duals are 1 in 15!  
+- While the chances of winning singles are 1 in 6!
+- While the chances of winning duals are 1 in 15!
 
 👾 Who’s Racing?
 
@@ -54,7 +59,8 @@ Crushing it in Hugel's minigames? Nice! Every win gets you some shiny Prize Meda
 
 💾 But hey, you can stash them up and swap ‘em later for cool loot! 😎✨
 
-🛍️ What can you get?  
+🛍️ What can you get?
+
 There’s a bunch of items you can exchange them for right in Hugel — from useful gear to fun rewards. Just find the **Wayne NPC** (`/navi hugel 71/83`) or **Ei'felle** (`/navi hugel 73/91`) and start trading! 🏙️📦
 
 **Wayne**
@@ -79,119 +85,119 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
 | 1000 Medals| ![2349](img/Hugel-Mini-Games/2349.png) Aebecee's Raging Typhoon Armor [1]<br> ![2351](img/Hugel-Mini-Games/2351.png) Claytos Cracking Earth Armor [1]<br> ![2345](img/Hugel-Mini-Games/2345.png) Lucius's Fierce Armor of Volcano [1]<br> ![2347](img/Hugel-Mini-Games/2347.png) Saphien's Armor of Ocean [1] |
 
 
-**All weapon cost 1500 Prize Medals**  
+**All weapon cost 1500 Prize Medals**
 
-??? note "Dagger"  
-    ![13002](img/Hugel-Mini-Games/13002.gif) Ginnungagap  
-    ![1237](img/Hugel-Mini-Games/1237.gif) Grimtooth  
-    ![13001](img/Hugel-Mini-Games/13001.gif) Dragon Killer  
-    ![1225](img/Hugel-Mini-Games/1225.gif) Mail Breaker  
-    ![1230](img/Hugel-Mini-Games/1230.gif) Ice Pick  
-    ![1231](img/Hugel-Mini-Games/1231.gif) Bazerald  
-    ![1224](img/Hugel-Mini-Games/1224.gif) Sword Breaker  
-    ![1236](img/Hugel-Mini-Games/1236.gif) Sucsamad  
-    ![1229](img/Hugel-Mini-Games/1229.gif) Kitchen Knife  
-    ![1235](img/Hugel-Mini-Games/1235.gif) Azoth  
-    ![1233](img/Hugel-Mini-Games/1233.gif) Exorciser  
-    ![1232](img/Hugel-Mini-Games/1232.gif) Assassin Dagger  
-    ![1234](img/Hugel-Mini-Games/1234.gif) Moonlight Dagger  
-    ![1227](img/Hugel-Mini-Games/1227.gif) Weeder Knife  
-    ![1241](img/Hugel-Mini-Games/1241.gif) Cursed Dagger  
-    ![1242](img/Hugel-Mini-Games/1242.gif) Dagger of Counter  
-    ![1228](img/Hugel-Mini-Games/1228.gif) Combat Knife  
-    ![1223](img/Hugel-Mini-Games/1223.gif) Fortune Sword  
+??? note "Dagger"
+    - ![13002](img/Hugel-Mini-Games/13002.gif) Ginnungagap
+    - ![1237](img/Hugel-Mini-Games/1237.gif) Grimtooth
+    - ![13001](img/Hugel-Mini-Games/13001.gif) Dragon Killer
+    - ![1225](img/Hugel-Mini-Games/1225.gif) Mail Breaker
+    - ![1230](img/Hugel-Mini-Games/1230.gif) Ice Pick
+    - ![1231](img/Hugel-Mini-Games/1231.gif) Bazerald
+    - ![1224](img/Hugel-Mini-Games/1224.gif) Sword Breaker
+    - ![1236](img/Hugel-Mini-Games/1236.gif) Sucsamad
+    - ![1229](img/Hugel-Mini-Games/1229.gif) Kitchen Knife
+    - ![1235](img/Hugel-Mini-Games/1235.gif) Azoth
+    - ![1233](img/Hugel-Mini-Games/1233.gif) Exorciser
+    - ![1232](img/Hugel-Mini-Games/1232.gif) Assassin Dagger
+    - ![1234](img/Hugel-Mini-Games/1234.gif) Moonlight Dagger
+    - ![1227](img/Hugel-Mini-Games/1227.gif) Weeder Knife
+    - ![1241](img/Hugel-Mini-Games/1241.gif) Cursed Dagger
+    - ![1242](img/Hugel-Mini-Games/1242.gif) Dagger of Counter
+    - ![1228](img/Hugel-Mini-Games/1228.gif) Combat Knife
+    - ![1223](img/Hugel-Mini-Games/1223.gif) Fortune Sword
 
-??? note "One Handed Sword"  
-    ![1130](img/Hugel-Mini-Games/1130.gif) Nagan  
-    ![1141](img/Hugel-Mini-Games/1141.gif) Immaterial Sword  
-    ![1138](img/Hugel-Mini-Games/1138.gif) Mysteltainn  
-    ![1140](img/Hugel-Mini-Games/1140.gif) Byeollungum  
-    ![1148](img/Hugel-Mini-Games/1148.gif) Star Dust Blade [1]  
-    ![1134](img/Hugel-Mini-Games/1134.gif) Caesar's Sword  
-    ![1131](img/Hugel-Mini-Games/1131.gif) Ice Falchion  
-    ![1137](img/Hugel-Mini-Games/1137.gif) Excalibur  
-    ![1132](img/Hugel-Mini-Games/1132.gif) Edge  
-    ![1135](img/Hugel-Mini-Games/1135.gif) Cutlus  
-    ![1136](img/Hugel-Mini-Games/1136.gif) Solar Sword  
-    ![1139](img/Hugel-Mini-Games/1139.gif) Tirfing  
-    ![1133](img/Hugel-Mini-Games/1133.gif) Fireblend  
+??? note "One Handed Sword"
+    - ![1130](img/Hugel-Mini-Games/1130.gif) Nagan
+    - ![1141](img/Hugel-Mini-Games/1141.gif) Immaterial Sword
+    - ![1138](img/Hugel-Mini-Games/1138.gif) Mysteltainn
+    - ![1140](img/Hugel-Mini-Games/1140.gif) Byeollungum
+    - ![1148](img/Hugel-Mini-Games/1148.gif) Star Dust Blade [1]
+    - ![1134](img/Hugel-Mini-Games/1134.gif) Caesar's Sword
+    - ![1131](img/Hugel-Mini-Games/1131.gif) Ice Falchion
+    - ![1137](img/Hugel-Mini-Games/1137.gif) Excalibur
+    - ![1132](img/Hugel-Mini-Games/1132.gif) Edge
+    - ![1135](img/Hugel-Mini-Games/1135.gif) Cutlus
+    - ![1136](img/Hugel-Mini-Games/1136.gif) Solar Sword
+    - ![1139](img/Hugel-Mini-Games/1139.gif) Tirfing
+    - ![1133](img/Hugel-Mini-Games/1133.gif) Fireblend
 
-??? note "Two Handed Sword"  
-    ![1166](img/Hugel-Mini-Games/1166.gif) Dragon Slayer  
-    ![1165](img/Hugel-Mini-Games/1165.gif) Masamune  
-    ![1164](img/Hugel-Mini-Games/1164.gif) Muramasa  
-    ![1167](img/Hugel-Mini-Games/1167.gif) Schweizersabel  
-    ![1169](img/Hugel-Mini-Games/1169.gif) Executioner  
-    ![1168](img/Hugel-Mini-Games/1168.gif) Zweihander  
-    ![1170](img/Hugel-Mini-Games/1170.gif) Katzbalger  
+??? note "Two Handed Sword"
+    - ![1166](img/Hugel-Mini-Games/1166.gif) Dragon Slayer
+    - ![1165](img/Hugel-Mini-Games/1165.gif) Masamune
+    - ![1164](img/Hugel-Mini-Games/1164.gif) Muramasa
+    - ![1167](img/Hugel-Mini-Games/1167.gif) Schweizersabel
+    - ![1169](img/Hugel-Mini-Games/1169.gif) Executioner
+    - ![1168](img/Hugel-Mini-Games/1168.gif) Zweihander
+    - ![1170](img/Hugel-Mini-Games/1170.gif) Katzbalger
 
-??? note "Axe"  
-    ![1364](img/Hugel-Mini-Games/1364.gif) Great Axe  
-    ![1369](img/Hugel-Mini-Games/1369.gif) Guillotine  
-    ![1366](img/Hugel-Mini-Games/1366.gif) Light Epsilon  
-    ![1363](img/Hugel-Mini-Games/1363.gif) Bloody Axe  
-    ![1365](img/Hugel-Mini-Games/1365.gif) Sabbath  
-    ![1367](img/Hugel-Mini-Games/1367.gif) Slaughter  
-    ![1305](img/Hugel-Mini-Games/1305.gif) Cleaver  
-    ![1368](img/Hugel-Mini-Games/1368.gif) Tomahawk  
+??? note "Axe"
+    - ![1364](img/Hugel-Mini-Games/1364.gif) Great Axe
+    - ![1369](img/Hugel-Mini-Games/1369.gif) Guillotine
+    - ![1366](img/Hugel-Mini-Games/1366.gif) Light Epsilon
+    - ![1363](img/Hugel-Mini-Games/1363.gif) Bloody Axe
+    - ![1365](img/Hugel-Mini-Games/1365.gif) Sabbath
+    - ![1367](img/Hugel-Mini-Games/1367.gif) Slaughter
+    - ![1305](img/Hugel-Mini-Games/1305.gif) Cleaver
+    - ![1368](img/Hugel-Mini-Games/1368.gif) Tomahawk
 
-??? note "Mace"  
-    ![1524](img/Hugel-Mini-Games/1524.gif) Golden Mace [1]  
-    ![1528](img/Hugel-Mini-Games/1528.gif) Grand Cross  
-    ![1525](img/Hugel-Mini-Games/1525.gif) Long Mace  
-    ![1523](img/Hugel-Mini-Games/1523.gif) Spike  
-    ![1526](img/Hugel-Mini-Games/1526.gif) Slash  
-    ![1527](img/Hugel-Mini-Games/1527.gif) Quadrille  
+??? note "Mace"
+    - ![1524](img/Hugel-Mini-Games/1524.gif) Golden Mace [1]
+    - ![1528](img/Hugel-Mini-Games/1528.gif) Grand Cross
+    - ![1525](img/Hugel-Mini-Games/1525.gif) Long Mace
+    - ![1523](img/Hugel-Mini-Games/1523.gif) Spike
+    - ![1526](img/Hugel-Mini-Games/1526.gif) Slash
+    - ![1527](img/Hugel-Mini-Games/1527.gif) Quadrille
 
-??? note "Bow"  
-    ![1719](img/Hugel-Mini-Games/1719.gif) Roguemaster's Bow  
-    ![1724](img/Hugel-Mini-Games/1724.gif) Dragon Wing  
-    ![1720](img/Hugel-Mini-Games/1720.gif) Rudra's Bow  
-    ![1722](img/Hugel-Mini-Games/1722.gif) Ballista  
+??? note "Bow"
+    - ![1719](img/Hugel-Mini-Games/1719.gif) Roguemaster's Bow
+    - ![1724](img/Hugel-Mini-Games/1724.gif) Dragon Wing
+    - ![1720](img/Hugel-Mini-Games/1720.gif) Rudra's Bow
+    - ![1722](img/Hugel-Mini-Games/1722.gif) Ballista
 
-??? note "Staff"  
-    ![1616](img/Hugel-Mini-Games/1616.gif) Wing Staff  
-    ![1473](img/Hugel-Mini-Games/1473.gif) Wizardry Staff  
+??? note "Staff"
+    - ![1616](img/Hugel-Mini-Games/1616.gif) Wing Staff
+    - ![1473](img/Hugel-Mini-Games/1473.gif) Wizardry Staff
 
-??? note "Book"  
-    ![1559](img/Hugel-Mini-Games/1559.gif) Legacy of Dragon  
-    ![1557](img/Hugel-Mini-Games/1557.gif) Book of the Apocalypse  
-    ![1558](img/Hugel-Mini-Games/1558.gif) Girl's Diary [1]  
-    ![1561](img/Hugel-Mini-Games/1561.gif) Hardcover Book [1]  
+??? note "Book"
+    - ![1559](img/Hugel-Mini-Games/1559.gif) Legacy of Dragon
+    - ![1557](img/Hugel-Mini-Games/1557.gif) Book of the Apocalypse
+    - ![1558](img/Hugel-Mini-Games/1558.gif) Girl's Diary [1]
+    - ![1561](img/Hugel-Mini-Games/1561.gif) Hardcover Book [1]
 
-??? note "Spear"  
-    ![1474](img/Hugel-Mini-Games/1474.gif) Gae Bolg  
-    ![1414](img/Hugel-Mini-Games/1414.gif) Gelerdria  
-    ![1413](img/Hugel-Mini-Games/1413.gif) Gungnir  
-    ![1415](img/Hugel-Mini-Games/1415.gif) Skewer  
-    ![1469](img/Hugel-Mini-Games/1469.gif) Longinus's Spear  
-    ![1470](img/Hugel-Mini-Games/1470.gif) Brionac  
-    ![1467](img/Hugel-Mini-Games/1467.gif) Bill Guisarme  
-    ![1468](img/Hugel-Mini-Games/1468.gif) Zephyrus  
-    ![1466](img/Hugel-Mini-Games/1466.gif) Crescent Scythe  
-    ![1416](img/Hugel-Mini-Games/1416.gif) Tjungkuletti  
-    ![1471](img/Hugel-Mini-Games/1471.gif) Hellfire  
+??? note "Spear"
+    - ![1474](img/Hugel-Mini-Games/1474.gif) Gae Bolg
+    - ![1414](img/Hugel-Mini-Games/1414.gif) Gelerdria
+    - ![1413](img/Hugel-Mini-Games/1413.gif) Gungnir
+    - ![1415](img/Hugel-Mini-Games/1415.gif) Skewer
+    - ![1469](img/Hugel-Mini-Games/1469.gif) Longinus's Spear
+    - ![1470](img/Hugel-Mini-Games/1470.gif) Brionac
+    - ![1467](img/Hugel-Mini-Games/1467.gif) Bill Guisarme
+    - ![1468](img/Hugel-Mini-Games/1468.gif) Zephyrus
+    - ![1466](img/Hugel-Mini-Games/1466.gif) Crescent Scythe
+    - ![1416](img/Hugel-Mini-Games/1416.gif) Tjungkuletti
+    - ![1471](img/Hugel-Mini-Games/1471.gif) Hellfire
 
-??? note "Katar"  
-    ![1261](img/Hugel-Mini-Games/1261.gif) Infiltrator  
-    ![1265](img/Hugel-Mini-Games/1265.gif) Bloody Roar  
-    ![1263](img/Hugel-Mini-Games/1263.gif) Unholy Touch  
+??? note "Katar"
+    - ![1261](img/Hugel-Mini-Games/1261.gif) Infiltrator
+    - ![1265](img/Hugel-Mini-Games/1265.gif) Bloody Roar
+    - ![1263](img/Hugel-Mini-Games/1263.gif) Unholy Touch
 
-??? note "Knuckle"  
-    ![1815](img/Hugel-Mini-Games/1815.gif) Hatii Claw [1]  
-    ![1814](img/Hugel-Mini-Games/1814.gif) Berserk  
-    ![1813](img/Hugel-Mini-Games/1813.gif) Kaiser Knuckle  
+??? note "Knuckle"
+    - ![1815](img/Hugel-Mini-Games/1815.gif) Hatii Claw [1]
+    - ![1814](img/Hugel-Mini-Games/1814.gif) Berserk
+    - ![1813](img/Hugel-Mini-Games/1813.gif) Kaiser Knuckle
 
-??? note "Whip"  
-    ![1962](img/Hugel-Mini-Games/1962.gif) Lariat Whip  
-    ![1963](img/Hugel-Mini-Games/1963.gif) Rapture Rose  
-    ![1969](img/Hugel-Mini-Games/1969.gif) Blade Whip  
-    ![1964](img/Hugel-Mini-Games/1964.gif) Chemeti Whip  
-    ![1970](img/Hugel-Mini-Games/1970.gif)Queen's Whip  
+??? note "Whip"
+    - ![1962](img/Hugel-Mini-Games/1962.gif) Lariat Whip
+    - ![1963](img/Hugel-Mini-Games/1963.gif) Rapture Rose
+    - ![1969](img/Hugel-Mini-Games/1969.gif) Blade Whip
+    - ![1964](img/Hugel-Mini-Games/1964.gif) Chemeti Whip
+    ![1970](img/Hugel-Mini-Games/1970.gif)Queen's Whip
 
-??? note "Musical Instrument"  
-    ![1918](img/Hugel-Mini-Games/1918.gif) Oriental Lute  
-    ![1913](img/Hugel-Mini-Games/1913.gif) Electric Guitar  
+??? note "Musical Instrument"
+    - ![1918](img/Hugel-Mini-Games/1918.gif) Oriental Lute
+    - ![1913](img/Hugel-Mini-Games/1913.gif) Electric Guitar
 
 ## Base Experience
 

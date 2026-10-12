@@ -148,7 +148,9 @@ hooks:
   - hooks/all_pages.py
   - hooks/patch_notes.py
   - hooks/pets.py
+  - hooks/page_meta.py
   - hooks/seo.py
+  - hooks/search_boost.py
   - hooks/toc.py
 
 # Markdown extensions
@@ -300,6 +302,18 @@ extra:
     provider: google
     property: G-7XD6KF8G73
 
+  # Cookie consent: Google Analytics only loads after the visitor accepts (EU and Brazil players)
+  consent:
+    title: Cookies Consent
+    description: >-
+      This wiki uses Google Analytics cookies to see which pages are read, so we can improve them.
+      They are only set if you accept. You can change your choice at any time from the link in the page footer.
+    cookies:
+      analytics: Google Analytics
+    actions:
+      - accept
+      - reject
+
 extra_css:
   - css/theme.css
   - css/custom.css
@@ -307,4 +321,4 @@ extra_css:
 extra_javascript:
   - js/copy.js
 
-copyright: © 2023-2026 World of Your Dream / uaRO
+copyright: © 2023-2026 World of Your Dream / uaRO &ndash; <a href="#__consent">Change cookie settings</a>

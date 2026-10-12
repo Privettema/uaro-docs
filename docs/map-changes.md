@@ -1,3 +1,7 @@
+---
+updated: 2026-10-04
+---
+
 # Map Changes
 
 Maps where uaRO has altered the layout, monster spawns or warp points.

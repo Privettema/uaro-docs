@@ -1,3 +1,7 @@
+---
+updated: 2026-10-04
+---
+
 # The Twilight Festival 2025
 
 !!! warning "The Twilight Festival 2025 has ended. It may return in the future."
@@ -11,14 +15,10 @@ The Twilight Festival invites adventurers to explore an underwater-themed playgr
     - The **Wheel of Fortune** activates every three hours and remains open for 30 minutes.
 
 
----
-
 ## 1. Farm for Rental Access Gear
 Hunt mobs in caves and on beaches to collect materials for the **Rental Scuba Mask** and **Rental Oxygen Tank**.
 
 ![Start](img/Twilight_Festival/twilight-fest-step0601@2x.webp)
-
----
 
 ## 2. Craft the Boxes
 Visit the **Box Crafter NPC** in the event area.
@@ -33,22 +33,19 @@ Visit the **Box Crafter NPC** in the event area.
 
 ![Boxes](img/Twilight_Festival/twilight-fest-step0502@2x.webp)
 
----
-
 ## 3. Enter the Lasagna Dungeon
 
 **Requirements:**
 - Equip both Rental Scuba Mask and Rental Oxygen Tank
-- 10,000 Zeny per warp
+- 10,000z per warp
 
 !!! note "PvP Enabled"
-    You won't lose experience if you die in this dungeon.  
+    You won't lose experience if you die in this dungeon.
+
     We’ve kept the PvP setting from last year's event for consistency. However, we’ll monitor feedback closely — if it leads to significant negative experiences, we may reconsider the PvP status for this location.
 
 
 ![Lasagna Enter](img/Twilight_Festival/twilight-fest-step0403@2x.webp)
-
----
 
 ## 4. Farm Tickets and Loot
 Defeat mobs in the Twilight Dungeon to collect tickets for event shops and the **Wheel of Fortune**.
@@ -58,14 +55,12 @@ Defeat mobs in the Twilight Dungeon to collect tickets for event shops and the *
 
 ![Twilight Festival Step 4](img/Twilight_Festival/twilight-fest-step0304@2x.webp)
 
----
-
 ## 5. Spin the Wheel of Fortune
 Use special Festival Tickets dropped from mobs to spin the Wheel and earn exclusive items, pets, and costumes.
 
 
 !!! info "Wheel Cost"
-    Each spin costs **1,000,000 Zeny** and **1 Festival Ticket**. Free spins can also drop from the wheel.
+    Each spin costs **1,000,000z** and **1 Festival Ticket**. Free spins can also drop from the wheel.
 
 ![Twilight Festival Step 5](img/Twilight_Festival/twilight-fest-step0205@2x.webp)
 
@@ -81,8 +76,6 @@ Use special Festival Tickets dropped from mobs to spin the Wheel and earn exclus
     - **03:00**
 
 
-
----
 
 ## 6. Visit Event Shops
 Exchange your tickets for powerful items and costumes. Multiple event shops are available in the event area.

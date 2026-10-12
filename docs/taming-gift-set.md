@@ -1,3 +1,7 @@
+---
+updated: 2026-10-11
+---
+
 # Taming Gift Set
 
 ![Taming Gift Set](img/12105.gif) The **Taming Gift Set** (`12105`{ .copy }) is a beautifully decorated gift set that contains a taming item for the [Cute Pet System](pet-system.md). Using it gives you a random one of the items below, shown with the monster it tames and that monster's egg.

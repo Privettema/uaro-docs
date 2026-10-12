@@ -64,6 +64,18 @@
         return r.ok ? r.json() : [];
       })
       .then(function (pages) {
+        // uaro-case-redirect: an old address that differs from a page only in letter case (/FAQ/ for /faq/) goes
+        // straight to that page. Redirect files can't do this: on a case-insensitive disk they'd overwrite the page.
+        var asked = decodeURIComponent(location.pathname).replace(/^\/+|\/+$/g, "");
+        var sameName = pages.filter(function (page) {
+          var url = page.url.replace(/\/+$/, "");
+          return url !== asked && url.toLowerCase() === asked.toLowerCase();
+        })[0];
+        if (sameName) {
+          location.replace("/" + sameName.url + location.search + location.hash);
+          return;
+        }
+
         var matches = pages
           .map(function (page) {
             return { page: page, score: score(queryWords, words(page.title + " " + page.url)) };

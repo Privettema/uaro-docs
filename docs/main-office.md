@@ -1,3 +1,7 @@
+---
+updated: 2026-10-03
+---
+
 # Main Office
 
 Welcome to Main Office, your one-stop shop for all things useful in Prontera! Located in the heart of the city (`/navi prontera 134/184`), Main Office is home to a variety of helpful NPCs who can assist you with your adventures.

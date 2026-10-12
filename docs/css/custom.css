@@ -59,6 +59,86 @@ body {
   margin-top: -0.15rem;
 }
 
+/* Cookie banner: one compact row on the header's purple, with "Cookie Consent:" inline at the start of the message,
+   the buttons on the right, no page overlay, no per-cookie checkbox, and Reject as the quieter choice */
+.md-consent__overlay {
+  display: none;
+}
+
+.md-consent__inner {
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+.md-consent__form .md-consent__settings {
+  display: none !important; /* Material shows it through a checked toggle, which outranks a plain rule */
+}
+
+.md-consent__form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem 1.5rem;
+  padding-block: 1.25rem;
+}
+
+/* The title comes from the message's own first words, so it reads as one line: "Cookie Consent: This wiki..." */
+.md-consent__form h4 {
+  display: none;
+}
+
+.md-consent__form p {
+  flex: 1 1 24rem;
+  margin: 0;
+  color: inherit;
+}
+
+.md-consent__form p::before {
+  content: "Cookie Consent: ";
+  font-weight: 700;
+}
+
+.md-consent__controls {
+  display: flex;
+  gap: 0.5rem;
+  margin: 0;
+}
+
+.md-consent__controls .md-button {
+  margin: 0;
+}
+
+/* Accept: white fill; Reject: white outline */
+.md-consent__controls .md-button[type="submit"],
+.md-consent__controls .md-button:not([type]) {
+  background: #fff;
+  border-color: #fff;
+  color: var(--uaro-purple-900);
+}
+
+.md-consent__controls .md-button[type="reset"] {
+  background: transparent;
+  border-color: #fff;
+  color: #fff;
+}
+
+.md-consent__controls .md-button:focus,
+.md-consent__controls .md-button:hover {
+  background: rgba(255, 255, 255, 0.85);
+  border-color: #fff;
+  color: var(--uaro-purple-900);
+}
+
+/* "Change cookie settings" in the footer jumps to #__consent. The banner's wrapper sits at the end of the page,
+   so the jump scrolled to the bottom; keep the target fixed at the viewport edge so the page stays put. */
+.md-consent {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 0;
+}
+
 /* Class_Changes.md: Styles the skill image */
 .class-changes-table img {
     vertical-align: middle;
@@ -284,3 +364,61 @@ code.copyable:focus-visible {
   height: auto; margin: 0; background: none; mask: none; -webkit-mask: none; }
 .md-typeset details.pet-more[open] > summary::before { content: "- "; transform: none; }
 .md-typeset details.pet-more > :not(summary) { margin: 0.25rem 0 0; padding: 0; }
+
+/* "Last updated" under a page title and the mistake-report note at the end (hooks/page_meta.py) */
+.uaro-updated {
+  margin: -1rem 0 1.2rem;
+  font-size: 0.65rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.uaro-report {
+  margin-top: 2rem;
+  padding-top: 0.6rem;
+  border-top: 0.05rem solid var(--md-default-fg-color--lightest);
+  font-size: 0.65rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* The link reads as plain text until hovered, so it doesn't compete with the page */
+.md-typeset .uaro-report a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--md-default-fg-color--lighter);
+}
+
+.md-typeset .uaro-report a:focus,
+.md-typeset .uaro-report a:hover {
+  color: var(--md-accent-fg-color);
+  text-decoration-color: currentcolor;
+}
+
+/* Tables whose first column is a name that shouldn't wrap (wrap the table in
+   <div class="uaro-nowrap-first-col" markdown>) */
+.uaro-nowrap-first-col td:first-child,
+.uaro-nowrap-first-col th:first-child {
+  white-space: nowrap;
+}
+
+/* Item icons beside a label in a table cell: centre the icon on the text instead of sitting on the baseline.
+   The cell itself stays top-aligned, so the label lines up with the first line of the cells next to it.
+   The negative margin stops the 24px icon from making that line taller than the text, and the relative
+   offset puts the icon back on the text's centre. */
+.md-typeset td img {
+  vertical-align: middle;
+  margin-block: -0.15rem;
+  position: relative;
+  top: -0.15rem;
+}
+
+/* A cell with several icon lines (<br> between them) needs the room back: the tight margins above would make
+   24px icons touch or overlap. Give each line its normal height again, but pull the first icon up so the first
+   line still lines up with the cells next to it. */
+.md-typeset td:has(br) img {
+  margin-block: 0.15rem;
+  top: 0;
+}
+
+.md-typeset td:has(br) img:first-child {
+  margin-top: -0.15rem;
+}

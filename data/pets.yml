@@ -743,7 +743,7 @@ pets:
     id: 10024
     name: Fashionable Glasses
     icon: 10024.png
-  bonus: Max HP +3%, may autocast Heal Lv. 1 when physically attacked
+  bonus: Max HP +3%, may autocast Heal Level 1 when physically attacked
   capture: 2%
   egg:
     id: 9042
@@ -818,7 +818,6 @@ pets:
     name: Imp Egg
     icon: Pet_System/9056.png
 - name: Civil Servant
-  autofeed: true  # evolvable, but auto-feed is available
   id: 1513
   level: 62
   hp: 14390
@@ -940,7 +939,6 @@ pets:
     name: Medusa Egg
     icon: Pet_System/9050.png
 - name: Miyabi Doll
-  autofeed: true  # evolvable, but auto-feed is available
   id: 1404
   level: 33
   hp: 6300

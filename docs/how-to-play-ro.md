@@ -1,3 +1,7 @@
+---
+updated: 2026-10-06
+---
+
 # How to Play RO
 
 The basics of playing Ragnarok Online, from your first character to your first job change. Read this if the game is new to you. The [Beginner Guide](beginner-guide.md) covers what is special about uaRO.

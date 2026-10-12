@@ -15,9 +15,10 @@ Tell us in the **Wiki Errors** channel on the uaRO Discord, or open an issue or 
 | `docs/` | Every page, written in Markdown. `docs/img/` holds the images |
 | `docs/patch-notes/YYYY/` | One file per patch. The listings and the home page preview are generated from these |
 | `mkdocs.yml` | Site settings, the navigation (`nav:`) and the page redirects |
-| `hooks/` | Build-time Python hooks (A-Z page list, patch notes, 404 suggestions) |
+| `docs/dev/` | Editor pages, including the [style guide](docs/dev/style-guide.md) |
+| `hooks/` | Build-time Python hooks (A-Z page list, patch notes, 404 suggestions, descriptions, dates, lazy images) |
 | `overrides/` | Theme template overrides, such as the 404 page |
-| `scripts/` | Helper scripts, including `serve.sh` |
+| `scripts/` | Helper scripts: `serve.sh`, `lint_style.py`, `stamp_updated.py`, `link_health.py` |
 
 ## Run the site locally
 
@@ -47,9 +48,17 @@ mkdocs build --strict
 
 ## Making changes
 
-- **Edit an existing page** rather than creating a duplicate. Keep its tone and formatting.
+- **Follow the [style guide](docs/dev/style-guide.md)** for page structure, admonitions, images, tables, links and
+  writing conventions. Edit an existing page rather than creating a duplicate, and keep its tone and formatting.
+- **Check your page:** `python3 scripts/lint_style.py docs/your-page-name.md` flags style-guide problems. Older pages
+  still have findings, so you only need to clear the ones on lines you touched.
+- **Mark the page as updated:** if you changed what a page says, run `python3 scripts/stamp_updated.py` to set its
+  `updated:` date, shown as "Last updated" under the page title. Skip it for typo, formatting or link-only changes.
+- **Check links and images:** after changing links or images, run `python3 scripts/link_health.py` to find missing alt
+  text, orphaned pages and unreferenced images. Add `--check external` to test outside links too (slower).
 - **Add a page:** create `docs/your-page-name.md` (lowercase, words joined with hyphens), start it with a single
-  `# Title`, and add it to `nav:` in `mkdocs.yml`.
+  `# Title`, and add it to `nav:` in `mkdocs.yml`. The first sentence under the title becomes the page's search and
+  link-preview description (or set `description:` in the front matter).
 - **Rename or move a page:** fix every link to it, and add an entry under `redirect_maps` in `mkdocs.yml` so the old
   address keeps working. Changing only the letter case of a name needs no redirect.
 - **Images:** put them in `docs/img/` and give each one alt text, for example `![Poring](img/1002.gif)`.

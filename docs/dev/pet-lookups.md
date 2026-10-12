@@ -1,3 +1,7 @@
+---
+updated: 2026-10-11
+---
+
 # Pet Lookups
 
 Open questions and confirmed values for the data in `data/pets.yml`. Not in the nav; it's for editors of the pet page.

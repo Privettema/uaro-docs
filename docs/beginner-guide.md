@@ -1,3 +1,7 @@
+---
+updated: 2026-10-09
+---
+
 # uaRO Beginner's Info & Quick Start Guide
 
 A quick-start guide for new uaRO players covering the server's key features, a short class overview and a fast route to level 60+. It was originally written by Angebo. There have been edits by the Wiki maintainers.
@@ -7,8 +11,6 @@ Discord is your best resource for player guides. Check out the "Class Theory" ca
 
 ## 📘 About this Guide
 This guide will contain basic information on how to have a good start at uaRO. It provides an overview about important features and where to find information. There is a short class overview and a Quick Starter guide which can push you up to 60+ within a short time. It ends with some suggestions where to make your first small funds.
-
----
 
 ## 🛠️ Important uaRO Features
 
@@ -103,8 +105,6 @@ These are important for three reasons:
 ### ![Reset NPC](img/JP_ARUNA.gif) Reset NPC
 This NPC is located in the Prontera Main Office and allows you to reset your skills, your stats, or your skills and stats. You can do it as often as you like for a fee, with the first time being free. This allows you to first choose a beginners friendly build and once you own the money (and equipment) you can change to a late game one.
 
----
-
 ## 🔗 Sources of Information
 
 ### [uaRO Discord](https://discord.gg/BNYnsDfnzN)
@@ -131,9 +131,6 @@ This is the best calculator available, and it generally fits to uaRO with some e
 
 ### [Skillsim](https://skills.irowiki.org)
 You can plan your skill tree at this site. Please note that it has a renewal skill tree, but they are mostly correct pre renewal as well. The only known change is: Lord Knight needs Spear Mastery 10 (instead of 5) for Spiral Pierce.
-
-
----
 
 
 ## 🧙 Choosing Your First Class
@@ -268,9 +265,6 @@ Gunslinger works a lot like Hunter and can start farming certain areas really qu
 Super Novice, or (Suno) is a very unique class. There are a lot of interesting things you can do with it, but it may have a learning curve that isn't necessarily the easiest first character.
 
 
----
-
-
 ## 🚀 Quick Start Guide
 This chapter focuses on leveling up to 50-60+ fast so you can become your second class soon. It can be done with any class, because it uses Mercenaries.
 
@@ -401,9 +395,6 @@ You can continue with Mercenaries for a while, but soon you’ll have to level o
 Once you’re 90+ you can give the [Quick Rebirth Guide](https://discord.com/channels/702960460168953946/1443235036999712811) a read. With some preparation you can become 85+ in less than one hour after your rebirth.
 
 
----
-
-
 ## 💰 Beginner Money-Making
 
 ### High Kill Count
@@ -434,7 +425,7 @@ Sleeper (`1386`) drop GNs by 75%. Either sell them to players or split them your
 
 
 #### Split GNs
-As soon as you have basic funds, you can make the quest, buy some GNs from players (3,250z or less) and [split them](https://irowiki.org/wiki/Ore_Downgrading). The Green Lives per GN sells for avg 4,000z to NPCs on a Merchant with Overcharge 10. It's a safe 20% return on investment. Here, the Utan Shaman is much less chatty! You find the **Utan Shaman** in Umbala, and she splits `1` stone or your whole stack at once (see [Quest Changes](quest-changes.md)).
+As soon as you have basic funds, you can make the quest, buy some GNs from players (3,250z or less) and [split them](https://irowiki.org/wiki/Ore_Downgrading). The Green Lives per GN sells for avg 3,650z to NPCs on a Merchant with Overcharge 10. It's a safe return of about 12% over the 3,250z purchase price, and well above the 1,860z an NPC pays for a GN itself with Overcharge 10. Here, the Utan Shaman is much less chatty! You find the **Utan Shaman** in Umbala, and she splits `1` stone or your whole stack at once (see [Quest Changes](quest-changes.md)).
 
 !!! note
     When you farm for items to sell to NPC, check the [Modified Sales Prices](modified-sales-prices.md), as uaRO has some adjustments to item prices.
@@ -446,9 +437,6 @@ Bow classes can kill these one-hit with DS and have a solid income by selling th
 
 ### Thors Volcano 2
 It’s hard to get there, but Knockers (`1838`) are easy to kill and they drop Thorny Buckler (`2124`), Elven Ears (`2286`) and their card.
-
-
----
 
 
 ## 🔧 Notable Features

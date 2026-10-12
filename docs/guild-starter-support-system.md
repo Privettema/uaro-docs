@@ -1,9 +1,11 @@
+---
+updated: 2025-11-19
+---
+
 # 📢 Guild Starter Support System
 
 > **Support system for newly created guilds**
 > Designed for smooth PvE progression without skipping game content.
-
----
 
 ## 📝 Eligibility Requirements
 
@@ -12,8 +14,6 @@
 | 👥 Minimum Members | Guild must have **10 unique members**                   |
 | 🔁 One-Time Claim  | Each guild may receive the package **only once**        |
 | 🧾 GM Verification | Distribution is handled **manually after verification** |
-
----
 
 ## 🎁 Starter Package Contents
 
@@ -34,16 +34,12 @@
 
 > ⚠️ **No headgear (upper / middle / lower) is included.**
 
----
-
 ## 🍬 Consumables
 
 | Item                | Quantity     | Notes      |
 | ------------------- | ------------ | ---------- |
 | 🍬 Bubble Gum (BBG) | 2 per player | Free usage |
 | 📘 100% EXP Manual  | 3 per player | Free usage |
-
----
 
 ## 📦 Claiming Process
 
@@ -54,18 +50,13 @@
 
    * Unclaimed boxes will be automatically **deleted**.
 
----
-
 ## 🚫 Abuse Prevention
 
 !!! danger
-     Any attempt to exploit this system (fake guilds, multi-accounting, etc.) will result in:  
-     
-     * ❌ **Permanent account bans**
-     * ❌ **Hardware bans for all linked accounts**
+    Any attempt to exploit this system (fake guilds, multi-accounting, etc.) will result in:
 
-
----
+    - ❌ **Permanent account bans**
+    - ❌ **Hardware bans for all linked accounts**
 
 ## 🔔 Note
 

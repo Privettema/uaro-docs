@@ -1,3 +1,7 @@
+---
+updated: 2026-10-11
+---
+
 # Cute Pet System
 
 Pets follow you through every adventure and give you a bonus once they trust you enough. This page covers how to tame, feed and evolve them, and lists every pet with its taming item, food and bonus.
@@ -73,6 +77,7 @@ Every feeding raises intimacy, and the amount depends on the pet:
 |---|---|
 | Evolved, first tier | 40 |
 | Evolved, second or final | 30 |
+| Evolved, third and final | 20 |
 | Non-evolvable | 30 |
 | Phreeoni (MVP, final) | 20 |
 | Incubus and Succubus | 20 |

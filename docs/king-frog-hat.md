@@ -1,3 +1,7 @@
+---
+updated: 2024-09-22
+---
+
 # 🐸 King Frog Hat Quest
 
 ## 🌟 Quest Overview
