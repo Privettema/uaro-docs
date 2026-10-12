@@ -1,6 +1,6 @@
 # Cute Pet System
 
-Tame a cute pet, keep it fed and it follows you through every adventure with a bonus in tow. Some pets can even evolve into stronger forms.
+Pets follow you through every adventure and give you a bonus once they trust you enough. This page covers how to tame, feed and evolve them, and lists every pet with its taming item, food and bonus.
 
 !!! info "Quick Start"
     1. Use the pet's taming item on its monster.
@@ -110,7 +110,7 @@ Talk to the **Pet Stylist** in Prontera (`/navi prontera 218/224`), directly nor
 
 ## All Pets
 
-Every pet in one list, from the weakest mob to the strongest, with each evolution line kept together. Click any ID to copy it.
+Every pet on the server, with its bonus, taming item, food and evolution.
 
 ??? note "How to Read This Table"
     - **Title bar.** The pet's egg and name, then its stage: Base Form (it can evolve), Evolution 1, Evolution 2 and so on, Final Evolution, or No Evolution for a pet that stands alone.
