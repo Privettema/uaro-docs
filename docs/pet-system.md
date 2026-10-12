@@ -26,6 +26,16 @@ Most taming items drop from monsters, or come from the ![Taming Gift Set](img/12
 
 ## Feeding
 
+Each pet eats the food shown under **Food** on its card in [All Pets](#all-pets). Hunger drops over time, and feeding a hungry pet raises its intimacy.
+
+### Hunger
+
+- **Hunger drops by 3 points every 60 seconds,** for all pets.
+- **Feed it when it is hungry.** A pet that is already full loses intimacy when you feed it, and one that is only a little hungry gains less.
+- **Starving returns it to its egg.** The pet goes back to its egg at Awkward intimacy instead of running away.
+
+### Auto-Feed
+
 Auto-feed is available for evolved pets and for pets without an evolution. The **Auto-feed** line under Food on each card in [All Pets](#all-pets) says whether a pet can be auto-fed.
 
 To turn it on:
@@ -50,6 +60,8 @@ Intimacy is how much your pet likes you. It sets which bonus you get, and a pet 
 | Cordial | 750 |
 | Loyal | 900 |
 
+### Intimacy per Feeding
+
 Every feeding raises intimacy, and the amount depends on the pet:
 
 | Pet | Intimacy per feeding |
@@ -63,10 +75,8 @@ Every feeding raises intimacy, and the amount depends on the pet:
 ### Reaching Loyal
 
 - **A new pet starts at Neutral.** You need 650 more intimacy to reach Loyal, about 22 feedings for a pet that gains 30 each time.
-- **Feed it when it is hungry.** A pet that is already full loses intimacy when you feed it, and one that is only a little hungry gains less.
-- **Hunger drops by 3 points every 60 seconds,** for all pets. Turn on [auto-feed](#feeding) and the pet feeds itself.
+- **Keep it fed.** Turn on [auto-feed](#auto-feed) and the pet feeds itself while you are away.
 - **Dying costs intimacy.** Your pet loses 5 intimacy each time you die.
-- **Starving returns it to its egg.** Keep it fed so it never gets there.
 
 ## Pet Switch
 
