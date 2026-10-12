@@ -183,7 +183,6 @@ pets:
     id: 626
     name: Monster Juice
     icon: 626.gif
-    source: "Crafted by the Monster Tamer in the Alberta Tool Shop (`/navi alberta_in 173/76`) from 1 Animal Gore (`702`{ .copy }) and 2 Apple (`512`{ .copy })."
   accessory:
     id: 10002
     name: Monster Oxygen Mask
@@ -244,7 +243,6 @@ pets:
     id: 629
     name: Singing Flower
     icon: 629.png
-    source: "Crafted by the Monster Tamer in the Alberta Tool Shop (`/navi alberta_in 173/76`) from 1 Singing Plant (`707`{ .copy })."
   accessory:
     id: 10014
     name: Rocker Glasses
@@ -716,6 +714,7 @@ pets:
     id: 12364
     name: Staff Of Leader
     icon: 12364.gif
+    source: "Event only."
   accessory:
     id: 10028
     name: Beautiful Badges

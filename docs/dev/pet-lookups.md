@@ -60,8 +60,8 @@ these monsters exist under more than one ID in the database; I used the original
 - [ ] Bug to report: Teddy Bear's food shows as Cotton Wads in game, but item `25233` is named Cotton Tufts.
 - [x] Whisper accessory is Pet Soul Ring (`10027`). Scatleton's Red Bell Necklace (`10040`) has no description, so it is not listed.
 
-- [x] NPC-crafted taming items (Monster Tamer in Alberta and Izlude, Munak's Grandma in Comodo): Orc Trophy `635`, No Recipient `636`, Book of the Devil `642`, Her Heart `659`, Singing Flower `629`, Monster Juice `626`. Recipes from the Hercules scripts (`monstertamers.txt`) and [Tame Ingredients](https://irowiki.org/wiki/Tame_Ingredients).
-- [x] Knife, Flail and Hammer Goblin rings are event only.
+- [x] NPC-crafted taming items (Monster Tamer in Alberta and Izlude, Munak's Grandma in Comodo): Orc Trophy `635`, No Recipient `636`, Book of the Devil `642` and Her Heart `659`. Singing Flower `629` and Monster Juice `626` are also crafted there but drop from monsters, so the page does not list the recipe. Recipes from the Hercules scripts (`monstertamers.txt`) and [Tame Ingredients](https://irowiki.org/wiki/Tame_Ingredients).
+- [x] Knife, Flail and Hammer Goblin rings and the Goblin Leader Staff Of Leader are event only.
 
 ## To do
 Left open after the data review. Come back to these.
