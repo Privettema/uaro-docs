@@ -107,13 +107,14 @@ Step inside the [Main Office](main-office.md) and you’ll find more to explore,
 Three NPCs convert a refined weapon into a stronger one:
 
 - Each needs the old weapon equipped at **+10**
-- A failed attempt **destroys** it
+- Every attempt has a **50%** chance to succeed
+- On failure the old weapon is **destroyed**
 - See [Item Changes](item-changes.md) for the stats of the new weapons
 
 | NPC | Location | Description |
 |:-----:|----------|-------------|
-| ![Gigantic Lance Forger NPC](img/NPC/gigantic-lance-forger.png)<br>**Gigantic Lance Forger** | `/navi prt_in 174/136` | Inside the Prontera weapon shop, the **Gigantic Lance Forger** forges the Lord Knight spear **Gigantic Lance** (`1490`) from an equipped +10 Trident [2] (`1460`).<br>• 50% success rate<br>• On failure the Trident is destroyed, and refine level and cards are not carried over to the lance |
-| ![Golden Wrench Forger NPC](img/NPC/golden-wrench-forger.png)<br>**Golden Wrench Forger** | Geffen: `/navi geffen_in 102/176`<br>Einbroch: `/navi ein_in01 27/40` | Found in the Smith job change areas.<br>• Converts an equipped +10 **Vecer Axe** (`1311`) into a **Golden Wrench** (`1333`)<br>• 50% success rate |
-| ![Elven Bow Artisan NPC](img/NPC/elven-bow-artisan.png)<br>**Elven Bow Artisan** | Payon: `/navi payon_in01 5/126`<br>Hugel: `/navi hu_in01 103/382` | Found in the Payon and Hugel weapon shops.<br>• Converts an equipped +10 **Orc Archer Bow** (`1734`) into an **Elven Bow [0]** (`1746`)<br>• 50% success rate |
+| ![Gigantic Lance Forger NPC](img/NPC/gigantic-lance-forger.png)<br>**Gigantic Lance Forger** | `/navi prt_in 174/136` | Inside the Prontera weapon shop, the **Gigantic Lance Forger** forges the Lord Knight spear **Gigantic Lance** (`1490`) from an equipped +10 Trident [2] (`1460`).<br>• 50% chance to succeed; on failure the Trident is destroyed<br>• On success, refine level and cards are not carried over to the lance |
+| ![Golden Wrench Forger NPC](img/NPC/golden-wrench-forger.png)<br>**Golden Wrench Forger** | Geffen: `/navi geffen_in 102/176`<br>Einbroch: `/navi ein_in01 27/40` | Found in the Smith job change areas.<br>• Converts an equipped +10 **Vecer Axe** (`1311`) into a **Golden Wrench** (`1333`)<br>• 50% chance to succeed; on failure the Vecer Axe is destroyed |
+| ![Elven Bow Artisan NPC](img/NPC/elven-bow-artisan.png)<br>**Elven Bow Artisan** | Payon: `/navi payon_in01 5/126`<br>Hugel: `/navi hu_in01 103/382` | Found in the Payon and Hugel weapon shops.<br>• Converts an equipped +10 **Orc Archer Bow** (`1734`) into an **Elven Bow [0]** (`1746`)<br>• 50% chance to succeed; on failure the Orc Archer Bow is destroyed |
 
 </div>
