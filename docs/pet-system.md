@@ -3,11 +3,17 @@
 Tame a cute pet, keep it fed and it follows you through every adventure with a bonus in tow. Some pets can even evolve into stronger forms.
 
 !!! info "Quick Start"
-    1. Use a pet's taming item on the monster. The taming item and where it comes from are on its card in [All Pets](#all-pets).
-    2. Keep it fed. A hungry pet loses intimacy, and one that starves returns to its egg at Awkward intimacy instead of running away.
-    3. Raise its intimacy, because its bonus depends on it. Each card lists the Loyal bonus, and the lower levels where a pet has them.
-    4. A pet must be at Loyal intimacy to evolve. The materials are on the pet it evolves from, under "Evolves into".
-    5. Swap to another egg with a [**Pet Incubator**](#pet-switch) (`643`), or turn a loyal pet into a permanent skin at the [Pet Stylist](#pet-stylist).
+    1. Use the pet's taming item on its monster.
+    2. Feed it, or turn on [auto-feed](#auto-feed).
+    3. Reach Loyal, then evolve it if it can.
+
+## How It Works
+
+- Use a pet's taming item on the monster. The taming item and where it comes from are on its card in [All Pets](#all-pets).
+- Keep it fed. A hungry pet loses intimacy, and one that starves returns to its egg at Awkward intimacy instead of running away.
+- Its bonus depends on intimacy. Each card lists the Loyal bonus, and the lower levels where a pet has them.
+- A pet must be at Loyal intimacy to evolve. The materials are on the pet it evolves from, under "Evolves into".
+- Swap to another egg with a [**Pet Incubator**](#pet-switch) (`643`), or turn a loyal pet into a permanent skin at the [Pet Stylist](#pet-stylist).
 
 ## Taming
 
