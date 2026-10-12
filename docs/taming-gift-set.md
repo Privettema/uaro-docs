@@ -2,8 +2,13 @@
 
 ![Taming Gift Set](img/12105.gif) The **Taming Gift Set** (`12105`{ .copy }) is a beautifully decorated gift set that contains a taming item. Using it gives you a random one of the items below, shown with the monster it tames and that monster's egg.
 
-!!! info "Where to Get It"
-    The Taming Gift Set comes from **Hobota**, who is in every inn. See [Hunting Missions](hunting-mission.md) for how Hobota's missions and shop work.
+## How to Acquire
+
+- **Hobota**, who is in every inn, has it in the Mission Shop for 35 Mission Points. See [Hunting Missions](hunting-mission.md#mission-shop).
+- **Wayne** in Hugel (`/navi hugel 71/83`) gives 2 for 42 Prize Medals. See the [Hugel Mini Game](hugel-mini-game.md).
+- The [Comodo Casino](comodo-casino.md) slot machines pay it out as one of the Tier 2 (Very Rare, `3.60%`) prizes.
+
+## Items
 
 | Item | Mob | Egg |
 |-|-|-|
