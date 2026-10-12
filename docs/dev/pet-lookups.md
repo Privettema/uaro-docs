@@ -66,7 +66,7 @@ Left open after the data review. Come back to these.
 - [ ] Gremlin taming item: the ID is `23188`, but the name is still "Airship Part" with icon `231800_1.png`. The client file calls `23188` "Broken Part". If the in-game name differs, rename it in `data/pets.yml`, the Hodremlin material and `taming-gift-set.md`.
 - [ ] Evil Nymph drop source was changed to mob `1416` (the real spawn). Confirm that is what was meant.
 - [ ] Valkyrie Randgris egg name ("Valkyrie Randgris Egg") is a guess.
-- [ ] Valkyrie Randgris egg drop rate. The page says "at a low chance"; the old page had no source and Hercules has no egg in her drops.
+- [x] Valkyrie Randgris egg drops from her at 0.15%, taken from `monster-changes.md` (Hercules has no egg in her drops).
 - [ ] Valkyrie Randgris accessory: the old page listed "Randgris's Accessory" with no item ID or icon, and it is not in Hercules. Removed from the page until the real name and ID are known.
 - [ ] Tai-Zi event shop price is unknown.
 - [ ] Rice Cake mob `1815` and Green Herb diet come from Hercules, not the game.

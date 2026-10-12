@@ -2655,7 +2655,10 @@ pets:
     id: 9185
     name: Randgris Egg
     icon: Pet_System/9185.png
-    source: Dropped by Valkyrie Randgris (`1751`{ .copy }) at a low chance.
+    drops:
+    - mob: Valkyrie Randgris
+      id: 1751
+      rate: 0.15%
 - name: Eddga
   id: 1115
   level: 65
