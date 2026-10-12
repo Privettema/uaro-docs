@@ -338,7 +338,16 @@ code.copyable:focus-visible {
 }
 
 .md-typeset .uaro-equal-cols table:not([class]) th {
+  padding-bottom: 0;
   vertical-align: bottom;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) td {
+  padding-top: 0.4rem;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) th img {
+  margin-bottom: 0.4rem;
 }
 
 /* Item icons beside a label in a table cell: centre the icon on the text instead of sitting on the baseline.
