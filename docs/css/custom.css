@@ -323,3 +323,41 @@ code.copyable:focus-visible {
 .md-typeset td:has(br) img:first-child {
   margin-top: -0.15rem;
 }
+
+/* repeatable-quests.md: Scrolls sideways instead of spilling out of the page on narrow screens */
+.repeatable-table {
+    overflow-x: auto;
+}
+
+/* repeatable-quests.md: Lets columns grow to fit their content instead of squeezing to the page width */
+.md-typeset .repeatable-table table:not([class]) {
+    max-width: none;
+}
+
+/* repeatable-quests.md: Keeps the NPC, location, level and item/monster columns on one line */
+.repeatable-table td:nth-child(-n+4) {
+    white-space: nowrap;
+}
+
+/* repeatable-quests.md: Centers each row's text against its sprite */
+.repeatable-table td {
+    vertical-align: middle;
+}
+
+/* repeatable-quests.md: Item and monster sprites at full size next to their names */
+.md-typeset .repeatable-table td img {
+    max-width: none;
+    vertical-align: middle;
+    margin: 0 0.25rem 0 0; /* 4px */
+    top: 0;
+}
+
+/* repeatable-quests.md: Red asterisk for monsters on quest-locked maps */
+.quest-flag {
+    color: #d32f2f;
+    font-weight: 700;
+}
+
+[data-md-color-scheme="slate"] .quest-flag {
+    color: #ff6b6b;
+}
