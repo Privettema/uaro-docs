@@ -6,8 +6,6 @@ updated: 2026-10-05
 
 Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen Scaraba** and a handful of drops found nowhere else in the New World.
 
-**Content type:** [Renewal](whats-different.md#content-tags)
-
 ## Getting There
 
 - **On foot:** Enter the Kamidal Tunnel (`dic_dun01`) from `/navi dic_fild01 26/77`.
