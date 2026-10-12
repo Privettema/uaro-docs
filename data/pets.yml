@@ -1246,7 +1246,7 @@ pets:
     id: 25377
     name: Luxurious Pet Food
     icon: 25377.png
-  bonus: Increases Physical Damage against enemies of Demihuman by 3%.<br>Increases Magical Damage against Demihuman by 3%.<br>Decreases
+  bonus: Increases Physical Damage against enemies of Demihuman by 3%. Increases Magical Damage against Demihuman by 3%. Decreases
     physical damage from Demihuman by 3%.
   capture: Event
   egg:
@@ -1504,9 +1504,9 @@ pets:
   bonus:
     shy: Max HP +25, HP Recovery +5%
     neutral: Max HP +38, HP Recovery +10%
-    cordial: Max HP +55, HP Recovery +15%, Physical damage to plant monster increased by 3%, <br> Magical damage to plant
+    cordial: Max HP +55, HP Recovery +15%, Physical damage to plant monster increased by 3%, Magical damage to plant
       monster increased by 3%
-    loyal: Max HP +70, HP Recovery +20%, Physical damage to plant monster increased by 6%, <br> Magical damage to plant monster
+    loyal: Max HP +70, HP Recovery +20%, Physical damage to plant monster increased by 6%, Magical damage to plant monster
       increased by 6%
   evolves_from: Rocker
   materials:
@@ -1999,9 +1999,9 @@ pets:
     icon: 25377.png
   bonus:
     shy: CRIT +3, HIT +3
-    neutral: CRIT +4, HIT +4, <br> 1% chance to recover 300 HP per second for 5 seconds on physical attack
-    cordial: CRIT +5, HIT +6, <br> 2% chance to recover 400 HP and 10 SP per second for 5 seconds on physical attack
-    loyal: CRIT +5, HIT +6, <br> 3% chance to recover 500 HP and 20 SP per second for 5 seconds on physical attack
+    neutral: CRIT +4, HIT +4, 1% chance to recover 300 HP per second for 5 seconds on physical attack
+    cordial: CRIT +5, HIT +6, 2% chance to recover 400 HP and 10 SP per second for 5 seconds on physical attack
+    loyal: CRIT +5, HIT +6, 3% chance to recover 500 HP and 20 SP per second for 5 seconds on physical attack
   evolves_from: Cat o' Nine Tails
   materials:
   - id: 4159
@@ -2179,8 +2179,8 @@ pets:
   kind: evolved
   icon: 1746.gif
   bonus:
-    cordial: MDEF +6.<br>Increases Healing skills effectiveness by 4%.
-    loyal: MDEF +7.<br>Increases Healing skills effectiveness by 6%.
+    cordial: MDEF +6. Increases Healing skills effectiveness by 4%.
+    loyal: MDEF +7. Increases Healing skills effectiveness by 6%.
   evolves_from: Alice
   materials:
   - id: 7047
@@ -2209,8 +2209,8 @@ pets:
   kind: evolved
   icon: 1736.gif
   bonus:
-    cordial: ASPD +4%.<br> HIT +9.
-    loyal: ASPD +5%.<br> HIT +12.
+    cordial: ASPD +4%. HIT +9.
+    loyal: ASPD +5%. HIT +12.
   evolves_from: Teddy Bear
   materials:
   - id: 7317
@@ -2239,8 +2239,8 @@ pets:
   kind: evolved
   icon: 1735.gif
   bonus:
-    cordial: Reduces Variable Cast Time by 4%.<br> Increases Neutral Magic Damage by 3%.
-    loyal: Reduces Variable Cast Time by 5%.<br> Increases Neutral Magic Damage by 5%.
+    cordial: Reduces Variable Cast Time by 4%. Increases Neutral Magic Damage by 3%.
+    loyal: Reduces Variable Cast Time by 5%. Increases Neutral Magic Damage by 5%.
   evolves_from: Teddy Bear
   materials:
   - id: 7317
@@ -2326,9 +2326,9 @@ pets:
   kind: evolved
   icon: 20940.gif
   bonus:
-    cordial: VIT +3, MaxHP +3%.<br>Random chance to autocast Level 2 Kyrie Eleison on yourself when receiving physical damage.(If
+    cordial: VIT +3, MaxHP +3%. Random chance to autocast Level 2 Kyrie Eleison on yourself when receiving physical damage.(If
       you learned a higher Level, it will auto cast that Level instead.)
-    loyal: VIT +4, MaxHP +5%.<br>Random chance to autocast Level 2 Kyrie Eleison on yourself when receiving physical damage.(If
+    loyal: VIT +4, MaxHP +5%. Random chance to autocast Level 2 Kyrie Eleison on yourself when receiving physical damage.(If
       you learned a higher Level, it will auto cast that Level instead.)
   evolves_from: Loli Ruri
   materials:
@@ -2358,8 +2358,8 @@ pets:
   kind: evolved
   icon: 1106.gif
   bonus:
-    cordial: INT +1, MaxSP +50.<br> Increases Earth Property Magical Damage by 3%.
-    loyal: INT +2, MaxSP +75.<br> Increases Earth Property Magical Damage by 5%.
+    cordial: INT +1, MaxSP +50. Increases Earth Property Magical Damage by 3%.
+    loyal: INT +2, MaxSP +75. Increases Earth Property Magical Damage by 5%.
   evolves_from: Baby Desert Wolf
   materials:
   - id: 4082
@@ -2392,8 +2392,8 @@ pets:
     name: Luxurious Pet Food
     icon: 25377.png
   bonus:
-    cordial: MATK +30.<br> Increases magical damage with Ghost and Fire element by 5%.
-    loyal: MATK +40.<br> Increases magical damage with Ghost and Fire element by 7%.
+    cordial: MATK +30. Increases magical damage with Ghost and Fire element by 5%.
+    loyal: MATK +40. Increases magical damage with Ghost and Fire element by 7%.
   evolves_from: Hodremlin
   materials:
   - id: 4413
@@ -2427,8 +2427,8 @@ pets:
     name: Luxurious Pet Food
     icon: 25377.png
   bonus:
-    cordial: ASPD +5%, HIT +15<br> Increases melee physical damage by 3%.
-    loyal: ASPD +7%, HIT +18<br> Increases melee physical damage by 5%.
+    cordial: ASPD +5%, HIT +15 Increases melee physical damage by 3%.
+    loyal: ASPD +7%, HIT +18 Increases melee physical damage by 5%.
   evolves_from: Aliot
   materials:
   - id: 4401
@@ -2462,8 +2462,8 @@ pets:
     name: Luxurious Pet Food
     icon: 25377.png
   bonus:
-    cordial: ATK +40.<br> Increases critical damage by 1%.
-    loyal: ATK +50.<br> Increases critical damage by 3%.
+    cordial: ATK +40. Increases critical damage by 1%.
+    loyal: ATK +50. Increases critical damage by 3%.
   evolves_from: High Orc
   materials:
   - id: 4066
@@ -2493,8 +2493,8 @@ pets:
   kind: evolved
   icon: 20373.gif
   bonus:
-    cordial: INT +3, MaxSP +1%.<br> Prevents Sleep status.
-    loyal: INT +4, MaxSP +3%.<br> Prevents Sleep status.
+    cordial: INT +3, MaxSP +1%. Prevents Sleep status.
+    loyal: INT +4, MaxSP +3%. Prevents Sleep status.
   evolves_from: Nightmare Terror
   materials:
   - id: 7120
@@ -2524,8 +2524,8 @@ pets:
   kind: evolved
   icon: 20420.gif
   bonus:
-    cordial: AGI +4, CRIT +2.<br> Increases critical damage by 5%.
-    loyal: AGI +4, CRIT +3.<br> Increases critical damage by 7%.
+    cordial: AGI +4, CRIT +2. Increases critical damage by 5%.
+    loyal: AGI +4, CRIT +3. Increases critical damage by 7%.
   evolves_from: Wanderer
   materials:
   - id: 4210

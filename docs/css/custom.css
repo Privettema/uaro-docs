@@ -195,10 +195,11 @@ code.copyable:focus-visible {
 .pet { border: 0.0625rem solid var(--md-default-fg-color--lightest); overflow: hidden; }
 .pet-head { display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem 0.8rem; padding: 0.375rem 0.75rem;
   background: var(--md-default-fg-color--lightest); }
-.pet-head p { margin: 0; }
-.pet-ids { display: flex; gap: 0 0.8rem; font-size: 0.7rem; /* 14px, the root is 20px */ }
-.pet-head img { vertical-align: middle; margin-right: 0.25rem; }
-.pet-tag { font-size: 0.7rem; /* 14px, the root is 20px */ margin-left: 0.2rem; font-weight: 400;
+.pet-head p { margin: 0; line-height: 1.2; }
+.pet-head > p:first-child { display: flex; align-items: center; gap: 0.25rem 0.4rem; } /* egg, name, tag on one centre line */
+.pet-ids { display: flex; align-items: center; gap: 0 0.8rem; font-size: 0.7rem; /* 14px, the root is 20px */ }
+.pet-head img { display: block; margin: 0; }
+.pet-tag { font-size: 0.7rem; /* 14px, the root is 20px */ font-weight: 400;
   color: color-mix(in srgb, var(--md-typeset-color) 70%, transparent); /* 5.7:1 on the header, light and dark */ }
 .pet-body { display: flex; align-items: flex-start; gap: 1rem; padding: 0.9rem 0.75rem; }
 .pet-sprite { flex: 0 0 auto; align-self: center; display: flex; align-items: center; justify-content: center; width: 8rem; }

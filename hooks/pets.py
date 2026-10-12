@@ -149,7 +149,9 @@ def _line(it):
 
 
 def _materials(mats):
-    return "\n\n".join(_line(m) for m in mats)
+    """Collapsed by default. The text stays in the page, so site search still finds it."""
+    return ('<details class="pet-more" markdown>\n<summary>Requirements</summary>\n\n'
+            + "\n\n".join(_line(m) for m in mats) + "\n\n</details>")
 
 
 def card(p, evolves_into):
@@ -187,12 +189,12 @@ def card(p, evolves_into):
     unknown = (p.get("food") or {}).get("name") == "Unknown"
     auto = "Unknown" if unknown else "Yes" if evolved or not evolves_into or p.get("autofeed") else "No"
     food = _line(p.get("food") or PET_FOOD) + f"\n\nAuto-feed: {auto}"
-    left.append(_section("Food", food, "food"))
+    right.append(_section("Food", food, "food"))
     if not from_in_taming:
         middle.append(_section("Evolves from", sources_md or "None", "from"))
     blocks = [f'<div class="pet-evo" markdown>\n\n{_pet_link(target["name"])}\n\n{_materials(mats)}\n\n</div>'
               for target, mats in evolves_into or []]
-    right.append(_section("Evolves into", "\n\n".join(blocks) or "None", "into"))
+    left.append(_section("Evolves into", "\n\n".join(blocks) or "None", "into"))
     if p.get("accessory"):
         right.append(_section("Accessory", _line(p["accessory"]), "accessory"))
     cols = "\n\n".join(f'<div class="pet-col" markdown>\n\n' + "\n\n".join(c) + "\n\n</div>"
