@@ -9,9 +9,6 @@ The handy NPCs uaRO adds to smooth out your journey, and the shortcut NPCs it le
 ## Our approach
 We aim for a classic, balanced experience, so you won’t find the shortcut NPCs common on heavily customized servers. Travel, quests, and party play are all part of the journey here.
 
-### Got ideas?
-If there’s a feature you’d love to see, drop your suggestions in our [Discord channel #server-suggestions](https://discord.com/channels/702960460168953946/1197554200817696898).
-
 ### Common Unbalanced NPCs Excluded
 - **No Job Changer**: Advancing jobs means completing the [original quests](https://irowiki.org/wiki/Category:Job_Change_Guide), making each step feel earned.
 - **No Generic Warper**: Our [quest-based dungeon warper](warper-system.md) adds a touch of adventure to travel while still keeping things accessible.
