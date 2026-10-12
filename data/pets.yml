@@ -1100,7 +1100,7 @@ pets:
     icon: 579.png
   taming:
     name: 2023 Halloween Event Special
-  bonus: Increases the recovery rate of Fresh Fish consumables by a whopping 70%
+  bonus: Increases the recovery rate of Fresh Fish consumables by 70%
   capture: Event
   egg:
     id: 9101
