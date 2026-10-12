@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-04
+updated: 2026-10-11
 ---
 
 # Custom NPCs
@@ -83,12 +83,21 @@ Step inside the [Main Office](main-office.md) and you’ll find more to explore,
 | ![Guild Agent NPC](img/NPC/4_F_AGENTKAFRA.gif)<br>**Guild Agent** | `/navi prt_in 214/163` | Guild Bank NPC for zeny storage and transfers (will be located near WoE NPCs south of eastern Prontera inn).<br>  - Max 2 Billion zeny storage.<br> - Bank logs and permissions have moved out of the NPC — manage them per position via the leader-only Management menu in [`@guild`](commands.md#guild-commands).<br> - Members with bank access see the current balance when opening `@guild` |
 | ![Haruna NPC](img/NPC/JP_AIRI.gif)<br>**Haruna** | `/navi prt_in 214/163` | Added a 1 for 1 swap barter NPC for the following Daily Login items that previously weren't stackable (swapping will now stack these items properly). Located in East Prontera Inn near Inn Employee.<br> Elite Siege Supply Box (ID 14003)<br> Blue Butterfly Wing Box(5) (ID 13855)<br> Green Butterfly Wing Box(5) (ID 13851)<br> Red Butterfly Wing Box(5) (ID 13853). |
 | **Bill Doors** | `/navi prontera 100/253` | **Bill Doors** exchanges 1,000,000,000z for a **1B Zeny Token** and back, letting you store zeny above the 2 billion carry cap as an item. |
-| **Gigantic Lance Forger** | `/navi prt_in 174/136` | Inside the Prontera weapon shop, the **Gigantic Lance Forger** forges the Lord Knight spear **Gigantic Lance** from an equipped +10 Trident [2] at a 50% success rate. On failure the Trident is destroyed, and refine level and cards are not carried over to the lance. |
 | ![Disguise Event NPC](img/NPC/disguise-event.gif)<br>**Disguise Event** | `/navi prontera 139/163` | The **Disguise Event NPC** turns into a random monster during the event. Shout its name to win Poring Coins. See [Auto Events](auto-events.md#disguise-event). |
 | ![Find the Mushroom NPC](img/NPC/mushroom-event.gif)<br>**Find the Mushroom** | `/navi prontera 142/228` | The **Find the Mushroom NPC** tells you whether the event is running. Black Mushrooms appear in a city and drop Poring Coins when killed. See [Auto Events](auto-events.md#find-the-mushroom-event). |
 
 
 <!-- TEMPLATE // | ![Alt Text](img/name.gif)<br> **Functional Name** | `/navi map_name X/Y` | Description: includes actual NPC name, what is does, and what it costs if anything. Link out to other pages if relevant. | // END TEMPLATE -->
+
+### Weapon Forgers
+
+Three NPCs convert a refined weapon into a stronger one. Each needs the old weapon equipped at **+10**, and a failed attempt **destroys** it. See [Item Changes](item-changes.md) for the stats of the new weapons.
+
+| NPC | Location | Description |
+|:-----:|----------|-------------|
+| ![Gigantic Lance Forger NPC](img/NPC/gigantic-lance-forger.png)<br>**Gigantic Lance Forger** | `/navi prt_in 174/136` | Inside the Prontera weapon shop, the **Gigantic Lance Forger** forges the Lord Knight spear **Gigantic Lance** from an equipped +10 Trident [2] at a 50% success rate. On failure the Trident is destroyed, and refine level and cards are not carried over to the lance. |
+| ![Golden Wrench Forger NPC](img/NPC/golden-wrench-forger.png)<br>**Golden Wrench Forger** | `Geffen: /navi geffen_in 102/176`<br>`Einbroch: /navi ein_in01 27/40` | Found in the Smith job change areas. Converts an equipped +10 **Vecer Axe** into a **Golden Wrench** at a 50% success rate. |
+| ![Elven Bow Artisan NPC](img/NPC/elven-bow-artisan.png)<br>**Elven Bow Artisan** | `Payon: /navi payon_in01 5/126`<br>`Hugel: /navi hu_in01 103/382` | Found in the Payon and Hugel weapon shops. Converts an equipped +10 **Orc Archer Bow** into an **Elven Bow [0]** at a 50% success rate. |
 
 ## Our approach
 We aim for a classic, balanced experience, so you won’t find the shortcut NPCs common on heavily customized servers. Travel, quests, and party play are all part of the journey here.
