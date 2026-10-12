@@ -400,6 +400,60 @@ code.copyable:focus-visible {
   white-space: nowrap;
 }
 
+/* Custom NPCs: every NPC | Location | Description table shares one fixed column layout.
+   The :not([class]) matches Material's own table rule so the fixed layout actually applies. */
+.md-typeset .uaro-npc-tables table:not([class]) {
+  display: table;
+  min-width: 40rem;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.md-typeset .uaro-npc-tables th:nth-child(1) {
+  width: 7rem;
+}
+
+.md-typeset .uaro-npc-tables th:nth-child(2) {
+  width: 10.5rem;
+}
+
+.md-typeset .uaro-npc-tables td:nth-child(2) code {
+  white-space: nowrap;
+}
+
+/* Tables with a few NPCs side by side: equal column widths, sprites sitting on the same line, centred text, no borders */
+.md-typeset .uaro-equal-cols table:not([class]) {
+  border: 0;
+  box-shadow: none;
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) th,
+.md-typeset .uaro-equal-cols table:not([class]) td {
+  border: 0;
+  text-align: center;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) th {
+  padding-bottom: 0;
+  vertical-align: bottom;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) td {
+  padding-top: 0.15rem;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) tbody tr:hover {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) th img {
+  margin-bottom: 0.4rem;
+}
+
 /* Item icons beside a label in a table cell: centre the icon on the text instead of sitting on the baseline.
    The cell itself stays top-aligned, so the label lines up with the first line of the cells next to it.
    The negative margin stops the 24px icon from making that line taller than the text, and the relative
