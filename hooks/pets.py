@@ -103,14 +103,14 @@ def _pet_link(name):
 
 
 def _ids(p):
-    """Mob ID and Egg ID as separate cells; the header grid puts each over the section column it belongs to."""
+    """Egg ID and Mob ID as separate cells; the header grid puts each over the section column it belongs to."""
     ids = " / ".join(_code(i) for i in dict.fromkeys([p.get("id")] + list(p.get("alt_ids") or [])) if i)
     out = []
-    if ids:
-        out.append(f'<div class="pet-id pet-id-mob" markdown>\n\nMob ID {ids}\n\n</div>')
     egg = p.get("egg")
     if egg:
         out.append(f'<div class="pet-id pet-id-egg" markdown>\n\nEgg ID {_code(egg["id"])}\n\n</div>')
+    if ids:
+        out.append(f'<div class="pet-id pet-id-mob" markdown>\n\nMob ID {ids}\n\n</div>')
     return "\n\n".join(out)
 
 
