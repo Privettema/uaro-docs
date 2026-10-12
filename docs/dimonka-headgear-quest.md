@@ -8,8 +8,6 @@ updated: 2026-10-06
 
 Dimonka is found in the [Main Office](main-office.md) and offers a unique selection of practical headgear to support your adventures.
 
-**Content type:** [uaRO](whats-different.md#content-tags)
-
 | Headgear | Materials | Description | Information |
 |---|---|---|---|
 | ![Mitra](img/Dimonka_Headgear_Quest/5747.gif)<br>Mitra [1] | ![Poring Coin](img/7539_1.png) Poring Coin - 1500<br>![Handcuffs](img/Dimonka_Headgear_Quest/7345.gif) Handcuffs - 1000<br>![Margaretha Sorin Card](img/Dimonka_Headgear_Quest/card.gif) Margaretha Sorin Card - 1 | A hat which is used for ceremonies by priests.<br>INT +1, VIT +1.<br>MDEF +5.<br>Increases Healing skills effectiveness by 5%.<br>Base INT at least 90:<br>MATK +10 | **Class**: Headgear<br>**Defense**: 3<br>**Position**: Upper<br>**Weight**: 10<br>**Level Requirement**: 90<br>**Jobs**: High Priest |

@@ -1,18 +1,10 @@
 ---
-updated: 2026-10-02
+updated: 2026-10-11
 ---
 
 # What's Different
 
-uaRO is built on the pre-renewal game, with changes to existing content and some extra content you would not expect. This page explains how the wiki labels it all so you can find what you are looking for.
-
-## Content Tags
-
-| Tag | What it means |
-|-|-|
-| **Changed** | Official pre-renewal content that uaRO altered: stats, rules, price, source or class access. |
-| **Renewal** | Renewal content added to uaRO. It is rebalanced where needed, so check Item Changes and the other Changes pages for differences. |
-| **uaRO** | Made for uaRO. It does not exist in the official game. |
+uaRO is built on the pre-renewal game, with changes to existing content and some extra content you would not expect. This page explains where each kind of difference is listed so you can find what you are looking for.
 
 On the Changes pages, **Original** is how the official game behaves (the renewal version if the content only exists in renewal) and **uaRO Changes** is how it works here. A blank Original means there is nothing official to compare against.
 
