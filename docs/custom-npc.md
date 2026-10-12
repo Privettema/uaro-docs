@@ -23,7 +23,7 @@ Step inside the [Main Office](main-office.md) and you’ll find more to explore,
 
 | ![Dimonka NPC](img/NPC/dimonka.gif)<br>**Dimonka** | ![Lydia NPC](img/4_F_NFLOSTGIRL.gif)<br>**Lydia** | ![Reset Girl NPC](img/4_F_ACOLYTE.gif)<br>**Reset Girl** | ![Platinum Skill NPC](img/1_F_01.gif)<br>**Platinum Skill** |
 |---|---|---|---|
-| Trades your loot and Poring Coins for [quest headgear](dimonka-headgear-quest.md). | Exchanges Poring Coins for [valuable items](poring-coins-system.md). | Resets your stats or skills for a fee based on your base level. The first reset of each type is free. | Grants the special skills available to your job. Whitesmiths with **Avarice** unlocked get it back automatically after a skill reset. |
+| Trades your loot and Poring Coins for [quest headgear](dimonka-headgear-quest.md). | Exchanges Poring Coins for [valuable items](poring-coins-system.md). | Resets your stats or skills for a fee based on your base level. | Grants the special skills available to your job. |
 
 </div>
 

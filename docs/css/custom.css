@@ -346,6 +346,11 @@ code.copyable:focus-visible {
   padding-top: 0.4rem;
 }
 
+.md-typeset .uaro-equal-cols table:not([class]) tbody tr:hover {
+  background-color: transparent;
+  box-shadow: none;
+}
+
 .md-typeset .uaro-equal-cols table:not([class]) th img {
   margin-bottom: 0.4rem;
 }
