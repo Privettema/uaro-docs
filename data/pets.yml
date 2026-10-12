@@ -2859,7 +2859,7 @@ pets:
   level: 49
   hp: 23900
   kind: base
-  icon: Pet_System/1963.gif
+  icon: Pet_System/1963.png
   food:
     id: 554
     name: Mochi
