@@ -2,6 +2,9 @@
 
 ![Taming Gift Set](img/12105.gif) The **Taming Gift Set** (`12105`{ .copy }) is a beautifully decorated gift set that contains a taming item. Using it gives you a random one of the items below, shown with the monster it tames and that monster's egg.
 
+!!! info "Where to Get It"
+    The Taming Gift Set comes from **Hobota**, who is in every inn. See [Hunting Missions](hunting-mission.md) for how Hobota's missions and shop work.
+
 | Item | Mob | Egg |
 |-|-|-|
 | ![Orange Juice](img/620.gif) Orange Juice (`620`{ .copy }) | Drops (`1113`{ .copy }) | ![Drops Egg](img/Pet_System/9002.png) Drops Egg (`9002`{ .copy }) |
