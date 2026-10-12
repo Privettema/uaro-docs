@@ -21,11 +21,9 @@ The [Main Office](main-office.md) in Prontera (`/navi prontera 134/184`) is the 
 
 </div>
 
-## NPC List
-
 <div class="uaro-npc-tables" markdown>
 
-### Key Helpers
+## Key Helpers
 
 | NPC | Location | Description |
 |:-----:|----------|-------------|
@@ -34,19 +32,19 @@ The [Main Office](main-office.md) in Prontera (`/navi prontera 134/184`) is the 
 | ![Hobota Hunting Quest NPC](img/NPC/hobota.gif)<br>**Hunting Quests** | `Located in every inn` | Talk to **Hobota** to pick up Hunting Missions and earn points, zeny, and experience.<br>• Go solo or bring friends<br>• Choose from four difficulties, with bigger rewards the harder you go |
 | ![Merchant Warper NPC](img/NPC/merchant-warp.gif)<br>**Prontera Market Street** | `/navi prontera 139/171` | Merchants, step right up! The **Merchant Warp NPC** will take you straight to the Prontera Market Street, the heart of our [Vendor System](vendor-system.md). |
 
-### Skills
+## Skills
 | NPC | Location | Description |
 |:-----:|----------|-------------|
 | ![Plagiarism NPC](img/NPC/plagiarism.gif)<br>**Plagiarism Tutor** | `/navi prontera 166/212` | Every thief needs a mark. Rogues and Stalkers with Plagiarism can copy select skills here for 25,000z.<br>• A skill you already know can be overwritten if a higher version is offered<br>• The tutor refuses the trade while Preserve is active |
 | ![Salvia NPC](img/NPC/salvia.gif)<br>**Star Gladiator Resetter** | `/navi prt_in 232/128` | Star Gladiators, looking to let go of old grudges? **Salvia** offers:<br>• Feeling resets for 500,000z<br>• Hatred resets for 250,000z |
 
-### Cards
+## Cards
 | NPC | Location | Description |
 |:-----:|----------|-------------|
 | ![Putty NPC](img/NPC/putty.gif)<br>**Card Exchanger** | `/navi prontera 130/192` | Got cards collecting dust? **Putty** will gladly trade them in for [something more useful](card-exchange.md). |
 | ![Safe Card Remover NPC](img/NPC/mysterious-granny.gif)<br>**Safe Card Remover** | `/navi prt_in 28/73` | **Mysterious Granny** can remove any card from equipment with 100% success. The service costs:<br>• 1x Sillit Pong Bottle (`6443`)<br>• A 10,000,000z fee<br>• 1,000,000z per card removed<br>Sillit Pong Bottles are available from the [BioShop NPC](biolab4.md) at `/navi lhz_dun01 143/288` for 100 Ghost Chills (`6471`). |
 
-### Style
+## Style
 | NPC | Location | Description |
 |:-----:|----------|-------------|
 | ![Stylist NPC](img/NPC/stylist.gif)<br>**Stylist** | `/navi prontera 112/190` | Visit our **Stylist** to freshen up your look.<br>• Hair color and hairstyle changes are free<br>• Cloth color changes cost 100,000z or 1x [Color Change Voucher](donations.md#color-change-voucher)<br>• Presets are free to preview; switching to one costs 100,000z or 1x Color Change Voucher<br>• With an **Infinite Color Change Voucher** in your inventory, the Stylist won't ask for payment and saves your changes automatically |
@@ -54,7 +52,7 @@ The [Main Office](main-office.md) in Prontera (`/navi prontera 134/184`) is the 
 | ![Chameleon NPC](img/NPC/chameleon.gif)<br>**Costume Converter** | `/navi prontera 146/213` | Got a favorite hat? The **Chameleon NPC** can turn your headgear into [a stylish Costume version](costume-converter.md) for 1,200,000z. |
 | ![Voucher Redeem NPC](img/NPC/voucher-redeem.gif)<br>**Voucher Redeemer** | `/navi prontera 122/169` | Want a new look, a new name, or more room? This NPC redeems vouchers to:<br>• Change your character’s name or gender (Bard/Clown and Dancer/Gypsy cannot change gender)<br>• Change your guild name<br>• Add a character slot<br>Vouchers are available in the [Cash Shop](donations.md#voucher-redeemer). |
 
-### Combat
+## Combat
 | NPC | Location | Description |
 |:-----:|----------|-------------|
 | ![PVP NPC](img/NPC/pvp.gif)<br>**PVP Warper** | `/navi prontera 157/194` | Want a fight? The PVP Warper sends you straight into the shared arena and shows you how many challengers are waiting.<br>It also offers **Private Arenas**:<br>• Create a code-locked room on one of five maps (eight rooms per map, yours for 1 hour)<br>• Invite anyone with the 6 character code<br>• Same player cap and item restrictions as the public arenas |
@@ -70,7 +68,7 @@ The [Main Office](main-office.md) in Prontera (`/navi prontera 134/184`) is the 
     **Stalker Gertie**, **Minstrel Alphoccio** and **Gypsy Trentini** - in both their
     mini and MVP versions.
 
-### Cooking
+## Cooking
 | NPC | Location | Description |
 |:-----:|----------|-------------|
 | ![Meowster NPC](img/NPC/4_CAT_CHEF.gif)<br>**Meowster** | `/navi prontera 102/79` | Here you can exchange some loot for **Level 1 Cookbook** (`7472`), **Level 2 Cookbook** (`7473`), **Level 3 Cookbook** (`7474`), **Level 4 Cookbook** (`7475`), **Level 5 Cookbook** (`7476`) |
@@ -87,7 +85,7 @@ The [Main Office](main-office.md) in Prontera (`/navi prontera 134/184`) is the 
     - Normal success rates still apply
     - Waiting more than 5 seconds or cooking a different dish deactivates it
 
-### Other
+## Other
 | NPC | Location | Description |
 |:-----:|----------|-------------|
 | ![Banker NPC](img/NPC/banker.gif)<br>**Banker** | `/navi prontera 133/216` | The **Banker** lets you access your zeny bank. You can also open your bank anytime with CTRL+B. |
@@ -104,7 +102,7 @@ The [Main Office](main-office.md) in Prontera (`/navi prontera 134/184`) is the 
 
 <!-- TEMPLATE // | ![Alt Text](img/name.gif)<br> **Functional Name** | `/navi map_name X/Y` | Description: includes actual NPC name, what is does, and what it costs if anything. Link out to other pages if relevant. | // END TEMPLATE -->
 
-### Weapon Forgers
+## Weapon Forgers
 
 Three NPCs convert a refined weapon into a stronger one:
 
