@@ -58,3 +58,27 @@ these monsters exist under more than one ID in the database; I used the original
 - [x] Skelion food `11616` is Delicious Meat in game (Hercules calls it Yummy Meat).
 - [ ] Bug to report: Teddy Bear's food shows as Cotton Wads in game, but item `25233` is named Cotton Tufts.
 - [x] Whisper accessory is Pet Soul Ring (`10027`). Scatleton's Red Bell Necklace (`10040`) has no description, so it is not listed.
+
+## To do
+Left open after the data review. Come back to these.
+
+### Confirm in game
+- [ ] Gremlin taming item: the ID is `23188`, but the name is still "Airship Part" with icon `231800_1.png`. The client file calls `23188` "Broken Part". If the in-game name differs, rename it in `data/pets.yml`, the Hodremlin material and `taming-gift-set.md`.
+- [ ] Evil Nymph drop source was changed to mob `1416` (the real spawn). Confirm that is what was meant.
+- [ ] Valkyrie Randgris egg name ("Valkyrie Randgris Egg") is a guess.
+- [ ] Tai-Zi event shop price is unknown.
+- [ ] Rice Cake mob `1815` and Green Herb diet come from Hercules, not the game.
+- [ ] Hunger 3 per 60 seconds, death penalty 5 and feeding tiers (40, 30 and 20) are kept as uaRO values with no source (Hercules defaults are 1, 20 and 10 to 50 per pet).
+- [ ] About 22 capture rates differ from Hercules `db/re` and were kept from the old page. Evil Nymph (10%) and Goblin Leader (5%) differ from pre-re and are kept as custom.
+
+### Report
+- [ ] Bug: Teddy Bear's food shows as Cotton Wads in game, but item `25233` is named Cotton Tufts.
+
+### Before a PR
+- [ ] No PR is open. Do not open one without a yes.
+- [ ] `lint_style.py` is clean on `pet-system.md` and this page. `taming-gift-set.md` has 53 `<br>` findings that predate the branch (only two image names changed there); fix them only if that page is edited again.
+
+### Page review follow-ups
+- [ ] Decide on a name index or filter for All Pets (115 cards, no way to jump to one).
+- [ ] "Reaching Loyal" on the page assumes a new pet starts at Neutral (250) and that over-feeding loses intimacy. Both come from the rAthena source, not from uaRO.
+- [ ] The content-type rule was removed from `CLAUDE.md`. Seven pages still carry the `**Content type:**` line and `whats-different.md` still has the Content Tags table (`scaraba-hole.md`, `biolab4.md`, `el-dicastes.md`, `eternal-bastion.md`, `horror-toy-factory.md`, `old-glast-heim.md`, `dimonka-headgear-quest.md`).
