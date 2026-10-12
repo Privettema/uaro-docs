@@ -65,6 +65,7 @@ Use `??? note "Title"` (collapsible) for a block that's long and mostly referenc
 - A standalone image (screenshot, NPC portrait) gets its own line: `![Alt text](img/filename.webp)`. Write a real alt text, not `""` or the filename.
 - Give a standalone screenshot the `.wiki-screenshot` class: `![Alt text](img/filename.webp){ .wiki-screenshot }`. It adds the frame and the spacing above and below. Don't use blank lines or `<br>` to add space.
 - An inline icon (an item or skill next to its name in a sentence or table cell) stays inline: `![Item Name](img/1234.gif) Item Name`.
+- An icon in a table cell is vertically centered with its text. The site's stylesheet does this for every table, so write the icon and name the usual way and don't add spacing or `<br>` to line them up.
 - For a layout markdown can't do alone (floating an image beside text), use `<img src="img/filename.webp" alt="Alt text" align="left" />` — this is the one place raw HTML is expected on a content page.
 
 ## Tables

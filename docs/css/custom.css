@@ -35,6 +35,12 @@ body {
     width: 21.875rem; /* 350px */
 }
 
+/* An icon next to its name in a table cell sits on the vertical centre of the text (see the style guide, Images) */
+.md-typeset td img,
+.md-typeset th img {
+    vertical-align: middle;
+}
+
 /* Class_Changes.md: Styles the skill image */
 .class-changes-table img {
     vertical-align: middle;
