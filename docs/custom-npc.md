@@ -7,7 +7,9 @@ updated: 2026-10-11
 The handy NPCs uaRO adds to smooth out your journey, and the shortcut NPCs it leaves out on purpose.
 
 ## Our approach
-We aim for a classic, balanced experience, so you won’t find the shortcut NPCs common on heavily customized servers. Travel, quests, and party play are all part of the journey here.
+
+- We aim for a classic, balanced experience, so you won’t find the shortcut NPCs common on heavily customized servers
+- Travel, quests, and party play are all part of the journey here
 
 ### Common Unbalanced NPCs Excluded
 - **No Job Changer**: Advancing jobs means completing the [original quests](https://irowiki.org/wiki/Category:Job_Change_Guide), making each step feel earned.
@@ -33,7 +35,7 @@ Step inside the [Main Office](main-office.md) and you’ll find more to explore,
 ### Skills
 | NPC | Location | Description |
 |:-----:|----------|-------------|
-| ![Plagiarism NPC](img/NPC/plagiarism.gif)<br>**Plagiarism Tutor** | `/navi prontera 166/212` | Every thief needs a mark — Rogues and Stalkers with Plagiarism can copy select skills here for 25,000z.<br>• A skill you already know can be overwritten if a higher version is offered<br>• The tutor refuses the trade while Preserve is active |
+| ![Plagiarism NPC](img/NPC/plagiarism.gif)<br>**Plagiarism Tutor** | `/navi prontera 166/212` | Every thief needs a mark. Rogues and Stalkers with Plagiarism can copy select skills here for 25,000z.<br>• A skill you already know can be overwritten if a higher version is offered<br>• The tutor refuses the trade while Preserve is active |
 | ![Salvia NPC](img/NPC/salvia.gif)<br>**Star Gladiator Resetter** | `/navi prt_in 232/128` | Star Gladiators, looking to let go of old grudges? **Salvia** offers:<br>• Feeling resets for 500,000z<br>• Hatred resets for 250,000z |
 
 ### Cards
@@ -54,11 +56,11 @@ Step inside the [Main Office](main-office.md) and you’ll find more to explore,
 | NPC | Location | Description |
 |:-----:|----------|-------------|
 | ![PVP NPC](img/NPC/pvp.gif)<br>**PVP Warper** | `/navi prontera 157/194` | Want a fight? The PVP Warper sends you straight into the shared arena and shows you how many challengers are waiting.<br>It also offers **Private Arenas**:<br>• Create a code-locked room on one of five maps (eight rooms per map, yours for 1 hour)<br>• Invite anyone with the 6 character code<br>• Same player cap and item restrictions as the public arenas |
-| ![Battlegrounds NPC](img/NPC/battlegrounds.gif)<br>**Battlegrounds** | `/navi prontera 165/170` | The **Battleground Info NPC** keeps you in the loop — see the active mode, count the fighters, stock up, and join the fray.<br>• Open the Battleground menu anywhere with `@bg` or [enter BG through commands](commands.md#battleground-commands)<br>• Announcements notify you when battles begin and can be turned off in [@settings → Announcement Config](commands.md#system-commands)<br>See the [Battlegrounds](battlegrounds.md) page for full details. |
-| ![WoE Sign NPC](img/NPC/woe-info.gif)<br>**WoE Sign** | `/navi prontera 216/177` | The WoE Sign Board announces the next [War of Emperium](woe.md) and shows current castle ownership. For Pre-Trans details, check the [Pre-Trans WoE page](pre-trans-woe.md). [Signs are also in other cities.](woe.md#woe-signs) |
-| ![Guild Battle Officer NPC](img/NPC/gvg-officer.gif)<br>**Guild Battle** | `/navi prontera 213/168` | The fight begins now! Enter the **Guild Battle Officer’s** PvP room where guilds settle their rivalries. Two guilds max, guild members only, BG consumables permitted! |
+| ![Battlegrounds NPC](img/NPC/battlegrounds.gif)<br>**Battlegrounds** | `/navi prontera 165/170` | The **Battleground Info NPC** keeps you in the loop: see the active mode, count the fighters, stock up, and join the fray.<br>• Open the Battleground menu anywhere with `@bg` or [enter BG through commands](commands.md#battleground-commands)<br>• Announcements notify you when battles begin and can be turned off in [@settings → Announcement Config](commands.md#system-commands)<br>See the [Battlegrounds](battlegrounds.md) page for full details. |
+| ![WoE Sign NPC](img/NPC/woe-info.gif)<br>**WoE Sign** | `/navi prontera 216/177` | The WoE Sign Board announces the next [War of Emperium](woe.md) and shows current castle ownership.<br>• For Pre-Trans details, check the [Pre-Trans WoE page](pre-trans-woe.md)<br>• Signs are also in [other cities](woe.md#woe-signs) |
+| ![Guild Battle Officer NPC](img/NPC/gvg-officer.gif)<br>**Guild Battle** | `/navi prontera 213/168` | The fight begins now! Enter the **Guild Battle Officer’s** PvP room where guilds settle their rivalries.<br>• Two guilds max<br>• Guild members only<br>• BG consumables permitted |
 | ![Training Dummy NPC](img/NPC/training-dummy.gif)<br>**Build Tester** | `/navi prontera 220/77` | **Target Dummies** allow you to test your build's effectiveness against different settings like size, race, element, and more. |
-| ![Sir Albrecht NPC](img/NPC/4_M_3RDPRIN1.gif)<br>**Sir Albrecht** | `/navi prontera 169/228` | **King of Emperium** (**KoE**) is a PvP/GvG event available only on uaRO, where guilds battle for control and protection of the Emperium in multiple themed battlefields. The event emphasizes tactical coordination and rewards players with valuable prizes for their participation. See the [King of Emperium](king-of-emperium.md) page for full details. |
+| ![Sir Albrecht NPC](img/NPC/4_M_3RDPRIN1.gif)<br>**Sir Albrecht** | `/navi prontera 169/228` | **King of Emperium** (**KoE**) is a PvP/GvG event available only on uaRO.<br>• Guilds battle for control and protection of the Emperium in multiple themed battlefields<br>• Emphasizes tactical coordination and rewards players with valuable prizes for their participation<br>See the [King of Emperium](king-of-emperium.md) page for full details. |
 
 !!! note "Bio Lab 4 Targets"
     The Build Tester's target dummies include the **Bio Lab 4** mini-bosses and MVPs -
@@ -78,36 +80,40 @@ Step inside the [Main Office](main-office.md) and you’ll find more to explore,
 | ![Vegetable Gardener NPC](img/NPC/4_F_02.gif)<br>**Vegetable Gardener** | `/navi prontera 124/75` | This is a modified Vegetable Gardener NPC that has a new location. |
 
 !!! note "Quick Cooking"
-    Cook the same dish 4 times in a row (each within 5 seconds of the last) and Quick Cooking
-    activates, announced in chat. While active, using a cooking kit instantly cooks that dish again
-    with no menu selection, as long as you have the materials. Normal success rates still apply.
-    Waiting more than 5 seconds or cooking a different dish deactivates it.
+    - Cook the same dish 4 times in a row, each within 5 seconds of the last, and Quick Cooking activates, announced in chat
+    - While active, using a cooking kit instantly cooks that dish again with no menu selection, as long as you have the materials
+    - Normal success rates still apply
+    - Waiting more than 5 seconds or cooking a different dish deactivates it
 
 ### Other
 | NPC | Location | Description |
 |:-----:|----------|-------------|
-| ![Banker NPC](img/NPC/banker.gif)<br>**Banker** | `/navi prontera 133/216` | The **Banker** lets you access your zeny bank. You can also open your bank anytime with CTRL+B. |
+| ![Banker NPC](img/NPC/banker.gif)<br>**Banker** | `/navi prontera 133/216` | The **Banker** lets you access your zeny bank.<br>• You can also open your bank anytime with CTRL+B |
 | ![Lottery NPC](img/NPC/lottery.png)<br>**Lottery** | `/navi prontera 134/184` | The lottery NPC in the [Main Office](main-office.md) runs the daily [Lottery](lottery-npc.md): pick six numbers from 1 to 40 for 25,000z, with results every day at `20:45` server time. |
-| ![Contractor NPC](img/NPC/contractor.gif)<br>**Branch Rooms** | `/navi prontera 129/212` | Rent a private branch room with the **Contractor NPC** for 120 minutes at a cost of 1,200,000z. You, your party, or your guild may leave and re-enter freely during the rental period. |
-| ![Gold Points NPC](img/NPC/4_F_02.gif)<br>**Hourly Rewards** | `/navi prt_in 56/142` | The **Gold Points Manager** handles our [Hourly Rewards System](hourly-rewards-system.md), where you receive Gold Coins (`7929`) for every hour you play. Collect coins as you go, then visit the [Main Office](main-office.md) to exchange them for special prizes. |
+| ![Contractor NPC](img/NPC/contractor.gif)<br>**Branch Rooms** | `/navi prontera 129/212` | Rent a private branch room with the **Contractor NPC**.<br>• 120 minutes for 1,200,000z<br>• You, your party, or your guild may leave and re-enter freely during the rental period |
+| ![Gold Points NPC](img/NPC/4_F_02.gif)<br>**Hourly Rewards** | `/navi prt_in 56/142` | The **Gold Points Manager** handles our [Hourly Rewards System](hourly-rewards-system.md), where you receive Gold Coins (`7929`) for every hour you play.<br>• Collect coins as you go<br>• Visit the [Main Office](main-office.md) to exchange them for special prizes |
 | ![Super Novice Death Reset NPC](img/NPC/sn-death-reset.gif)<br>**Super Novice Reset** | `/navi prt_fild08 134/359` | **Lupita** lets Super Novices reset their death record for free, making it easy to shake off bad luck and continue the adventure with a clean slate.<br>The reset also grants a 10 second Super Novice Spirit status (Super Novice and Super Baby only), long enough to swap into:<br>• Headgear (base 91+)<br>• Level 4 weapons (base 97+)<br>Both stay equipped afterwards. |
-| ![Guild Agent NPC](img/NPC/4_F_AGENTKAFRA.gif)<br>**Guild Agent** | `/navi prt_in 214/163` | Guild Bank NPC for zeny storage and transfers (will be located near WoE NPCs south of eastern Prontera inn).<br>• Max 2 Billion zeny storage<br>• Bank logs and permissions have moved out of the NPC — manage them per position via the leader-only Management menu in [`@guild`](commands.md#guild-commands)<br>• Members with bank access see the current balance when opening `@guild` |
+| ![Guild Agent NPC](img/NPC/4_F_AGENTKAFRA.gif)<br>**Guild Agent** | `/navi prt_in 214/163` | Guild Bank NPC for zeny storage and transfers (will be located near WoE NPCs south of eastern Prontera inn).<br>• Max 2 Billion zeny storage<br>• Bank logs and permissions have moved out of the NPC, so manage them per position via the leader-only Management menu in [`@guild`](commands.md#guild-commands)<br>• Members with bank access see the current balance when opening `@guild` |
 | ![Haruna NPC](img/NPC/JP_AIRI.gif)<br>**Haruna** | `/navi prt_in 214/163` | Added a 1 for 1 swap barter NPC for the following Daily Login items that previously weren't stackable (swapping will now stack these items properly). Located in East Prontera Inn near Inn Employee.<br>• Elite Siege Supply Box (`14003`)<br>• Blue Butterfly Wing Box(5) (`13855`)<br>• Green Butterfly Wing Box(5) (`13851`)<br>• Red Butterfly Wing Box(5) (`13853`) |
 | **Bill Doors** | `/navi prontera 100/253` | **Bill Doors** exchanges 1,000,000,000z for a **1B Zeny Token** and back, letting you store zeny above the 2 billion carry cap as an item. |
-| ![Disguise Event NPC](img/NPC/disguise-event.gif)<br>**Disguise Event** | `/navi prontera 139/163` | The **Disguise Event NPC** turns into a random monster during the event. Shout its name to win Poring Coins (`7539`). See [Auto Events](auto-events.md#disguise-event). |
-| ![Find the Mushroom NPC](img/NPC/mushroom-event.gif)<br>**Find the Mushroom** | `/navi prontera 142/228` | The **Find the Mushroom NPC** tells you whether the event is running. Black Mushrooms appear in a city and drop Poring Coins when killed. See [Auto Events](auto-events.md#find-the-mushroom-event). |
+| ![Disguise Event NPC](img/NPC/disguise-event.gif)<br>**Disguise Event** | `/navi prontera 139/163` | The **Disguise Event NPC** turns into a random monster during the event.<br>• Shout its name to win Poring Coins (`7539`)<br>See [Auto Events](auto-events.md#disguise-event). |
+| ![Find the Mushroom NPC](img/NPC/mushroom-event.gif)<br>**Find the Mushroom** | `/navi prontera 142/228` | The **Find the Mushroom NPC** tells you whether the event is running.<br>• Black Mushrooms appear in a city and drop Poring Coins when killed<br>See [Auto Events](auto-events.md#find-the-mushroom-event). |
 
 
 <!-- TEMPLATE // | ![Alt Text](img/name.gif)<br> **Functional Name** | `/navi map_name X/Y` | Description: includes actual NPC name, what is does, and what it costs if anything. Link out to other pages if relevant. | // END TEMPLATE -->
 
 ### Weapon Forgers
 
-Three NPCs convert a refined weapon into a stronger one. Each needs the old weapon equipped at **+10**, and a failed attempt **destroys** it. See [Item Changes](item-changes.md) for the stats of the new weapons.
+Three NPCs convert a refined weapon into a stronger one:
+
+- Each needs the old weapon equipped at **+10**
+- A failed attempt **destroys** it
+- See [Item Changes](item-changes.md) for the stats of the new weapons
 
 | NPC | Location | Description |
 |:-----:|----------|-------------|
-| ![Gigantic Lance Forger NPC](img/NPC/gigantic-lance-forger.png)<br>**Gigantic Lance Forger** | `/navi prt_in 174/136` | Inside the Prontera weapon shop, the **Gigantic Lance Forger** forges the Lord Knight spear **Gigantic Lance** (`1490`) from an equipped +10 Trident [2] (`1460`) at a 50% success rate. On failure the Trident is destroyed, and refine level and cards are not carried over to the lance. |
-| ![Golden Wrench Forger NPC](img/NPC/golden-wrench-forger.png)<br>**Golden Wrench Forger** | Geffen: `/navi geffen_in 102/176`<br>Einbroch: `/navi ein_in01 27/40` | Found in the Smith job change areas. Converts an equipped +10 **Vecer Axe** (`1311`) into a **Golden Wrench** (`1333`) at a 50% success rate. |
-| ![Elven Bow Artisan NPC](img/NPC/elven-bow-artisan.png)<br>**Elven Bow Artisan** | Payon: `/navi payon_in01 5/126`<br>Hugel: `/navi hu_in01 103/382` | Found in the Payon and Hugel weapon shops. Converts an equipped +10 **Orc Archer Bow** (`1734`) into an **Elven Bow [0]** (`1746`) at a 50% success rate. |
+| ![Gigantic Lance Forger NPC](img/NPC/gigantic-lance-forger.png)<br>**Gigantic Lance Forger** | `/navi prt_in 174/136` | Inside the Prontera weapon shop, the **Gigantic Lance Forger** forges the Lord Knight spear **Gigantic Lance** (`1490`) from an equipped +10 Trident [2] (`1460`).<br>• 50% success rate<br>• On failure the Trident is destroyed, and refine level and cards are not carried over to the lance |
+| ![Golden Wrench Forger NPC](img/NPC/golden-wrench-forger.png)<br>**Golden Wrench Forger** | Geffen: `/navi geffen_in 102/176`<br>Einbroch: `/navi ein_in01 27/40` | Found in the Smith job change areas.<br>• Converts an equipped +10 **Vecer Axe** (`1311`) into a **Golden Wrench** (`1333`)<br>• 50% success rate |
+| ![Elven Bow Artisan NPC](img/NPC/elven-bow-artisan.png)<br>**Elven Bow Artisan** | Payon: `/navi payon_in01 5/126`<br>Hugel: `/navi hu_in01 103/382` | Found in the Payon and Hugel weapon shops.<br>• Converts an equipped +10 **Orc Archer Bow** (`1734`) into an **Elven Bow [0]** (`1746`)<br>• 50% success rate |
 
 </div>
