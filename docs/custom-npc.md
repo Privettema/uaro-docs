@@ -4,7 +4,7 @@ updated: 2026-10-11
 
 # Custom NPCs
 
-The handy NPCs uaRO adds to smooth out your journey, and the shortcut NPCs it leaves out on purpose.
+The handy NPCs uaRO adds to smooth out your journey, and the shortcut NPCs you won’t find here.
 
 ## Our approach
 
