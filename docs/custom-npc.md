@@ -25,7 +25,7 @@ Step inside the [Main Office](main-office.md) and you’ll find more to explore,
 
 | NPC | Location | Description |
 |:-----:|----------|-------------|
-| ![Welcome Package NPC](img/NPC/welcome-package.gif)<br>**Welcome Package** | `/navi prontera 171/178` | Starting fresh? The **Welcome Pack NPC** gives each new character a one-time bundle: 1x [Battle Manual](server-info.md#about-manuals), 12x Lv10 Blessing Scrolls, and 12x Lv10 Increase Agility Scrolls. Items are account bound, and every character on your account can claim their own pack. |
+| ![Welcome Package NPC](img/NPC/welcome-package.gif)<br>**Welcome Package** | `/navi prontera 171/178` | Starting fresh? The **Welcome Pack NPC** gives each new character a one-time bundle: 1x [Battle Manual](server-info.md#about-manuals) (`12208`), 12x Lv10 Blessing Scrolls (`12215`), and 12x Lv10 Increase Agility Scrolls (`12216`). Items are account bound, and every character on your account can claim their own pack. |
 | ![Wapra Quest Dungeon Warper NPC](img/NPC/warpra.gif)<br>**Quest Dungeon Warper** | `Located in every city` | **Warpra NPC** is part of the [Warper System](warper-system.md), found in most major cities. For 5,000z, Warpra offers a limited set of unlockable dungeon warps, shared across all characters on your account once you locate the **Warpra Helper NPC**. |
 | ![Hobota Hunting Quest NPC](img/NPC/hobota.gif)<br>**Hunting Quests** | `Located in every inn` | Talk to **Hobota** to pick up Hunting Missions and earn points, zeny, and experience. Go solo or bring friends, and choose from four difficulties with bigger rewards the harder you go. |
 | ![Merchant Warper NPC](img/NPC/merchant-warp.gif)<br>**Prontera Market Street** | `/navi prontera 139/171` | Merchants, step right up! The **Merchant Warp NPC** will take you straight to the Prontera Market Street, the heart of our [Vendor System](vendor-system.md). |
@@ -40,7 +40,7 @@ Step inside the [Main Office](main-office.md) and you’ll find more to explore,
 | NPC | Location | Description |
 |:-----:|----------|-------------|
 | ![Putty NPC](img/NPC/putty.gif)<br>**Card Exchanger** | `/navi prontera 130/192` | Got cards collecting dust? **Putty** will gladly trade them in for [something more useful](card-exchange.md). |
-| ![Safe Card Remover NPC](img/NPC/mysterious-granny.gif)<br>**Safe Card Remover** | `/navi prt_in 28/73` | **Mysterious Granny** can remove any card from equipment with 100% success. The service costs 1x Silit Pong Bottle, a 10,000,000z fee, plus 1,000,000z per card removed. Silit Pong Bottles are available from the [BioShop NPC](biolab4.md) in lhz_dun01 (143/288) for 100 Ghost Chills.  |
+| ![Safe Card Remover NPC](img/NPC/mysterious-granny.gif)<br>**Safe Card Remover** | `/navi prt_in 28/73` | **Mysterious Granny** can remove any card from equipment with 100% success. The service costs 1x Silit Pong Bottle (`6443`), a 10,000,000z fee, plus 1,000,000z per card removed. Silit Pong Bottles are available from the [BioShop NPC](biolab4.md) at `/navi lhz_dun01 143/288` for 100 Ghost Chills (`6471`).  |
 
 ### Style
 | NPC | Location | Description |
@@ -69,12 +69,12 @@ Step inside the [Main Office](main-office.md) and you’ll find more to explore,
 ### Cooking
 | NPC | Location | Description |
 |:-----:|----------|-------------|
-| ![Meowster NPC](img/NPC/4_CAT_CHEF.gif)<br>**Meowster** | `/navi prontera 102/79` | Here you can exchange some loot for **Level 1 Cookbook**, **Level 2 Cookbook**, **Level 3 Cookbook**, **Level 4 Cookbook**, **Level 5 Cookbook** |
+| ![Meowster NPC](img/NPC/4_CAT_CHEF.gif)<br>**Meowster** | `/navi prontera 102/79` | Here you can exchange some loot for **Level 1 Cookbook** (`7472`), **Level 2 Cookbook** (`7473`), **Level 3 Cookbook** (`7474`), **Level 4 Cookbook** (`7475`), **Level 5 Cookbook** (`7476`) |
 | ![Chef NPC](img/NPC/4_COOK.gif)<br>**Chef** | `/navi prontera 102/75` | Here you can buy basic ingredients for cooking. |
-| ![Capitan Jack NPC](img/NPC/4_CAT_SAILOR5.gif)<br>**Capitan Jack** | `/navi prontera 105/68` | You can buy **Fresh Fish** here. |
-| ![Farmer Betty NPC](img/NPC/4_F_BARYO_OLD.gif)<br>**Farmer Betty** | `/navi prontera 120/51` | Here you can buy **Bag of Grain**, **Bread** and **Milk** |
+| ![Capitan Jack NPC](img/NPC/4_CAT_SAILOR5.gif)<br>**Capitan Jack** | `/navi prontera 105/68` | You can buy **Fresh Fish** (`579`) here. |
+| ![Farmer Betty NPC](img/NPC/4_F_BARYO_OLD.gif)<br>**Farmer Betty** | `/navi prontera 120/51` | Here you can buy **Bag of Grain** (`577`), **Bread** (`580`) and **Milk** (`519`) |
 | ![Butcher NPC](img/NPC/4_M_BARBER.gif)<br>**Butcher** | `/navi prontera 124/75` | This is a standard Butcher NPC that has changed location. |
-| ![Fruit Gardener NPC](img/NPC/8_F.gif)<br>**Fruit Gardener** | `/navi prontera 120/51` | This is a modified Fruit Gardener NPC that has a new location. Now also sells **Melon** and **Pineapple**. |
+| ![Fruit Gardener NPC](img/NPC/8_F.gif)<br>**Fruit Gardener** | `/navi prontera 120/51` | This is a modified Fruit Gardener NPC that has a new location. Now also sells **Melon** (`6264`) and **Pineapple** (`6265`). |
 | ![Vegetable Gardener NPC](img/NPC/4_F_02.gif)<br>**Vegetable Gardener** | `/navi prontera 124/75` | This is a modified Vegetable Gardener NPC that has a new location. |
 
 !!! note "Quick Cooking"
@@ -89,12 +89,12 @@ Step inside the [Main Office](main-office.md) and you’ll find more to explore,
 | ![Banker NPC](img/NPC/banker.gif)<br>**Banker** | `/navi prontera 133/216` | The **Banker** lets you access your zeny bank. You can also open your bank anytime with CTRL+B. |
 | ![Lottery NPC](img/NPC/lottery.png)<br>**Lottery** | `/navi prontera 134/184` | The lottery NPC in the [Main Office](main-office.md) runs the daily [Lottery](lottery-npc.md): pick six numbers from 1 to 40 for 25,000z, with results every day at 20:45 server time. |
 | ![Contractor NPC](img/NPC/contractor.gif)<br>**Branch Rooms** | `/navi prontera 129/212` | Rent a private branch room with the **Contractor NPC** for 120 minutes at a cost of 1,200,000z. You, your party, or your guild may leave and re-enter freely during the rental period. |
-| ![Gold Points NPC](img/NPC/4_F_02.gif)<br>**Hourly Rewards** | `/navi prt_in 56/142` | The **Gold Points Manager** handles our [Hourly Rewards System](hourly-rewards-system.md), where you receive Gold Coins for every hour you play. Collect coins as you go, then visit the [Main Office](main-office.md) to exchange them for special prizes. |
+| ![Gold Points NPC](img/NPC/4_F_02.gif)<br>**Hourly Rewards** | `/navi prt_in 56/142` | The **Gold Points Manager** handles our [Hourly Rewards System](hourly-rewards-system.md), where you receive Gold Coins (`7929`) for every hour you play. Collect coins as you go, then visit the [Main Office](main-office.md) to exchange them for special prizes. |
 | ![Super Novice Death Reset NPC](img/NPC/sn-death-reset.gif)<br>**Super Novice Reset** | `/navi prt_fild08 134/359` | **Lupita** lets Super Novices reset their death record for free, making it easy to shake off bad luck and continue the adventure with a clean slate. The reset also grants a 10 second Super Novice Spirit status (Super Novice and Super Baby only), long enough to swap into headgear (base 91+) or level 4 weapons (base 97+), which stay equipped afterwards. |
 | ![Guild Agent NPC](img/NPC/4_F_AGENTKAFRA.gif)<br>**Guild Agent** | `/navi prt_in 214/163` | Guild Bank NPC for zeny storage and transfers (will be located near WoE NPCs south of eastern Prontera inn).<br>  - Max 2 Billion zeny storage.<br> - Bank logs and permissions have moved out of the NPC — manage them per position via the leader-only Management menu in [`@guild`](commands.md#guild-commands).<br> - Members with bank access see the current balance when opening `@guild` |
-| ![Haruna NPC](img/NPC/JP_AIRI.gif)<br>**Haruna** | `/navi prt_in 214/163` | Added a 1 for 1 swap barter NPC for the following Daily Login items that previously weren't stackable (swapping will now stack these items properly). Located in East Prontera Inn near Inn Employee.<br> Elite Siege Supply Box (ID 14003)<br> Blue Butterfly Wing Box(5) (ID 13855)<br> Green Butterfly Wing Box(5) (ID 13851)<br> Red Butterfly Wing Box(5) (ID 13853). |
+| ![Haruna NPC](img/NPC/JP_AIRI.gif)<br>**Haruna** | `/navi prt_in 214/163` | Added a 1 for 1 swap barter NPC for the following Daily Login items that previously weren't stackable (swapping will now stack these items properly). Located in East Prontera Inn near Inn Employee.<br> Elite Siege Supply Box (`14003`)<br> Blue Butterfly Wing Box(5) (`13855`)<br> Green Butterfly Wing Box(5) (`13851`)<br> Red Butterfly Wing Box(5) (`13853`). |
 | **Bill Doors** | `/navi prontera 100/253` | **Bill Doors** exchanges 1,000,000,000z for a **1B Zeny Token** and back, letting you store zeny above the 2 billion carry cap as an item. |
-| ![Disguise Event NPC](img/NPC/disguise-event.gif)<br>**Disguise Event** | `/navi prontera 139/163` | The **Disguise Event NPC** turns into a random monster during the event. Shout its name to win Poring Coins. See [Auto Events](auto-events.md#disguise-event). |
+| ![Disguise Event NPC](img/NPC/disguise-event.gif)<br>**Disguise Event** | `/navi prontera 139/163` | The **Disguise Event NPC** turns into a random monster during the event. Shout its name to win Poring Coins (`7539`). See [Auto Events](auto-events.md#disguise-event). |
 | ![Find the Mushroom NPC](img/NPC/mushroom-event.gif)<br>**Find the Mushroom** | `/navi prontera 142/228` | The **Find the Mushroom NPC** tells you whether the event is running. Black Mushrooms appear in a city and drop Poring Coins when killed. See [Auto Events](auto-events.md#find-the-mushroom-event). |
 
 
@@ -106,8 +106,8 @@ Three NPCs convert a refined weapon into a stronger one. Each needs the old weap
 
 | NPC | Location | Description |
 |:-----:|----------|-------------|
-| ![Gigantic Lance Forger NPC](img/NPC/gigantic-lance-forger.png)<br>**Gigantic Lance Forger** | `/navi prt_in 174/136` | Inside the Prontera weapon shop, the **Gigantic Lance Forger** forges the Lord Knight spear **Gigantic Lance** from an equipped +10 Trident [2] at a 50% success rate. On failure the Trident is destroyed, and refine level and cards are not carried over to the lance. |
-| ![Golden Wrench Forger NPC](img/NPC/golden-wrench-forger.png)<br>**Golden Wrench Forger** | `Geffen: /navi geffen_in 102/176`<br>`Einbroch: /navi ein_in01 27/40` | Found in the Smith job change areas. Converts an equipped +10 **Vecer Axe** into a **Golden Wrench** at a 50% success rate. |
-| ![Elven Bow Artisan NPC](img/NPC/elven-bow-artisan.png)<br>**Elven Bow Artisan** | `Payon: /navi payon_in01 5/126`<br>`Hugel: /navi hu_in01 103/382` | Found in the Payon and Hugel weapon shops. Converts an equipped +10 **Orc Archer Bow** into an **Elven Bow [0]** at a 50% success rate. |
+| ![Gigantic Lance Forger NPC](img/NPC/gigantic-lance-forger.png)<br>**Gigantic Lance Forger** | `/navi prt_in 174/136` | Inside the Prontera weapon shop, the **Gigantic Lance Forger** forges the Lord Knight spear **Gigantic Lance** (`1490`) from an equipped +10 Trident [2] (`1460`) at a 50% success rate. On failure the Trident is destroyed, and refine level and cards are not carried over to the lance. |
+| ![Golden Wrench Forger NPC](img/NPC/golden-wrench-forger.png)<br>**Golden Wrench Forger** | `Geffen: /navi geffen_in 102/176`<br>`Einbroch: /navi ein_in01 27/40` | Found in the Smith job change areas. Converts an equipped +10 **Vecer Axe** (`1311`) into a **Golden Wrench** (`1333`) at a 50% success rate. |
+| ![Elven Bow Artisan NPC](img/NPC/elven-bow-artisan.png)<br>**Elven Bow Artisan** | `Payon: /navi payon_in01 5/126`<br>`Hugel: /navi hu_in01 103/382` | Found in the Payon and Hugel weapon shops. Converts an equipped +10 **Orc Archer Bow** (`1734`) into an **Elven Bow [0]** (`1746`) at a 50% success rate. |
 
 </div>
