@@ -16,7 +16,7 @@ Monsters where uaRO has altered the stats, skills, spawns or drops.
 | Evil Snake Lord | `1418` | – | Snake Head (`5388`): 0.9% |
 | Fallen Bishop | `1871` | – | Crown of Deceit [1] (`5564`): 6% |
 | Ghostring | `1120` | – | Ghost Coffin (`12363`): 6% |
-| Gloom Under Night | `1768` | – | Airship Part (`23188`): 4.5% |
+| Gloom Under Night | `1768` | – | Broken Part (`23188`): 4.5% |
 | Golem | `1040` | – | Magical Lithography (`12371`): 0.1% |
 | Gryphon | `1259` | – | Sigrun's Wings (`5592`): 0.9% |
 | High Priest Margaretha | `1649` | – | Valkyrie Drop (`28564`): 4.95% |

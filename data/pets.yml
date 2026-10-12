@@ -183,6 +183,7 @@ pets:
     id: 626
     name: Monster Juice
     icon: 626.gif
+    source: "Crafted by the Monster Tamer in the Alberta Tool Shop (`/navi alberta_in 173/76`) from 1 Animal Gore (`702`{ .copy }) and 2 Apple (`512`{ .copy })."
   accessory:
     id: 10002
     name: Monster Oxygen Mask
@@ -243,6 +244,7 @@ pets:
     id: 629
     name: Singing Flower
     icon: 629.png
+    source: "Crafted by the Monster Tamer in the Alberta Tool Shop (`/navi alberta_in 173/76`) from 1 Singing Plant (`707`{ .copy })."
   accessory:
     id: 10014
     name: Rocker Glasses
@@ -367,6 +369,7 @@ pets:
     id: 635
     name: Orc Trophy
     icon: 635.png
+    source: "Crafted by the Monster Tamer in the Izlude Tool Shop (`/navi izlude_in 55/105`) from 1 Chivalry Emblem (`1004`{ .copy }) and 1 Scorpion Tail (`904`{ .copy })."
   accessory:
     id: 10009
     name: Wild Flower
@@ -387,6 +390,7 @@ pets:
     id: 636
     name: No Recipient
     icon: 636.png
+    source: "Crafted by the Monster Tamer in the Izlude Tool Shop (`/navi izlude_in 55/105`) from 1 Old Portrait (`7014`{ .copy })."
   accessory:
     id: 10008
     name: Punisher
@@ -515,6 +519,7 @@ pets:
     id: 642
     name: Book of the Devil
     icon: 642.png
+    source: "Crafted by the Monster Tamer in the Izlude Tool Shop (`/navi izlude_in 55/105`) from 1 Old Magicbook (`1006`{ .copy }) and 2 Horrendous Mouth (`958`{ .copy })."
   accessory:
     id: 10001
     name: Skull Helmet
@@ -535,6 +540,7 @@ pets:
     id: 659
     name: Her Heart
     icon: 659.png
+    source: "Crafted by Munak's Grandma in Comodo (`/navi comodo 112/182`) from 1 Girl's Diary (`1558`{ .copy }) and 1 Daenggie (`901`{ .copy })."
   accessory:
     id: 10020
     name: Grave Keeper's Sword
@@ -647,6 +653,7 @@ pets:
     id: 14569
     name: Knife Goblin Ring
     icon: 2601.gif
+    source: "Event only."
   bonus: null
   capture: 10%
   egg:
@@ -667,6 +674,7 @@ pets:
     id: 14570
     name: Flail Goblin Ring
     icon: 2601.gif
+    source: "Event only."
   bonus: null
   capture: 10%
   egg:
@@ -687,6 +695,7 @@ pets:
     id: 14571
     name: Hammer Goblin Ring
     icon: 2601.gif
+    source: "Event only."
   bonus: null
   capture: 10%
   egg:
@@ -1100,7 +1109,7 @@ pets:
     icon: 25232.png
   taming:
     id: 23188
-    name: Airship Part
+    name: Broken Part
     icon: 231800_1.png
   bonus: DEX +2, HIT +1
   capture: 5%
@@ -1970,7 +1979,7 @@ pets:
   evolves_from: Gremlin
   materials:
   - id: 23188
-    name: Airship Part
+    name: Broken Part
     icon: 231800_1.png
     qty: 3
   - id: 6100

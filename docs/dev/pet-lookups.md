@@ -60,11 +60,14 @@ these monsters exist under more than one ID in the database; I used the original
 - [ ] Bug to report: Teddy Bear's food shows as Cotton Wads in game, but item `25233` is named Cotton Tufts.
 - [x] Whisper accessory is Pet Soul Ring (`10027`). Scatleton's Red Bell Necklace (`10040`) has no description, so it is not listed.
 
+- [x] NPC-crafted taming items (Monster Tamer in Alberta and Izlude, Munak's Grandma in Comodo): Orc Trophy `635`, No Recipient `636`, Book of the Devil `642`, Her Heart `659`, Singing Flower `629`, Monster Juice `626`. Recipes from the Hercules scripts (`monstertamers.txt`) and [Tame Ingredients](https://irowiki.org/wiki/Tame_Ingredients).
+- [x] Knife, Flail and Hammer Goblin rings are event only.
+
 ## To do
 Left open after the data review. Come back to these.
 
 ### Confirm in game
-- [ ] Gremlin taming item: the ID is `23188`, but the name is still "Airship Part" with icon `231800_1.png`. The client file calls `23188` "Broken Part". If the in-game name differs, rename it in `data/pets.yml`, the Hodremlin material and `taming-gift-set.md`.
+- [x] Gremlin taming item `23188` is "Broken Part" (renamed from "Airship Part" in the data, the Hodremlin material, `taming-gift-set.md` and `monster-changes.md`). The icon file is still `231800_1.png`.
 - [ ] Evil Nymph drop source was changed to mob `1416` (the real spawn). Confirm that is what was meant.
 - [x] Valkyrie Randgris egg drops from her at 0.15%, taken from `monster-changes.md` (Hercules has no egg in her drops).
 - [ ] Valkyrie Randgris accessory: the old page listed "Randgris's Accessory" with no item ID or icon, and it is not in Hercules. Removed from the page until the real name and ID are known.
