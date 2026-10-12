@@ -17,7 +17,7 @@ The handy NPCs uaRO adds to smooth out your journey, and the shortcut NPCs it le
 - **No Healer or Buffer**: Healing and buffs come naturally through potions, inns, and playing together with your party.
 
 ## Main Office
-Step inside the [Main Office](main-office.md) and you’ll find more to explore, with NPCs for Skill Resets, Platinum Skills, and the [Poring Coin System](poring-coins-system.md).
+The [Main Office](main-office.md) in Prontera (`/navi prontera 134/184`) is the hub for uaRO’s custom NPCs. Four of them are below; the Main Office page lists the rest.
 
 <div class="uaro-equal-cols" markdown>
 
