@@ -6,6 +6,17 @@ updated: 2026-10-11
 
 Classic MMORPG at heart, with a few handy NPCs to make your journey smoother while keeping things balanced.
 
+## Our approach
+We aim for a classic, balanced experience, so you won’t find the shortcut NPCs common on heavily customized servers. Travel, quests, and party play are all part of the journey here.
+
+### Got ideas?
+If there’s a feature you’d love to see, drop your suggestions in our [Discord channel #server-suggestions](https://discord.com/channels/702960460168953946/1197554200817696898).
+
+### Common Unbalanced NPCs Excluded
+- **No Job Changer**: Advancing jobs means completing the [original quests](https://irowiki.org/wiki/Category:Job_Change_Guide), making each step feel earned.
+- **No Generic Warper**: Our [quest-based dungeon warper](warper-system.md) adds a touch of adventure to travel while still keeping things accessible.
+- **No Healer or Buffer**: Healing and buffs come naturally through potions, inns, and playing together with your party.
+
 ## Main Office
 Step inside the [Main Office](main-office.md) and you’ll find more to explore, with NPCs for Skill Resets, Platinum Skills, and the [Poring Coin System](poring-coins-system.md).
 
@@ -98,14 +109,3 @@ Three NPCs convert a refined weapon into a stronger one. Each needs the old weap
 | ![Gigantic Lance Forger NPC](img/NPC/gigantic-lance-forger.png)<br>**Gigantic Lance Forger** | `/navi prt_in 174/136` | Inside the Prontera weapon shop, the **Gigantic Lance Forger** forges the Lord Knight spear **Gigantic Lance** from an equipped +10 Trident [2] at a 50% success rate. On failure the Trident is destroyed, and refine level and cards are not carried over to the lance. |
 | ![Golden Wrench Forger NPC](img/NPC/golden-wrench-forger.png)<br>**Golden Wrench Forger** | `Geffen: /navi geffen_in 102/176`<br>`Einbroch: /navi ein_in01 27/40` | Found in the Smith job change areas. Converts an equipped +10 **Vecer Axe** into a **Golden Wrench** at a 50% success rate. |
 | ![Elven Bow Artisan NPC](img/NPC/elven-bow-artisan.png)<br>**Elven Bow Artisan** | `Payon: /navi payon_in01 5/126`<br>`Hugel: /navi hu_in01 103/382` | Found in the Payon and Hugel weapon shops. Converts an equipped +10 **Orc Archer Bow** into an **Elven Bow [0]** at a 50% success rate. |
-
-## Our approach
-We aim for a classic, balanced experience, so you won’t find the shortcut NPCs common on heavily customized servers. Travel, quests, and party play are all part of the journey here.
-
-### Got ideas?
-If there’s a feature you’d love to see, drop your suggestions in our [Discord channel #server-suggestions](https://discord.com/channels/702960460168953946/1197554200817696898).
-
-### Common Unbalanced NPCs Excluded
-- **No Job Changer**: Advancing jobs means completing the [original quests](https://irowiki.org/wiki/Category:Job_Change_Guide), making each step feel earned.
-- **No Generic Warper**: Our [quest-based dungeon warper](warper-system.md) adds a touch of adventure to travel while still keeping things accessible.
-- **No Healer or Buffer**: Healing and buffs come naturally through potions, inns, and playing together with your party.
