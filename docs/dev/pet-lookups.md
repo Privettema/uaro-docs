@@ -90,4 +90,4 @@ Left open after the data review. Come back to these.
 ### Page review follow-ups
 - [ ] Decide on a name index or filter for All Pets (115 cards, no way to jump to one).
 - [ ] "Reaching Loyal" on the page assumes a new pet starts at Neutral (250) and that over-feeding loses intimacy. Both come from the rAthena source, not from uaRO.
-- [x] The content-type rule was removed from `CLAUDE.md` and the `**Content type:**` line from the six pages that carried it. `whats-different.md` still has the Content Tags table, so it can be cleaned up separately.
+- [x] The content-type rule was removed from `CLAUDE.md` and the `**Content type:**` line from the six pages that carried it. The Content Tags table on `whats-different.md` is removed too.
