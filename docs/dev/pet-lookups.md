@@ -81,7 +81,7 @@ Left open after the data review. Come back to these.
 
 ### Before a PR
 - [ ] No PR is open. Do not open one without a yes.
-- [ ] `lint_style.py` is clean on `pet-system.md` and this page. `taming-gift-set.md` has 53 `<br>` findings that predate the branch (only two image names changed there); fix them only if that page is edited again.
+- [x] `lint_style.py` is clean on `pet-system.md`, `taming-gift-set.md` (now a table) and this page.
 
 ### Page review follow-ups
 - [ ] Decide on a name index or filter for All Pets (115 cards, no way to jump to one).
