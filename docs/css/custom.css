@@ -220,10 +220,12 @@ code.copyable:focus-visible {
   gap: 1rem; font-size: 0.7rem; /* 14px, the root is 20px */ }
 .pet-col { display: flex; flex-direction: column; gap: 1rem; min-width: 0; }
 @media (max-width: 768px) { /* px: rem in a media query is the browser default, not this site's 20px root */
-  /* Reflow: the sections wrap into rows as the width allows, and the sprite drops above them when there is no room. */
+  /* The sprite takes the top row and the sections reflow into rows beneath it as the width allows. */
   .pet-head { display: flex; flex-wrap: wrap; gap: 0.25rem 0.8rem; }
   .pet-body { flex-wrap: wrap; }
-  .pet-sections { flex: 1 1 16rem; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); }
+  .pet-sprite { flex: 0 0 100%; width: auto; justify-content: flex-start; }
+  .md-typeset .pet-sprite p { justify-content: flex-start; }
+  .pet-sections { flex: 1 1 100%; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); }
 }
 .pet-sections p { margin: 0; font-size: 0.7rem; }
 .pet-item { display: flex; align-items: flex-start; gap: 0.4rem; }
