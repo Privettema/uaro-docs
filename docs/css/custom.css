@@ -315,11 +315,11 @@ code.copyable:focus-visible {
 }
 
 .uaro-npc-tables th:nth-child(1) {
-  width: 10rem;
+  width: 9.5rem;
 }
 
 .uaro-npc-tables th:nth-child(2) {
-  width: 15rem;
+  width: 12.5rem;
 }
 
 .uaro-npc-tables td:nth-child(2) {
