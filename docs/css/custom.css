@@ -301,6 +301,31 @@ code.copyable:focus-visible {
   white-space: nowrap;
 }
 
+/* Custom NPCs: every NPC | Location | Description table shares one column layout, and the location never wraps */
+.uaro-npc-tables .md-typeset__table,
+.uaro-npc-tables table {
+  display: block;
+  width: 100%;
+}
+
+.uaro-npc-tables table {
+  display: table;
+  min-width: 40rem;
+  table-layout: fixed;
+}
+
+.uaro-npc-tables th:nth-child(1) {
+  width: 10rem;
+}
+
+.uaro-npc-tables th:nth-child(2) {
+  width: 15rem;
+}
+
+.uaro-npc-tables td:nth-child(2) {
+  white-space: nowrap;
+}
+
 /* Item icons beside a label in a table cell: centre the icon on the text instead of sitting on the baseline.
    The cell itself stays top-aligned, so the label lines up with the first line of the cells next to it.
    The negative margin stops the 24px icon from making that line taller than the text, and the relative

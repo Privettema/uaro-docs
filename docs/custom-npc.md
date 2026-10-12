@@ -18,6 +18,9 @@ We aim for a classic, balanced experience, so you won’t find the shortcut NPCs
 Step inside the [Main Office](main-office.md) and you’ll find more to explore, with NPCs for Skill Resets, Platinum Skills, and the [Poring Coin System](poring-coins-system.md).
 
 ## NPC List
+
+<div class="uaro-npc-tables" markdown>
+
 ### Key Helpers
 
 | NPC | Location | Description |
@@ -106,3 +109,5 @@ Three NPCs convert a refined weapon into a stronger one. Each needs the old weap
 | ![Gigantic Lance Forger NPC](img/NPC/gigantic-lance-forger.png)<br>**Gigantic Lance Forger** | `/navi prt_in 174/136` | Inside the Prontera weapon shop, the **Gigantic Lance Forger** forges the Lord Knight spear **Gigantic Lance** from an equipped +10 Trident [2] at a 50% success rate. On failure the Trident is destroyed, and refine level and cards are not carried over to the lance. |
 | ![Golden Wrench Forger NPC](img/NPC/golden-wrench-forger.png)<br>**Golden Wrench Forger** | `Geffen: /navi geffen_in 102/176`<br>`Einbroch: /navi ein_in01 27/40` | Found in the Smith job change areas. Converts an equipped +10 **Vecer Axe** into a **Golden Wrench** at a 50% success rate. |
 | ![Elven Bow Artisan NPC](img/NPC/elven-bow-artisan.png)<br>**Elven Bow Artisan** | `Payon: /navi payon_in01 5/126`<br>`Hugel: /navi hu_in01 103/382` | Found in the Payon and Hugel weapon shops. Converts an equipped +10 **Orc Archer Bow** into an **Elven Bow [0]** at a 50% success rate. |
+
+</div>
