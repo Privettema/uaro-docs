@@ -343,7 +343,7 @@ code.copyable:focus-visible {
 }
 
 .md-typeset .uaro-equal-cols table:not([class]) td {
-  padding-top: 0.4rem;
+  padding-top: 0.15rem;
 }
 
 .md-typeset .uaro-equal-cols table:not([class]) tbody tr:hover {
