@@ -77,7 +77,6 @@ Every feeding raises intimacy, and the amount depends on the pet:
 |---|---|
 | Evolved, first tier | 40 |
 | Evolved, second or final | 30 |
-| Evolved, third and final | 20 |
 | Non-evolvable | 30 |
 | Phreeoni (MVP, final) | 20 |
 | Incubus and Succubus | 20 |
