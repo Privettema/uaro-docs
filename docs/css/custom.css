@@ -42,6 +42,7 @@ body {
 .md-typeset td img {
   vertical-align: middle;
   margin-block: -0.15rem;
+  margin-inline-end: calc(0.4rem - 0.28em); /* 8px to the name: the space after the icon is already 0.28em */
   position: relative;
   top: -0.15rem;
 }
