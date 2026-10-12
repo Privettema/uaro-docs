@@ -99,6 +99,18 @@ body {
     margin: 1.5rem 0; /* 24px 0 — left-aligned */
 }
 
+/* A screenshot floated to the right of the list or text beside it; stacks full width on a narrow screen */
+.wiki-screenshot.wiki-screenshot-right {
+    float: right;
+    width: 14rem; /* 280px */
+    margin: 0 0 1rem 1.5rem; /* 0 0 16px 24px */
+}
+.md-typeset p:has(> .wiki-screenshot-right) ~ h2,
+.md-typeset p:has(> .wiki-screenshot-right) ~ h3 { clear: both; }
+@media (max-width: 480px) {
+    .wiki-screenshot.wiki-screenshot-right { float: none; width: auto; max-width: 100%; margin: 1.5rem 0; }
+}
+
 /* overrides/404.html: centered not-found page */
 .uaro-404 {
     max-width: 30rem; /* 480px */

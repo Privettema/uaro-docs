@@ -40,10 +40,10 @@ Auto-feed is available for evolved pets and for pets without an evolution. The *
 
 To turn it on:
 
+![Auto-feed option in the pet window](img/Pet_System/autofeed.png){ .wiki-screenshot .wiki-screenshot-right }
+
 1. Open your pet window (`ALT+J` or right click).
 2. Select the checkbox next to "Automatic feeding" at the bottom of the window. If you don't see it, that pet can't be auto-fed.
-
-![Auto-feed option in the pet window](img/Pet_System/autofeed.png){ .wiki-screenshot }
 
 !!! warning "Enable Auto-Feed Before You Leave"
     A pet that starves returns to its egg with intimacy at Awkward. Turn on auto-feed before you leave a pet unattended.
