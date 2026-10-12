@@ -216,9 +216,12 @@ def _parent(p):
 
 
 def _stage(p):
-    """Base Form, Evolution 1, Evolution 2 ... or Final Evolution when nothing evolves from it."""
+    """Base Form (tamed, evolves), No Evolution (tamed, stands alone), Evolution 1, 2 ... or Final Evolution."""
     if p.get("kind") != "evolved":
-        return "Base Form"
+        name = p["name"].lower()
+        evolves = any(_parent(q) is p or any(a["from"].lower() == name for a in q.get("alt_recipes") or [])
+                      for q in _pets)
+        return "Base Form" if evolves else "No Evolution"
     if not any(_parent(q) is p for q in _pets):
         return "Final Evolution"
     step, parent, seen = 1, _parent(p), {id(p)}
