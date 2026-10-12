@@ -315,7 +315,11 @@ code.copyable:focus-visible {
 }
 
 .md-typeset .uaro-npc-tables th:nth-child(2) {
-  width: 9rem;
+  width: 10.5rem;
+}
+
+.md-typeset .uaro-npc-tables td:nth-child(2) code {
+  white-space: nowrap;
 }
 
 /* Item icons beside a label in a table cell: centre the icon on the text instead of sitting on the baseline.
