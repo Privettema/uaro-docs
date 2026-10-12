@@ -204,14 +204,14 @@ def card(p, evolves_into):
     unknown = (p.get("food") or {}).get("name") == "Unknown"
     auto = "Unknown" if unknown else "Yes" if evolved or not evolves_into or p.get("autofeed") else "No"
     evo = _evolution(sources, evolves_into)
-    gear = [_section("Food", _line(p.get("food") or PET_FOOD) + f"\n\nAuto-feed: {auto}", "food")]
-    if p.get("accessory"):
-        gear.append(_section("Accessory", _line(p["accessory"]), "accessory"))
+    if p.get("accessory"):  # sits under the bonus: both are what the pet gives you
+        left.append(_section("Accessory", _line(p["accessory"]), "accessory"))
+    food = _section("Food", _line(p.get("food") or PET_FOOD) + f"\n\nAuto-feed: {auto}", "food")
     if evo:
-        middle += gear
+        middle.append(food)
         right.append(evo)
-    else:  # nothing evolves either way: food and accessory take the right column instead of leaving it blank
-        right += gear
+    else:  # nothing evolves either way: food takes the right column instead of leaving it blank
+        right.append(food)
     cols = "\n\n".join(f'<div class="pet-col" markdown>\n\n' + "\n\n".join(c) + "\n\n</div>"
                         for c in (left, middle, right))
     sprite = f"![{p['name']}](img/{p['icon']})" if p.get("icon") else ""
