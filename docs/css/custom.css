@@ -219,7 +219,7 @@ code.copyable:focus-visible {
 .pet-sections { flex: 1 1 auto; min-width: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem; font-size: 0.7rem; /* 14px, the root is 20px */ }
 .pet-col { display: flex; flex-direction: column; gap: 1rem; min-width: 0; }
-@media (max-width: 40rem) {
+@media (max-width: 768px) { /* px: rem in a media query is the browser default, not this site's 20px root */
   .pet-head { display: flex; flex-wrap: wrap; gap: 0.25rem 0.8rem; }
   .pet-sections { grid-template-columns: minmax(0, 1fr); }
   .pet-body { flex-direction: column; align-items: stretch; gap: 0.75rem; }
