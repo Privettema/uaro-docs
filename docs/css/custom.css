@@ -322,15 +322,23 @@ code.copyable:focus-visible {
   white-space: nowrap;
 }
 
-/* Tables with a few NPCs side by side: equal column widths, centred NPC headers, left-aligned text */
+/* Tables with a few NPCs side by side: equal column widths, sprites sitting on the same line, centred text, no borders */
 .md-typeset .uaro-equal-cols table:not([class]) {
+  border: 0;
+  box-shadow: none;
   display: table;
   table-layout: fixed;
   width: 100%;
 }
 
-.md-typeset .uaro-equal-cols th {
+.md-typeset .uaro-equal-cols table:not([class]) th,
+.md-typeset .uaro-equal-cols table:not([class]) td {
+  border: 0;
   text-align: center;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) th {
+  vertical-align: bottom;
 }
 
 /* Item icons beside a label in a table cell: centre the icon on the text instead of sitting on the baseline.
