@@ -225,7 +225,7 @@ code.copyable:focus-visible {
   .pet-body { flex-wrap: wrap; }
   .pet-sprite { flex: 0 0 100%; width: auto; justify-content: flex-start; }
   .md-typeset .pet-sprite p { justify-content: flex-start; }
-  .pet-sections { flex: 1 1 100%; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); }
+  .pet-sections { flex: 1 1 100%; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); } /* 9rem = 180px */
 }
 .pet-sections p { margin: 0; font-size: 0.7rem; }
 .pet-item { display: flex; align-items: flex-start; gap: 0.4rem; }
