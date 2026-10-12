@@ -2648,8 +2648,6 @@ pets:
     id: 25377
     name: Luxurious Pet Food
     icon: 25377.png
-  accessory:
-    name: Randgris's Accessory
   bonus:
     cordial: Increases Physical and Magical damage to Shadow and Neutral monsters by 15%.
     loyal: Increases Physical and Magical damage to Shadow and Neutral monsters by 20%.
@@ -2657,6 +2655,7 @@ pets:
     id: 9185
     name: Randgris Egg
     icon: Pet_System/9185.png
+    source: Dropped by Valkyrie Randgris (`1751`{ .copy }) at a low chance.
 - name: Eddga
   id: 1115
   level: 65
