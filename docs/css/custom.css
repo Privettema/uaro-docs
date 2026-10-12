@@ -199,6 +199,7 @@ code.copyable:focus-visible {
 .md-typeset .pet-head .pet-name { margin: 0; font-size: 0.7rem; /* 14px, the root is 20px */ font-weight: 700;
   line-height: inherit; letter-spacing: normal; color: inherit; }
 .pet-name .headerlink { display: none; }
+.md-typeset .pet-head .pet-name { display: flex; align-items: center; gap: 0.25rem; } /* egg beside the name, not above */
 .pet-title { display: flex; align-items: center; gap: 0.3rem; }
 .pet-title p { margin: 0; }
 .pet-ids { display: flex; align-items: center; gap: 0 0.8rem; font-size: 0.7rem; /* 14px, the root is 20px */ }
