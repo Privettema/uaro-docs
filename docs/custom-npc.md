@@ -17,7 +17,7 @@ The handy NPCs uaRO adds to smooth out your journey, and the shortcut NPCs it le
 - **No Healer or Buffer**: Healing and buffs come naturally through potions, inns, and playing together with your party.
 
 ## Main Office
-The [Main Office](main-office.md) in Prontera (`/navi prontera 134/184`) is the hub for uaRO’s custom NPCs. Four of them are below; the Main Office page lists the rest.
+The [Main Office](main-office.md) in Prontera (`/navi prontera 134/184`) is the hub for uaRO’s custom NPCs.
 
 <div class="uaro-equal-cols" markdown>
 
