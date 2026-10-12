@@ -19,6 +19,14 @@ The handy NPCs uaRO adds to smooth out your journey, and the shortcut NPCs it le
 ## Main Office
 Step inside the [Main Office](main-office.md) and you’ll find more to explore, with NPCs for Skill Resets, Platinum Skills, and the [Poring Coin System](poring-coins-system.md).
 
+<div class="uaro-equal-cols" markdown>
+
+| ![Dimonka NPC](img/NPC/dimonka.gif)<br>**Dimonka** | ![Lydia NPC](img/4_F_NFLOSTGIRL.gif)<br>**Lydia** | ![Reset Girl NPC](img/4_F_ACOLYTE.gif)<br>**Reset Girl** | ![Platinum Skill NPC](img/1_F_01.gif)<br>**Platinum Skill** |
+|---|---|---|---|
+| Trades your loot and Poring Coins for [quest headgear](dimonka-headgear-quest.md). | Exchanges Poring Coins for [valuable items](poring-coins-system.md). | Resets your stats or skills for a fee based on your base level<br>• The first reset of each type is free | Grants the special skills available to your job<br>• Whitesmiths with **Avarice** unlocked get it back automatically after a skill reset |
+
+</div>
+
 ## NPC List
 
 <div class="uaro-npc-tables" markdown>

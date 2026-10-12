@@ -322,6 +322,17 @@ code.copyable:focus-visible {
   white-space: nowrap;
 }
 
+/* Tables with a few NPCs side by side: equal column widths, centred NPC headers, left-aligned text */
+.md-typeset .uaro-equal-cols table:not([class]) {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.md-typeset .uaro-equal-cols th {
+  text-align: center;
+}
+
 /* Item icons beside a label in a table cell: centre the icon on the text instead of sitting on the baseline.
    The cell itself stays top-aligned, so the label lines up with the first line of the cells next to it.
    The negative margin stops the 24px icon from making that line taller than the text, and the relative
