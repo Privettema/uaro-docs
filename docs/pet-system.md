@@ -12,7 +12,7 @@ Tame a cute pet, keep it fed and it follows you through every adventure with a b
 
 ## Taming
 
-Most taming items drop from monsters, using the official drop tables you can look up on [RateMyServer](https://ratemyserver.net/), or come from the ![Taming Gift Set](img/12105.gif) [**Taming Gift Set**](taming-gift-set.md) (`12105`). The exceptions on our server are listed on each pet's card in [All Pets](#all-pets), under "Taming item".
+Most taming items drop from monsters, or come from the ![Taming Gift Set](img/12105.gif) [**Taming Gift Set**](taming-gift-set.md) (`12105`). To find which monsters drop a taming item, use `@whodrops` or `@ii` in game. Drops that uaRO added are listed in [Monster Changes](monster-changes.md).
 
 - **Taming items check for a valid target.** They are only used up when the target is valid.
 - **Lower HP means a better chance.** The success rate doubles when the monster is under 1% HP.

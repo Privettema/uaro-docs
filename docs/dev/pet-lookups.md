@@ -27,7 +27,8 @@ Open questions and confirmed values for the data in `data/pets.yml`. Not in the 
 - [x] Resolved: uaRO has New Year Doll and Blue Unicorn (added). The other 20 are not present.
 
 ## Drop sources: which monster ID is the one that drops it
-The pet page now says "Dropped by Name (ID) (rate)". The drop rates are from the old page, unchanged. Several of
+The 17 uaRO-added taming item drops moved from the pet cards to `monster-changes.md` (none exist in Hercules). The pet
+page points players to `@whodrops` and `@ii` instead. The drop rates are from the old page, unchanged. Several of
 these monsters exist under more than one ID in the database; I used the original spawn. Please confirm in game.
 - [x] Vagabond Wolf is mob `1092`.
 - [x] Evil Nymph `1416` (also `1564`, `2004`, `2214`; `1564` is the no-EXP copy)

@@ -599,10 +599,6 @@ pets:
     id: 12367
     name: Luxury Whisky Bottle
     icon: 12367.gif
-    drops:
-    - mob: Dullahan
-      id: 1504
-      rate: 0.1%
   accessory:
     id: 10031
     name: Ring of Death
@@ -627,10 +623,6 @@ pets:
     id: 12365
     name: Charming Lotus
     icon: 12365.gif
-    drops:
-    - mob: Evil Nymph
-      id: 1416
-      rate: 0.1%
   accessory:
     id: 10029
     name: Jade Trinket
@@ -739,10 +731,6 @@ pets:
     id: 12360
     name: Very Red Juice
     icon: 12360.gif
-    drops:
-    - mob: Loli Ruri
-      id: 1505
-      rate: 0.1%
   accessory:
     id: 10024
     name: Fashionable Glasses
@@ -767,10 +755,6 @@ pets:
     id: 12371
     name: Magical Lithography
     icon: 12371.gif
-    drops:
-    - mob: Golem
-      id: 1040
-      rate: 0.1%
   accessory:
     id: 10035
     name: Spring
@@ -889,10 +873,6 @@ pets:
     id: 12359
     name: Very Soft Plant
     icon: 12359.gif
-    drops:
-    - mob: Leaf Cat
-      id: 1586
-      rate: 0.5%
   accessory:
     id: 10023
     name: Green Jewel Bag
@@ -941,10 +921,6 @@ pets:
     id: 12368
     name: Splendid Mirror
     icon: 12368.gif
-    drops:
-    - mob: Medusa
-      id: 1148
-      rate: 0.5%
   accessory:
     id: 10032
     name: Queen's Coronet
@@ -994,10 +970,6 @@ pets:
     id: 12372
     name: Hell Contract
     icon: 12372.gif
-    drops:
-    - mob: Nightmare Terror
-      id: 1379
-      rate: 0.5%
   accessory:
     id: 10036
     name: Horn Of Hell
@@ -1022,10 +994,6 @@ pets:
     id: 12362
     name: Kuloren
     icon: 12362.gif
-    drops:
-    - mob: Shinobi
-      id: 1401
-      rate: 0.1%
   accessory:
     id: 10026
     name: Tassel for Durumagi
@@ -1050,10 +1018,6 @@ pets:
     id: 12369
     name: Oilpalm Coconut
     icon: 12369.gif
-    drops:
-    - mob: Hornet
-      id: 1004
-      rate: 0.1%
   accessory:
     id: 10033
     name: Afro
@@ -1138,10 +1102,6 @@ pets:
     id: 23188
     name: Airship Part
     icon: 231800_1.png
-    drops:
-    - mob: Gloom Under Night
-      id: 1768
-      rate: 4.5%
   bonus: DEX +2, HIT +1
   capture: 5%
   egg:
@@ -1162,10 +1122,6 @@ pets:
     id: 23187
     name: Sap Jelly
     icon: 23187.gif
-    drops:
-    - mob: Moonlight Flower
-      id: 1150
-      rate: 9%
   bonus: HIT +3, CRIT +3
   capture: 10%
   egg:
@@ -1186,10 +1142,6 @@ pets:
     id: 23256
     name: Miracle Bandage
     icon: 23256.gif
-    drops:
-    - mob: Evil Druid
-      id: 1117
-      rate: 0.5%
   bonus: HIT +5
   capture: 10%
   egg:
@@ -1210,10 +1162,6 @@ pets:
     id: 23189
     name: Small Doll Needle
     icon: 23189.gif
-    drops:
-    - mob: RSX-0806
-      id: 1623
-      rate: 9%
   bonus: Max SP +100
   capture: 5%
   egg:
@@ -1267,10 +1215,6 @@ pets:
     id: 23257
     name: Old Tree's Dew
     icon: 23257.gif
-    drops:
-    - mob: Wooden Golem
-      id: 1497
-      rate: 0.1%
   bonus: INT +3.
   capture: 10%
   egg:
@@ -1287,10 +1231,6 @@ pets:
     id: 14574
     name: Vagabond's Skull
     icon: 14574.gif
-    drops:
-    - mob: Vagabond Wolf
-      id: 1092
-      rate: 12%
   bonus: AGI +3, DEX +1.
   capture: 10%
   egg:
@@ -1311,10 +1251,6 @@ pets:
     id: 12363
     name: Ghost Coffin
     icon: 12363.gif
-    drops:
-    - mob: Ghostring
-      id: 1120
-      rate: 6%
   bonus: FLEE + 7, DEF -3.
   capture: 5%
   egg:
@@ -1428,10 +1364,6 @@ pets:
     id: 102723
     name: Beehive
     icon: Pet_System/102723.gif
-    drops:
-    - mob: Hornet
-      id: 1004
-      rate: 1%
   bonus: Decreases Cast Time by 2%. Increases Magical Damage with Wind element by 2%.
   capture: 2%
   egg:
