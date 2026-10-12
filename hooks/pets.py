@@ -64,24 +64,6 @@ def _code(value):
     return f"`{value}`{{ .copy }}"
 
 
-def _item(it, ids=True):
-    """Icon, quantity, name and ID of an item, in that order, for a table cell."""
-    if not it:
-        return ""
-    out = f"![{it['name']}](img/{it['icon']}) " if it.get("icon") else ""
-    if it.get("qty"):
-        out += f"{it['qty']}x "
-    out += it["name"]
-    if ids and it.get("id"):
-        out += f"&nbsp;({_code(it['id'])})"
-    return out
-
-
-def _pet(p):
-    out = f"![{p['name']}](img/{p['icon']}) " if p.get("icon") else ""
-    return out + p["name"]
-
-
 def _section(title, body, area):
     """`area` names the grid cell in custom.css, so a section sits in the same place on every card."""
     return f'<div class="pet-sec pet-sec-{area}" markdown>\n\n<span class="pet-label">{title}</span>\n\n{body}\n\n</div>'
@@ -106,8 +88,9 @@ def _where(obj):
     if obj.get("drops"):
         lines = []
         for d in obj["drops"]:
-            mob = f"{d['mob']}&nbsp;({_code(d['id'])})" if d.get("id") else d["mob"]
-            lines.append(f"Dropped by {mob}&nbsp;({d['rate']})")
+            name = d["mob"].replace(" ", "&nbsp;").replace("-", "&#8209;")  # no break inside a name
+            mob = f"{name}&nbsp;({_code(d['id'])})" if d.get("id") else name
+            lines.append(f"Dropped by {mob}&nbsp;·&nbsp;{d['rate']}")
         return "<br>".join(lines)
     return obj.get("source", "")
 
@@ -143,26 +126,62 @@ def _bonus(p):
             + "\n\n".join(f"**{label}:** {text}" for label, text in lower) + "\n\n</details>")
 
 
+def _row(icon, alt, text):
+    """One line with an icon beside its text. They are separate blocks so a wrapped name stays clear of the icon."""
+    pic = f"![{alt}](img/{icon})\n\n" if icon else ""
+    return f'<div class="pet-item" markdown>\n\n{pic}{text}\n\n</div>'
+
+
 def _line(it):
-    """One item on its own line, with the icon vertically centred on the text."""
-    return f'<div class="pet-item" markdown>\n\n{_item(it)}\n\n</div>'
+    """An item (icon, quantity, name, ID) on its own line."""
+    text = f"{it['qty']}x " if it.get("qty") else ""
+    text += it["name"]
+    if it.get("id"):
+        text += f"&nbsp;({_code(it['id'])})"
+    return _row(it.get("icon"), it["name"], text)
 
 
-def _materials(mats):
-    """Collapsed by default. The text stays in the page, so site search still finds it."""
-    return ('<details class="pet-more" markdown>\n<summary>Requirements</summary>\n\n'
-            + "\n\n".join(_line(m) for m in mats) + "\n\n</details>")
-
-
-def card(p, evolves_into):
+def _egg_icon(p):
+    """The egg's own icon, or the default egg when it has none or the file is missing."""
     egg = p.get("egg")
     icon = egg.get("icon") if egg else None
     if not icon or not os.path.exists(os.path.join(_docs, "img", icon)):
         icon = DEFAULT_EGG
-    egg_icon = f"![{egg['name'] if egg else 'Egg'}](img/{icon}) "
+    return icon
+
+
+def _pet_ref(name):
+    """A pet by name: its egg icon and a link to its card."""
+    match = sorted((q for q in _pets if q["name"] == name), key=lambda q: q.get("kind") == "evolved")
+    return _row(_egg_icon(match[0]) if match else None, name, _pet_link(name))
+
+
+def _materials(mats):
+    """Collapsed by default. The text stays in the page, so site search still finds it."""
+    n = len(mats)
+    return (f'<details class="pet-more" markdown>\n<summary>Requirements ({n} item{"s" if n != 1 else ""})</summary>\n\n'
+            + "\n\n".join(_line(m) for m in mats) + "\n\n</details>")
+
+
+def _evolution(sources, evolves_into):
+    """One section for both directions: what it evolves from, and what it evolves into with the cost."""
+    parts = []
+    if sources:
+        parts.append('<div class="pet-sublabel">Evolves from</div>')
+        parts += [_pet_ref(n) for n in sources]
+    if evolves_into:
+        parts.append('<div class="pet-sublabel">Evolves into</div>')
+        parts += [f'<div class="pet-evo" markdown>\n\n{_pet_ref(t["name"])}\n\n{_materials(m)}\n\n</div>'
+                  for t, m in evolves_into]
+    return _section("Evolution", "\n\n".join(parts), "evolution") if parts else ""
+
+
+def card(p, evolves_into):
+    egg = p.get("egg")
+    egg_icon = f"![{egg['name'] if egg else 'Egg'}](img/{_egg_icon(p)}) "
     tag = f'<span class="pet-tag">{_stage(p)}</span>'
     evolved = p.get("kind") == "evolved"
-    # Three independent columns, so a tall section only lengthens its own column.
+    # Three independent columns, so a tall section only lengthens its own column. Evolution is always the right one.
     left = [_section("Loyal bonus", _bonus(p), "bonus")]
     middle, right = [], []
     taming = []
@@ -176,28 +195,20 @@ def card(p, evolves_into):
         taming.append(f"Capture rate: {p['capture']}")  # Event, Exchange and similar are not captured
     sources = [p["evolves_from"]] if p.get("evolves_from") else []
     sources += [a["from"] for a in p.get("alt_recipes") or []]
-    sources_md = "\n\n".join(_pet_link(n) for n in sources)
-    from_in_taming = bool(sources) and not taming  # nothing to tame: "Evolves from" takes the taming item's place
-    if from_in_taming:
-        middle.append(_section("Evolves from", sources_md, "taming"))
-    elif not taming and egg and _where(egg):  # not tamed, but the egg has a known source
+    if not taming and egg and _where(egg):  # not tamed, but the egg has a known source
         middle.append(_section("Egg", _where(egg), "taming"))
-    else:
+    elif taming or not evolved:  # an evolved pet has nothing to tame, so no empty section
         if taming and egg and _where(egg):  # tamed, but the egg can also be had another way
             taming.append(f"Egg: {_where(egg)}")
         middle.append(_section("Taming item", "\n\n".join(taming) or "None", "taming"))
     unknown = (p.get("food") or {}).get("name") == "Unknown"
     auto = "Unknown" if unknown else "Yes" if evolved or not evolves_into or p.get("autofeed") else "No"
-    food = _line(p.get("food") or PET_FOOD) + f"\n\nAuto-feed: {auto}"
-    right.append(_section("Food", food, "food"))
-    if not from_in_taming and sources_md:  # a base pet has no "Evolves from" row to show
-        middle.append(_section("Evolves from", sources_md, "from"))
-    blocks = [f'<div class="pet-evo" markdown>\n\n{_pet_link(target["name"])}\n\n{_materials(mats)}\n\n</div>'
-              for target, mats in evolves_into or []]
-    if blocks:  # a final form has no "Evolves into" row to show
-        left.append(_section("Evolves into", "\n\n".join(blocks), "into"))
+    middle.append(_section("Food", _line(p.get("food") or PET_FOOD) + f"\n\nAuto-feed: {auto}", "food"))
     if p.get("accessory"):
-        right.append(_section("Accessory", _line(p["accessory"]), "accessory"))
+        middle.append(_section("Accessory", _line(p["accessory"]), "accessory"))
+    evo = _evolution(sources, evolves_into)
+    if evo:
+        right.append(evo)
     cols = "\n\n".join(f'<div class="pet-col" markdown>\n\n' + "\n\n".join(c) + "\n\n</div>"
                         for c in (left, middle, right))
     sprite = f"![{p['name']}](img/{p['icon']})" if p.get("icon") else ""

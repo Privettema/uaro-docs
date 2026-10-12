@@ -191,7 +191,6 @@ code.copyable:focus-visible {
 .pet-list { display: flex; flex-direction: column; }
 .pet + .pet { border-top: 0; }
 .pet-evo + .pet-evo { margin-top: 0.75rem; }
-.pet-sections .pet-evo > p:first-child { margin-bottom: 0.4rem; }
 .pet { border: 0.0625rem solid var(--md-default-fg-color--lightest); overflow: hidden; }
 .pet-head { display: flex; flex-wrap: wrap; align-items: center; gap: 0.25rem 0.8rem; padding: 0.375rem 0.75rem;
   background: var(--md-default-fg-color--lightest); }
@@ -202,14 +201,15 @@ code.copyable:focus-visible {
 .md-typeset .pet-head .pet-name { display: flex; align-items: center; gap: 0.25rem; } /* egg beside the name, not above */
 .pet-title { display: flex; align-items: center; gap: 0.3rem; }
 .pet-title p { margin: 0; font-size: 0.7rem; /* 14px, same as the name, so the line box matches */ }
-.pet-ids { display: flex; align-items: center; gap: 0 0.8rem; font-size: 0.7rem; /* 14px, the root is 20px */ }
+.pet-ids { display: flex; align-items: center; gap: 0 0.8rem; margin-left: auto; /* IDs to the right edge, the name stays the anchor */ font-size: 0.7rem; /* 14px, the root is 20px */ }
 .pet-head img { display: block; margin: 0; }
+.pet-tag::before { content: "\00b7"; margin-right: 0.3rem; }
 .pet-tag { font-size: 0.7rem; /* 14px, the root is 20px */ font-weight: 400;
   color: color-mix(in srgb, var(--md-typeset-color) 70%, transparent); /* 5.7:1 on the header, light and dark */ }
 .pet-body { display: flex; align-items: flex-start; gap: 1rem; padding: 0.9rem 0.75rem; }
-.pet-sprite { flex: 0 0 auto; align-self: center; display: flex; align-items: center; justify-content: center; width: 8rem; }
+.pet-sprite { flex: 0 0 auto; align-self: flex-start; display: flex; align-items: flex-start; justify-content: center; width: 6rem; }
 .md-typeset .pet-sprite p { margin: 0; display: flex; justify-content: center; line-height: 0; }
-.pet-sprite img { display: block; max-width: 8rem; max-height: 7rem; width: auto; height: auto; }
+.pet-sprite img { display: block; max-width: 6rem; max-height: 7rem; width: auto; height: auto; }
 .pet-sections { flex: 1 1 auto; min-width: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem; font-size: 0.7rem; /* 14px, the root is 20px */ }
 .pet-col { display: flex; flex-direction: column; gap: 1rem; min-width: 0; }
@@ -219,15 +219,20 @@ code.copyable:focus-visible {
   .pet-sprite { width: auto; }
 }
 .pet-sections p { margin: 0; font-size: 0.7rem; }
-.pet-item p { white-space: normal; padding-left: 1.5rem; text-indent: -1.5rem; /* wrapped lines line up under the name */ }
-.pet-sections .pet-item img { width: 1.2rem; height: 1.2rem; object-fit: contain; margin-right: 0.3rem; }
+.pet-item { display: flex; align-items: flex-start; gap: 0.4rem; }
+.pet-item p { white-space: normal; min-width: 0; }
+.pet-item p:first-child:not(:last-child) { flex: 0 0 auto; line-height: 0; margin-top: 0.1rem; } /* the icon block */
+.pet-sections .pet-item img { display: block; width: 1.2rem; height: 1.2rem; object-fit: contain; margin: 0; }
+.pet-sec > * + * { margin-top: 0.35rem; }
+.pet-sec > .pet-sublabel { display: block; font-size: 0.6rem; /* 12px */ margin-top: 0.7rem;
+  color: color-mix(in srgb, var(--md-typeset-color) 70%, transparent); }
+.pet-sec > .pet-label + .pet-sublabel { margin-top: 0.2rem; }
 .pet-item code, .pet-head code { white-space: nowrap; }
-.pet-sections img { vertical-align: middle; margin-right: 0.25rem; position: relative; top: -0.07rem; }
 .pet-label { display: block; font-weight: 700; margin-bottom: 0.1rem; }
 .md-typeset details.pet-more { margin: 0.25rem 0 0; padding: 0; border: 0; box-shadow: none; background: none;
   font-size: inherit; }
 .md-typeset details.pet-more > summary { display: block; list-style: none; margin: 0; padding: 0; font-weight: 400;
-  font-size: 0.6rem; cursor: pointer; color: var(--md-accent-fg-color); background: none; }
+  font-size: 0.7rem; /* 14px, the root is 20px */ cursor: pointer; color: var(--md-accent-fg-color); background: none; }
 .md-typeset details.pet-more > summary::-webkit-details-marker { display: none; }
 .md-typeset details.pet-more > summary::after { display: none; }
 .md-typeset details.pet-more > summary::before { content: "+ "; position: static; display: inline; width: auto;
