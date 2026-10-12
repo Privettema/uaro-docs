@@ -213,7 +213,7 @@ code.copyable:focus-visible {
 .pet-tag { font-size: 0.7rem; /* 14px, the root is 20px */ font-weight: 400;
   color: color-mix(in srgb, var(--md-typeset-color) 70%, transparent); /* 5.7:1 on the header, light and dark */ }
 .pet-body { display: flex; align-items: flex-start; gap: 1rem; padding: 0.9rem 0.75rem; }
-.pet-sprite { flex: 0 0 auto; align-self: flex-start; display: flex; align-items: flex-start; justify-content: center; width: 6rem; }
+.pet-sprite { padding-top: 0.4rem; /* 8px */ flex: 0 0 auto; align-self: flex-start; display: flex; align-items: flex-start; justify-content: center; width: 6rem; }
 .md-typeset .pet-sprite p { margin: 0; display: flex; justify-content: center; line-height: 0; }
 .pet-sprite img { display: block; max-width: 6rem; max-height: 7rem; width: auto; height: auto; }
 .pet-sections { flex: 1 1 auto; min-width: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
