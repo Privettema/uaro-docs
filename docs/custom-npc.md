@@ -4,14 +4,10 @@ updated: 2026-10-11
 
 # Custom NPCs
 
-The handy NPCs that smooth out your journey on uaRO.
+The handy NPCs that smooth out your journey on uaRO. We aim for a classic, balanced experience, so you won’t find the shortcut NPCs common on heavily customized servers. Travel, quests, and party play are all part of the journey here.
 
-## Our approach
+## Common Unbalanced NPCs Excluded
 
-- We aim for a classic, balanced experience, so you won’t find the shortcut NPCs common on heavily customized servers
-- Travel, quests, and party play are all part of the journey here
-
-### Common Unbalanced NPCs Excluded
 - **No Job Changer**: Advancing jobs means completing the [original quests](https://irowiki.org/wiki/Category:Job_Change_Guide), making each step feel earned.
 - **No Generic Warper**: Our [quest-based dungeon warper](warper-system.md) adds a touch of adventure to travel while still keeping things accessible.
 - **No Healer or Buffer**: Healing and buffs come naturally through potions, inns, and playing together with your party.
