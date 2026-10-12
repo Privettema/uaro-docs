@@ -158,7 +158,7 @@ def card(p, evolves_into):
     if not icon or not os.path.exists(os.path.join(_docs, "img", icon)):
         icon = DEFAULT_EGG
     egg_icon = f"![{egg['name'] if egg else 'Egg'}](img/{icon}) "
-    tag = f' <span class="pet-tag">{_stage(p)}</span>'
+    tag = f'<span class="pet-tag">{_stage(p)}</span>'
     evolved = p.get("kind") == "evolved"
     # Three independent columns, so a tall section only lengthens its own column.
     left = [_section("Loyal bonus", _bonus(p), "bonus")]
@@ -188,18 +188,20 @@ def card(p, evolves_into):
     auto = "Unknown" if unknown else "Yes" if evolved or not evolves_into or p.get("autofeed") else "No"
     food = _line(p.get("food") or PET_FOOD) + f"\n\nAuto-feed: {auto}"
     left.append(_section("Food", food, "food"))
-    if not from_in_taming:
-        middle.append(_section("Evolves from", sources_md or "None", "from"))
+    if not from_in_taming and sources_md:  # a base pet has no "Evolves from" row to show
+        middle.append(_section("Evolves from", sources_md, "from"))
     blocks = [f'<div class="pet-evo" markdown>\n\n{_pet_link(target["name"])}\n\n{_materials(mats)}\n\n</div>'
               for target, mats in evolves_into or []]
-    right.append(_section("Evolves into", "\n\n".join(blocks) or "None", "into"))
+    if blocks:  # a final form has no "Evolves into" row to show
+        right.append(_section("Evolves into", "\n\n".join(blocks), "into"))
     if p.get("accessory"):
         right.append(_section("Accessory", _line(p["accessory"]), "accessory"))
     cols = "\n\n".join(f'<div class="pet-col" markdown>\n\n' + "\n\n".join(c) + "\n\n</div>"
                         for c in (left, middle, right))
     sprite = f"![{p['name']}](img/{p['icon']})" if p.get("icon") else ""
-    return (f'<div class="pet" id="{_anchor(p)}" markdown>\n\n'
-            f'<div class="pet-head" markdown>\n\n{egg_icon}**{p["name"]}**{tag}\n\n<div class="pet-ids" markdown>\n\n{_ids(p)}\n\n</div>\n\n</div>\n\n'
+    # The name is a real heading so the site search indexes each pet and links straight to its card.
+    return (f'<div class="pet" markdown>\n\n'
+            f'<div class="pet-head" markdown>\n\n<div class="pet-title" markdown>\n\n<h3 class="pet-name" id="{_anchor(p)}" markdown>{egg_icon}{p["name"]}</h3>\n\n{tag}\n\n</div>\n\n<div class="pet-ids" markdown>\n\n{_ids(p)}\n\n</div>\n\n</div>\n\n'
             f'<div class="pet-body" markdown>\n\n<div class="pet-sprite" markdown>\n\n{sprite}\n\n</div>\n\n'
             f'<div class="pet-sections" markdown>\n\n' + cols + "\n\n</div>\n\n</div>\n\n</div>")
 
@@ -212,16 +214,16 @@ def _parent(p):
 
 
 def _stage(p):
-    """Non-Evolved, Evolved (1), Evolved (2) ... or Evolved (Final) when nothing evolves from it."""
+    """Base Form, Evolution 1, Evolution 2 ... or Final Evolution when nothing evolves from it."""
     if p.get("kind") != "evolved":
-        return "Non-Evolved"
+        return "Base Form"
     if not any(_parent(q) is p for q in _pets):
-        return "Evolved (Final)"
+        return "Final Evolution"
     step, parent, seen = 1, _parent(p), {id(p)}
     while parent is not None and parent.get("kind") == "evolved" and id(parent) not in seen:
         seen.add(id(parent))
         step, parent = step + 1, _parent(parent)
-    return f"Evolved ({step})"
+    return f"Evolution {step}"
 
 
 def _ordered():

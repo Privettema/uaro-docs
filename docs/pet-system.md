@@ -8,13 +8,11 @@ Tame a cute pet, keep it fed and it follows you through every adventure with a b
 - **Keep it fed.** A hungry pet loses intimacy, and a pet that starves returns to its egg at Awkward intimacy instead of running away.
 - **Its bonus depends on intimacy.** Each card lists the Loyal bonus, and the lower levels where a pet has them.
 - **Evolve it at Loyal.** A pet must be at Loyal intimacy to evolve. The materials are on the pet it evolves from, under "Evolves into".
-- **Switch or restyle it.** Swap to another egg with a [Pet Incubator](#pet-switch), or turn a loyal pet into a permanent skin at the [Pet Stylist](#pet-stylist).
-- **Mute pets.** The **Mute Pets** option in `@settings` hides all pet talk and emotes for you only. Pets still function normally and other players are unaffected.
-- **Bombring event.** During the [Bombring event](auto-events.md#bombring-event), pets hide automatically and are not stored to their egg.
+- **Switch or restyle it.** Swap to another egg with a [**Pet Incubator**](#pet-switch) (`643`), or turn a loyal pet into a permanent skin at the [Pet Stylist](#pet-stylist).
 
 ## Taming
 
-Most taming items drop from monsters according to the RMS database, or come from the ![Taming Gift Set](img/12105.gif) [**Taming Gift Set**](taming-gift-set.md). The exceptions on our server are listed on each pet's card in [All Pets](#all-pets), under "Taming item".
+Most taming items drop from monsters, using the official drop tables you can look up on [RateMyServer](https://ratemyserver.net/), or come from the ![Taming Gift Set](img/12105.gif) [**Taming Gift Set**](taming-gift-set.md) (`12105`). The exceptions on our server are listed on each pet's card in [All Pets](#all-pets), under "Taming item".
 
 - **Taming items check for a valid target.** They are only used up when the target is valid.
 - **Lower HP means a better chance.** The success rate doubles when the monster is under 1% HP.
@@ -42,28 +40,33 @@ To turn it on:
 
 ### Intimacy
 
-Every feeding raises intimacy, and the amount depends on the pet. Your pet loses 5 intimacy each time you die.
+Intimacy is how much your pet likes you. It sets which bonus you get, and a pet must reach Loyal to evolve. The maximum is 1,000.
 
-??? note "Intimacy Values"
-    A pet's hunger drops by 3 points every 60 seconds, for all pets.
+| Level | Intimacy needed |
+|---|---|
+| Awkward | 1 |
+| Shy | 100 |
+| Neutral | 250 |
+| Cordial | 750 |
+| Loyal | 900 |
 
-    | Pet | Intimacy per feeding |
-    |---|---|
-    | Evolved, first tier | 40 |
-    | Evolved, second or final | 30 |
-    | Non-evolvable | 30 |
-    | Phreeoni (MVP, final) | 20 |
-    | Incubus and Succubus | 20 |
+Every feeding raises intimacy, and the amount depends on the pet:
 
-    The intimacy a pet needs for each level. The maximum is 1,000.
+| Pet | Intimacy per feeding |
+|---|---|
+| Evolved, first tier | 40 |
+| Evolved, second or final | 30 |
+| Non-evolvable | 30 |
+| Phreeoni (MVP, final) | 20 |
+| Incubus and Succubus | 20 |
 
-    | Level | Intimacy needed |
-    |---|---|
-    | Awkward | 1 |
-    | Shy | 100 |
-    | Neutral | 250 |
-    | Cordial | 750 |
-    | Loyal | 900 |
+### Reaching Loyal
+
+- **A new pet starts at Neutral.** You need 650 more intimacy to reach Loyal, about 22 feedings for a pet that gains 30 each time.
+- **Feed it when it is hungry.** A pet that is already full loses intimacy when you feed it, and one that is only a little hungry gains less.
+- **Hunger drops by 3 points every 60 seconds,** for all pets. Turn on [auto-feed](#feeding) and the pet feeds itself.
+- **Dying costs intimacy.** Your pet loses 5 intimacy each time you die.
+- **Starving returns it to its egg.** Keep it fed so it never gets there.
 
 ## Pet Switch
 
@@ -84,6 +87,11 @@ Talk to the **Pet Stylist** in Prontera (`/navi prontera 218/224`), directly nor
 
 !!! warning "Reverting to Egg"
     Returning a pet to its egg reverts it to the default appearance when it is rehatched, regardless of the skin applied. A Pet Incubator switch keeps your skin (see [Pet Switch](#pet-switch)).
+
+## Hiding Pets
+
+- **Mute pets.** The **Mute Pets** option in `@settings` hides all pet talk and emotes for you only. Pets still function normally and other players are unaffected.
+- **Bombring event.** During the [Bombring event](auto-events.md#bombring-event), pets hide automatically and are not stored to their egg.
 
 ## All Pets
 
