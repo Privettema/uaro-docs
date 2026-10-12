@@ -97,14 +97,13 @@ Talk to the **Pet Stylist** in Prontera (`/navi prontera 218/224`), directly nor
 
 Every pet in one list, from the weakest mob to the strongest, with each evolution line kept together. Click any ID to copy it.
 
-### How to Read This Table
-
-- **Title bar.** The pet's egg and name, then its stage: **Base Form** (it can evolve), **Evolution 1**, **Evolution 2** and so on, **Final Evolution**, or **No Evolution** for a pet that stands alone.
-- **Egg ID and Mob ID.** The Egg ID is the egg item you get. The Mob ID is the monster you tame, so a pet that can't be tamed shows only an Egg ID.
-- **Loyal bonus.** What the pet gives you at Loyal intimacy. Open the toggle under it for the lower levels, where a pet has them.
-- **Accessory.** The accessory that goes with the pet, under its bonus. Pets without one have no Accessory section.
-- **Taming item.** What you use on the monster, where it comes from, and the capture rate. A pet you can't tame shows **Egg** instead, with where the egg comes from.
-- **Food.** What the pet eats, and whether it can be auto-fed.
-- **Evolution.** What the pet evolves from and into. Open **Requirements** to see the materials for each evolution.
+??? note "How to Read This Table"
+    - **Title bar.** The pet's egg and name, then its stage: **Base Form** (it can evolve), **Evolution 1**, **Evolution 2** and so on, **Final Evolution**, or **No Evolution** for a pet that stands alone.
+    - **Egg ID and Mob ID.** The Egg ID is the egg item you get. The Mob ID is the monster you tame, so a pet that can't be tamed shows only an Egg ID.
+    - **Loyal bonus.** What the pet gives you at Loyal intimacy. Open the toggle under it for the lower levels, where a pet has them.
+    - **Accessory.** The accessory that goes with the pet, under its bonus. Pets without one have no Accessory section.
+    - **Taming item.** What you use on the monster, where it comes from, and the capture rate. A pet you can't tame shows **Egg** instead, with where the egg comes from.
+    - **Food.** What the pet eats, and whether it can be auto-fed.
+    - **Evolution.** What the pet evolves from and into. Open **Requirements** to see the materials for each evolution.
 
 <!-- PET_TABLE -->
