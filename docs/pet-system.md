@@ -95,6 +95,6 @@ Talk to the **Pet Stylist** in Prontera (`/navi prontera 218/224`), directly nor
 
 ## All Pets
 
-Every pet in one list, from the weakest mob to the strongest, with each evolution line kept together. **Egg ID** is the egg item you get and **Mob ID** is the monster you tame. Click an ID to copy it.
+Every pet in one list, from the weakest mob to the strongest, with each evolution line kept together. **Egg ID** is the egg item you get and **Mob ID** is the monster you tame, so pets that can't be tamed show only an Egg ID. Click an ID to copy it.
 
 <!-- PET_TABLE -->

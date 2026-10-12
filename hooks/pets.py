@@ -104,7 +104,10 @@ def _pet_link(name):
 
 def _ids(p):
     """Egg ID and Mob ID as separate cells; the header grid puts each over the section column it belongs to."""
-    ids = " / ".join(_code(i) for i in dict.fromkeys([p.get("id")] + list(p.get("alt_ids") or [])) if i)
+    tameable = p.get("kind") != "evolved" and re.fullmatch(r"[\d.,]+%", str(p.get("capture") or ""))
+    ids = ""  # a pet that cannot be tamed gets no Mob ID: the egg is the only ID a player can use
+    if tameable:
+        ids = " / ".join(_code(i) for i in dict.fromkeys([p.get("id")] + list(p.get("alt_ids") or [])) if i)
     out = []
     egg = p.get("egg")
     if egg:
