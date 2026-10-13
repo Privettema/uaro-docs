@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
 # uaRO Beginner's Info & Quick Start Guide
@@ -101,6 +101,9 @@ These are important for three reasons:
 - Most Exp items can be sold to players for a reasonable price, so it's a possible source of money.
 - The Killing Quests can help you to level faster (namely Alligator, Dryad, and Remover).
 - Once you rebirth, you will have a lot of Huge and Sharp Leaf (Pinguicula (`1995`) drop them). They will help you to become a higher level really quick.
+
+### ![Platinum Skill NPC](img/1_F_01.gif) Platinum Skill NPC
+Class quest skills (platinum skills) are learned from the Platinum Skill NPC in the [Main Office](main-office.md) in Prontera, without doing the quest. Visit this NPC after every job change to pick up the skills your class is missing. For example, a Thief gets Back Slide and a Merchant gets Cart Revolution.
 
 ### ![Reset NPC](img/JP_ARUNA.gif) Reset NPC
 This NPC is located in the Prontera Main Office and allows you to reset your skills, your stats, or your skills and stats. You can do it as often as you like for a fee, with the first time being free. This allows you to first choose a beginners friendly build and once you own the money (and equipment) you can change to a late game one.
@@ -303,7 +306,7 @@ There are three types of Mercenaries:
 ### Level 15 - 35
 After your job change, talk to the Kafra and warp to Prontera. We have 2 things to do there:
 
-1. Enter the [Main Office](main-office.md) (south-west from prontera fountain; left to where you spawn) and talk to the Platinum Skill NPC. You will receive the Quest Skills without further quest. For example: As a Thief, you want Back Slide and as Merchant you want Cart Revolution.
+1. Enter the [Main Office](main-office.md) (south-west from prontera fountain; left to where you spawn) and talk to the Platinum Skill NPC. Class quest skills (platinum skills) are learned there, without doing the quest. For example: As a Thief, you want Back Slide and as Merchant you want Cart Revolution.
 2. Go to the north-west corner of Prontera and talk to the Mercenary Manager.
 
 !!! tip "Hint"
@@ -387,6 +390,8 @@ A bit later:
 Once you hit Job 40 you can change to your second class. Change as soon as you have all necessary first class skills. [Classes Job List](https://irowiki.org/classic/Classes)
 
 Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job.
+
+After the change, visit the [Platinum Skill NPC](#platinum-skill-npc) in the Main Office again to learn the quest skills of your second class.
 
 
 ### Leveling as Second Job
