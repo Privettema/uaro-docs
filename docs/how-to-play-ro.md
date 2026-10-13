@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-06
+updated: 2026-10-12
 ---
 
 # How to Play RO
@@ -109,7 +109,7 @@ uaRO is a classic pre-renewal server at x5 base rates (x7.5 on weekends), with a
 
 - **Autoloot:** turn on `@autoloot` and set what to pick up with `@lootconfig`. You no longer walk to every drop, which saves time on every kill. See [Commands](commands.md#lootconfig-advanced-autoloot-system).
 - **Poring Coins:** most monsters have a 5% chance to drop one. They sell well to players and buy useful things such as Field Manual 100%, a Gym Pass for more carry weight, and quest headgears. See [Poring Coin System](poring-coins-system.md).
-- **Main Office:** the hub for Poring Coin exchanges, costumes and stat and skill resets. See [Main Office](main-office.md).
+- **Main Office:** the hub for Poring Coin exchanges, costumes and stat and skill resets. It is also where you learn class quest skills (platinum skills) from the Platinum Skill NPC, with no quest needed. See [Main Office](main-office.md).
 - **Rodex mail:** send tradeable items to your other characters from anywhere, so you can restock or offload loot without walking back to town. See [Quality of Life](improvements.md#rodex-mail-system).
 - **Server time:** type `@time` to see the server's clock and whether it is day or night. Events and weekend rates run on server time, so it is the quickest way to know what is active. `@rates` shows the current rates and `@commands` lists everything else. See [Commands](commands.md#system-commands).
 
