@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-04
+updated: 2026-10-13
 ---
 
 # Commands
@@ -177,7 +177,7 @@ The Show Rare Drops option will announce your rare drops to yourself. It is acce
 ### Announcements
 The Announcement Config menu consolidates all broadcast announcement options in one place.
 
-Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kill**, **Community News**, **MVP**, and **Event** announcements, with your choices saved to your account. A new **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
+Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kill**, **Community News**, **MVP**, **Event**, and **PvP Arena** announcements, with your choices saved to your account. The PvP Arena option hides the arena's server-wide open, reminder, winner and close messages; these messages are shown by default. A new **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
 
 ## @lootconfig — Advanced Autoloot System
 

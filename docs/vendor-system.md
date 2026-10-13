@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-06
+updated: 2026-10-13
 ---
 
 # Vendor System
@@ -173,6 +173,11 @@ Vending and buying store prices are checked against NPC shop prices when the sho
 - **You're told about every change.** You get a message for each price that was adjusted.
 - **Autotrade follows the same limits.** Autotrade shops restored after maintenance are checked the same way.
 - **Circumventing the limits is punished.** Attempting to circumvent this mechanic will result in punishment like any other game mechanic.
+
+## One entry per item
+Vending, Autotrade and buying stores can list each stackable item only once per account and hardware ID. A second entry with the same item ID from another character or shop is not allowed.
+
+Attempting to bypass this limit, like any other game mechanic, may result in punishment if evidence supports it.
 
 ## Import your last shop
 The client's **Import** function reopens your most recent vending or buying store without re-entering

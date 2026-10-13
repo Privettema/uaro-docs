@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-04
+updated: 2026-10-13
 ---
 
 # El Dicastes
@@ -69,6 +69,8 @@ Certain steps of [Doha's Secret Orders](https://irowiki.org/wiki/Doha%27s_Secret
 | 20 | Cheshire's Call daily quest |
 | Complete | x9 Unknown Relics (`6308`) |
 
+Your other characters can also reach Scaraba Hole Level 2 through the Vigilantes in Scaraba Hole 1 while wearing a standard Light of El Dicastes. See [Lower Floor Through the Vigilantes](scaraba-hole.md#vigilantes).
+
 !!! warning "Quest Differences"
     You will not receive a Bradium Brooch or Dragon's Manteau for completing Doha's Secret Orders.
 
@@ -132,7 +134,7 @@ Certificates are spent on enchanting four bound items.
 | <img src="../img/2564.png" alt=""> Feral Tail | Garment | Mancho<br>(`/navi dic_fild01 259/172`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
 | <img src="../img/2843.png" alt=""> Golden Trinket | Accessory | Brare<br>(`/navi dic_fild01 251/183`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
 
-These items cannot be refined, traded, put in a cart, put in guild storage, mailed or sold. Light of El Dicastes also cannot be stored.
+These items cannot be refined, traded, put in a cart, put in guild storage, mailed or sold. Light of El Dicastes can go in personal storage, but not guild storage.
 
 ### Stats
 

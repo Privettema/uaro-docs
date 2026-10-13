@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-11
+updated: 2026-10-13
 ---
 
 # Item Changes
@@ -56,8 +56,11 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Angelic Protection [1] | 2355 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | [](){ #assassins-handcuffs } Assassin's Handcuffs [1] | 2892 | MAX SP +20<br>CRIT +3 | MAX HP +500<br> CRIT +8<br> CRIT DMG +10%<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | [](){ #bible-of-promise } Bible of Promise [1] | 2162 | Required Level 140<br>Equippable by Arch Bishop (3rd job)<br>MDEF +5<br>Enables Odin's Power Level 2<br>Increases healing effectiveness by 5% | Required Level 90<br>High Priest only<br>MDEF +5<br>INT +2<br>Increases healing effectiveness by 5%<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
+| Black Tail Ribbon [1] | 5765 |  | Acquisition: [Sabrina](woe.md#equipment), 15 WoE Equipment Tokens |
 | Blood Sucker | 18754 | Unbreakable | Adds 1% chance of absorbing 3% physical damage inflected on target as HP<br> Disables natural HP and SP recovery |
+| Boitata Hat [1] | 18659 |  | Acquisition: Boitata (`2068`) |
 | [](){ #bone-plate } Bone Plate [1] | 15000 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
+| Book of Soyga [1] | 19326 |  | Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | Bradium Brooch[1] | 2790 | Not dropped by any monster | Dropped by Bradium Golem (`2024`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | [](){ #celines-ribbon } Celine's Ribbon [1] | 18849 | DEX +3<br>MATK +40, plus 7 per refine level<br>Recover 200 HP each time you kill a monster with magic<br>50 HP drain every 5 seconds | DEX +3<br>MATK +20<br>MATK +1 per refine level<br>25 HP drain every 5 seconds<br>Equippable by all Trans classes |
 | Chick Hat | 5283 | Reduces damage from Demi-Human monsters by 3% | Also reduces damage taken from Brute monsters by 3% |
@@ -75,16 +78,18 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Glaris Doll Hat [1] | 5341 | INT +2 | No INT bonus |
 | Golden Trinket | 2843 |  | MAX SP +50<br>Required Level 75<br><br>Acquisition: [El Dicastes](el-dicastes.md#spending-certificates): Jahbong, 1 Certificate |
 | [](){ #green-operation-coat } Green Operation Coat [1] | 15044 | DEX +1<br>MAX SP +30 | DEX +1, INT +3<br>Additional enchants available<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
+| Handkerchief in Mouth | 18670 |  | Acquisition: [Sabrina](woe.md#equipment), 15 WoE Equipment Tokens |
 | Hermode Cap[1] | 5481 | Not dropped by any monster | Dropped by Assassin Cross Eremes (`1641`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Holy Robe | 2327 (unslotted)<br>2373 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | [](){ #imperial-guard } Imperial Guard [1] | 2153 | MDEF +5<br>Increases Shield Press damage by 20%<br>Above +5, an additional 2% per refine level | MDEF +5<br>Increases Shield Chain damage by 20%, plus 1% per refine<br>At +8, halves Shield Chain cast time |
-| [](){ #light-of-el-dicastes } Light of El Dicastes | 2844 | Grants Return to El Dicastes | Untradeable and unrefinable, character bound<br>Enchantable by Kareka in El Dicastes<br>Grants Return to El Dicastes |
+| [](){ #light-of-el-dicastes } Light of El Dicastes | 2844 | Grants Return to El Dicastes | Untradeable and unrefinable, character bound<br>Can go in personal storage, not guild storage<br>Enchantable by Kareka in El Dicastes<br>Grants Return to El Dicastes<br>The unslotted standard version gives access to Scaraba Hole 2 through the [Vigilantes](scaraba-hole.md#vigilantes) |
 | Love Guard [1] | 18542 |  | Increases the effectiveness of your healing skills by 2%<br>Increases the effect of received healing by 5%<br>At +7 or higher, healing skills effectiveness +3%<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | Mage Coat | 2334 (unslotted)<br>2372 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | Mercury Riser [1] | 18597 |  | Acquisition: Baphomet (`1399`) at 5.1% |
 | Mitra [1] | 5747 | MATK +10 at base INT 120 or higher<br>Required Level 100 | MATK +10 at base INT 90 or higher<br>Required Level 90 |
 | Ninja Suit | 2337 (unslotted)<br>2359 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | Novice Breastplate [1] | 2340 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
+| Old Minstrel Song's Hat [1] | 18976 |  | Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | Old Mitra [1] | 18972 |  | INT +1<br>MDEF +5<br>For each 2 refine levels: MAX HP +1%, MAX SP +1%, ATK +8, MATK +4 and Magnus Exorcismus damage +4%<br>Required Level 70<br>Priest only<br><br>Acquisition: Margaretha Sorin (`1637`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Puppy Hat | 5182 | Randomly autocasts Gloria when dealing physical attack<br>At base AGI 77 or higher, the chance is 3% | At base AGI 77 or higher, the chance is 5% |
 | [](){ #red-lantern } Red Lantern [1] | 2976 | Required Level 100<br>MAX SP -300<br>Enables Sight Level 1<br>Adds a 0.5% chance each for Alcohol, Detrimindexta and Karvodailnirol to drop when killing a monster | Required Level 20<br> Equippable by All except Novice, Taekwon, Star Gladiator |
@@ -107,6 +112,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Waterdrop Brooch [1] | 2787 | Not dropped by any monster | Dropped by Kraken (`2202`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | [](){ #wounded-heart } Wounded Heart [1] | 2977 | Required Level 110<br>MAX SP +200<br>Enables Scream Level 3 | DEX +2<br>AGI +1<br>+5% damage to all races<br>Required Level 90<br>Equippable by all Transcendent jobs |
 | Yellow Bandana | 5277 | Cannot be acquired | Available from Sabrina for 15 WoE Tokens |
+| Yin Yang Earrings | 18576 |  | When equipped with Hot-blooded Headband (`5070`): Raging Thrust and Raging Trifecta Blow damage +5%, Chain Crush Combo and Glacier Fist damage +3%<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 
 ## Consumables
 
