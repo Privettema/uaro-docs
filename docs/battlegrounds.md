@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-06
+updated: 2026-10-13
 ---
 
 # Battlegrounds
@@ -332,8 +332,6 @@ The **BG Shop** is available through the Battlegrounds NPC in Prontera. Most gea
 | Late joining | Late joiners spawn in their team's waiting room, not at the battlefield entry point. |
 | **Skills** |
 | ![cr_devotion](img/Class_Changes/cr_devotion.gif) Devotion | Works in BG without the need for a party. |
-| ![tk_highjump](img/WoE/tk_highjump.gif) High Jump | Works in BG. |
-| ![tk_run](img/Class_Changes/tk_run.png) Running | Works in BG. |
 | ![am_potionpitcher](img/Class_Changes/am_potionpitcher.png) Potion Pitcher | Does not work on battleground barricades, objectives, and flags. |
 | **Status Effects** |
 | ![dc_dontforgetme](img/Class_Changes/dc_dontforgetme.png){ width="24" } Please Don't Forget Me | Cleared on death and when a battleground ends. |
