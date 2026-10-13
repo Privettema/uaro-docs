@@ -514,3 +514,101 @@ code.copyable:focus-visible {
 [data-md-color-scheme="slate"] .quest-flag {
     color: #ff6b6b;
 }
+
+/* beginner-guide.md: Class cards with the sprite on top and the links pinned to the bottom */
+.md-typeset .grid.class-cards {
+    grid-template-columns: repeat(auto-fill, minmax(min(19rem, 100%), 1fr)); /* 304px, or the full width on a phone */
+}
+
+.md-typeset .grid.cards.class-cards > ul > li {
+    display: flex;
+    flex-direction: column;
+}
+
+.md-typeset .grid.cards.class-cards > ul > li:hover,
+.md-typeset .grid.cards.class-cards > ul > li:focus-within {
+    border-color: var(--md-default-fg-color--lightest);
+    box-shadow: none;
+}
+
+/* theme.css stretches a card's first link over the whole card; class cards are not clickable as a whole */
+.md-typeset .grid.cards.class-cards > ul > li a:first-of-type::after {
+    content: none;
+}
+
+.md-typeset .grid.cards.class-cards > ul > li:has(a:focus-visible) {
+    outline: none;
+}
+
+.md-typeset .grid.cards.class-cards > ul > li a:focus-visible {
+    outline: 0.125rem solid var(--uaro-purple-on-bg); /* 2px */
+    outline-offset: 0.125rem; /* 2px */
+}
+
+.class-cards li > p > strong:first-child {
+    font-size: 1.15rem; /* 18.4px */
+}
+
+/* Class name on the left, tags on the right */
+.class-cards li > p:has(> .class-tags) {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.75rem; /* 4px 12px */
+    justify-content: space-between;
+}
+
+.class-cards .class-tags {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.class-cards li > p > em:only-child {
+    color: var(--md-default-fg-color--light);
+}
+
+.class-cards .class-tag {
+    border: 0.0625rem solid var(--md-default-fg-color--lighter); /* 1px */
+    border-radius: 0.25rem; /* 4px */
+    display: inline-block;
+    font-size: 0.7rem; /* 11.2px */
+    line-height: 1.5;
+    margin: 0 0.25rem 0.25rem 0; /* 0 4px 4px 0 */
+    padding: 0 0.4rem; /* 0 6px */
+}
+
+.class-cards .class-tag-play {
+    background-color: var(--md-default-fg-color--lightest);
+    border-color: transparent;
+}
+
+.class-cards .class-tag-support {
+    background-color: var(--md-accent-fg-color--transparent);
+    border-color: var(--md-accent-fg-color);
+}
+
+.class-cards li > p:last-child {
+    margin-top: auto;
+    padding-top: 0.5rem; /* 8px */
+}
+
+.class-cards li > p:has(> .class-sprite) {
+    text-align: center;
+}
+
+.class-cards .class-sprite {
+    height: auto;
+    margin: 0 0.25rem 0.5rem 0; /* 0 4px 8px 0 */
+    max-width: 7.5rem; /* 120px */
+    vertical-align: middle;
+}
+
+/* Arrow between a class's sprite pair and its transcendent pair */
+.class-cards .class-arrow {
+    color: var(--md-default-fg-color--light);
+    display: inline-block;
+    font-size: 1.25rem; /* 20px */
+    margin: 0 0.25rem 0.5rem; /* 0 4px 8px */
+    vertical-align: middle;
+}
