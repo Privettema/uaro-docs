@@ -2838,7 +2838,7 @@ pets:
   id: 22382
   kind: base
   icon: Pet_System/22382.gif
-  bonus: MATK +25, INT +3
+  bonus: None
   capture: Event
   egg:
     id: 9184
@@ -2849,7 +2849,7 @@ pets:
   id: 22381
   kind: base
   icon: Pet_System/22381.gif
-  bonus: ATK +25, LUK +3
+  bonus: None
   capture: Event
   egg:
     id: 9183
