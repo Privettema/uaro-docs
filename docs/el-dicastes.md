@@ -130,9 +130,9 @@ Certificates are spent on enchanting four bound items.
 | Item | Equip | Enchanter | Acquisition | Binding |
 |---|---|---|---|---|
 | <img src="../img/2844.png" alt=""> Light of El Dicastes | Accessory | Kareka<br>(`/navi dic_in01 353/37`) | Adventure Clerk Rhawyne<br>(`/navi dic_in01 42/264`) | Character |
-| <img src="../img/2463.png" alt=""> Feral Boots | Shoes | Jalapeno<br>(`/navi dic_fild01 240/198`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`)| Account |
-| <img src="../img/2564.png" alt=""> Feral Tail | Garment | Mancho<br>(`/navi dic_fild01 259/172`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
-| <img src="../img/2843.png" alt=""> Golden Trinket | Accessory | Brare<br>(`/navi dic_fild01 251/183`) | Jahbong - 1 Certificate<br>(`/navi dic_fild01 228/159`) | Account |
+| <img src="../img/2463.png" alt=""> Feral Boots | Shoes | Jalapeno<br>(`/navi dic_fild01 240/198`) | Jahbong - ![Sapha Certificate](img/6304.gif) 1 Sapha Certificate<br>(`/navi dic_fild01 228/159`)| Account |
+| <img src="../img/2564.png" alt=""> Feral Tail | Garment | Mancho<br>(`/navi dic_fild01 259/172`) | Jahbong - ![Sapha Certificate](img/6304.gif) 1 Sapha Certificate<br>(`/navi dic_fild01 228/159`) | Account |
+| <img src="../img/2843.png" alt=""> Golden Trinket | Accessory | Brare<br>(`/navi dic_fild01 251/183`) | Jahbong - ![Sapha Certificate](img/6304.gif) 1 Sapha Certificate<br>(`/navi dic_fild01 228/159`) | Account |
 
 These items cannot be refined, traded, put in a cart, put in guild storage, mailed or sold. Light of El Dicastes also cannot be stored.
 
@@ -155,10 +155,10 @@ Layers 2 and 3 can stack on the same stat, up to +5 on Feral Boots and Feral Tai
 
 | Step | Cost | Result |
 |---|---|---|
-| Layer 1 | 1 Certificate | 20% fail, item safe |
-| Layer 2 | 2 Certificates | 20% fail, item safe |
-| Layer 3 | 3 Certificates | 20% fail, item safe |
-| Reset | 6 Certificates | Strips enchants, item safe |
+| Layer 1 | ![Sapha Certificate](img/6304.gif) 1 Sapha Certificate | 20% fail, item safe |
+| Layer 2 | ![Sapha Certificate](img/6304.gif) 2 Sapha Certificates | 20% fail, item safe |
+| Layer 3 | ![Sapha Certificate](img/6304.gif) 3 Sapha Certificates | 20% fail, item safe |
+| Reset | ![Sapha Certificate](img/6304.gif) 6 Sapha Certificates | Strips enchants, item safe |
 
 ### Enchanting with the Cat Merchants
 
@@ -166,10 +166,10 @@ The cat merchants enchant the Feral Boots, Feral Tail and Golden Trinket, and th
 
 | Step | Cost | Result |
 |---|---|---|
-| Layer 1 | 1 Certificate | 10% fail, item safe |
-| Layer 2 | 2 Certificates | 10% fail, item safe |
-| Layer 3 | 3 Certificates | 20% chance it destroys the item |
-| Add a socket | 60 Certificates | Never fails, item safe |
+| Layer 1 | ![Sapha Certificate](img/6304.gif) 1 Sapha Certificate | 10% fail, item safe |
+| Layer 2 | ![Sapha Certificate](img/6304.gif) 2 Sapha Certificates | 10% fail, item safe |
+| Layer 3 | ![Sapha Certificate](img/6304.gif) 3 Sapha Certificates | 20% chance it destroys the item |
+| Add a socket | ![Sapha Certificate](img/6304.gif) 60 Sapha Certificates | Never fails, item safe |
 | Reset | Free | Destroys the item |
 
 !!! danger "Some Cat Merchant failures can destroy the item"
