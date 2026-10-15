@@ -612,3 +612,21 @@ code.copyable:focus-visible {
     margin: 0 0.25rem 0.5rem; /* 0 4px 8px */
     vertical-align: middle;
 }
+
+/* Dimonka headgear table: headgear column is 200px (the root is 20px), materials shrinks to its content, description takes the rest */
+.md-typeset .dimonka-table table:not([class]) {
+  display: table;
+  width: 100%;
+}
+
+.md-typeset .dimonka-table th:nth-child(1) {
+  width: 10rem;
+}
+
+.md-typeset .dimonka-table th:nth-child(2) {
+  width: 1%;
+}
+
+.md-typeset .dimonka-table td:nth-child(2) {
+  white-space: nowrap;
+}
