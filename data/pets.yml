@@ -1285,15 +1285,13 @@ pets:
   id: 21089
   kind: base
   icon: Pet_System/21089.gif
-  taming:
-    name: 2025 Summer Event Special
   bonus: Perfect Hit +10
   capture: Event
   egg:
     id: 9125
     name: Wandering Duck Doll Egg
     icon: Pet_System/9125.png
-    source: 3 Event Tokens (`7866`{ .copy }) (2025 Twilight Festival). Purchased in [Main Office](main-office.md).
+    source: "2025 Twilight Festival\n\n3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md)."
 - name: Mutating White Knight
   id: 20574
   kind: base
@@ -2809,23 +2807,6 @@ pets:
     name: New Year Doll Egg
     icon: Pet_System/9038.png
     source: 2 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
-- name: Blue Unicorn
-  id: 3261
-  level: 30
-  hp: 20
-  kind: base
-  icon: Pet_System/3261.gif
-  food:
-    id: 510
-    name: Blue Herb
-    icon: 510.gif
-  bonus: None
-  capture: Event
-  egg:
-    id: 9068
-    name: Blue Unicorn Egg
-    icon: Pet_System/9068.png
-    source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
 - name: Rice Cake
   id: 1815
   level: 12
@@ -2854,11 +2835,35 @@ pets:
     icon: Pet_System/9144.png
     source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
 - name: Tai-Zi
+  id: 22382
   kind: base
+  icon: Pet_System/22382.gif
   bonus: None
   capture: Event
   egg:
     id: 9184
     name: Tai-Zi Egg
     icon: Pet_System/9184.png
-    source: Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md) when it is on rotation.
+    source: Summer 2026 event.
+- name: Fei Chai
+  id: 22381
+  kind: base
+  icon: Pet_System/22381.gif
+  bonus: None
+  capture: Event
+  egg:
+    id: 9183
+    name: Fei Chai Egg
+    icon: Pet_System/9183.png
+    source: 4 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md) when it is on rotation.
+- name: Blue Unicorn
+  id: 3261
+  kind: base
+  icon: Pet_System/3261.gif
+  bonus: None
+  capture: Event
+  egg:
+    id: 9068
+    name: Blue Unicorn Egg
+    icon: Pet_System/9068.png
+    source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
