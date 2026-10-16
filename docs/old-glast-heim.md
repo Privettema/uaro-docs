@@ -32,35 +32,35 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 ### Floor 1
 
-| Monster | Quantity | In-game command |
+| Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 10 | @mi 2470 |
-| ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 10 | @mi 2471 |
-| ![2465](img/OGH/2465.gif) Corrupted Monk | 20 | @mi 2465 |
-| ![2464](img/OGH/2464.gif) Corrupted Steward | 32 | @mi 2464 |
-| ![2466](img/OGH/2466.gif) Chamberlain in Pain | 27 | @mi 2466 |
-| ![2469](img/OGH/2469.gif) Wandering Archer | 56 | @mi 2469 |
-| ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | @mi 2468 |
-| ![2473](img/OGH/2473.gif) 1st Commander of Death | 1 | @mi 2473 |
-| ![2474](img/OGH/2474.gif) 2nd Commander of Death | 1 | @mi 2474 |
-| ![2467](img/OGH/2467.gif) Maggot | - | @mi 2467 |
-| ![2475](img/OGH/2475.gif) **Corrupted Soul (MVP)** | 1 | @mi 2475 |
+| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 10 | `2470`{ .copy } |
+| ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 10 | `2471`{ .copy } |
+| ![2465](img/OGH/2465.gif) Corrupted Monk | 20 | `2465`{ .copy } |
+| ![2464](img/OGH/2464.gif) Corrupted Steward | 32 | `2464`{ .copy } |
+| ![2466](img/OGH/2466.gif) Chamberlain in Pain | 27 | `2466`{ .copy } |
+| ![2469](img/OGH/2469.gif) Wandering Archer | 56 | `2469`{ .copy } |
+| ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | `2468`{ .copy } |
+| ![2473](img/OGH/2473.gif) 1st Commander of Death | 1 | `2473`{ .copy } |
+| ![2474](img/OGH/2474.gif) 2nd Commander of Death | 1 | `2474`{ .copy } |
+| ![2467](img/OGH/2467.gif) Maggot | - | `2467`{ .copy } |
+| ![2475](img/OGH/2475.gif) **Corrupted Soul (MVP)** | 1 | `2475`{ .copy } |
 
 ### Floor 2
 
-| Monster | Quantity | In-game command |
+| Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | @mi 2468 |
-| ![2469](img/OGH/2469.gif) Wandering Archer | 30 | @mi 2469 |
-| ![2465](img/OGH/2465.gif) Corrupted Monk | 30 | @mi 2465 |
-| ![2466](img/OGH/2466.gif) Chamberlain in Pain | 27 | @mi 2466 |
-| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 20 | @mi 2470 |
-| ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 25| @mi 2471 |
-| ![2472](img/OGH/2472.gif) Suffered Bloody Knight | 23 | @mi 2472 |
-| ![2473](img/OGH/2473.gif) 1st Commander of Death | 3 | @mi 2473 |
-| ![2474](img/OGH/2474.gif) 2nd Commander of Death | 3 | @mi 2474 |
-| ![2467](img/OGH/2467.gif) Maggot | - | @mi 2467 |
-| ![2476](img/OGH/2476.gif) **Amdarais (MVP)** | 1 | @mi 2476 |
+| ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | `2468`{ .copy } |
+| ![2469](img/OGH/2469.gif) Wandering Archer | 30 | `2469`{ .copy } |
+| ![2465](img/OGH/2465.gif) Corrupted Monk | 30 | `2465`{ .copy } |
+| ![2466](img/OGH/2466.gif) Chamberlain in Pain | 27 | `2466`{ .copy } |
+| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 20 | `2470`{ .copy } |
+| ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 25| `2471`{ .copy } |
+| ![2472](img/OGH/2472.gif) Suffered Bloody Knight | 23 | `2472`{ .copy } |
+| ![2473](img/OGH/2473.gif) 1st Commander of Death | 3 | `2473`{ .copy } |
+| ![2474](img/OGH/2474.gif) 2nd Commander of Death | 3 | `2474`{ .copy } |
+| ![2467](img/OGH/2467.gif) Maggot | - | `2467`{ .copy } |
+| ![2476](img/OGH/2476.gif) **Amdarais (MVP)** | 1 | `2476`{ .copy } |
 
 !!! note
     Resurrection cannot one-hit kill Corrupted Monk. Some monsters in this instance have modified behavior compared to
@@ -73,9 +73,9 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 | NPC | Require | Obtain | Chance |
 |---|---|---|---|
-| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal Crystal](img/OGH/6607.gif) Temporal Crystal - 100 | ![Temporal boots](img/OGH/2499.gif) Temporal boots [0] | 100% |
-| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal boots](img/OGH/2499.gif) Temporal boots - 1<br>![Temporal Crystal](img/OGH/6607.gif) Temporal Crystal - 1000 | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk) | 100% |
-| ![Hugin's Craftsman](img/OGH/4_F_JOB_BLACKSMITH.gif)<br>Hugin's Craftsman | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [0] - 1<br>![Temporal Crystal](img/OGH/6607.gif) Temporal Crystal - 1500<br>15,000,000z | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk) | 75% |
+| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal Crystal](img/OGH/6607.gif) 100 Temporal Crystal | ![Temporal boots](img/OGH/2499.gif) Temporal boots [0] | 100% |
+| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal boots](img/OGH/2499.gif) 1 Temporal boots<br>![Temporal Crystal](img/OGH/6607.gif) 1,000 Temporal Crystal | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk) | 100% |
+| ![Hugin's Craftsman](img/OGH/4_F_JOB_BLACKSMITH.gif)<br>Hugin's Craftsman | ![Upgraded Temporal boots](img/OGH/22008.gif) 1 Upgraded Temporal boots [0]<br>![Temporal Crystal](img/OGH/6607.gif) 1,500 Temporal Crystal<br>15,000,000z | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk) | 75% |
 
 !!! note
     - Can slot only ![22008](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk)
@@ -97,10 +97,10 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 ## Card Trade
 
-| NPC | Require | Obtaine | In-game command |
-|-----|---------|---------|-----------------|
-| ![4_WHITEKNIGHT](img/OGH/4_WHITEKNIGHT.gif) White Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/card-1.gif) White Knight Card | @ii 4608 |
-| ![4_F_KHALITZBURG](img/OGH/4_F_KHALITZBURG.gif) Khalitzburg Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/card-1.gif) Khalitzburg Knight Card | @ii 4609 |
+| NPC | Require | Obtain | Card ID |
+|-----|---------|--------|---------|
+| ![4_WHITEKNIGHT](img/OGH/4_WHITEKNIGHT.gif) White Knight | ![6608](img/OGH/6608.gif) 5,000 Coagulated Spell or<br> ![6755](img/OGH/6755.gif) 2,000 Contaminated Magic | ![Card](img/card-1.gif) White Knight Card | `4608`{ .copy } |
+| ![4_F_KHALITZBURG](img/OGH/4_F_KHALITZBURG.gif) Khalitzburg Knight | ![6608](img/OGH/6608.gif) 5,000 Coagulated Spell or<br> ![6755](img/OGH/6755.gif) 2,000 Contaminated Magic | ![Card](img/card-1.gif) Khalitzburg Knight Card | `4609`{ .copy } |
 
 ## Ancient Golden Coin
 

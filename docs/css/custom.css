@@ -477,6 +477,21 @@ code.copyable:focus-visible {
   margin-top: -0.15rem;
 }
 
+/* Monster tables fill the content width. Floor grids (four floors per row) get four equal columns; the lists
+   (boss pool, stage table) keep content-sized columns but still span the full width. */
+.md-typeset .uaro-mob-grid table,
+.md-typeset .uaro-mob-wide table {
+  display: table;
+  width: 100%;
+}
+.md-typeset .uaro-mob-grid table {
+  table-layout: fixed;
+}
+.md-typeset .uaro-mob-grid .md-typeset__table,
+.md-typeset .uaro-mob-wide .md-typeset__table {
+  display: block;
+}
+
 /* repeatable-quests.md: Scrolls sideways instead of spilling out of the page on narrow screens */
 .repeatable-table {
     overflow-x: auto;

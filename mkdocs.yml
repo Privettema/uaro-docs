@@ -143,6 +143,10 @@ nav:
   # The sidebar for this tab (Latest Patches + yearly Archive) is generated from the patch files by hooks/patch_notes.py
   - Patch Notes: all-patch-notes.md
 
+# Rebuild when a shared snippet changes
+watch:
+  - snippets
+
 # Build hooks
 hooks:
   - hooks/all_pages.py
@@ -189,6 +193,11 @@ markdown_extensions:
 
   # Advanced fenced code blocks
   - pymdownx.superfences
+
+  # Shared text included on several pages from snippets/ (see "Instance pages" in the style guide)
+  - pymdownx.snippets:
+      base_path: snippets
+      check_paths: true
 
   # Syntax highlighting for code blocks
   - pymdownx.highlight:
