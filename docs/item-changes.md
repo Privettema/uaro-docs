@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-06
+updated: 2026-10-13
 ---
 
 # Item Changes
@@ -20,7 +20,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Elder's Staff [2] | 26107 | Increases Healing skills effectiveness by 10%<br>At +7, an additional 5%<br>At +9, an additional 10% (up to 25%)<br>3 slots | Increases Healing skills effectiveness by 10%<br> MATK +15%.<br>At +7, increases Healing effectiveness by 5%<br>At +9, increases healing effectiveness by 10% (up to 25%)<br>At +10, reduces after cast delay by 15%<br>2 slots<br><br>Acquisition: Conversion from a +10 Healing Staff at `/navi prt_church 20/25` |
 | Elemental Sword [3] | 13414 | Auto Bolt effect works in either hand and stacks when two are equipped | Auto Bolt effect only works in the main hand. In the off hand it does not trigger or stack |
 | Elven Bow | 1746 (unslotted)<br>35656 ([1]) | Required Level 100<br>ATK 160<br>DEX +2<br>1 slot | Required Level 90<br>ATK 160<br>DEX +2<br>When equipped with Elven Arrow: Ranged Physical Damage +50%<br>Set with Rogue's Treasure and Cold Heart: damage against Medium size monsters +20%<br>No slots<br><br>Acquisition: 50% success rate risking a +10 Orc Archer Bow from the Elven Bow Artisan in the Payon weapon shop (`/navi payon_in01 5/126`) or the Hugel weapon shop (`/navi hu_in01 103/382`)<br>The [1] version comes from S-tier slotting: 10% success rate for 5 Oridecon, 10 Steel and 2,000,000z |
-| Gigantic Lance [2] | 1490 | ASPD -10<br>Spiral Pierce cooldown +20 seconds<br>If base STR is 120 or higher: ATK +300<br>No slots | -10% ASPD<br>At +7, -15% after cast delay<br>At +8, -15% after cast delay<br>At +9, -15% after cast delay (up to -45%)<br>2 slots<br><br>Acquisition: Conversion from +10 Trident at [Gigantic Lance Forger](custom-npc.md#other) |
+| Gigantic Lance [2] | 1490 | ASPD -10<br>Spiral Pierce cooldown +20 seconds<br>If base STR is 120 or higher: ATK +300<br>No slots | -10% ASPD<br>At +7, -15% after cast delay<br>At +8, -15% after cast delay<br>At +9, -15% after cast delay (up to -45%)<br>2 slots<br><br>Acquisition: Conversion from +10 Trident at [Gigantic Lance Forger](custom-npc.md#weapon-forgers) |
 | Glorious Holy Avenger | 13418 | INT +(refine level - 5) (refine-based INT bonus only) | Gives a flat +6 INT on top of its existing refine-based INT bonus<br><br>Acquisition: Battlegrounds Weapon Shop |
 | Glorious Jamadhar | 1282 | Ignores 20% of demi-human defense | Changed 20% defense ignore against demi-humans to be replaced with a straight +20% critical damage<br><br>Acquisition: Battlegrounds Weapon Shop |
 | Golden Wrench [2] | 1333 | 3rd and 4th job Blacksmith line only (Mechanic, Meister)<br>ATK 220<br>Required Level 170<br>Unbreakable<br>ATK +5%<br>Base ATK +4 per refine level<br>At +9, Axe Boomerang and Power Swing damage +20%<br>At +11, Axe Boomerang and Power Swing damage +35% | Whitesmith only<br>ATK 240<br>Required Level 85<br>STR +3<br>At +7, CRIT +20<br>At +8, ASPD +10%<br>At +9, Base ATK +50<br>Indestructible in battle<br><br>Acquisition: Conversion from +10 Vecer Axe (50%) from the Golden Wrench Forger in the Geffen and Einbroch Smith job change areas (Geffen: `/navi geffen_in 102/176`, Einbroch: `/navi ein_in01 27/40`) |
@@ -56,8 +56,11 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Angelic Protection [1] | 2355 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | [](){ #assassins-handcuffs } Assassin's Handcuffs [1] | 2892 | MAX SP +20<br>CRIT +3 | MAX HP +500<br> CRIT +8<br> CRIT DMG +10%<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | [](){ #bible-of-promise } Bible of Promise [1] | 2162 | Required Level 140<br>Equippable by Arch Bishop (3rd job)<br>MDEF +5<br>Enables Odin's Power Level 2<br>Increases healing effectiveness by 5% | Required Level 90<br>High Priest only<br>MDEF +5<br>INT +2<br>Increases healing effectiveness by 5%<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
+| Black Tail Ribbon [1] | 5765 |  | Acquisition: [Sabrina](woe.md#equipment), 15 WoE Equipment Tokens |
 | Blood Sucker | 18754 | Unbreakable | Adds 1% chance of absorbing 3% physical damage inflected on target as HP<br> Disables natural HP and SP recovery |
+| Boitata Hat [1] | 18659 |  | Acquisition: Boitata (`2068`) |
 | [](){ #bone-plate } Bone Plate [1] | 15000 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
+| Book of Soyga [1] | 19326 |  | Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | Bradium Brooch[1] | 2790 | Not dropped by any monster | Dropped by Bradium Golem (`2024`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | [](){ #celines-ribbon } Celine's Ribbon [1] | 18849 | DEX +3<br>MATK +40, plus 7 per refine level<br>Recover 200 HP each time you kill a monster with magic<br>50 HP drain every 5 seconds | DEX +3<br>MATK +20<br>MATK +1 per refine level<br>25 HP drain every 5 seconds<br>Equippable by all Trans classes |
 | Chick Hat | 5283 | Reduces damage from Demi-Human monsters by 3% | Also reduces damage taken from Brute monsters by 3% |
@@ -75,16 +78,18 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Glaris Doll Hat [1] | 5341 | INT +2 | No INT bonus |
 | Golden Trinket | 2843 |  | MAX SP +50<br>Required Level 75<br><br>Acquisition: [El Dicastes](el-dicastes.md#spending-certificates): Jahbong, 1 Certificate |
 | [](){ #green-operation-coat } Green Operation Coat [1] | 15044 | DEX +1<br>MAX SP +30 | DEX +1, INT +3<br>Additional enchants available<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
+| Handkerchief in Mouth | 18670 |  | Acquisition: [Sabrina](woe.md#equipment), 15 WoE Equipment Tokens |
 | Hermode Cap[1] | 5481 | Not dropped by any monster | Dropped by Assassin Cross Eremes (`1641`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Holy Robe | 2327 (unslotted)<br>2373 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | [](){ #imperial-guard } Imperial Guard [1] | 2153 | MDEF +5<br>Increases Shield Press damage by 20%<br>Above +5, an additional 2% per refine level | MDEF +5<br>Increases Shield Chain damage by 20%, plus 1% per refine<br>At +8, halves Shield Chain cast time |
-| [](){ #light-of-el-dicastes } Light of El Dicastes | 2844 | Grants Return to El Dicastes | Untradeable and unrefinable, character bound<br>Enchantable by Kareka in El Dicastes<br>Grants Return to El Dicastes |
+| [](){ #light-of-el-dicastes } Light of El Dicastes | 2844 | Grants Return to El Dicastes | Untradeable and unrefinable, character bound<br>Can go in personal storage, not guild storage<br>Enchantable by Kareka in El Dicastes<br>Grants Return to El Dicastes<br>The unslotted standard version gives access to Scaraba Hole 2 through the [Vigilantes](scaraba-hole.md#vigilantes) |
 | Love Guard [1] | 18542 |  | Increases the effectiveness of your healing skills by 2%<br>Increases the effect of received healing by 5%<br>At +7 or higher, healing skills effectiveness +3%<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | Mage Coat | 2334 (unslotted)<br>2372 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | Mercury Riser [1] | 18597 |  | Acquisition: Baphomet (`1399`) at 5.1% |
 | Mitra [1] | 5747 | MATK +10 at base INT 120 or higher<br>Required Level 100 | MATK +10 at base INT 90 or higher<br>Required Level 90 |
 | Ninja Suit | 2337 (unslotted)<br>2359 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | Novice Breastplate [1] | 2340 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
+| Old Minstrel Song's Hat [1] | 18976 |  | Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | Old Mitra [1] | 18972 |  | INT +1<br>MDEF +5<br>For each 2 refine levels: MAX HP +1%, MAX SP +1%, ATK +8, MATK +4 and Magnus Exorcismus damage +4%<br>Required Level 70<br>Priest only<br><br>Acquisition: Margaretha Sorin (`1637`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Puppy Hat | 5182 | Randomly autocasts Gloria when dealing physical attack<br>At base AGI 77 or higher, the chance is 3% | At base AGI 77 or higher, the chance is 5% |
 | [](){ #red-lantern } Red Lantern [1] | 2976 | Required Level 100<br>MAX SP -300<br>Enables Sight Level 1<br>Adds a 0.5% chance each for Alcohol, Detrimindexta and Karvodailnirol to drop when killing a monster | Required Level 20<br> Equippable by All except Novice, Taekwon, Star Gladiator |
@@ -107,6 +112,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Waterdrop Brooch [1] | 2787 | Not dropped by any monster | Dropped by Kraken (`2202`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | [](){ #wounded-heart } Wounded Heart [1] | 2977 | Required Level 110<br>MAX SP +200<br>Enables Scream Level 3 | DEX +2<br>AGI +1<br>+5% damage to all races<br>Required Level 90<br>Equippable by all Transcendent jobs |
 | Yellow Bandana | 5277 | Cannot be acquired | Available from Sabrina for 15 WoE Tokens |
+| Yin Yang Earrings | 18576 |  | When equipped with Hot-blooded Headband (`5070`): Raging Thrust and Raging Trifecta Blow damage +5%, Chain Crush Combo and Glacier Fist damage +3%<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 
 ## Consumables
 

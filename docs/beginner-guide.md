@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-09
+updated: 2026-10-12
 ---
 
 # uaRO Beginner's Info & Quick Start Guide
@@ -9,10 +9,17 @@ A quick-start guide for new uaRO players covering the server's key features, a s
 Discord is your best resource for player guides. Check out the "Class Theory" category. [Join Discord](https://discord.gg/Zn6jrQy9x).
 
 
-## 📘 About this Guide
+## About this Guide
 This guide will contain basic information on how to have a good start at uaRO. It provides an overview about important features and where to find information. There is a short class overview and a Quick Starter guide which can push you up to 60+ within a short time. It ends with some suggestions where to make your first small funds.
 
-## 🛠️ Important uaRO Features
+!!! tip "What to Do First"
+    1. Pick a class and create your character ([Choosing Your First Class](#choosing-your-first-class)).
+    2. Finish the [Novice Grounds](remastered-novice-location.md) and change to your first class.
+    3. Learn your class quest skills from the Platinum Skill NPC in the [Main Office](main-office.md).
+    4. Hire a [Mercenary](mercenary-system.md) and level with the [Quick Start Guide](#quick-start-guide).
+    5. Change to your second class at job 40.
+
+## Important uaRO Features
 
 ### Autoloot
 An important feature to know about is `@autoloot`, which is configured with `@lootconfig`. If you want to know more about how to configure it, look in the **[commands list](commands.md)**. This feature really boosts the farming ability and efficiency of ranged and or AoE based classes a lot: After killing a target, they do not need to close the distance to collect the loot. This is 1-4 seconds less time to spend after killing.
@@ -102,10 +109,13 @@ These are important for three reasons:
 - The Killing Quests can help you to level faster (namely Alligator, Dryad, and Remover).
 - Once you rebirth, you will have a lot of Huge and Sharp Leaf (Pinguicula (`1995`) drop them). They will help you to become a higher level really quick.
 
+### ![Platinum Skill NPC](img/1_F_01.gif) Platinum Skill NPC
+Class quest skills (platinum skills) are learned from the Platinum Skill NPC in the [Main Office](main-office.md) in Prontera, without doing the quest. Visit this NPC after every job change to pick up the skills your class is missing. For example, a Thief gets Back Slide and a Merchant gets Cart Revolution.
+
 ### ![Reset NPC](img/JP_ARUNA.gif) Reset NPC
 This NPC is located in the Prontera Main Office and allows you to reset your skills, your stats, or your skills and stats. You can do it as often as you like for a fee, with the first time being free. This allows you to first choose a beginners friendly build and once you own the money (and equipment) you can change to a late game one.
 
-## 🔗 Sources of Information
+## Sources of Information
 
 ### [uaRO Discord](https://discord.gg/BNYnsDfnzN)
 If you have questions you are unable to answer with the other sources or want contact with Server Staff, this is your way to go. It also has a channel for each basic class where you can ask about guides, builds and so on. Feel free to not blindly trust others but ask until you understand. It also has a very detailed, player made resources. There is a static link on the [uaRO main page](https://uaro.net/).
@@ -133,139 +143,221 @@ This is the best calculator available, and it generally fits to uaRO with some e
 You can plan your skill tree at this site. Please note that it has a renewal skill tree, but they are mostly correct pre renewal as well. The only known change is: Lord Knight needs Spear Mastery 10 (instead of 5) for Spiral Pierce.
 
 
-## 🧙 Choosing Your First Class
-Beginner friendly classes are considered classes that do not need good, expensive equipment to perform but have either access to cheap-and-good stuff (Archer and Swordman) or don’t rely on equipment (SL, Ninja, Priest).
+## Choosing Your First Class
+Beginner friendly classes are the ones that don't need good, expensive equipment to perform: they either have access to cheap-and-good gear (Archer and Swordman) or don’t rely on equipment (SL, Ninja, Priest). The cards below run from most to least beginner friendly. Each shows the class's path from first class to second class to transcendence, whether it fights in melee, at range or with magic, and whether it plays best solo or in a party.
 
-In order, these classes are recommended for solo beginners:
+!!! warning "Subjective and Player Written"
+    This information is highly subjective, so try out the classes that interest you and ask questions. The recommended guides are player written and may be out of date, so confirm them before making expensive commitments.
 
-1. Hunter
-2. Knight
-3. Rogue
+Thief and Mage have guides that cover the whole branch: [Angebo's Starting from Scratch](https://discord.com/channels/702960460168953946/1442687152872886323) for Thief and [Marito's How to Easy Mage](https://discord.com/channels/702960460168953946/1442641145891913899) for Mage.
 
-For magic classes:
+### Recommended
 
-1. Ninja
-2. Soul Linker (Esma)
-3. Priest (TU)
+<div class="grid cards class-cards" markdown>
 
-!!! note "Disclaimer"
-    This information is highly subjective! You should explore and try out different classes that interest you. This is just a series of suggestions on how you could start on this server. Ask questions and find out what you like.
+-   <span id="hunter"></span>![Hunter](img/Beginner_Guide/classes/Hunter.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Sniper](img/Beginner_Guide/classes/Sniper.png){ .class-sprite }
 
-!!! warning "Warning"
-    The recommended guides are player written and not verified to be the latest and most accurate information at your time of reading. Confirm the information before making expensive commitments.
+    **Sniper**{ #sniper } <span class="class-tags"><span class="class-tag">Ranged</span> <span class="class-tag class-tag-play">Solo</span> <span class="class-tag class-tag-play">Party</span></span>
 
-### Swordsman
-
-#### Knight
-[Recommended: Griever's LK Leveling Guide](https://discord.com/channels/702960460168953946/1517220731908526261)
-
-A Knight is a very beginner friendly farming character. The weapon Ahlspiess (`1478`) is cheap and allows you to kill high DEF characters very fast. You can level fast and earn money by going to Sleepers. A good build is STR / AGI based - as a beginner, the Flee will help you more than VIT will do. Skills to use are either Bowling Bash (BB) or Brandish Spear.
-Sleeper is a very common farming map for raw Zeny: They drop Great Nature (`997`) which can be split up into Green Live (`993`) ([Ore Downgrading Quest](https://irowiki.org/classic/Ore_Downgrading)) and sold to an NPC. Transcends to Lord Knight (LK).
-
-#### Crusader
-[Recommended: Acadiano's GC Paladin Guide](https://discord.com/channels/702960460168953946/1513593872159342822)
-
-Crusaders are less beginner friendly than Knights. Their build typically focuses on Grand Cross (GC), a skill with a large AoE that damages you in return. It's less intuitive, but by following a good guide you can quickly become effective with Crusader. Transcends to Paladin.
+    *Archer → Hunter → Sniper*
 
 
-### Archer
+    Ranged damage dealer built around Double Strafe (DS) with high DEX, medium AGI and medium INT. It can one-hit several targets. The Orc Archer Bow (`1734`) is cheap and powerful, especially with an Elemental Converter. Level and earn Zeny at Hill Winds.
 
-#### Hunter
-[Recommended: SoEpic's DS Sniper Guide for Beginners](https://discord.com/channels/702960460168953946/1507939786860527666)
+    [Job change guide ↗](https://irowiki.org/classic/Hunter_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1507939786860527666)
 
-Hunter is a generally good starting character: the weapon Orc Archer Bow (`1734`) is cheap and powerful, especially combined with Elemental Converter. Double Strafe Hunter (high DEX, medium AGI, medium INT) is a good choice for beginners; it deals a lot of damage in a short period of time and can one-hit several targets. A good starting place for EXP and Zeny is Hill Winds. Transcends to Sniper.
+-   <span id="knight"></span>![Knight](img/Beginner_Guide/classes/Knight.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Lord Knight](img/Beginner_Guide/classes/Lord_Knight.png){ .class-sprite }
 
-#### Bard / Dancer
-[Recommended: Laude's FS Gypsy/Clown Guide](https://discord.com/channels/702960460168953946/1535596146724970496)
+    **Lord Knight**{ #lord-knight } <span class="class-tags"><span class="class-tag">Melee</span> <span class="class-tag class-tag-play">Solo</span></span>
 
-Bard and Dancer are similar to Hunter, but have a higher SP pool and play support songs. Usually they are heavily requested in leveling parties, so they easy and fast to level. Transcends to Clown / Gypsy.
+    *Swordman → Knight → Lord Knight*
 
 
-### Thief
-[Recommended: Angebo's ⁠Starting from Scratch](https://discord.com/channels/702960460168953946/1442687152872886323).
+    Melee farmer built around Bowling Bash (BB) or Brandish Spear, with a STR / AGI build, because Flee helps a beginner more than VIT. The Ahlspiess (`1478`) is cheap and kills high DEF monsters fast. Level and earn Zeny at [Sleeper](#hunt-sleeper).
 
-#### Rogue
-[Recommended: Angebo's Rogue Leveling Guide](https://discord.com/channels/702960460168953946/1242465780499611721)
+    [Job change guide ↗](https://irowiki.org/classic/Knight_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1517220731908526261)
 
-Often said to be a good farming character for beginners, it loses to Archer class: there isn’t a cheap but good weapon for thief class, and range is a huge advantage thanks to autoloot. There are still ways to level fast (either Bow with BB or Magic Build) and become stalker. But others are more friendly to beginners. Transcends to Stalker.
+-   <span id="ninja-magic"></span>![Ninja](img/Beginner_Guide/classes/Ninja.png){ .class-sprite }
 
-#### Assassin
-[Recommended: Angebo's Assassin Guide](https://discord.com/channels/702960460168953946/1235750571638521977)
+    **Ninja**{ #ninja } <span class="class-tags"><span class="class-tag">Magic</span> <span class="class-tag class-tag-play">Solo</span></span>
 
-While end builds are expensive there are still cheap, rather beginner friendly options to start: Grimtooth requires nothing but a weapon, and DA-Katar starts fine with a rather cheap weapon, but it is not recommended to start as crit or dagger with no funds. Transcends to Assassin Cross (Sinx).
+    *Novice → Ninja*
 
 
-### Merchant
-Everyone needs a Merchant: Overcharge and Discount spare you quite some money in the long run. Only stat STR with it and don’t play it as the main class. If you want to, start a different Merchant Class for that.
+    Ranged magic damage dealer with some protection skills. It needs little equipment and no consumables except stones, which are cheap at the left Inn in Prontera. Level and earn Zeny at Pinguicula.
 
-#### Blacksmith
-[Recommended: Amalusta's White Smith Guide](https://discord.com/channels/702960460168953946/1491175245800017982)
+    [Job change quest ↗](https://irowiki.org/classic/Ninja_Job_Change_Quest) · [Recommended player guide ↗](https://www.youtube.com/watch?v=QoWpbmxxxIA)
 
-Not recommended over Knight or Hunter. Relies on auto attack, which is slower, otherwise its primary attack skill costs zeny. Transcends to Whitesmith.
+-   ![Soul Linker](img/Beginner_Guide/classes/Soul_Linker.png){ .class-sprite }
 
-#### Alchemist
-[Recommended: Alice's Alchemist Adventure Record](https://discord.com/channels/702960460168953946/1530194537589510195)
+    **Soul Linker**{ #soul-linker } <span class="class-tags"><span class="class-tag">Magic</span> <span class="class-tag class-tag-play">Solo</span> <span class="class-tag class-tag-support">Support</span></span>
 
-Involves a number of complex and expensive mechanics that are not considered beginner friendly. Transcends to Creator.
+    *Taekwon Kid → Soul Linker*
 
 
-### Mage
-[Recommended: Marito's How to Easy Mage](https://discord.com/channels/702960460168953946/1442641145891913899)
+    Single target magic damage dealer built around Esma Bolt. It survives well and needs no equipment, but relies on Mercenaries until you have Esma. Level and earn Zeny at Pinguicula, then explore the world, Glast Heim (GH) for example.
 
-#### Wizard
-[Recommended: Chomp's Wiz Farming](https://discord.com/channels/702960460168953946/1459831652522922249)
+    [Job change guide ↗](https://irowiki.org/classic/Soul_Linker_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1522653888786857994)
 
-You can level in parties and solo with vertical fire wall. But aside from that, you are limited - Ninja and Soul Linker are more beginner friendly magic damage dealers. Transcends to High Wizard.
+-   ![Gunslinger](img/Beginner_Guide/classes/Gunslinger.png){ .class-sprite }
 
-#### Sage
-[Recommended: Angebo's Support Prof](https://discord.com/channels/702960460168953946/1510303611563806852)
+    **Gunslinger**{ #gunslinger } <span class="class-tags"><span class="class-tag">Ranged</span> <span class="class-tag class-tag-play">Solo</span></span>
 
-Even worse than the Wizard as a starting class. Best utilized as a support class in parties in the mid to late game. Transcends to Professor.
+    *Novice → Gunslinger*
 
 
-### Acolyte
+    Ranged damage dealer that works a lot like Hunter. It can start farming certain areas really quickly, and with the right strategies it is just as effective as Hunter.
 
-#### Priest
-[Recommended: Komomo's Way of the Priest](https://discord.com/channels/702960460168953946/1472985081328177193)
+    [Job change quest ↗](https://irowiki.org/classic/Gunslinger_Job_Change_Quest) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1543702504787673098)
 
-Priest is primarily a support class and relies on party play, so it is not recommended as your first class. However, they can level quickly in specialized areas and capable of using mercenaries much longer than other classes due to their support abilities. With little gear, Priest can learn Turn Undead (TU) and level in Anubis and later even high level maps like Old Glast Heim (OGH). Transcends to High Priest (HP).
+-   <span id="rogue"></span>![Rogue](img/Beginner_Guide/classes/Rogue.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Stalker](img/Beginner_Guide/classes/Stalker.png){ .class-sprite }
 
-#### Monk
-[Recommended: Kuu's thread of builds](https://discord.com/channels/702960460168953946/1199400754310545599)
+    **Stalker**{ #stalker } <span class="class-tags"><span class="class-tag">Melee</span> <span class="class-tag">Ranged</span> <span class="class-tag">Magic</span> <span class="class-tag class-tag-play">Solo</span></span>
 
-Investigation Monk can be useful at Sleeper, but need notable funds to perform well. Better choose Knight over them. And combo Monk lacks a proper beginner weapon. Steel Body makes you a medium requested Tank for mass parties. Transcends to Champion.
+    *Thief → Rogue → Stalker*
 
 
-### Taekwon
+    Good farmer, but it loses to Archer: there is no cheap and good weapon for Thief classes, and range is a big advantage with autoloot. It still levels fast with a Bow and BB or a Magic build. Other classes are friendlier to beginners.
 
-#### Soul Linker
-[Recommended: Acadiano's Soul Linker Guide](https://discord.com/channels/702960460168953946/1522653888786857994)
+    [Job change guide ↗](https://irowiki.org/classic/Rogue_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1242465780499611721)
 
-Changes jobs from Taekwon Kid. An Esma Bolt SL has its own play style. They can survive well and deal a huge amount of single target damage without any equipment. Until you have Esma you need to rely on Mercenaries, but after you can go to a lot of places. Fastest leveling and some money will be at Pinguicula. At higher levels you can explore the world, including Glast Heim (GH) for example.
+</div>
 
-#### Star Gladiator (SG)
-Changes jobs from Taekwon Kid. Popular as a later game farming class. In the early game, other classes like Hunter or Knight would be better.
+### Okay
 
+<div class="grid cards class-cards" markdown>
 
-### Other Expanded Classes
+-   <span id="crusader"></span>![Crusader](img/Beginner_Guide/classes/Crusader.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Paladin](img/Beginner_Guide/classes/Paladin.png){ .class-sprite }
 
-#### Ninja (Magic)
-[Recommended: Lord Knight Necri's Magic Ninja from Zero (Non-UaRO)](https://www.youtube.com/watch?v=QoWpbmxxxIA)
+    **Paladin**{ #paladin } <span class="class-tags"><span class="class-tag">Melee</span> <span class="class-tag class-tag-play">Solo</span> <span class="class-tag class-tag-play">Party</span> <span class="class-tag class-tag-support">Support</span></span>
 
-The magic Ninja deals good magic damage on range and have some protection skills, so they do not need to rely on equipment or consumables (except their stones, which are cheap and you can buy them in the left Inn in Prontera). Fastest leveling and some money will be at Pinguicula.
-
-#### Gunslinger
-[Recommended: Morisakura's Early Gunslinger Farm](https://discord.com/channels/702960460168953946/1543702504787673098)
-
-Gunslinger works a lot like Hunter and can start farming certain areas really quickly. With the right strategies, it has the potential to be just as effective as Hunter in the same applications.
-
-#### Super Novice
-[Recommended: Pirika's Super Novice Guide](https://discord.com/channels/702960460168953946/1453772909507121183)
-
-Super Novice, or (Suno) is a very unique class. There are a lot of interesting things you can do with it, but it may have a learning curve that isn't necessarily the easiest first character.
+    *Swordman → Crusader → Paladin*
 
 
-## 🚀 Quick Start Guide
+    Melee damage dealer built around Grand Cross (GC), a large AoE skill that also damages you. It is less intuitive and less beginner friendly than Knight, but a good guide makes you effective quickly.
+
+    [Job change guide ↗](https://irowiki.org/classic/Crusader_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1513593872159342822)
+
+-   <span id="bard"></span><span id="dancer"></span><span id="clown"></span><span id="gypsy"></span>![Bard and Dancer](img/Beginner_Guide/classes/Bard_Dancer.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Clown and Gypsy](img/Beginner_Guide/classes/Clown_Gypsy.png){ .class-sprite }
+
+    **Clown / Gypsy**{ #clown-gypsy } <span class="class-tags"><span class="class-tag">Ranged</span> <span class="class-tag class-tag-play">Party</span> <span class="class-tag class-tag-support">Support</span></span>
+
+    *Archer → Bard / Dancer → Clown / Gypsy*
+
+
+    Ranged support classes similar to Hunter, with a higher SP pool and support songs. They are heavily requested in leveling parties, so they are easy and fast to level.
+
+    [Job change guide (Bard) ↗](https://irowiki.org/classic/Bard_Job_Change_Guide) · [Job change guide (Dancer) ↗](https://irowiki.org/classic/Dancer_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1535596146724970496)
+
+-   <span id="assassin"></span>![Assassin](img/Beginner_Guide/classes/Assassin.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Assassin Cross](img/Beginner_Guide/classes/Assassin_Cross.png){ .class-sprite }
+
+    **Assassin Cross**{ #assassin-cross } <span class="class-tags"><span class="class-tag">Melee</span> <span class="class-tag class-tag-play">Solo</span></span>
+
+    *Thief → Assassin → Assassin Cross*
+
+
+    Melee damage dealer. End builds are expensive, but cheap options exist: Grimtooth needs nothing but a weapon, and DA-Katar starts fine with a cheap weapon. Avoid crit or dagger builds with no funds.
+
+    [Job change guide ↗](https://irowiki.org/classic/Assassin_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1235750571638521977)
+
+-   <span id="wizard"></span>![Wizard](img/Beginner_Guide/classes/Wizard.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![High Wizard](img/Beginner_Guide/classes/High_Wizard.png){ .class-sprite }
+
+    **High Wizard**{ #high-wizard } <span class="class-tags"><span class="class-tag">Magic</span> <span class="class-tag class-tag-play">Solo</span> <span class="class-tag class-tag-play">Party</span></span>
+
+    *Mage → Wizard → High Wizard*
+
+
+    Magic damage dealer that levels in parties, or solo with vertical fire wall. Beyond that you are limited, and Ninja and Soul Linker are friendlier magic classes for beginners.
+
+    [Job change guide ↗](https://irowiki.org/classic/Wizard_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1459831652522922249)
+
+-   <span id="priest"></span>![Priest](img/Beginner_Guide/classes/Priest.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![High Priest](img/Beginner_Guide/classes/High_Priest.png){ .class-sprite }
+
+    **High Priest**{ #high-priest } <span class="class-tags"><span class="class-tag">Magic</span> <span class="class-tag class-tag-play">Party</span> <span class="class-tag class-tag-support">Support</span></span>
+
+    *Acolyte → Priest → High Priest*
+
+
+    Support class that relies on party play, so it is not recommended as a first class. With little gear it learns Turn Undead (TU) and levels in Anubis and later Old Glast Heim (OGH). Its support skills let it use mercenaries much longer than other classes.
+
+    [Job change guide ↗](https://irowiki.org/classic/Priest_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1472985081328177193)
+
+-   ![Super Novice](img/Beginner_Guide/classes/Super_Novice.png){ .class-sprite }
+
+    **Super Novice**{ #super-novice } <span class="class-tags"><span class="class-tag">Melee</span> <span class="class-tag">Magic</span> <span class="class-tag class-tag-play">Solo</span> <span class="class-tag class-tag-play">Party</span></span>
+
+    *Novice → Super Novice*
+
+
+    Very unique class with a lot of things you can do, but it has a learning curve and is not the easiest first character.
+
+    [Job change guide ↗](https://irowiki.org/classic/Super_Novice_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1453772909507121183)
+
+</div>
+
+### Not Recommended
+
+<div class="grid cards class-cards" markdown>
+
+-   <span id="blacksmith"></span>![Blacksmith](img/Beginner_Guide/classes/Blacksmith.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Whitesmith](img/Beginner_Guide/classes/Whitesmith.png){ .class-sprite }
+
+    **Whitesmith**{ #whitesmith } <span class="class-tags"><span class="class-tag">Melee</span> <span class="class-tag class-tag-play">Solo</span></span>
+
+    *Merchant → Blacksmith → Whitesmith*
+
+
+    Melee class that relies on auto attack, which is slow, while its primary attack skill costs Zeny. Not recommended over Knight or Hunter.
+
+    [Job change guide ↗](https://irowiki.org/classic/Blacksmith_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1491175245800017982)
+
+-   <span id="alchemist"></span>![Alchemist](img/Beginner_Guide/classes/Alchemist.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Creator](img/Beginner_Guide/classes/Creator.png){ .class-sprite }
+
+    **Creator**{ #creator } <span class="class-tags"><span class="class-tag">Melee</span> <span class="class-tag">Ranged</span> <span class="class-tag class-tag-play">Solo</span> <span class="class-tag class-tag-play">Party</span></span>
+
+    *Merchant → Alchemist → Creator*
+
+
+    Support class with complex and expensive mechanics that are not beginner friendly.
+
+    [Job change guide ↗](https://irowiki.org/classic/Alchemist_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1530194537589510195)
+
+-   <span id="sage"></span>![Sage](img/Beginner_Guide/classes/Sage.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Professor](img/Beginner_Guide/classes/Professor.png){ .class-sprite }
+
+    **Professor**{ #professor } <span class="class-tags"><span class="class-tag">Magic</span> <span class="class-tag class-tag-play">Party</span> <span class="class-tag class-tag-support">Support</span></span>
+
+    *Mage → Sage → Professor*
+
+
+    Support class that is even worse than Wizard as a starting class. Best used as a party support in the mid to late game.
+
+    [Job change guide ↗](https://irowiki.org/classic/Sage_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1510303611563806852)
+
+-   <span id="monk"></span>![Monk](img/Beginner_Guide/classes/Monk.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Champion](img/Beginner_Guide/classes/Champion.png){ .class-sprite }
+
+    **Champion**{ #champion } <span class="class-tags"><span class="class-tag">Melee</span> <span class="class-tag class-tag-play">Solo</span> <span class="class-tag class-tag-play">Party</span></span>
+
+    *Acolyte → Monk → Champion*
+
+
+    Melee class. Investigation Monk is useful at Sleeper but needs notable funds, and Knight is a better choice. Combo Monk lacks a proper beginner weapon. Steel Body makes you a medium requested tank for mass parties.
+
+    [Job change guide ↗](https://irowiki.org/classic/Monk_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1199400754310545599)
+
+-   ![Star Gladiator](img/Beginner_Guide/classes/Star_Gladiator.png){ .class-sprite }
+
+    **Star Gladiator (SG)**{ #star-gladiator-sg } <span class="class-tags"><span class="class-tag">Melee</span> <span class="class-tag class-tag-play">Solo</span></span>
+
+    *Taekwon Kid → Star Gladiator*
+
+
+    Popular as a later game farming class. In the early game, other classes like Hunter or Knight are better.
+
+    [Job change quest ↗](https://irowiki.org/classic/Star_Gladiator_Job_Change_Quest)
+
+</div>
+
+
+## Quick Start Guide
 This chapter focuses on leveling up to 50-60+ fast so you can become your second class soon. It can be done with any class, because it uses Mercenaries.
 
 Mercenaries are a helpful tool for beginners because they offer quite some strength in early levels, but they drop off soon around level 60. That is when you can begin to stand on your own.
@@ -287,6 +379,8 @@ Start with the [Novice Grounds](remastered-novice-location.md). You can collect 
 ### First Class Job Change Quest
 Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job. [Read the Classes Job List](https://irowiki.org/classic/Classes) and familiarize yourself with server [class changes](class-changes.md).
 
+First class job change guides: [Swordman](https://irowiki.org/classic/Swordman_Job_Change_Guide), [Archer](https://irowiki.org/classic/Archer_Job_Change_Guide), [Thief](https://irowiki.org/classic/Thief_Job_Change_Guide), [Merchant](https://irowiki.org/classic/Merchant_Job_Change_Guide), [Mage](https://irowiki.org/classic/Mage_Job_Change_Guide), [Acolyte](https://irowiki.org/classic/Acolyte_Job_Change_Guide) and [Taekwon Kid](https://irowiki.org/classic/Taekwon_Job_Change_Guide).
+
 
 ### Short Information About Mercenaries
 [Read about Mercenaries](mercenary-system.md).
@@ -301,9 +395,9 @@ There are three types of Mercenaries:
 
 
 ### Level 15 - 35
-After your job change, talk to the Kafra and warp to Prontera. We have 2 things to do there:
+After your job change, talk to the Kafra and warp to Prontera. Save at the Kafra there too, so Butterfly Wings bring you back to Prontera. We have 2 things to do there:
 
-1. Enter the [Main Office](main-office.md) (south-west from prontera fountain; left to where you spawn) and talk to the Platinum Skill NPC. You will receive the Quest Skills without further quest. For example: As a Thief, you want Back Slide and as Merchant you want Cart Revolution.
+1. Enter the [Main Office](main-office.md) (south-west from prontera fountain; left to where you spawn) and talk to the Platinum Skill NPC. Class quest skills (platinum skills) are learned there, without doing the quest. For example: As a Thief, you want Back Slide and as Merchant you want Cart Revolution.
 2. Go to the north-west corner of Prontera and talk to the Mercenary Manager.
 
 !!! tip "Hint"
@@ -329,7 +423,7 @@ Sell these to players using `@wb Strawberry`. Every single one of them will give
 !!! note
     If you already have a merchant, skip this part.
 
-By now you should take a small break and create a Merchant. So put some zeny (like 10,000z) in your Bank (CTRL+B) and create a new character: your Overcharge and Discount Merchant. You can start as Novice just as you did before. Put all your stat points into STR. After you hit base 15, leave the Novice Ground and say you want to become a Merchant.
+Everyone needs a Merchant: Overcharge and Discount spare you quite some money in the long run. It is a helper character, not your main. By now you should take a small break and create one: put some zeny (like 10,000z) in your Bank (CTRL+B) and create a new character, your Overcharge and Discount Merchant. You can start as Novice just as you did before. Put all your stat points into STR. After you hit base 15, leave the Novice Ground and say you want to become a Merchant.
 
 Follow this guide: [Merchant Job Quest](https://irowiki.org/classic/Merchant_Job_Change_Guide)
 
@@ -351,7 +445,7 @@ Your Stat is still STR only for weight limit. After you hit job 24 you can let i
 
 
 ### Level 35+
-Once you hit base 35, go to Prontera and buy 1 - 2 level 3 Spearman Scrolls and restock some Fly Wings (`601`) from the Tool Dealer. You should have enough zeny to look for your first equipment now:
+Once you hit base 35, go to Prontera and buy 1 - 2 level 3 Spearman Scrolls and restock some Fly Wings (`601`) from the Tool Dealer. You should have enough zeny to look for your first equipment now. Pantie (`2339`) is cheap body armor and Undershirt (`2522`) is a cheap garment. Search player shops for them with `@ws`, for example:
 
 `@ws Pantie`
 `@ws Undershirt`
@@ -373,8 +467,8 @@ Ideas for alternative leveling spots:
 - Porcellio (`1619`)
 - Toy Factory 2. Cruiser (`1248`) and Myst Case Card sells well and can be useful for you, too.
 - Geographer (`1368`), in the Lazy Archer Way.
-- Les (`1881`) (Hint: Spend 10,000z in the Inn to get Agi up and Blessing for 10 Minutes. Those +12 Flee will do you quite some good.)
-- Map in front of Orc Dungeon: Orc Ladies (`1273`) (Hint: Spend 10,000z in the Inn to get Agi up and Blessing for 10 Minutes. These +12 Flee will do you quite some good.), get a card.
+- Les (`1881`) (Hint: use an [Inn Buff](improvements.md#superior-inns) for the extra Flee.)
+- Map in front of Orc Dungeon: Orc Ladies (`1273`) (Hint: use an [Inn Buff](improvements.md#superior-inns) here as well), get a card.
 - Remover (`1682`), Biolabs 1 (Quest needed). Don’t forget to take the Repeatable Exp Quest. They are slow so you can kill them from a distance using hit and run tactics If you are still too weak to face them.
 
 A bit later:
@@ -388,6 +482,8 @@ Once you hit Job 40 you can change to your second class. Change as soon as you h
 
 Every class article in the external classic wiki has a job change guide included. If you prefer a video instead go to youtube and search for the class job change guide. Follow the guide and change your job.
 
+After the change, visit the [Platinum Skill NPC](#platinum-skill-npc) in the Main Office again to learn the quest skills of your second class.
+
 
 ### Leveling as Second Job
 You can continue with Mercenaries for a while, but soon you’ll have to level on your own. The how and where now depends a lot on your class, build and equipment. This is the point where the Quick Start Guide has to end. You can take a look in class specific guides and the Discord channels to find your way further.
@@ -395,7 +491,7 @@ You can continue with Mercenaries for a while, but soon you’ll have to level o
 Once you’re 90+ you can give the [Quick Rebirth Guide](https://discord.com/channels/702960460168953946/1443235036999712811) a read. With some preparation you can become 85+ in less than one hour after your rebirth.
 
 
-## 💰 Beginner Money-Making
+## Beginner Money-Making
 
 ### High Kill Count
 Just kill a lot and gather ![7539](img/7539.gif) Poring Coins. Myst Case Card is a further enhancement to this; it's recommended to get one after basic equipment.
@@ -432,14 +528,14 @@ As soon as you have basic funds, you can make the quest, buy some GNs from playe
 
 
 ### Hill Winds
-Bow classes can kill these one-hit with DS and have a solid income by selling the standard loot to the NPC. Melee classes will have a hard time there because of the lack in range.
+Hill Wind (`1680`) is found on `/navi ra_fild05` (see [Map Changes](map-changes.md)). Bow classes can kill these one-hit with DS and have a solid income by selling the standard loot to the NPC. Melee classes will have a hard time there because of the lack in range.
 
 
 ### Thors Volcano 2
 It’s hard to get there, but Knockers (`1838`) are easy to kill and they drop Thorny Buckler (`2124`), Elven Ears (`2286`) and their card.
 
 
-## 🔧 Notable Features
+## Notable Features
 
 ### Server Wide Chat
 The chats **#main**, **#trade** and **#party** can be accessed everywhere by everyone. They are useful to talk with others, you can ask for information and help. And join or start leveling parties. To write in it, PM the channel as it would be a player.

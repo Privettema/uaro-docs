@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-06
+updated: 2026-10-13
 ---
 
 # Dimonka Headgear Quests
@@ -7,8 +7,6 @@ updated: 2026-10-06
 ![Dimonka NPC](img/NPC/dimonka.gif)
 
 Dimonka is found in the [Main Office](main-office.md) and offers a unique selection of practical headgear to support your adventures.
-
-**Content type:** [uaRO](whats-different.md#content-tags)
 
 | Headgear | Materials | Description | Information |
 |---|---|---|---|
@@ -53,3 +51,6 @@ Dimonka is found in the [Main Office](main-office.md) and offers a unique select
 | ![Koneko Hat](img/5372.png)<br>Koneko Hat | ![Poring Coin](img/7539_1.png) Poring Coin - 1200<br>![Drooping Cat](img/5058.png) Drooping Cat - 1 | A magical kitty hat which shows various expressions on its face.<br>Reduces Cast Delay of all skills by 3%.<br>Matk +3%, MaxSP +3%.<br>Mdef +3, Int +1. | **Class**: Headgear<br>**Defense**: 1<br>**Position**: Upper<br>**Weight**: 50<br>**Jobs**: All |
 | ![Moonlight Flower Hat](img/5214.png)<br>Moonlight Flower Hat | ![Poring Coin](img/7539_1.png) Poring Coin - 1200<br>![Nine Tails](img/1022.png) Nine Tails - 500<br>![Topaz](img/728.png) Topaz - 250 | A hat inspired by the adorable Moonlight Flower. Be sure to hand-wash to prolong the soft Nine Tail Fur lining.<br>Dex +2.<br>Randomly autocasts Level 1 Increase Agility when dealing physical attack. | **Class**: Headgear<br>**Defense**: 3<br>**Position**: Upper, Middle<br>**Weight**: 20<br>**Jobs**: All |
 | ![Fish Head hat](img/5380.png)<br>Fish Head hat | ![Poring Coin](img/7539_1.png) Poring Coin - 700<br>![Fresh Fish](img/579.png) Fresh Fish - 300 | A gaping fish head fashioned into a hat. A nasty stench is released whenever it opens its mouth.<br>Adds a low chance of automatically casting Level 1 Frost Weapon with each physical attack. | **Class**: Headgear<br>**Defense**: 1<br>**Position**: Upper<br>**Weight**: 40<br>**Jobs**: All |
+| Book of Soyga | Coming soon | Coming soon | Coming soon |
+| Yin Yang Earrings | Coming soon | When equipped with Hot-blooded Headband: increases damage of Raging Thrust and Raging Trifecta Blow by 5%, and of Chain Crush Combo and Glacier Fist by 3%. | Coming soon |
+| Old Minstrel Song's Hat | Coming soon | Coming soon | Coming soon |

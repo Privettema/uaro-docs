@@ -58,13 +58,10 @@ has nothing to do with your change.
 - Section headings and bullet wording are covered in the style guide
 
 ### Where Content Goes
-Content pages carry one tag (see `docs/whats-different.md`): **Changed** (official content uaRO altered),
-**Renewal** (renewal content added; it is rebalanced where needed) or **uaRO** (made for uaRO).
-
 - **Changes pages** (`class-changes.md`, `item-changes.md`, `monster-changes.md`, `map-changes.md`, `quest-changes.md`) list only things
   that differ from the official game, as Original vs uaRO. Original is the pre-renewal value (Hercules `db/pre-re`); if there is no
   pre-re version it is the renewal value (Hercules `db/re`, then rAthena) and the row says so.
-- Items that uaRO added also go in `item-changes.md`, with a blank Original and no tag. `whats-different.md` lists the areas and
+- Items that uaRO added also go in `item-changes.md`, with a blank Original. `whats-different.md` lists the areas and
   instances that uaRO added, by episode. Unchanged cards from renewal monsters belong on the page for the area where they drop.
 - **Quality of Life** (`improvements.md`) is for game-wide rules and mechanics that are not about one item, skill, monster or map:
   inventory and trade rules, buff stacking, teleport behavior, storage limits. Add a one-line row to the Optimized Mechanics

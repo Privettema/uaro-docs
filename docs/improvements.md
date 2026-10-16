@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-06
+updated: 2026-10-13
 ---
 
 # Quality of Life Improvements
@@ -104,6 +104,7 @@ The party menu shows short letters in front of each member's name for the buffs 
 | **On-Kill Drop Bonuses** | The 10 item cap on drop-on-kill items and cards is lifted. Duplicates of the same card or equipment still do not stack, only the highest chance applies. |
 | **Item Protection** | Costumes, pet eggs, cards, carded equipment, items refined to +4 or higher and some headgear can no longer be sold to NPCs or dropped. |
 | **Food Buff Stacking** | Foods of the same stat stack: the higher one is in effect and the lower one resumes when it ends. A higher tier food ends the lower one and starts at full duration. |
+| **Visual AFK Status** | After 60 seconds idle (the same rule as autoloot), an AFK sprite appears above your head and temporarily replaces your upper headgear look. Any input removes it. It does not show in towns, while on Autotrade or with a shop open, or in WoE castles. |
 
 
 ### Guild Refinements

@@ -1,19 +1,28 @@
 ---
-updated: 2026-10-05
+updated: 2026-10-13
 ---
 
 # Scaraba Hole
 
 Scaraba Hole is the beetle-infested dungeon beneath El Dicastes, home to **Queen Scaraba** and a handful of drops found nowhere else in the New World.
 
-**Content type:** [Renewal](whats-different.md#content-tags)
-
 ## Getting There
 
 - **On foot:** Enter the Kamidal Tunnel (`dic_dun01`) from `/navi dic_fild01 26/77`.
 - **Entrance Manager:** Speak to the Sapha **Entrance Manager** at `/navi manuk 320/181`, who warps you into the tunnel. You must wear the **Ring of the Ancient Wise King** to talk to them.
 - **Cat Hand Services:** Once you have talked to the **Cat Hand Agent** at `/navi dic_dun01 364/51`, you can teleport to the entrance for `19,000z`. See [New World Travel](new-world-travel.md).
-- **Lower floor:** You cannot enter `dic_dun02` until you reach step 7 of **Doha's Secret Orders**. See [Unlocking More](el-dicastes.md#unlocking-more).
+- **Lower floor:** You cannot enter `dic_dun02` until you reach step 7 of **Doha's Secret Orders**. See [Unlocking More](el-dicastes.md#unlocking-more), or enter through the [Vigilantes](#vigilantes) instead.
+
+### Lower Floor Through the Vigilantes { #vigilantes }
+
+The **Vigilantes** inside Scaraba Hole 1 (`dic_dun01`) offer another way into Scaraba Hole 2 (`dic_dun02`), meant for your other characters on the same account. The Light of El Dicastes can go in personal storage, so one standard copy can be passed between them.
+
+- **No quest progress needed:** You don't need step 7 of Doha's Secret Orders or the Ring of the Ancient Wise King.
+- **Wear the standard Light of El Dicastes:** You must have the unslotted **Light of El Dicastes** (`2844`) equipped when you talk to the Vigilantes. Slotted and enchanted versions don't work.
+- **The usual route still works:** Characters that reach step 7 of Doha's Secret Orders still enter the lower floor the usual way.
+
+!!! warning "Already Upgraded Your Light of El Dicastes?"
+    A slotted or enchanted Light of El Dicastes can't be restored to its standard form. If yours is already past the standard version, complete the quest chain on another character to get a standard one.
 
 ## Monsters
 

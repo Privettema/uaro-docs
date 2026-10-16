@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-16
+updated: 2026-10-13
 ---
 
 # Comodo Casino
@@ -24,7 +24,11 @@ updated: 2026-09-16
 
 **Machines:** `15` slot machines available - no cooldown or daily limit
 
-**Announcements:** Ultra Rare and Jackpot wins are announced server-wide
+**Before You Spin:** You need 3 free inventory slots and enough free weight for the prize.
+
+**Keep Spinning:** The slot machine dialog stays open after each spin, so you can spin again without talking to the machine again.
+
+**Announcements:** Ultra Rare wins and the Jackpot (1000 Poring Coins) are announced server-wide.
 
 ??? info "Full Reward Table"
 
@@ -66,7 +70,7 @@ updated: 2026-09-16
 
     | Item | Qty |
     |------|-----|
-    | <img src="../img/14538.gif" alt=""> **Glass of Illusion** | 3 |
+    | **Giant Fly Wing Box[50]** | 1 |
     | <img src="../img/14536.gif" alt=""> **Abrasive** | 3 |
     | <img src="../img/12459.gif" alt=""> **Med Life Potion** | 3 |
     | <img src="../img/12461.gif" alt=""> **Regeneration Potion** | 3 |
@@ -76,6 +80,8 @@ updated: 2026-09-16
     | <img src="../img/12109.gif" alt=""> **Poring Box** | 2 |
     | <img src="../img/12914.gif" alt=""> **Increase AGI 10 Scroll Box** | 1 |
     | <img src="../img/12914.gif" alt=""> **Dungeon Teleport Scroll Box** | 1 |
+
+    Giant Fly Wing Box[50] has a 2% chance, and B.Def Potion and B.Mdef Potion have a 4.5% chance each.
 
     **Tier 5: Common (`65.50%`)**
 

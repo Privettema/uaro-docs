@@ -1,7 +1,7 @@
 ---
 hide:
   - toc
-updated: 2026-07-21
+updated: 2026-10-13
 ---
 
 # ⚔️ PvP Arena
@@ -35,6 +35,8 @@ Maps rotate each session.
 | **Re-entry Delay** | `30 seconds` after death |
 
 **Commands:** `@pvparena` to view arena status and schedule, `@arenarank` to check rankings
+
+The arena's server-wide open, reminder, winner and close messages are shown by default. Hide them with the PvP Arena option in [`@settings` Announcements](commands.md#announcements).
 
 ## Scoring
 
