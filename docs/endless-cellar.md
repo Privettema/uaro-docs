@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Endless Cellar
@@ -29,13 +29,7 @@ A team-based instance where a party fights through 77 floors of monsters, mini-b
 
 --8<-- "captain-janssen.md"
 
-Once you unlock the Warp Helper on the island, Warpra takes you to Misty Island for free.
-
-A **Kafra NPC** on the island provides:
-
-- Personal Storage
-- Guild Storage
-- Return to Prontera
+--8<-- "misty-island.md"
 
 On Misty Island, locate the **Cellar Protection Stone** NPC and select **Enter Endless Cellar**. All party members must be present on Misty Island when the Party Leader clicks the stone to start the dungeon.
 
@@ -68,6 +62,8 @@ Each floor lists its monsters with how many spawn.
 
 ### 1-24
 
+<div class="uaro-mob-grid" markdown>
+
 | Floor 1 | Floor 2 | Floor 3 | Floor 4 |
 |:---------|:---------|:---------|:---------|
 | ![Fabre](img/1007.gif)<br>20 Fabre (`1007`{ .copy })<br> ![Picky](img/1049.gif)<br>10 Picky (`1049`{ .copy })<br> ![Picky](img/1050.gif)<br>10 Picky (`1050`{ .copy }) | ![Willow](img/1010.gif)<br>10 Willow (`1010`{ .copy })<br> ![Wolf](img/1013.gif)<br>10 Wolf (`1013`{ .copy })<br> ![Creamy](img/1018.gif)<br>10 Creamy (`1018`{ .copy }) | ![Condor](img/1009%20(1).gif)<br>10 Condor (`1009`{ .copy })<br> ![Peco Peco](img/1019.gif)<br>10 Peco Peco (`1019`{ .copy })<br> ![Muka](img/1055.gif)<br>10 Muka (`1055`{ .copy })<br> | ![Greatest General](img/1277.gif)<br>25 Greatest General (`1277`{ .copy })<br> ![Eddga](img/1115.gif)<br>1 Eddga (`1115`{ .copy })
@@ -82,7 +78,11 @@ Each floor lists its monsters with how many spawn.
 | **Floor 21** | **Floor 22** | **Floor 23** | **Floor 24** |
 | ![Stainer](img/1174.gif)<br>30 Stainer (`1174`{ .copy })<br> ![Brilight](img/1211.gif)<br>20 Brilight (`1211`{ .copy }) | ![Marc](img/1045.gif)<br>15 Marc (`1045`{ .copy })<br> ![Tri Joint](img/1279.gif)<br>15 Tri Joint (`1279`{ .copy })<br> ![Fur Seal](img/1317.gif)<br>15 Fur Seal (`1317`{ .copy })<br> ![Sea Otter](img/1323.gif)<br>15 Sea Otter (`1323`{ .copy }) | ![Wood Goblin](img/1880.gif)<br>20 Wood Goblin (`1880`{ .copy })<br> ![Les](img/1881.gif)<br>20 Les (`1881`{ .copy })<br> ![Mavka](img/1884.gif)<br>10 Mavka (`1884`{ .copy }) | ![Baba Yaga](img/1882.gif)<br>20 Baba Yaga (`1882`{ .copy })<br> ![Uzhas](img/1883.gif)<br>10 Uzhas (`1883`{ .copy })<br> ![Gopinich](img/1885.gif)<br>1 Gopinich (`1885`{ .copy }) |
 
+</div>
+
 ### 25-52
+
+<div class="uaro-mob-grid" markdown>
 
 | Floor 25 | Floor 26 | Floor 27 | Floor 28 |
 |----------|----------|----------|----------|
@@ -100,7 +100,11 @@ Each floor lists its monsters with how many spawn.
 | **Floor 49** | **Floor 50** | **Floor 51** | **Floor 52** |
 | ![Frus](img/1753.gif)<br>50 Frus (`1753`{ .copy }) | ![Hell Apocalips](img/1978.gif)<br>25 Hell Apocalips (`1978`{ .copy })<br> ![Apocalypse](img/1365.gif)<br>25 Apocalypse (`1365`{ .copy }) | ![Zukadam](img/1979.gif)<br>25 Zukadam (`1979`{ .copy })<br> ![Archdam](img/1668.gif)<br>25 Archdam (`1668`{ .copy }) | ![Aunoe](img/1796.gif)<br>25 Aunoe (`1796`{ .copy })<br> ![Fanat](img/1797.gif)<br>25 Fanat (`1797`{ .copy })<br> ![Gloom Under Night](img/1768.gif)<br>1 Gloom Under Night (`1768`{ .copy }) |
 
+</div>
+
 ### 53-76
+
+<div class="uaro-mob-grid" markdown>
 
 | Floor 53 | Floor 54 | Floor 55 | Floor 56 |
 |----------|----------|----------|----------|
@@ -116,13 +120,19 @@ Each floor lists its monsters with how many spawn.
 | **Floor 73** | **Floor 74** | **Floor 75** | **Floor 76** |
 | ![Byorgue](img/1839.gif)<br>16 Byorgue (`1839`{ .copy }) | ![Lord Knight Seyren](img/1640.gif)<br>2 Lord Knight Seyren (`1640`{ .copy })<br> ![Assassin Cross Eremes](img/1641.gif)<br>2 Assassin Cross Eremes (`1641`{ .copy })<br> ![Whitesmith Harword](img/1642.gif)<br>2 Whitesmith Harword (`1642`{ .copy })<br> ![High Priest Magaleta](img/1643.gif)<br>2 High Priest Magaleta (`1643`{ .copy })<br> ![Sniper Shecil](img/1644.gif)<br>2 Sniper Shecil (`1644`{ .copy })<br> ![High Wizard Katrinn](img/1645.gif)<br>2 High Wizard Katrinn (`1645`{ .copy }) | ![Incarnation of Morroc](img/1918.gif)<br>7 Incarnation of Morroc (`1918`{ .copy })<br> ![Incarnation of Morroc](img/1919.gif)<br>7 Incarnation of Morroc (`1919`{ .copy })<br> ![Incarnation of Morroc](img/1920.gif)<br>7 Incarnation of Morroc (`1920`{ .copy })<br> ![Incarnation of Morroc](img/1921.gif)<br>7 Incarnation of Morroc (`1921`{ .copy }) | ![Wounded Morroc](img/1917.gif)<br>1 Wounded Morroc (`1917`{ .copy }) |
 
+</div>
+
 Wounded Morroc has a reduced drop rate here, to keep competition for top-tier gear on the server.
 { #loot-changes }
 
 ### 77 (Final Floor)
 
+<div class="uaro-mob-grid" markdown>
+
 | Stage 1 | Stage 2 | Stage 3 | Stage 4 |
 |---------|---------|---------|---------|
-| ![Poring](img/1002.gif)<br>1 Poring (`1002`{ .copy }) | Two random MVPs from **Bio Laboratory F3** | ![Baphomet](img/1399.gif)<br>1 Baphomet (`1399`{ .copy })<br> ![Piamette](img/1930.gif)<br>2 Piamette (`1930`{ .copy })<br> ![Wish Maiden](img/1931.gif)<br>2 Wish Maiden (`1931`{ .copy }) | ![Pori Pori](img/1502.gif)<br>1 Pori Pori (`1502`{ .copy })<br> ![Golden Savage](img/1840.gif)<br>10 Golden Savage (`1840`{ .copy })<br> ![Pouring](img/1894.gif)<br>10 Pouring (`1894`{ .copy })<br> ![Bomb Poring](img/1904.gif)<br>20 Bomb Poring (`1904`{ .copy }) |
+| ![Poring](img/1002.gif) 1 Poring (`1002`{ .copy }) | Two random MVPs from **Bio Laboratory F3** | ![Super Baphomet](img/1399.gif) 1 Super Baphomet (`1399`{ .copy })<br> ![Piamette](img/1930.gif) 2 Piamette (`1930`{ .copy })<br> ![Wish Maiden](img/1931.gif) 2 Wish Maiden (`1931`{ .copy }) | ![Pori Pori](img/1502.gif) 1 Pori Pori (`1502`{ .copy })<br> ![Golden Savage](img/1840.gif) 10 Golden Savage (`1840`{ .copy })<br> ![Pouring](img/1894.gif) 10 Pouring (`1894`{ .copy })<br> ![Bomb Poring](img/1904.gif) 20 Bomb Poring (`1904`{ .copy }) |
+
+</div>
 
 Only the two random Bio Laboratory F3 MVPs spawn with the full drop rate; the rest are reduced.

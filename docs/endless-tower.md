@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Endless Tower
@@ -7,7 +7,7 @@ updated: 2026-10-14
 A team-based instance where a party climbs the tower floor by floor, clearing every monster on a floor to open the way up. Naght Sieger waits at the very top.
 
 !!! info "Quick Facts"
-    - **Location:** Captain Janssen in Prontera (`/navi prontera 217/187`)
+    - **Location:** Captain Janssen in Prontera (`/navi prontera 217/187`), then Misty Island
     - **Party Size:** 6 person minimum
     - **Base Level:** 85
     - **Time Limit:** 4 hours
@@ -31,6 +31,10 @@ A team-based instance where a party climbs the tower floor by floor, clearing ev
 
 --8<-- "captain-janssen.md"
 
+--8<-- "misty-island.md"
+
+On Misty Island, locate the **Tower Protection Stone** NPC and select **Enter Endless Tower**. All party members must be present on Misty Island when the Party Leader clicks the stone to start the dungeon.
+
 --8<-- "instances.md:ready-rule"
 
 ## Rewards
@@ -41,9 +45,11 @@ If you carry both **Twin Edge of Naght Sieger** swords (`13412`{ .copy } and `13
 
 ## Monsters
 
-Each floor lists its monsters with how many spawn. Floors 25, 50, 75 and 99 are boss floors.
+Each floor lists its monsters with how many spawn.
 
 ### 1-25
+
+<div class="uaro-mob-grid" markdown>
 
 | Floor 1 | Floor 2 | Floor 3 | Floor 4 |
 |---------|---------|---------|---------|
@@ -61,7 +67,11 @@ Each floor lists its monsters with how many spawn. Floors 25, 50, 75 and 99 are 
 | **Floor 25** |
 | ![Cat o' Nine Tails](img/1307.gif)<br>15 Cat o' Nine Tails (`1307`{ .copy })<br> ![Moonlight Flower](img/1150.gif)<br>1 Moonlight Flower (`1150`{ .copy })<br> ![Nine Tail](img/1180.gif)<br>15 Nine Tail (`1180`{ .copy }) |
 
+</div>
+
 ### 26-50
+
+<div class="uaro-mob-grid" markdown>
 
 | Floor 26 | Floor 27 | Floor 28 | Floor 29 |
 |---------|---------|---------|---------|
@@ -79,7 +89,11 @@ Each floor lists its monsters with how many spawn. Floors 25, 50, 75 and 99 are 
 | **Floor 50** |
 | ![Pharaoh](img/1157.gif)<br>1 Pharaoh (`1157`{ .copy })<br> ![Amon Ra](img/1511.gif)<br>1 Amon Ra (`1511`{ .copy })<br> ![Anubis](img/1098.gif)<br>10 Anubis (`1098`{ .copy })<br> ![Marduk](img/1140.gif)<br>10 Marduk (`1140`{ .copy })<br> ![Matyr](img/1146.gif)<br>10 Matyr (`1146`{ .copy }) |
 
+</div>
+
 ### 51-75
+
+<div class="uaro-mob-grid" markdown>
 
 | Floor 51 | Floor 52 | Floor 53 | Floor 54 |
 |---------|---------|---------|---------|
@@ -97,7 +111,11 @@ Each floor lists its monsters with how many spawn. Floors 25, 50, 75 and 99 are 
 | **Floor 75** |
 | ![Baphomet](img/mob1039.gif)<br>1 Baphomet (`1039`{ .copy })<br> ![Dark Lord](img/1272.gif)<br>1 Dark Lord (`1272`{ .copy })<br> ![Baphomet Jr.](img/1101.gif)<br>20 Baphomet Jr. (`1101`{ .copy })<br> ![Dark Illusion](img/1302.gif)<br>10 Dark Illusion (`1302`{ .copy }) |
 
+</div>
+
 ### 76-98
+
+<div class="uaro-mob-grid" markdown>
 
 | Floor 76 | Floor 77 | Floor 78 | Floor 79 |
 |---------|---------|---------|---------|
@@ -113,11 +131,13 @@ Each floor lists its monsters with how many spawn. Floors 25, 50, 75 and 99 are 
 | **Floor 96** | **Floor 97** | **Floor 98** |
 | ![Valkyrie](img/1765.gif)<br>5 Valkyrie (`1765`{ .copy })<br> ![Skeggiold](img/1755.gif)<br>10 Skeggiold (`1755`{ .copy })<br> ![Skeggiold](img/1754.gif)<br>10 Skeggiold (`1754`{ .copy }) | ![Incarnation of Morroc](img/1918.gif)<br>5 Incarnation of Morroc (`1918`{ .copy })<br> ![Incarnation of Morroc](img/1919.gif)<br>5 Incarnation of Morroc (`1919`{ .copy })<br> ![Incarnation of Morroc](img/1920.gif)<br>5 Incarnation of Morroc (`1920`{ .copy })<br> ![Incarnation of Morroc](img/1921.gif)<br>5 Incarnation of Morroc (`1921`{ .copy }) | ![Katrinn](img/1639.gif)<br>2 Katrinn (`1639`{ .copy })<br> ![Seyren](img/1634.gif)<br>2 Seyren (`1634`{ .copy })<br> ![Magaleta](img/1637.gif)<br>2 Magaleta (`1637`{ .copy })<br> ![Eremes](img/1635.gif)<br>2 Eremes (`1635`{ .copy })<br> ![Harword](img/1636.gif)<br>2 Harword (`1636`{ .copy })<br> ![Shecil](img/1638.gif)<br>2 Shecil (`1638`{ .copy }) |
 
+</div>
+
 ### 99 (Random Bosses)
 
 Seven spawn groups are picked at random from the pool below, so every run on this floor is different. Each group spawns the quantity listed.
 
-| Monster | Quantity | Mob ID |
+| Monster | Quantity | ID |
 |---------|----------|--------|
 | ![Katrinn](img/1639.gif) Katrinn | 2 | `1639`{ .copy } |
 | ![Seyren](img/1634.gif) Seyren | 2 | `1634`{ .copy } |
@@ -152,7 +172,7 @@ Seven spawn groups are picked at random from the pool below, so every run on thi
 
 ### 100
 
-| Monster | Quantity | Mob ID |
+| Monster | Quantity | ID |
 |---------|----------|--------|
 | ![Entweihen Crothen](img/1957.gif) Entweihen Crothen | 1 | `1957`{ .copy } |
 | ![Thorny Skeleton](img/1958.gif) Thorny Skeleton | 9 | `1958`{ .copy } |
@@ -164,10 +184,14 @@ Two more Thorns of a random type (Thorny Skeleton, Thorn of Magic or Thorn of Pu
 
 ### 101-102
 
+<div class="uaro-mob-wide" markdown>
+
 | Stage | Monsters |
 |-------|----------|
-| 1 | ![Anopheles](img/1627.gif)<br>10 Anopheles (`1627`{ .copy }) |
-| 2 | ![Orc Skeleton](img/1152.gif)<br>100 Orc Skeleton (`1152`{ .copy }) |
-| 3 | ![Wind Ghost](img/1263.gif)<br>60 Wind Ghost (`1263`{ .copy }) |
-| 4 | ![Khalitzburg](img/1132.gif)<br>40 Khalitzburg (`1132`{ .copy }) |
-| 5 | ![Naght Sieger](img/1956.gif)<br>1 Naght Sieger (`1956`{ .copy }) |
+| 1 | ![Anopheles](img/1627.gif) 10 Anopheles (`1627`{ .copy }) |
+| 2 | ![Orc Skeleton](img/1152.gif) 100 Orc Skeleton (`1152`{ .copy }) |
+| 3 | ![Wind Ghost](img/1263.gif) 60 Wind Ghost (`1263`{ .copy }) |
+| 4 | ![Khalitzburg](img/1132.gif) 40 Khalitzburg (`1132`{ .copy }) |
+| 5 | ![Naght Sieger](img/1956.gif) 1 Naght Sieger (`1956`{ .copy }) |
+
+</div>

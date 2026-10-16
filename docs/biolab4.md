@@ -18,7 +18,7 @@ The entrance to Bio Laboratory 4 is located in the bottom-right corner of the Bi
 ## Monsters
 The table includes only regular mobs; mini-bosses and MVPs are not included.
 
-| Monster | Quantity | Mob ID |
+| Monster | Quantity | ID |
 |---------|----------|----------|
 | ![2221](img/Biolab4/2221.gif) Randel | 42 | `2221`{ .copy } |
 | ![2222](img/Biolab4/2222.gif) Flamel | 42 | `2222`{ .copy } |

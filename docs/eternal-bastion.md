@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Eternal Bastion
@@ -92,6 +92,19 @@ Enchants can be removed again by the **Master Craftsman** in Prontera. All encha
 
 Bastion Coins are untradeable and account-bound.
 
+## Wave Mechanics
+
+<div class="uaro-nowrap-first-col" markdown>
+
+| Mechanic | Description |
+|----------|-------------|
+| **Wave Timer** | 120 seconds per wave, 300 seconds for Wave 100. |
+| **Skip Vote** | `!skip` command (majority vote >50%) to advance, which stacks current and next wave mobs for faster clearing. Disabled at milestone waves. |
+| **Status Effects** | From wave 61, a 50% chance every 60 seconds of Curse, Silence, Confusion, Blind or Bleeding (10 seconds, unavoidable). |
+| **Meteor Storm** | From wave 81, a 25% chance every 60 seconds of volcanic strikes around each player: 3-5 bursts with 2-second intervals. |
+
+</div>
+
 ## Monsters
 
 Waves escalate as the run goes on, ending with a randomly selected boss at Wave 100.
@@ -107,36 +120,21 @@ Waves escalate as the run goes on, ending with a randomly selected boss at Wave 
 | **81–99** | Endgame | Bio 4 / HTF / OGH monsters — high-damage mobs with complex mechanics |
 | **100** | Final Boss | A unique MVP with devastating skills, randomly selected from the boss pool |
 
-??? info "Wave 100 Boss Pool"
-    The final boss is randomly selected from the following pool each week:
+### Wave 100 Boss Pool
 
-    | Boss | Mob ID |
-    |------|--------|
-    | Satan Morocc | `1916`{ .copy } |
-    | Scholar Celia | `2237`{ .copy } |
-    | Wounded Morroc | `1917`{ .copy } |
-    | Biochemist Flamel | `2236`{ .copy } |
-    | Ifrit | `1832`{ .copy } |
-    | Celine Kimi | `2996`{ .copy } |
-    | Corrupted Soul | `2475`{ .copy } |
-    | Paladin Randel | `2235`{ .copy } |
-    | Amdarais | `2476`{ .copy } |
-    | Valkyrie Randgris | `1751`{ .copy } |
-    | Stalker Gertie | `2239`{ .copy } |
-    | Beelzebub | `1874`{ .copy } |
+The final boss is randomly selected from the following pool each week:
 
-### Wave Mechanics
-
-<div class="uaro-nowrap-first-col" markdown>
-
-| Mechanic | Description |
-|----------|-------------|
-| **Wave Timer** | 120 seconds per wave, 300 seconds for Wave 100 |
-| **Skip Vote** | `!skip` command (majority vote >50%) to advance — stacks current and next wave mobs for faster clearing. Disabled at milestone waves |
-
-</div>
-
-### Environmental Hazards
-
-- **Wave 61+:** random status effects every 60 seconds (50% chance): Curse, Silence, Confusion, Blind, or Bleeding (10 seconds, unavoidable).
-- **Wave 81+:** Meteor Storm eruptions every 60 seconds (25% chance): volcanic strikes around each player, 3-5 bursts with 2-second intervals.
+| Boss | ID |
+|------|----|
+| ![Satan Morocc](img/mob1916.gif) Satan Morocc | `1916`{ .copy } |
+| ![Scholar Celia](img/mob2237.gif) Scholar Celia | `2237`{ .copy } |
+| ![Wounded Morroc](img/mob1917.gif) Wounded Morroc | `1917`{ .copy } |
+| ![Biochemist Flamel](img/mob2236.gif) Biochemist Flamel | `2236`{ .copy } |
+| ![Ifrit](img/mob1832.gif) Ifrit | `1832`{ .copy } |
+| ![Celine Kimi](img/mob2996.gif) Celine Kimi | `2996`{ .copy } |
+| ![Corrupted Soul](img/mob2475.gif) Corrupted Soul | `2475`{ .copy } |
+| ![Paladin Randel](img/mob2235.gif) Paladin Randel | `2235`{ .copy } |
+| ![Amdarais](img/mob2476.gif) Amdarais | `2476`{ .copy } |
+| ![Valkyrie Randgris](img/mob1751.gif) Valkyrie Randgris | `1751`{ .copy } |
+| ![Stalker Gertie](img/mob2239.gif) Stalker Gertie | `2239`{ .copy } |
+| ![Beelzebub](img/mob1874.gif) Beelzebub | `1874`{ .copy } |

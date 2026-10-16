@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Horror Toy Factory
@@ -38,13 +38,13 @@ After defeating Celine Kimi, proceed through the southwest portal to the treasur
 
 | Chest 1 | Chest 2 | Chest 3 |
 |---------|---------|---------|
-| ![7642](img/HTF/7642.gif) Bloody Coin (`7642`{ .copy }) (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box (`644`{ .copy }) - 85%<br> ![617](img/HTF/617.gif) Old Purple Box (`617`{ .copy }) - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion (`7229`{ .copy }) - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box (`14003`{ .copy }) - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box (`603`{ .copy }) - 60%<br> ![616](img/HTF/616.gif) Old Card Album (`616`{ .copy }) - 30%<br> ![7228](img/HTF/7228.gif) Gold Bullion (`7228`{ .copy }) - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![644](img/HTF/644.gif) Gift Box - 40%<br> ![7230](img/HTF/7230.gif) Platinum Bullion (`7230`{ .copy }) - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% |
+| ![Bloody Coin (`7642`{ .copy }) (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box (`644`{ .copy }) - 85%<br> ![617](img/HTF/617.gif) Old Purple Box (`617`{ .copy }) - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion (`7229`{ .copy }) - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box (`14003`{ .copy }) - 30%](img/HTF/7642.gif) Bloody Coin (`7642`{ .copy }) (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box (`644`{ .copy }) - 85%<br> ![617](img/HTF/617.gif) Old Purple Box (`617`{ .copy }) - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion (`7229`{ .copy }) - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box (`14003`{ .copy }) - 30% | ![Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box (`603`{ .copy }) - 60%<br> ![616](img/HTF/616.gif) Old Card Album (`616`{ .copy }) - 30%<br> ![7228](img/HTF/7228.gif) Gold Bullion (`7228`{ .copy }) - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box (`603`{ .copy }) - 60%<br> ![616](img/HTF/616.gif) Old Card Album (`616`{ .copy }) - 30%<br> ![7228](img/HTF/7228.gif) Gold Bullion (`7228`{ .copy }) - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![644](img/HTF/644.gif) Gift Box - 40%<br> ![7230](img/HTF/7230.gif) Platinum Bullion (`7230`{ .copy }) - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![644](img/HTF/644.gif) Gift Box - 40%<br> ![7230](img/HTF/7230.gif) Platinum Bullion (`7230`{ .copy }) - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% |
 | Chest 4 | Chest 5 | Chest 6 |
-| ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7619](img/HTF/7619.gif) Enriched Elunium (`7619`{ .copy }) - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![616](img/HTF/616.gif) Old Card Album - 30%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon (`7620`{ .copy }) - 5%<br> ![2978](img/2978.gif) [Gentle Heart [1]](item-changes.md#gentle-heart) (`2978`{ .copy }) - 1% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![644](img/HTF/644.gif) Gift Box - 5%<br> ![2977](img/HTF/2977.gif) [Wounded Heart [1]](item-changes.md#wounded-heart) (`2977`{ .copy }) - 1% |
+| ![Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7619](img/HTF/7619.gif) Enriched Elunium (`7619`{ .copy }) - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7619](img/HTF/7619.gif) Enriched Elunium (`7619`{ .copy }) - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![616](img/HTF/616.gif) Old Card Album - 30%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon (`7620`{ .copy }) - 5%<br> ![2978](img/2978.gif) [Gentle Heart [1]](item-changes.md#gentle-heart) (`2978`{ .copy }) - 1%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![616](img/HTF/616.gif) Old Card Album - 30%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon (`7620`{ .copy }) - 5%<br> ![2978](img/2978.gif) [Gentle Heart [1]](item-changes.md#gentle-heart) (`2978`{ .copy }) - 1% | ![Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![644](img/HTF/644.gif) Gift Box - 5%<br> ![2977](img/HTF/2977.gif) [Wounded Heart [1]](item-changes.md#wounded-heart) (`2977`{ .copy }) - 1%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![644](img/HTF/644.gif) Gift Box - 5%<br> ![2977](img/HTF/2977.gif) [Wounded Heart [1]](item-changes.md#wounded-heart) (`2977`{ .copy }) - 1% |
 | Chest 7 | Chest 8 | Chest 9 |
-| ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![616](img/HTF/616.gif) Old Card Album - 40%<br> ![7619](img/HTF/7619.gif) Enriched Elunium - 4%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon - 5%<br> ![2977](img/HTF/2977.gif) [Wounded Heart [1]](item-changes.md#wounded-heart) - 1% |
+| ![Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![616](img/HTF/616.gif) Old Card Album - 40%<br> ![7619](img/HTF/7619.gif) Enriched Elunium - 4%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![616](img/HTF/616.gif) Old Card Album - 40%<br> ![7619](img/HTF/7619.gif) Enriched Elunium - 4%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon - 5%<br> ![2977](img/HTF/2977.gif) [Wounded Heart [1]](item-changes.md#wounded-heart) - 1%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon - 5%<br> ![2977](img/HTF/2977.gif) [Wounded Heart [1]](item-changes.md#wounded-heart) - 1% |
 | Chest 10 |
-| ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 10%<br> ![2978](img/2978.gif) [Gentle Heart [1]](item-changes.md#gentle-heart) - 1% |
+| ![Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 10%<br> ![2978](img/2978.gif) [Gentle Heart [1]](item-changes.md#gentle-heart) - 1%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 10%<br> ![2978](img/2978.gif) [Gentle Heart [1]](item-changes.md#gentle-heart) - 1% |
 
 ## Bloody Coin Shop { #exchange-shop }
 
@@ -54,21 +54,21 @@ You can exchange your Bloody Coins with NPC Mister Cat (`/navi xmas 240/300`) fo
 
 | Item | Item ID | Cost |
 |------|---------|------|
-| ![2976](img/HTF/2976.gif) [Red Lantern [1]](item-changes.md#red-lantern) | `2976`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 500 Bloody Coins |
-| ![13442](img/HTF/13442.gif) [Old Parasol [3]](item-changes.md#old-parasol) | `13442`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 500 Bloody Coins |
-| ![16029](img/HTF/16029.gif) [Noble Cross [1]](item-changes.md#noble-cross) | `16029`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 500 Bloody Coins |
-| ![2980](img/HTF/2980.gif) [Evil Glove [1]](item-changes.md#evil-glove) | `2980`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 600 Bloody Coins |
-| ![18849](img/HTF/18849.gif) [Celine's Ribbon [1]](item-changes.md#celines-ribbon) | `18849`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 600 Bloody Coins |
-| ![19687](img/HTF/19687.gif) Costume Lush Rose | `19687`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 200 Bloody Coins |
-| ![19686](img/HTF/19686.gif) Costume Santa Doll Headband | `19686`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 200 Bloody Coins |
-| ![11564](img/HTF/11564.gif) Sweet Canape | `11564`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 3 Bloody Coins |
-| ![11563](img/HTF/11563.gif) Hot Tea | `11563`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 2 Bloody Coins |
-| ![13749](img/HTF/13749.gif) Big Defense Potion 10 Box | `13749`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 3 Bloody Coins |
-| ![13749](img/HTF/13749.gif) Big Magic Defense Potion 10 Box | `13755`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 3 Bloody Coins |
+| ![[Red Lantern [1]](item-changes.md#red-lantern)](img/HTF/2976.gif) [Red Lantern [1]](item-changes.md#red-lantern) | `2976`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 500 Bloody Coins |
+| ![[Old Parasol [3]](item-changes.md#old-parasol)](img/HTF/13442.gif) [Old Parasol [3]](item-changes.md#old-parasol) | `13442`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 500 Bloody Coins |
+| ![[Noble Cross [1]](item-changes.md#noble-cross)](img/HTF/16029.gif) [Noble Cross [1]](item-changes.md#noble-cross) | `16029`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 500 Bloody Coins |
+| ![[Evil Glove [1]](item-changes.md#evil-glove)](img/HTF/2980.gif) [Evil Glove [1]](item-changes.md#evil-glove) | `2980`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 600 Bloody Coins |
+| ![[Celine's Ribbon [1]](item-changes.md#celines-ribbon)](img/HTF/18849.gif) [Celine's Ribbon [1]](item-changes.md#celines-ribbon) | `18849`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 600 Bloody Coins |
+| ![Costume Lush Rose](img/HTF/19687.gif) Costume Lush Rose | `19687`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 200 Bloody Coins |
+| ![Costume Santa Doll Headband](img/HTF/19686.gif) Costume Santa Doll Headband | `19686`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 200 Bloody Coins |
+| ![Sweet Canape](img/HTF/11564.gif) Sweet Canape | `11564`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 3 Bloody Coins |
+| ![Hot Tea](img/HTF/11563.gif) Hot Tea | `11563`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 2 Bloody Coins |
+| ![Big Defense Potion 10 Box](img/HTF/13749.gif) Big Defense Potion 10 Box | `13749`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 3 Bloody Coins |
+| ![Big Magic Defense Potion 10 Box](img/HTF/13749.gif) Big Magic Defense Potion 10 Box | `13755`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 3 Bloody Coins |
 
-## Storyline
+## Monsters
 
-??? note "Storyline, click to expand"
+??? note "Background Story, click to expand"
     Once, in a small town Lutie, there stood a toy factory, the heart of the community. All the townspeople worked there, crafting dolls and other toys. After a long workday, they would gather together, enjoying tea and gingerbread cookies. But the happy times did not last long. People began to leave the town, the factory's business became less and less profitable, and eventually, the decision was made to shut it down.
 
     The last person to remain at the factory was the master dollmaker, a man who created the most beautiful and lifelike dolls. On the day of the factory’s closure, he finished his final creation—a stunning doll named Celine Kimi. He dressed her in the finest attire, gave her a name, and it seemed as if he was saying farewell not just to the factory, but to his dream. In that very moment, the production lines came to a halt forever.
@@ -80,8 +80,6 @@ You can exchange your Bloody Coins with NPC Mister Cat (`/navi xmas 240/300`) fo
     When the girl regained consciousness, she was outside… and her face had changed forever. She had no memory of what had happened, no knowledge of whether Kimi had been responsible for her transformation, but she felt one thing—she needed to uncover the truth.
 
     Yet, fear kept her from returning alone. She needed help. And now, the choice is yours: do you have the courage to enter the factory, face Kimi, and uncover the mystery of that fateful day?
-
-## Monsters
 
 ### Factory Area No.1
 
@@ -136,10 +134,10 @@ You can exchange your Bloody Coins with NPC Mister Cat (`/navi xmas 240/300`) fo
 4. After completing the dialogue, locate the new Myst Case NPC to transform into a Myst Case. You must be in this form to advance to the next area.
 5. Finally, enter the portal to the right of the Green Cookie to progress to the next phase.
 
-| Monster | Quantity | Mob ID |
+| Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2989](img/HTF/2989.gif) Vicious Cookie | 31 | `2989`{ .copy } |
-| ![2991](img/HTF/2991.gif) Evil Dwelling Box | 36 | `2991`{ .copy } |
+| ![Vicious Cookie](img/HTF/2989.gif) Vicious Cookie | 31 | `2989`{ .copy } |
+| ![Evil Dwelling Box](img/HTF/2991.gif) Evil Dwelling Box | 36 | `2991`{ .copy } |
 
 ### Factory Area No.2
 
@@ -161,12 +159,12 @@ You can exchange your Bloody Coins with NPC Mister Cat (`/navi xmas 240/300`) fo
 
 3. Once you’ve spoken to all 10 workers, an announcement will trigger, and all remaining monsters in the room will disappear. After that, go back through the portal you entered from, then proceed through the northern portal to advance to the next phase.
 
-| Monster | Quantity | Mob ID |
+| Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2993](img/HTF/2993.gif) Malicious Baby Ghost | 19 | `2993`{ .copy } |
-| ![2989](img/HTF/2991.gif) Evil Dwelling Box | 16 | `2991`{ .copy } |
-| ![2995](img/HTF/2995.gif) Abandoned Teddy bear | 22 | `2995`{ .copy } |
-| ![2992](img/HTF/2992.gif) Creepy Demon | 16 | `2992`{ .copy } |
+| ![Malicious Baby Ghost](img/HTF/2993.gif) Malicious Baby Ghost | 19 | `2993`{ .copy } |
+| ![Evil Dwelling Box](img/HTF/2991.gif) Evil Dwelling Box | 16 | `2991`{ .copy } |
+| ![Abandoned Teddy bear](img/HTF/2995.gif) Abandoned Teddy bear | 22 | `2995`{ .copy } |
+| ![Creepy Demon](img/HTF/2992.gif) Creepy Demon | 16 | `2992`{ .copy } |
 
 ### Factory Area No.3
 
@@ -211,13 +209,13 @@ Antonio may also spawn in the room where the conversation with Santa occurred. B
 
 3. Afterward, return to the central room and proceed through the right portal to enter the final phase.
 
-| Monster | Quantity | Mob ID |
+| Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2994](img/HTF/2994.gif) Dancing Marionette | 37 | `2994`{ .copy } |
-| ![2987](img/HTF/2987.gif) Decorated Evil Tree | 31 | `2987`{ .copy } |
-| ![2995](img/HTF/2995.gif) Abandoned Teddy bear | 43 | `2995`{ .copy } |
-| ![2992](img/HTF/2992.gif) Creepy Demon | 31 | `2992`{ .copy } |
-| ![1247](img/HTF/1247.gif) Antonio | 1 | `2988`{ .copy } |
+| ![Dancing Marionette](img/HTF/2994.gif) Dancing Marionette | 37 | `2994`{ .copy } |
+| ![Decorated Evil Tree](img/HTF/2987.gif) Decorated Evil Tree | 31 | `2987`{ .copy } |
+| ![Abandoned Teddy bear](img/HTF/2995.gif) Abandoned Teddy bear | 43 | `2995`{ .copy } |
+| ![Creepy Demon](img/HTF/2992.gif) Creepy Demon | 31 | `2992`{ .copy } |
+| ![Antonio](img/HTF/1247.gif) Antonio | 1 | `2988`{ .copy } |
 
 ### Final Phase
 
@@ -298,10 +296,10 @@ If she is separated from her phantom, the phantom will heal her for a significan
 
 **Furthermore, if her HP is 1.5% (or approximately 100,000 HP lower) than her phantom’s, the phantom will heal Celine Kimi for 8x the difference in HP.**
 
-| Monster | Quantity | Mob ID |
+| Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2996](img/HTF/2996.gif) Celine Kimi | 1 | `2996`{ .copy } |
-| ![2997](img/HTF/2997.gif) Kimi's Phantom | 1 | `2997`{ .copy } |
+| ![Celine Kimi](img/HTF/2996.gif) Celine Kimi | 1 | `2996`{ .copy } |
+| ![Kimi's Phantom](img/HTF/2997.gif) Kimi's Phantom | 1 | `2997`{ .copy } |
 
 ??? note "Ending Storyline, click to expand"
     Unfortunately, persuading Kimi was unsuccessful.

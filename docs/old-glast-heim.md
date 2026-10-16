@@ -34,7 +34,7 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 ### Floor 1
 
-| Monster | Quantity | Mob ID |
+| Monster | Quantity | ID |
 |---------|----------|----------|
 | ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 10 | `2470`{ .copy } |
 | ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 10 | `2471`{ .copy } |
@@ -50,7 +50,7 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 ### Floor 2
 
-| Monster | Quantity | Mob ID |
+| Monster | Quantity | ID |
 |---------|----------|----------|
 | ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | `2468`{ .copy } |
 | ![2469](img/OGH/2469.gif) Wandering Archer | 30 | `2469`{ .copy } |
