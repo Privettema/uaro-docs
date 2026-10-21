@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13
+updated: 2026-10-20
 ---
 
 # Quality of Life Improvements
@@ -92,7 +92,6 @@ The party menu shows short letters in front of each member's name for the buffs 
 | **Easy Access to Prontera** | Distant cities have warp access to Prontera for 25,000z. |
 | **Sensible Teleporting** | Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control. |
 | **Minimap Recall** | Track your previous teleport or fly wing location by configuring in `@settings`.  |
-| **Stacking Monsters** | Monster stack limit is increased from 1 to 7. |
 | **Rotating Bonus EXP Maps** | Two bonus areas are selected every 48-72 hours to receive an 20-30% EXP boost until the next rotation. You can check the current areas with `@mapexp`. |
 | **Test Your Build** | [Target Dummy](custom-npc.md#combat) NPCs are available to test our your equipment and build against most scenarios. |
 | **Safe Card Removal** | [Mysterious Granny](custom-npc.md#cards) can remove cards from equipment with 100% success for a significant fee. |

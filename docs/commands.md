@@ -339,7 +339,7 @@ The `@noks` command prevents kill stealing (KS). In a party, `@nokscheck` can us
 | --------- | -------------------- |
 | **Self**  | Only you can attack your mobs - Disables Party/Guild |
 | **Party** | Allows party members to attack your mobs |
-| **Guild** | Allows guild members to attack your moms |
+| **Guild** | Allows guild members to attack your mobs |
 
 ## Trade Commands
 
