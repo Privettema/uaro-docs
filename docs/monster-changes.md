@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13
+updated: 2026-10-21
 ---
 
 # Monster Changes
@@ -10,7 +10,7 @@ Monsters where uaRO has altered the stats, skills, spawns or drops.
 |-|-|-|-|
 | Anubis | `1098` | Healing Staff (`1625`): 0.50% | Healing Staff: 0.35% |
 | Assassin Cross Eremes | `1641` | – | Hermode Cap [1] (`5481`): 15% |
-| Boitata | `2068` | – | Boitata Hat [1] (`18659`) |
+| Boitata | `2068` | – | Boitata Hat [1] (`5940`): 3% |
 | Bradium Golem | `2024` | – | Bradium Brooch [1] (`2790`): 0.05% |
 | Corrupted Monk | `20898` | Crystal Mirror (`747`): 25% | Cannot be killed in one hit by Resurrection<br>Crystal Mirror: 50% |
 | Corrupted Soul | `20575` | ID `3151`<br>HP 18,200,000 | HP 12,500,000<br>Spawns one set of minions at a time<br>Better at dodging ranged attacks |

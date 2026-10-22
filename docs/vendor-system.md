@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13
+updated: 2026-10-21
 ---
 
 # Vendor System
@@ -7,7 +7,7 @@ updated: 2026-10-13
 The server provides a diverse range of options for players to find, purchase, and trade items. Additionally, it implements specialized mechanisms to ensure the stability of the server's economy.
 
 !!! note
-    Autotrading (`@at`) merchants are allowed while playing on another account.
+    Autotrading (`@at`) merchants are allowed while playing on another account. With [Autotrade 2](#autotrade-2) (`@at2`) you can also keep playing other characters on the same account.
 
 ## 🛒 Prontera Market Street Vending
 
@@ -32,6 +32,7 @@ To return to Prontera, use the **Prontera Return option** from the Vending Helpe
 | Vending Helper NPC | Includes "Find random vending spot" option |
 | Prontera Return | Integrated into the Vending Helper NPC |
 | Idle Timer | Players are kicked if a shop is not opened within 5 minutes |
+| Skills | Skills can't be used while your vending shop or buying store is open |
 | Geffen Tower | Entrance vending obstruction cleaned up |
 
 ### 🌍 Vending Outside the Market Street
@@ -178,6 +179,15 @@ Vending and buying store prices are checked against NPC shop prices when the sho
 Vending, Autotrade and buying stores can list each stackable item only once per account and hardware ID. A second entry with the same item ID from another character or shop is not allowed.
 
 Attempting to bypass this limit, like any other game mechanic, may result in punishment if evidence supports it.
+
+## Autotrade 2
+Set up your vending shop or buying store as usual, then type `@autotrade2` (`@at2`). Your shop stays open while you go back to character select and keep playing on the same account.
+
+- **Log back into the vendor to close the shop.**
+- **The vendor counts as offline**, unlike with `@at`.
+- **Any number of vendors.** As many characters on the account can vend at the same time as you like.
+- **The same limits apply.** The one-entry-per-item rule and `@vendrecap` work the same as with `@at`.
+- **`@at` is unchanged** and can still be used.
 
 ## Import your last shop
 The client's **Import** function reopens your most recent vending or buying store without re-entering

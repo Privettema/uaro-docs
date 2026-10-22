@@ -1,7 +1,7 @@
 ---
 hide:
   - toc
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Halloween Event 2026
@@ -116,10 +116,10 @@ Andrew keeps two weekly rankings, **Most Tricked** and **Most Treated**. Every M
 
 Talk to **Old Man Barnaby** in **Niflheim** `/navi niflheim 149/117`.
 
-The monsters around Niflheim won't stop wailing and rattling their bones, and Barnaby hasn't slept in... well, he isn't sure. Pick **Easy** or **Hard**, and he gives you a random hunting task. Check your quest log for progress, then come back for your reward.
+Monsters all over the world won't stop wailing and rattling their bones, and Barnaby hasn't slept in... well, he isn't sure. Pick **Easy** or **Hard**, and he gives you a random hunting task. Check your quest log for progress, then come back for your reward.
 
 - **Once per day per account**
-- **Kills count on any map**
+- **Kills count on any map.** Barnaby's task names the area to hunt in
 - **Don't like your task?** Barnaby finds you a different one for `5` ![Poring Coin](img/7539.gif) Poring Coin (`7539`)
 
 | Mode | Halloween Coin | Pumpkin Cake |
@@ -149,21 +149,18 @@ Talk to the **Grave-Herald** in **Niflheim** `/navi niflheim 288/269` to begin. 
 
 All seven days add up to `312` Halloween Coin and `105` Pumpkin Cake.
 
-!!! tip "Keep your bone"
-    Day 3 also gives you a ![Skelion Bone Fragment](img/Halloween/bone.gif) **Skelion Bone Fragment** (`25001`). Don't throw it away: finishing Day 7 opens a ritual that may wake a **Scatleton** of your own. One **Scatleton Egg** (`9101`) per account.
+!!! tip "Save your bones"
+    Finishing Day 7 opens a ritual at the **Halloween Magician** that may wake a **Scatleton** of your own. Each try uses `10` ![Skelion Bone Fragment](img/Halloween/bone.gif) **Skelion Bone Fragments** (`25001`), so keep the ones you collect. One **Scatleton Egg** (`9101`) per account.
 
 ### The Hollow beneath Niflheim
 
 Talk to **Old Man Barnaby** `/navi niflheim 149/117`, ask "Where's that dungeon?" and he takes you down.
 
-The Hollow is home to Skelion, Garling, Disguise, Quve, Lude and Hylozoist. **Skelion** carries ![Skelion Bone Fragment](img/Halloween/bone.gif) **Skelion Bone Fragments** and ![Captured Soul](img/Halloween/CapturedSoul.gif) **Captured Souls**, which the story asks for.
+The Hollow is home to Skelion, Garling, Disguise, Quve, Lude and Hylozoist. **Skelion** carries ![Skelion Bone Fragment](img/Halloween/bone.gif) **Skelion Bone Fragments** and ![Captured Soul](img/Halloween/CapturedSoul.gif) **Captured Souls** for the story and the Scatleton ritual. **Garling** carries the **Dried White Thin Stem** (`25422`) for the Costume Thorny Hairband in Silvano's shop.
 
 - **Teleport, Fly Wing, warps, Dead Branch, Ice Wall, memo and vending don't work here**
 - **You can't save here.** If you log out, you return to your save point
 - **Butterfly Wing works**, and the exit portal takes you back to Niflheim
-
-!!! note "Make sure it stays down"
-    Skelions don't rest easily. A kill only counts once it's really over.
 
 ### The Last Performance
 
@@ -201,47 +198,80 @@ During the event you deal 5% more damage to monsters on the current EXP bonus ma
 
 ## Shrewd Silvano's Shop
 
-Talk to **Shrewd Silvano** in **Prontera** `/navi prontera 62/217` and choose "Show me your wares." Every item costs Halloween Coins and Zeny.
+Talk to **Shrewd Silvano** in **Prontera** `/navi prontera 62/217` and choose "Show me your wares." Every item costs Halloween Coins, most also cost Zeny, and some looks also need monster loot.
 
-=== "New Looks"
+!!! note "Loot goes in your bag"
+    Loot must be in your inventory, not in storage or a cart.
 
-    | Item | Slot | Halloween Coin | Zeny | ID |
-    |------|------|----------------|------|----|
-    | **Costume Niflheim Night Sky** *(grand prize)* | Shadow (effect) | `900` | 1,000,000z | `410280` |
-    | Costume Pumpkin Hat | Upper | `600` | 750,000z | `20172` |
-    | Costume Lude Mask | Middle + Lower | `600` | 750,000z | `19918` |
-    | Costume Vampire Hairband | Upper | `400` | 500,000z | `20098` |
-
-=== "Past Halloweens"
-
-    Costumes from earlier Halloween events return at 25% off.
-
-    | Item | Slot | Halloween Coin | Zeny | ID |
-    |------|------|----------------|------|----|
-    | Costume Blink Eyes Halloween | Middle | `113` | 150,000z | `420596` |
-    | Costume Jjakk | Upper | `150` | 150,000z | `31387` |
-    | Costume Halloween Candy Hair | Upper | `188` | 225,000z | `420593` |
-    | Costume Whisper Candy Pouch | Lower | `188` | 225,000z | `480494` |
-    | Costume Vampire Familiar | Middle | `188` | 225,000z | `31120` |
-    | Costume Halloween Pumpkin | Lower | `188` | 225,000z | `420597` |
-    | Costume Spider Seduction | Upper | `188` | 225,000z | `31596` |
-    | Costume Camellia Demon Ribbon | Upper | `188` | 225,000z | `420015` |
-    | Costume Jack Castle Bat | Lower | `188` | 225,000z | `20034` |
-    | Costume Pumpkin Poring Bag | Garment | `188` | 225,000z | `20543` |
-    | Costume Witch's Pumpkin Hat | Upper | `188` | 225,000z | `19903` |
-    | Costume Zombie Mask | Middle | `225` | 300,000z | `31853` |
-    | Costume Devil's Whisper | Middle | `225` | 300,000z | `19542` |
-
-=== "Pets & Supplies"
+=== "Pets"
 
     | Item | Halloween Coin | Zeny | ID |
     |------|----------------|------|----|
-    | Whisper Egg *(pet)* | `400` | 500,000z | `9045` |
-    | Steamed Bat Wing in Pumpkin | `2` | - | `14578` |
-    | ![Battle Manual](img/12208.gif) Battle Manual | `12` | - | `12208` |
-    | JOB Battle Manual | `12` | - | `14592` |
-    | ![Speed Potion](img/12016.png) Speed Potion | `1` | - | `12016` |
-    | ![Life Insurance](img/12209_1.png) Life Insurance | `5` | - | `12209` |
+    | Whisper Egg | `800` | 1,600,000z | `9045` |
+    | Hylozoist Egg | `800` | 1,600,000z | `9179` |
+
+=== "New Looks"
+
+    | Item | Slot | Halloween Coin | Zeny | Loot | ID |
+    |------|------|----------------|------|------|----|
+    | Costume Pumpkin Hat | Upper | `600` | 1,200,000z | - | `20172` |
+    | Costume Lude Mask | Middle + Lower | `550` | 750,000z | 50 Ectoplasm | `19918` |
+    | Costume Vampire Hairband | Upper | `400` | 800,000z | - | `20098` |
+    | Costume Orange Halloween Hat | Upper | `400` | 800,000z | - | `20174` |
+    | Costume Chibi Beelzebub Hat | Upper | `400` | 800,000z | - | `31536` |
+    | Costume Pumpkin Toque | Upper | `400` | 800,000z | - | `20394` |
+    | Costume Crow | Middle | `400` | 800,000z | - | `31380` |
+    | Costume Nero Mask | Middle | `400` | 800,000z | - | `410098` |
+    | Costume Crow Hat | Upper | `350` | 500,000z | 40 Glossy Hair | `19558` |
+    | Costume Small Deviling Hat | Upper | `350` | 500,000z | 40 Golden Hair | `400565` |
+    | Costume Thorny Hairband | Upper | `350` | 500,000z | 40 Dried White Thin Stem | `20460` |
+    | Costume Spider Poring | Middle + Lower | `350` | 500,000z | 15 Old White Cloth | `436010` |
+
+    | Loot | Monster | Where | ID |
+    |------|---------|-------|----|
+    | Ectoplasm | Quve, Lude | Niflheim fields, the Hollow | `7220` |
+    | Glossy Hair | Miyabi Doll | Amatsu Dungeon | `7152` |
+    | Golden Hair | Marionette | Geffen Dungeon, Glast Heim | `1060` |
+    | Dried White Thin Stem | Garling | The Hollow beneath Niflheim | `25422` |
+    | Old White Cloth | Banshee, Grand Chamberlain | Nameless Island, Cursed Abbey, Old Glast Heim | `7751` |
+
+=== "Past Halloweens"
+
+    Costumes from earlier Halloween events return for `300` Halloween Coin + 600,000z each.
+
+    | Item | Slot | ID |
+    |------|------|----|
+    | Costume Blink Eyes Halloween | Middle | `420596` |
+    | Costume Jjakk | Upper | `31387` |
+    | Costume Halloween Candy Hair | Upper | `420593` |
+    | Costume Whisper Candy Pouch | Lower | `480494` |
+    | Costume Vampire Familiar | Middle | `31120` |
+    | Costume Halloween Pumpkin | Lower | `420597` |
+    | Costume Spider Seduction | Upper | `31596` |
+    | Costume Camellia Demon Ribbon | Upper | `420015` |
+    | Costume Jack Castle Bat | Lower | `20034` |
+    | Costume Pumpkin Poring Bag | Garment | `20543` |
+    | Costume Witch's Pumpkin Hat | Upper | `19903` |
+    | Costume Zombie Mask | Middle | `31853` |
+    | Costume Devil's Whisper | Middle | `19542` |
+
+=== "Halloween Items"
+
+    | Item | Type | Halloween Coin | Zeny | ID |
+    |------|------|----------------|------|----|
+    | Evil Cottonball | Taming item for Hylozoist | `20` | 40,000z | `107478` |
+    | Jack O' Rush | Mace, Level 50 | `25` | 50,000z | `590112` |
+    | The Ripper | Katar, Level 70 | `150` | 300,000z | `610044` |
+    | Witch's Broom | Staff, Level 60 | `200` | 400,000z | `26140` |
+
+=== "Supplies"
+
+    | Item | Halloween Coin | ID |
+    |------|----------------|----|
+    | ![Battle Manual](img/12208.gif) Battle Manual | `12` | `12208` |
+    | JOB Battle Manual | `12` | `14592` |
+    | ![Speed Potion](img/12016.png) Speed Potion | `3` | `12016` |
+    | ![Life Insurance](img/12209_1.png) Life Insurance | `5` | `12209` |
 
 ## Key NPCs
 
@@ -254,14 +284,15 @@ Talk to **Shrewd Silvano** in **Prontera** `/navi prontera 62/217` and choose "S
 | Old Man Barnaby | `/navi niflheim 149/117` | Noisy Guests, entrance to the Hollow |
 | Spectral Usher | `/navi niflheim 198/184` | The Last Performance |
 | Grave-Herald | `/navi niflheim 288/269` | Spooky Memories, Day 1 |
+| Vegetable Gardener | `/navi prontera 101/49` | Sells Pumpkin |
 
 ## Event Mobs
 
 | Mob | Where | Notes |
 |-----|-------|-------|
 | **Pumpkinring** | Pops out when you defeat a monster | Carries coins, cakes and Pumpkin Treat Baskets. Gone in seconds |
-| **Skelion** | The Hollow beneath Niflheim | Story materials. Doesn't stay down the first time |
-| **Garling** | The Hollow beneath Niflheim | Hunting target for the story and daily tasks |
+| **Skelion** | The Hollow beneath Niflheim | Story materials and Skelion Bone Fragments for the Scatleton ritual |
+| **Garling** | The Hollow beneath Niflheim | Story target. Carries Dried White Thin Stem for the Costume Thorny Hairband |
 
 ## FAQ
 

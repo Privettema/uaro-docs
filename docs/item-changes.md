@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-14
+updated: 2026-10-21
 ---
 
 # Item Changes
@@ -58,7 +58,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | [](){ #bible-of-promise } Bible of Promise [1] | 2162 | Required Level 140<br>Equippable by Arch Bishop (3rd job)<br>MDEF +5<br>Enables Odin's Power Level 2<br>Increases healing effectiveness by 5% | Required Level 90<br>High Priest only<br>MDEF +5<br>INT +2<br>Increases healing effectiveness by 5%<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | Black Tail Ribbon [1] | 5765 |  | Acquisition: [Sabrina](woe.md#equipment), 15 WoE Equipment Tokens |
 | Blood Sucker | 18754 | Unbreakable | Adds 1% chance of absorbing 3% physical damage inflected on target as HP<br> Disables natural HP and SP recovery |
-| Boitata Hat [1] | 18659 |  | Acquisition: Boitata (`2068`) |
+| Boitata Hat [1] | 5940 |  | Acquisition: Boitata (`2068`) |
 | [](){ #bone-plate } Bone Plate [1] | 15000 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | Book of Soyga | 19326 | Required Level 90 (renewal) | Each card gives +5% experience from monsters of its race when equipped together: Armeyer Dinze (Fish), Anopheles (Insect), Orc Archer (Demi-Human), Grove (Formless), Baroness of Retribution (Angel), Stem Worm (Brute), Cloud Hermit (Plant), Dragon Egg (Dragon), Wraith (Undead), Raydric Archer (Demon)<br>Required Level 20<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | Bradium Brooch[1] | 2790 | Not dropped by any monster | Dropped by Bradium Golem (`2024`)<br>Drop rate: [Monster Changes](monster-changes.md) |

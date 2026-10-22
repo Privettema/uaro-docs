@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13
+updated: 2026-10-21
 ---
 
 # Commands
@@ -177,7 +177,7 @@ The Show Rare Drops option will announce your rare drops to yourself. It is acce
 ### Announcements
 The Announcement Config menu consolidates all broadcast announcement options in one place.
 
-Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kill**, **Community News**, **MVP**, **Event**, and **PvP Arena** announcements, with your choices saved to your account. The PvP Arena option hides the arena's server-wide open, reminder, winner and close messages; these messages are shown by default. A new **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
+Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kill**, **Community News**, **MVP**, **Event**, and **PvP Arena** announcements, with your choices saved to your account. A **Drop** announcement for a card names the player who actually looted it (autoloot, pet loot or picked up) and shows which copy of that card it is and on which kill. Cards received through party loot share show no kill count. Cards your pet loots are credited to you, and kills made by your homunculus, mercenary, elemental or pet count towards your kill count. The PvP Arena option hides the arena's server-wide open, reminder, winner and close messages; these messages are shown by default. A new **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
 
 ## @lootconfig — Advanced Autoloot System
 
@@ -350,6 +350,11 @@ Check [Vendor System](vendor-system.md) for more information about shops.
     Allows you to continue vending offline.
     The client's **Import** function can reopen your last shop, see
     [Vendor System](vendor-system.md#import-your-last-shop).
+
+- `@autotrade2` or `@at2`
+
+    Keeps your shop open while you go back to character select and play other characters on the same account. Log back into the vendor to close it. See
+    [Vendor System](vendor-system.md#autotrade-2).
 
 - `@vendrecap`
 
