@@ -219,13 +219,13 @@ Talk to **Shrewd Silvano** in **Prontera** `/navi prontera 62/217` and choose "S
     | Costume Vampire Hairband | Upper | `400` | 800,000z | - | `20098` |
     | Costume Orange Halloween Hat | Upper | `400` | 800,000z | - | `20174` |
     | Costume Chibi Beelzebub Hat | Upper | `400` | 800,000z | - | `31536` |
-    | Costume Pumpkin Toque | Upper | `400` | 800,000z | - | `20394` |
     | Costume Crow | Middle | `400` | 800,000z | - | `31380` |
     | Costume Nero Mask | Middle | `400` | 800,000z | - | `410098` |
+    | Costume Pumpkin Toque | Upper | `400` | 800,000z | - | `20394` |
+    | Costume Spider Poring | Middle + Lower | `400` | 800,000z | 15 Old White Cloth | `436010` |
     | Costume Crow Hat | Upper | `350` | 500,000z | 40 Glossy Hair | `19558` |
     | Costume Small Deviling Hat | Upper | `350` | 500,000z | 40 Golden Hair | `400565` |
     | Costume Thorny Hairband | Upper | `350` | 500,000z | 40 Dried White Thin Stem | `20460` |
-    | Costume Spider Poring | Middle + Lower | `350` | 500,000z | 15 Old White Cloth | `436010` |
 
     | Loot | Monster | Where | ID |
     |------|---------|-------|----|
@@ -237,40 +237,40 @@ Talk to **Shrewd Silvano** in **Prontera** `/navi prontera 62/217` and choose "S
 
 === "Past Halloweens"
 
-    Costumes from earlier Halloween events return for `300` Halloween Coin + 600,000z each.
+    Costumes from earlier Halloween events are back.
 
-    | Item | Slot | ID |
-    |------|------|----|
-    | Costume Blink Eyes Halloween | Middle | `420596` |
-    | Costume Jjakk | Upper | `31387` |
-    | Costume Halloween Candy Hair | Upper | `420593` |
-    | Costume Whisper Candy Pouch | Lower | `480494` |
-    | Costume Vampire Familiar | Middle | `31120` |
-    | Costume Halloween Pumpkin | Lower | `420597` |
-    | Costume Spider Seduction | Upper | `31596` |
-    | Costume Camellia Demon Ribbon | Upper | `420015` |
-    | Costume Jack Castle Bat | Lower | `20034` |
-    | Costume Pumpkin Poring Bag | Garment | `20543` |
-    | Costume Witch's Pumpkin Hat | Upper | `19903` |
-    | Costume Zombie Mask | Middle | `31853` |
-    | Costume Devil's Whisper | Middle | `19542` |
+    | Item | Slot | Halloween Coin | Zeny | ID |
+    |------|------|----------------|------|----|
+    | Costume Pumpkin Poring Bag | Garment | `750` | 1,500,000z | `20543` |
+    | Costume Whisper Candy Pouch | Lower | `400` | 800,000z | `480494` |
+    | Costume Vampire Familiar | Middle | `400` | 800,000z | `31120` |
+    | Costume Halloween Pumpkin | Lower | `400` | 800,000z | `420597` |
+    | Costume Zombie Mask | Middle | `400` | 800,000z | `31853` |
+    | Costume Devil's Whisper | Middle | `400` | 800,000z | `19542` |
+    | Costume Blink Eyes Halloween | Middle | `300` | 600,000z | `420596` |
+    | Costume Jjakk | Upper | `300` | 600,000z | `31387` |
+    | Costume Halloween Candy Hair | Upper | `300` | 600,000z | `420593` |
+    | Costume Spider Seduction | Upper | `300` | 600,000z | `31596` |
+    | Costume Camellia Demon Ribbon | Upper | `300` | 600,000z | `420015` |
+    | Costume Jack Castle Bat | Lower | `300` | 600,000z | `20034` |
+    | Costume Witch's Pumpkin Hat | Upper | `300` | 600,000z | `19903` |
 
 === "Halloween Items"
 
     | Item | Type | Halloween Coin | Zeny | ID |
     |------|------|----------------|------|----|
-    | Evil Cottonball | Taming item for Hylozoist | `20` | 40,000z | `107478` |
-    | Jack O' Rush | Mace, Level 50 | `25` | 50,000z | `590112` |
-    | The Ripper | Katar, Level 70 | `150` | 300,000z | `610044` |
+    | The Ripper | Katar, Level 70 | `250` | 500,000z | `610044` |
     | Witch's Broom | Staff, Level 60 | `200` | 400,000z | `26140` |
+    | Jack O' Rush | Mace, Level 50 | `200` | 400,000z | `590112` |
+    | Evil Cottonball | Taming item for Hylozoist | `50` | 100,000z | `107478` |
 
 === "Supplies"
 
     | Item | Halloween Coin | ID |
     |------|----------------|----|
-    | ![Battle Manual](img/12208.gif) Battle Manual | `12` | `12208` |
-    | JOB Battle Manual | `12` | `14592` |
-    | ![Speed Potion](img/12016.png) Speed Potion | `3` | `12016` |
+    | ![Battle Manual](img/12208.gif) Battle Manual | `15` | `12208` |
+    | JOB Battle Manual | `15` | `14592` |
+    | ![Speed Potion](img/12016.png) Speed Potion | `5` | `12016` |
     | ![Life Insurance](img/12209_1.png) Life Insurance | `5` | `12209` |
 
 ## Key NPCs
