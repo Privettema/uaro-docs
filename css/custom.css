@@ -1,0 +1,632 @@
+/* Dev Note: 
+    - Use REMs instead of PX, for accessibility and responsive. 
+    - REM calculation is based on 16px. ( # / 16 = #rem)
+    - Use var() from theme to support light/dark mode. ie, color: var(--md-default-fg-color); 
+*/
+
+body {
+    text-wrap: pretty;
+}
+
+.grid__col-6 {
+    padding: 1.25rem; /* 20px */
+}
+
+.md-typeset ul {
+    list-style-type: disc;
+    padding-left: 1.25rem; /* 20px */
+}
+
+.md-typeset ol {
+    list-style-type: decimal;
+    padding-left: 1.25rem; /* 20px */
+}
+
+/* Class_Changes.md: Sets a consistent width to columns */ 
+.class-changes-table th:nth-child(1) {
+    width: 15.625rem; /* 250px */
+}
+
+.class-changes-table th:nth-child(2) {
+    width: 21.875rem; /* 350px */
+}
+
+.class-changes-table th:nth-child(3) {
+    width: 21.875rem; /* 350px */
+}
+
+/* Item icons beside a label in a table cell: centre the icon on the text instead of sitting on the baseline.
+   The cell itself stays top-aligned, so the label lines up with the first line of the cells next to it.
+   The negative margin stops the 24px icon from making that line taller than the text, and the relative
+   offset puts the icon back on the text's centre. */
+.md-typeset td img {
+  vertical-align: middle;
+  margin-block: -0.15rem;
+  margin-inline-end: calc(0.4rem - 0.28em); /* 8px to the name: the space after the icon is already 0.28em */
+  position: relative;
+  top: -0.15rem;
+}
+
+/* A cell with several icon lines (<br> between them) needs the room back: the tight margins above would make
+   24px icons touch or overlap. Give each line its normal height again, but pull the first icon up so the first
+   line still lines up with the cells next to it. */
+.md-typeset td:has(br) img {
+  margin-block: 0.15rem;
+  top: 0;
+}
+
+.md-typeset td:has(br) img:first-child {
+  margin-top: -0.15rem;
+}
+
+/* Cookie banner: one compact row on the header's purple, with "Cookie Consent:" inline at the start of the message,
+   the buttons on the right, no page overlay, no per-cookie checkbox, and Reject as the quieter choice */
+.md-consent__overlay {
+  display: none;
+}
+
+.md-consent__inner {
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+
+.md-consent__form .md-consent__settings {
+  display: none !important; /* Material shows it through a checked toggle, which outranks a plain rule */
+}
+
+.md-consent__form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem 1.5rem;
+  padding-block: 1.25rem;
+}
+
+/* The title comes from the message's own first words, so it reads as one line: "Cookie Consent: This wiki..." */
+.md-consent__form h4 {
+  display: none;
+}
+
+.md-consent__form p {
+  flex: 1 1 24rem;
+  margin: 0;
+  color: inherit;
+}
+
+.md-consent__form p::before {
+  content: "Cookie Consent: ";
+  font-weight: 700;
+}
+
+.md-consent__controls {
+  display: flex;
+  gap: 0.5rem;
+  margin: 0;
+}
+
+.md-consent__controls .md-button {
+  margin: 0;
+}
+
+/* Accept: white fill; Reject: white outline */
+.md-consent__controls .md-button[type="submit"],
+.md-consent__controls .md-button:not([type]) {
+  background: #fff;
+  border-color: #fff;
+  color: var(--uaro-purple-900);
+}
+
+.md-consent__controls .md-button[type="reset"] {
+  background: transparent;
+  border-color: #fff;
+  color: #fff;
+}
+
+.md-consent__controls .md-button:focus,
+.md-consent__controls .md-button:hover {
+  background: rgba(255, 255, 255, 0.85);
+  border-color: #fff;
+  color: var(--uaro-purple-900);
+}
+
+/* "Change cookie settings" in the footer jumps to #__consent. The banner's wrapper sits at the end of the page,
+   so the jump scrolled to the bottom; keep the target fixed at the viewport edge so the page stays put. */
+.md-consent {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 0;
+}
+
+/* Class_Changes.md: Styles the skill image */
+.class-changes-table img {
+    vertical-align: middle;
+    margin-right: 0.25rem; /* 4px */
+    width: 1.5rem; /* 24px */
+    height: 1.5rem; /* 24px */
+}
+
+/* Class_Changes.md: Removes extra space from <ul> in table */
+.class-changes-table ul {
+    padding-left: 0;
+    margin-left: 0 !important;
+}
+
+/* index.md: Links in the main features cards have their own line */
+#main-features-cards a {
+    display: block;
+    margin-top: 0.5rem; /* 8px */
+}
+
+/* GM message quote — use with <blockquote class="gm-message"> */
+.gm-message {
+    border-left: none;
+    background: transparent;
+    border-radius: 0.25rem; /* 4px */
+    padding: 0.5rem 1rem; /* 8px 16px */
+    margin: 0.75rem 0; /* 12px 0 */
+    color: var(--md-default-fg-color--lighter);
+    font-style: italic;
+    font-size: 0.75rem; /* 12px */
+    line-height: 1.5;
+}
+
+.gm-message .gm-label {
+    display: block;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 0.625rem; /* 10px */
+    text-transform: uppercase;
+    letter-spacing: 0.05rem;
+    margin-bottom: 0.25rem; /* 4px */
+    opacity: 0.45;
+}
+
+/* index.md: Homepage hero banner — use with { .wiki-hero } attr. Static image, not a link or
+   button, so it gets no hover reaction. */
+.md-typeset .wiki-hero {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0.5rem 0 1.5rem; /* 8px 0 24px */
+    border-radius: 0.75rem; /* 12px */
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.18); /* 0 8px 24px — soft depth */
+}
+
+/* Wiki screenshot framing — use with { .wiki-screenshot } attr */
+.wiki-screenshot {
+    border-radius: 0.5rem; /* 8px */
+    border: 0.0625rem solid var(--md-default-fg-color--lightest); /* 1px */
+    max-width: 37.5rem; /* 600px */
+    display: block;
+    margin: 1.5rem 0; /* 24px 0 — left-aligned */
+}
+
+/* A screenshot floated to the right of the list or text beside it; stacks full width on a narrow screen */
+.wiki-screenshot.wiki-screenshot-right {
+    float: right;
+    width: 14rem; /* 280px */
+    margin: 0 0 1rem 1.5rem; /* 0 0 16px 24px */
+}
+.md-typeset p:has(> .wiki-screenshot-right) ~ h2,
+.md-typeset p:has(> .wiki-screenshot-right) ~ h3 { clear: both; }
+@media (max-width: 480px) {
+    .wiki-screenshot.wiki-screenshot-right { float: none; width: auto; max-width: 100%; margin: 1.5rem 0; }
+}
+
+/* overrides/404.html: centered not-found page */
+.uaro-404 {
+    max-width: 30rem; /* 480px */
+    margin: 3rem auto; /* 48px auto */
+    padding: 0 1rem; /* 0 16px */
+    text-align: center;
+}
+
+.uaro-404__art {
+    width: 100%;
+    max-width: 20rem; /* 320px */
+    height: auto;
+    border-radius: 0.75rem; /* 12px */
+    margin-bottom: 1.5rem; /* 24px */
+}
+
+.uaro-404 h1 {
+    margin-bottom: 0.5rem; /* 8px */
+}
+
+.uaro-404__links {
+    font-size: 1.125rem; /* 18px */
+}
+
+.uaro-404__links span {
+    margin: 0 0.5rem; /* 0 8px */
+    opacity: 0.5;
+}
+
+.uaro-404__report {
+    margin-top: 1.5rem; /* 24px */
+    color: var(--md-default-fg-color--light);
+    font-size: 0.875rem; /* 14px */
+}
+
+.uaro-404__suggestions {
+    margin: 1rem 0 0; /* 16px 0 0 */
+    font-size: 0.9375rem; /* 15px */
+}
+
+.uaro-404__suggestions-label {
+    color: var(--md-default-fg-color--light);
+    margin-right: 0.375rem; /* 6px */
+}
+
+
+/* Click-to-copy inline code (docs/js/copy.js) */
+code.copyable {
+    cursor: pointer;
+    transition: background-color 0.15s, box-shadow 0.15s;
+}
+
+code.copyable:hover,
+code.copyable:focus-visible {
+    background-color: var(--md-accent-fg-color--transparent);
+    box-shadow: 0 0 0 0.125rem var(--md-accent-fg-color); /* 2px */
+}
+
+code.copyable:focus-visible {
+    outline: none;
+}
+
+.copy-tip {
+    position: absolute;
+    z-index: 10;
+    padding: 0.25rem 0.5rem; /* 4px 8px */
+    border-radius: 0.25rem; /* 4px */
+    background: var(--md-default-fg-color);
+    color: var(--md-default-bg-color);
+    font-size: 0.75rem; /* 12px */
+    pointer-events: none;
+    opacity: 0;
+    transform: translate(-50%, calc(-100% - 0.25rem));
+    transition: opacity 0.15s;
+}
+
+.copy-tip--visible {
+    opacity: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    code.copyable,
+    .copy-tip {
+        transition: none;
+    }
+}
+
+
+/* pet-system.md: one block per pet. Egg in the bar, sprite at full size on the left, sections beside it */
+.pet-list { display: flex; flex-direction: column; }
+.pet + .pet { border-top: 0; }
+.pet-evo + .pet-evo { margin-top: 0.75rem; }
+.pet { border: 0.0625rem solid var(--md-default-fg-color--lightest); overflow: hidden; }
+/* The header uses the body's columns (sprite, then three sections), so Mob ID sits over the middle column and Egg ID
+   over the right one. */
+.pet-head { display: grid; grid-template-columns: 6rem repeat(3, minmax(0, 1fr)); align-items: center; gap: 0.25rem 1rem;
+  padding: 0.375rem 0.75rem; background: var(--md-default-fg-color--lightest); }
+.pet-title { grid-column: 1 / 3; min-width: 0; }
+.pet-ids { display: contents; }
+.pet-id-egg { grid-column: 3; }
+.pet-id-mob { grid-column: 4; }
+.pet-head p { margin: 0; }
+.md-typeset .pet-head .pet-name { margin: 0; font-size: 0.7rem; /* 14px, the root is 20px */ font-weight: 700;
+  line-height: inherit; letter-spacing: normal; color: inherit; }
+.pet-name .headerlink { display: none; }
+.md-typeset .pet-head .pet-name { display: flex; align-items: center; gap: 0.25rem; } /* egg beside the name, not above */
+.pet-title { display: flex; align-items: center; gap: 0.3rem; }
+.pet-title p { margin: 0; font-size: 0.7rem; /* 14px, same as the name, so the line box matches */ }
+.pet-id { font-size: 0.7rem; /* 14px, the root is 20px */ }
+.pet-head img { display: block; margin: 0; }
+.pet-tag::before { content: "\00b7"; margin-right: 0.3rem; }
+.pet-tag { font-size: 0.7rem; /* 14px, the root is 20px */ font-weight: 400;
+  color: color-mix(in srgb, var(--md-typeset-color) 70%, transparent); /* 5.7:1 on the header, light and dark */ }
+.pet-body { display: flex; align-items: flex-start; gap: 1rem; padding: 0.9rem 0.75rem; }
+.pet-sprite { padding-top: 0.4rem; /* 8px */ flex: 0 0 auto; align-self: flex-start; display: flex; align-items: flex-start; justify-content: center; width: 6rem; }
+.md-typeset .pet-sprite p { margin: 0; display: flex; justify-content: center; line-height: 0; }
+.pet-sprite img { display: block; max-width: 6rem; max-height: 7rem; width: auto; height: auto; }
+.pet-sections { flex: 1 1 auto; min-width: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem; font-size: 0.7rem; /* 14px, the root is 20px */ }
+.pet-col { display: flex; flex-direction: column; gap: 1rem; min-width: 0; }
+@media (max-width: 768px) { /* px: rem in a media query is the browser default, not this site's 20px root */
+  /* The sprite takes the top row and the sections reflow into rows beneath it as the width allows. */
+  .pet-head { display: flex; flex-wrap: wrap; gap: 0.25rem 0.8rem; }
+  .pet-body { flex-wrap: wrap; }
+  .pet-sprite { flex: 0 0 100%; width: auto; justify-content: flex-start; }
+  .md-typeset .pet-sprite p { justify-content: flex-start; }
+  .pet-sections { flex: 1 1 100%; grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr)); } /* 9rem = 180px */
+}
+.pet-sections p { margin: 0; font-size: 0.7rem; }
+.pet-item { display: flex; align-items: flex-start; gap: 0.4rem; }
+.pet-item p { white-space: normal; min-width: 0; }
+.pet-item p:first-child:not(:last-child) { flex: 0 0 auto; line-height: 0; margin-top: 0.1rem; } /* the icon block */
+.pet-sections .pet-item img { display: block; width: 1.2rem; height: 1.2rem; object-fit: contain; margin: 0; }
+.pet-sec > * + * { margin-top: 0.35rem; }
+.pet-sec > .pet-sublabel { display: block; font-size: 0.6rem; /* 12px */ margin-top: 0.7rem;
+  color: color-mix(in srgb, var(--md-typeset-color) 70%, transparent); }
+.pet-sec > .pet-label + .pet-sublabel { margin-top: 0.2rem; }
+.pet-item code, .pet-head code { white-space: nowrap; }
+.pet-label { display: block; font-weight: 700; margin-bottom: 0.1rem; }
+.md-typeset details.pet-more { margin: 0.25rem 0 0; padding: 0; border: 0; box-shadow: none; background: none;
+  font-size: inherit; }
+.md-typeset details.pet-more > summary { display: block; list-style: none; margin: 0; padding: 0; font-weight: 400;
+  font-size: 0.7rem; /* 14px, the root is 20px */ cursor: pointer; color: var(--md-accent-fg-color); background: none; }
+.md-typeset details.pet-more > summary::-webkit-details-marker { display: none; }
+.md-typeset details.pet-more > summary::after { display: none; }
+.md-typeset details.pet-more > summary::before { content: "+ "; position: static; display: inline; width: auto;
+  height: auto; margin: 0; background: none; mask: none; -webkit-mask: none; }
+.md-typeset details.pet-more[open] > summary::before { content: "- "; transform: none; }
+.md-typeset details.pet-more > :not(summary) { margin: 0.25rem 0 0; padding: 0; }
+
+/* "Last updated" under a page title and the mistake-report note at the end (hooks/page_meta.py) */
+.uaro-updated {
+  margin: -1rem 0 1.2rem;
+  font-size: 0.65rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.uaro-report {
+  margin-top: 2rem;
+  padding-top: 0.6rem;
+  border-top: 0.05rem solid var(--md-default-fg-color--lightest);
+  font-size: 0.65rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* The link reads as plain text until hovered, so it doesn't compete with the page */
+.md-typeset .uaro-report a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--md-default-fg-color--lighter);
+}
+
+.md-typeset .uaro-report a:focus,
+.md-typeset .uaro-report a:hover {
+  color: var(--md-accent-fg-color);
+  text-decoration-color: currentcolor;
+}
+
+/* Tables whose first column is a name that shouldn't wrap (wrap the table in
+   <div class="uaro-nowrap-first-col" markdown>) */
+.uaro-nowrap-first-col td:first-child,
+.uaro-nowrap-first-col th:first-child {
+  white-space: nowrap;
+}
+
+/* Custom NPCs: every NPC | Location | Description table shares one fixed column layout.
+   The :not([class]) matches Material's own table rule so the fixed layout actually applies. */
+.md-typeset .uaro-npc-tables table:not([class]) {
+  display: table;
+  min-width: 40rem;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.md-typeset .uaro-npc-tables th:nth-child(1) {
+  width: 7rem;
+}
+
+.md-typeset .uaro-npc-tables th:nth-child(2) {
+  width: 10.5rem;
+}
+
+.md-typeset .uaro-npc-tables td:nth-child(2) code {
+  white-space: nowrap;
+}
+
+/* Tables with a few NPCs side by side: equal column widths, sprites sitting on the same line, centred text, no borders */
+.md-typeset .uaro-equal-cols table:not([class]) {
+  border: 0;
+  box-shadow: none;
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) th,
+.md-typeset .uaro-equal-cols table:not([class]) td {
+  border: 0;
+  text-align: center;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) th {
+  padding-bottom: 0;
+  vertical-align: bottom;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) td {
+  padding-top: 0.15rem;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) tbody tr:hover {
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.md-typeset .uaro-equal-cols table:not([class]) th img {
+  margin-bottom: 0.4rem;
+}
+
+/* Item icons beside a label in a table cell: centre the icon on the text instead of sitting on the baseline.
+   The cell itself stays top-aligned, so the label lines up with the first line of the cells next to it.
+   The negative margin stops the 24px icon from making that line taller than the text, and the relative
+   offset puts the icon back on the text's centre. */
+.md-typeset td img {
+  vertical-align: middle;
+  margin-block: -0.15rem;
+  position: relative;
+  top: -0.15rem;
+}
+
+/* A cell with several icon lines (<br> between them) needs the room back: the tight margins above would make
+   24px icons touch or overlap. Give each line its normal height again, but pull the first icon up so the first
+   line still lines up with the cells next to it. */
+.md-typeset td:has(br) img {
+  margin-block: 0.15rem;
+  top: 0;
+}
+
+.md-typeset td:has(br) img:first-child {
+  margin-top: -0.15rem;
+}
+
+/* repeatable-quests.md: Scrolls sideways instead of spilling out of the page on narrow screens */
+.repeatable-table {
+    overflow-x: auto;
+}
+
+/* repeatable-quests.md: Lets columns grow to fit their content instead of squeezing to the page width */
+.md-typeset .repeatable-table table:not([class]) {
+    max-width: none;
+}
+
+/* repeatable-quests.md: Keeps the NPC, location, level and item/monster columns on one line */
+.repeatable-table td:nth-child(-n+4) {
+    white-space: nowrap;
+}
+
+/* repeatable-quests.md: Centers each row's text against its sprite */
+.repeatable-table td {
+    vertical-align: middle;
+}
+
+/* repeatable-quests.md: Item and monster sprites at full size next to their names */
+.md-typeset .repeatable-table td img {
+    max-width: none;
+    vertical-align: middle;
+    margin: 0 0.25rem 0 0; /* 4px */
+    top: 0;
+}
+
+/* repeatable-quests.md: Red asterisk for monsters on quest-locked maps */
+.quest-flag {
+    color: #d32f2f;
+    font-weight: 700;
+}
+
+[data-md-color-scheme="slate"] .quest-flag {
+    color: #ff6b6b;
+}
+
+/* beginner-guide.md: Class cards with the sprite on top and the links pinned to the bottom */
+.md-typeset .grid.class-cards {
+    grid-template-columns: repeat(auto-fill, minmax(min(19rem, 100%), 1fr)); /* 304px, or the full width on a phone */
+}
+
+.md-typeset .grid.cards.class-cards > ul > li {
+    display: flex;
+    flex-direction: column;
+}
+
+.md-typeset .grid.cards.class-cards > ul > li:hover,
+.md-typeset .grid.cards.class-cards > ul > li:focus-within {
+    border-color: var(--md-default-fg-color--lightest);
+    box-shadow: none;
+}
+
+/* theme.css stretches a card's first link over the whole card; class cards are not clickable as a whole */
+.md-typeset .grid.cards.class-cards > ul > li a:first-of-type::after {
+    content: none;
+}
+
+.md-typeset .grid.cards.class-cards > ul > li:has(a:focus-visible) {
+    outline: none;
+}
+
+.md-typeset .grid.cards.class-cards > ul > li a:focus-visible {
+    outline: 0.125rem solid var(--uaro-purple-on-bg); /* 2px */
+    outline-offset: 0.125rem; /* 2px */
+}
+
+.class-cards li > p > strong:first-child {
+    font-size: 1.15rem; /* 18.4px */
+}
+
+/* Class name on the left, tags on the right */
+.class-cards li > p:has(> .class-tags) {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.75rem; /* 4px 12px */
+    justify-content: space-between;
+}
+
+.class-cards .class-tags {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.class-cards li > p > em:only-child {
+    color: var(--md-default-fg-color--light);
+}
+
+.class-cards .class-tag {
+    border: 0.0625rem solid var(--md-default-fg-color--lighter); /* 1px */
+    border-radius: 0.25rem; /* 4px */
+    display: inline-block;
+    font-size: 0.7rem; /* 11.2px */
+    line-height: 1.5;
+    margin: 0 0.25rem 0.25rem 0; /* 0 4px 4px 0 */
+    padding: 0 0.4rem; /* 0 6px */
+}
+
+.class-cards .class-tag-play {
+    background-color: var(--md-default-fg-color--lightest);
+    border-color: transparent;
+}
+
+.class-cards .class-tag-support {
+    background-color: var(--md-accent-fg-color--transparent);
+    border-color: var(--md-accent-fg-color);
+}
+
+.class-cards li > p:last-child {
+    margin-top: auto;
+    padding-top: 0.5rem; /* 8px */
+}
+
+.class-cards li > p:has(> .class-sprite) {
+    text-align: center;
+}
+
+.class-cards .class-sprite {
+    height: auto;
+    margin: 0 0.25rem 0.5rem 0; /* 0 4px 8px 0 */
+    max-width: 7.5rem; /* 120px */
+    vertical-align: middle;
+}
+
+/* Arrow between a class's sprite pair and its transcendent pair */
+.class-cards .class-arrow {
+    color: var(--md-default-fg-color--light);
+    display: inline-block;
+    font-size: 1.25rem; /* 20px */
+    margin: 0 0.25rem 0.5rem; /* 0 4px 8px */
+    vertical-align: middle;
+}
+
+/* Dimonka headgear table: headgear column is 200px (the root is 20px), materials shrinks to its content, description takes the rest */
+.md-typeset .dimonka-table table:not([class]) {
+  display: table;
+  width: 100%;
+}
+
+.md-typeset .dimonka-table th:nth-child(1) {
+  width: 10rem;
+}
+
+.md-typeset .dimonka-table th:nth-child(2) {
+  width: 1%;
+}
+
+.md-typeset .dimonka-table td:nth-child(2) {
+  white-space: nowrap;
+}
