@@ -1,7 +1,7 @@
 ---
 hide:
   - toc
-updated: 2026-10-22
+updated: 2026-10-28
 ---
 
 # Halloween Event 2026
@@ -85,7 +85,7 @@ Undead and Demon monsters, and monsters of the Undead, Ghost or Shadow element, 
 - **Summoned and Dead Branch monsters don't drop event items**
 
 !!! tip "Peek a boo!"
-    Now and then a **Pumpkinring** pops out when you defeat a monster. It doesn't wait around, so be quick. Pumpkinrings carry coins, cakes and the **Pumpkin Treat Baskets** you need for Trick or Treat. They don't appear in instances or PvP maps.
+    Now and then a **Pumpkinring** pops out when you defeat a monster. It doesn't wait around, so be quick. Pumpkinrings carry coins, cakes and the **Pumpkin Treat Baskets** you need for Trick or Treat. They don't appear in instances or PvP maps, or once you've reached all of today's coin, cake and basket limits.
 
 ### Trick or Treat
 
@@ -178,7 +178,7 @@ A Valkyrie wants to restore the ruined theater for one last performance. Protect
 | **Limit** | Once per week per account, resets Monday at 06:00 server time |
 | **Reward** | `25` Halloween Coin + `25` Pumpkin Cake |
 
-- **If the Valkyrie dies, the performance fails**, and she can't be healed
+- **If the Valkyrie dies, the performance fails.** You can't heal her, but she gets back 20% of her HP when the next wave starts
 - **No EXP and no item drops inside**
 - **Joining or leaving the party before the start cancels the run**
 - **Logging out inside locks you out** of that run
@@ -290,7 +290,7 @@ Talk to **Shrewd Silvano** in **Prontera** `/navi prontera 62/217` and choose "S
 
 | Mob | Where | Notes |
 |-----|-------|-------|
-| **Pumpkinring** | Pops out when you defeat a monster | Carries coins, cakes and Pumpkin Treat Baskets. Gone in seconds |
+| **Pumpkinring** | Pops out when you defeat a monster | Carries coins, cakes and Pumpkin Treat Baskets. Gone in seconds, and stops appearing once you've hit all of today's limits |
 | **Skelion** | The Hollow beneath Niflheim | Story materials and Skelion Bone Fragments for the Scatleton ritual |
 | **Garling** | The Hollow beneath Niflheim | Story target. Carries Dried White Thin Stem for the Costume Thorny Hairband |
 

@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-21
+updated: 2026-10-28
 ---
 
 # Vendor System
@@ -183,7 +183,8 @@ Attempting to bypass this limit, like any other game mechanic, may result in pun
 ## Autotrade 2
 Set up your vending shop or buying store as usual, then type `@autotrade2` (`@at2`). Your shop stays open while you go back to character select and keep playing on the same account.
 
-- **Log back into the vendor to close the shop.**
+- **Log back into the vendor to close the shop.** You can log back in right away, even just after a sale, and all Zeny and items from sales carry over to the character.
+- **Character select shows which characters are vending.** Characters in `@at2` have an indicator on the character select screen.
 - **The vendor counts as offline**, unlike with `@at`.
 - **Any number of vendors.** As many characters on the account can vend at the same time as you like.
 - **The same limits apply.** The one-entry-per-item rule and `@vendrecap` work the same as with `@at`.
