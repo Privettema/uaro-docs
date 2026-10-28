@@ -1,44 +1,85 @@
 ---
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # Horror Toy Factory
 
-Horror Toy Factory is an instance where players explore a sinister toy factory filled with aggressive monsters and ghosts. The main objective is to defeat the final boss, Celine Kimi, while overcoming traps and powerful enemies along the way.
-The instance offers unique rewards, including rare items and equipment, making it popular among players.
+Explore an abandoned toy factory in Lutie, fight through its ghosts and traps, and defeat the final boss, Celine Kimi.
 
-!!! info
-    Read [Instance Guide](instance-guide.md) for information about instructions for starting an instance, run completion, run limits, and other important info.
+!!! info "Quick Facts"
+    - **Location:** Catherine Jet Johnson in Lutie (`/navi xmas 237/303`)
+    - **Party Size:** 3 person minimum
+    - **Base Level:** 90
+    - **Time Limit:** 1 hour
+    --8<-- "instances.md:fact-horror-toy-factory"
 
 ## Rules
 
 | Rule | Detail |
 |------|--------|
-| **Party Size** | `3` person minimum |
-| **Base Level** | `90` |
-| **Time Limit** | `1` hour |
+| **Death** | Normal: players can be resurrected and come back into the instance. |
+--8<-- "instances.md:rule-reentry"
+--8<-- "instances.md:rule-storage"
+--8<-- "instances.md:rule-rodex"
+| **Loot** | Drops as normal. Treasure chests after Celine Kimi give the completion rewards (see [Rewards](#rewards)). |
+--8<-- "instances.md:rule-unlock-horror-toy-factory"
 
-## How to get there
+## Getting There
 
-![HTF-NPC](img/HTF/HTF-NPC.jpg.png)
+![Catherine Jet Johnson](img/HTF/HTF-NPC.jpg.png){ .wiki-screenshot }
 
-To start this instance, you need to go to Lutie and find the NPC Catherine Jet Johnson (`/navi xmas 237/303`). Talk to her and agree to help her.
+Go to Lutie and find **Catherine Jet Johnson** (`/navi xmas 237/303`). Talk to her and agree to help her.
 
-!!! note " After the instance starts, the party will have one minute for each member to type the **!ready** command in general chat. Otherwise, the instance will need to be restarted."
+--8<-- "instances.md:ready-rule"
 
-## Storyline
+## Rewards
 
-Once, in a small town Lutie, there stood a toy factory, the heart of the community. All the townspeople worked there, crafting dolls and other toys. After a long workday, they would gather together, enjoying tea and gingerbread cookies. But the happy times did not last long. People began to leave the town, the factory's business became less and less profitable, and eventually, the decision was made to shut it down.
+After defeating Celine Kimi, proceed through the southwest portal to the treasure room. Inside, you'll find 10 treasure box NPCs that drop items when you interact with them.
 
-The last person to remain at the factory was the master dollmaker, a man who created the most beautiful and lifelike dolls. On the day of the factory’s closure, he finished his final creation—a stunning doll named Celine Kimi. He dressed her in the finest attire, gave her a name, and it seemed as if he was saying farewell not just to the factory, but to his dream. In that very moment, the production lines came to a halt forever.
+| Chest 1 | Chest 2 | Chest 3 |
+|---------|---------|---------|
+| ![Bloody Coin (`7642`{ .copy }) (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box (`644`{ .copy }) - 85%<br> ![617](img/HTF/617.gif) Old Purple Box (`617`{ .copy }) - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion (`7229`{ .copy }) - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box (`14003`{ .copy }) - 30%](img/HTF/7642.gif) Bloody Coin (`7642`{ .copy }) (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box (`644`{ .copy }) - 85%<br> ![617](img/HTF/617.gif) Old Purple Box (`617`{ .copy }) - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion (`7229`{ .copy }) - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box (`14003`{ .copy }) - 30% | ![Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box (`603`{ .copy }) - 60%<br> ![616](img/HTF/616.gif) Old Card Album (`616`{ .copy }) - 30%<br> ![7228](img/HTF/7228.gif) Gold Bullion (`7228`{ .copy }) - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box (`603`{ .copy }) - 60%<br> ![616](img/HTF/616.gif) Old Card Album (`616`{ .copy }) - 30%<br> ![7228](img/HTF/7228.gif) Gold Bullion (`7228`{ .copy }) - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![644](img/HTF/644.gif) Gift Box - 40%<br> ![7230](img/HTF/7230.gif) Platinum Bullion (`7230`{ .copy }) - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![644](img/HTF/644.gif) Gift Box - 40%<br> ![7230](img/HTF/7230.gif) Platinum Bullion (`7230`{ .copy }) - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% |
+| Chest 4 | Chest 5 | Chest 6 |
+| ![Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7619](img/HTF/7619.gif) Enriched Elunium (`7619`{ .copy }) - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7619](img/HTF/7619.gif) Enriched Elunium (`7619`{ .copy }) - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![616](img/HTF/616.gif) Old Card Album - 30%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon (`7620`{ .copy }) - 5%<br> ![2978](img/2978.gif) [Gentle Heart [1]](item-changes.md#gentle-heart) (`2978`{ .copy }) - 1%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![616](img/HTF/616.gif) Old Card Album - 30%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon (`7620`{ .copy }) - 5%<br> ![2978](img/2978.gif) [Gentle Heart [1]](item-changes.md#gentle-heart) (`2978`{ .copy }) - 1% | ![Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![644](img/HTF/644.gif) Gift Box - 5%<br> ![2977](img/HTF/2977.gif) [Wounded Heart [1]](item-changes.md#wounded-heart) (`2977`{ .copy }) - 1%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![644](img/HTF/644.gif) Gift Box - 5%<br> ![2977](img/HTF/2977.gif) [Wounded Heart [1]](item-changes.md#wounded-heart) (`2977`{ .copy }) - 1% |
+| Chest 7 | Chest 8 | Chest 9 |
+| ![Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![616](img/HTF/616.gif) Old Card Album - 40%<br> ![7619](img/HTF/7619.gif) Enriched Elunium - 4%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![616](img/HTF/616.gif) Old Card Album - 40%<br> ![7619](img/HTF/7619.gif) Enriched Elunium - 4%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon - 5%<br> ![2977](img/HTF/2977.gif) [Wounded Heart [1]](item-changes.md#wounded-heart) - 1%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon - 5%<br> ![2977](img/HTF/2977.gif) [Wounded Heart [1]](item-changes.md#wounded-heart) - 1% |
+| Chest 10 |
+| ![Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 10%<br> ![2978](img/2978.gif) [Gentle Heart [1]](item-changes.md#gentle-heart) - 1%](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 10%<br> ![2978](img/2978.gif) [Gentle Heart [1]](item-changes.md#gentle-heart) - 1% |
 
-But the story did not end there. Kimi… came to life. Whether it was the dollmaker’s craftsmanship, his heartfelt devotion, or something more mysterious, she became a living being. However, her existence was filled with sorrow and rage. She remained within the abandoned factory, as if bound to it.
+## Bloody Coin Shop { #exchange-shop }
 
-One day, a former factory worker returned to the building, only to find a horrifying scene: the dollmaker lay lifeless on the ground, while Kimi stood motionless beside him, her gaze empty and hollow. Then, everything faded into darkness.
+![HTF-NPC-Shop](img/HTF/HTF-NPC-Shop.png)
 
-When the girl regained consciousness, she was outside… and her face had changed forever. She had no memory of what had happened, no knowledge of whether Kimi had been responsible for her transformation, but she felt one thing—she needed to uncover the truth.
+You can exchange your Bloody Coins with NPC Mister Cat (`/navi xmas 240/300`) for unique items.
 
-Yet, fear kept her from returning alone. She needed help. And now, the choice is yours: do you have the courage to enter the factory, face Kimi, and uncover the mystery of that fateful day?
+| Item | Item ID | Cost |
+|------|---------|------|
+| ![[Red Lantern [1]](item-changes.md#red-lantern)](img/HTF/2976.gif) [Red Lantern [1]](item-changes.md#red-lantern) | `2976`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 500 Bloody Coins |
+| ![[Old Parasol [3]](item-changes.md#old-parasol)](img/HTF/13442.gif) [Old Parasol [3]](item-changes.md#old-parasol) | `13442`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 500 Bloody Coins |
+| ![[Noble Cross [1]](item-changes.md#noble-cross)](img/HTF/16029.gif) [Noble Cross [1]](item-changes.md#noble-cross) | `16029`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 500 Bloody Coins |
+| ![[Evil Glove [1]](item-changes.md#evil-glove)](img/HTF/2980.gif) [Evil Glove [1]](item-changes.md#evil-glove) | `2980`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 600 Bloody Coins |
+| ![[Celine's Ribbon [1]](item-changes.md#celines-ribbon)](img/HTF/18849.gif) [Celine's Ribbon [1]](item-changes.md#celines-ribbon) | `18849`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 600 Bloody Coins |
+| ![Costume Lush Rose](img/HTF/19687.gif) Costume Lush Rose | `19687`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 200 Bloody Coins |
+| ![Costume Santa Doll Headband](img/HTF/19686.gif) Costume Santa Doll Headband | `19686`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 200 Bloody Coins |
+| ![Sweet Canape](img/HTF/11564.gif) Sweet Canape | `11564`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 3 Bloody Coins |
+| ![Hot Tea](img/HTF/11563.gif) Hot Tea | `11563`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 2 Bloody Coins |
+| ![Big Defense Potion 10 Box](img/HTF/13749.gif) Big Defense Potion 10 Box | `13749`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 3 Bloody Coins |
+| ![Big Magic Defense Potion 10 Box](img/HTF/13749.gif) Big Magic Defense Potion 10 Box | `13755`{ .copy } | ![Bloody Coin](img/HTF/7642.gif) 3 Bloody Coins |
+
+## Monsters
+
+??? note "Background Story, click to expand"
+    Once, in a small town Lutie, there stood a toy factory, the heart of the community. All the townspeople worked there, crafting dolls and other toys. After a long workday, they would gather together, enjoying tea and gingerbread cookies. But the happy times did not last long. People began to leave the town, the factory's business became less and less profitable, and eventually, the decision was made to shut it down.
+
+    The last person to remain at the factory was the master dollmaker, a man who created the most beautiful and lifelike dolls. On the day of the factory’s closure, he finished his final creation—a stunning doll named Celine Kimi. He dressed her in the finest attire, gave her a name, and it seemed as if he was saying farewell not just to the factory, but to his dream. In that very moment, the production lines came to a halt forever.
+
+    But the story did not end there. Kimi… came to life. Whether it was the dollmaker’s craftsmanship, his heartfelt devotion, or something more mysterious, she became a living being. However, her existence was filled with sorrow and rage. She remained within the abandoned factory, as if bound to it.
+
+    One day, a former factory worker returned to the building, only to find a horrifying scene: the dollmaker lay lifeless on the ground, while Kimi stood motionless beside him, her gaze empty and hollow. Then, everything faded into darkness.
+
+    When the girl regained consciousness, she was outside… and her face had changed forever. She had no memory of what had happened, no knowledge of whether Kimi had been responsible for her transformation, but she felt one thing—she needed to uncover the truth.
+
+    Yet, fear kept her from returning alone. She needed help. And now, the choice is yours: do you have the courage to enter the factory, face Kimi, and uncover the mystery of that fateful day?
 
 ### Factory Area No.1
 
@@ -93,10 +134,10 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 4. After completing the dialogue, locate the new Myst Case NPC to transform into a Myst Case. You must be in this form to advance to the next area.
 5. Finally, enter the portal to the right of the Green Cookie to progress to the next phase.
 
-| Monster | Quantity | In-game command |
+| Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2989](img/HTF/2989.gif) Vicious Cookie | 31 | @mi 2989 |
-| ![2991](img/HTF/2991.gif) Evil Dwelling Box | 36 | @mi 2991 |
+| ![Vicious Cookie](img/HTF/2989.gif) Vicious Cookie | 31 | `2989`{ .copy } |
+| ![Evil Dwelling Box](img/HTF/2991.gif) Evil Dwelling Box | 36 | `2991`{ .copy } |
 
 ### Factory Area No.2
 
@@ -118,12 +159,12 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 
 3. Once you’ve spoken to all 10 workers, an announcement will trigger, and all remaining monsters in the room will disappear. After that, go back through the portal you entered from, then proceed through the northern portal to advance to the next phase.
 
-| Monster | Quantity | In-game command |
+| Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2993](img/HTF/2993.gif) Malicious Baby Ghost | 19 | @mi 2993 |
-| ![2989](img/HTF/2991.gif) Evil Dwelling Box | 16 | @mi 2991 |
-| ![2995](img/HTF/2995.gif) Abandoned Teddy bear | 22 | @mi 2995 |
-| ![2992](img/HTF/2992.gif) Creepy Demon | 16 | @mi 2992 |
+| ![Malicious Baby Ghost](img/HTF/2993.gif) Malicious Baby Ghost | 19 | `2993`{ .copy } |
+| ![Evil Dwelling Box](img/HTF/2991.gif) Evil Dwelling Box | 16 | `2991`{ .copy } |
+| ![Abandoned Teddy bear](img/HTF/2995.gif) Abandoned Teddy bear | 22 | `2995`{ .copy } |
+| ![Creepy Demon](img/HTF/2992.gif) Creepy Demon | 16 | `2992`{ .copy } |
 
 ### Factory Area No.3
 
@@ -160,25 +201,23 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 
     He turned to you, waiting for a response. Even if no one technically owned this factory, did that mean anyone could take whatever they wanted?
 
-
 1. Move to the center of the room to initiate a dialogue between Santa and Antonio. Once Antonio vanishes, proceed through the left portal.
 
 2. Inside, you'll encounter numerous monsters, but your main objective is to defeat Antonio. Upon his defeat, an announcement will be made, and all remaining enemies in the room will be eliminated.
 
-!!! Note
-    Antonio may also spawn in the room where the conversation with Santa occurred. Be sure to check that area before heading through the left portal.
+Antonio may also spawn in the room where the conversation with Santa occurred. Be sure to check that area before heading through the left portal.
 
-3.Afterward, return to the central room and proceed through the right portal to enter the final phase.
+3. Afterward, return to the central room and proceed through the right portal to enter the final phase.
 
-| Monster | Quantity | In-game command |
+| Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2994](img/HTF/2994.gif) Dancing Marionette | 37 | @mi 2994 |
-| ![2987](img/HTF/2987.gif) Decorated Evil Tree | 31 | @mi 2987 |
-| ![2995](img/HTF/2995.gif) Abandoned Teddy bear | 43 | @mi 2995 |
-| ![2992](img/HTF/2992.gif) Creepy Demon | 31 | @mi 2992 |
-| ![1247](img/HTF/1247.gif) Antonio | 1 | @mi 2988 |
+| ![Dancing Marionette](img/HTF/2994.gif) Dancing Marionette | 37 | `2994`{ .copy } |
+| ![Decorated Evil Tree](img/HTF/2987.gif) Decorated Evil Tree | 31 | `2987`{ .copy } |
+| ![Abandoned Teddy bear](img/HTF/2995.gif) Abandoned Teddy bear | 43 | `2995`{ .copy } |
+| ![Creepy Demon](img/HTF/2992.gif) Creepy Demon | 31 | `2992`{ .copy } |
+| ![Antonio](img/HTF/1247.gif) Antonio | 1 | `2988`{ .copy } |
 
-### Final Phase.
+### Final Phase
 
 ??? note "Storyline, click to expand"
     Kimi stood in the center of the room, her small figure trembling with pain and confusion.
@@ -249,23 +288,20 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 
 1. Listen to the conversation between Catherine and Celine Kimi. Once it finishes, both Celine Kimi and her phantom will appear.
 
-!!! warning "Celine Kimi's Information"
-    She is a Large-sized, Ghost 1 property, and Undead Race creature. Celine Kimi has a large, spongy Max HP, high DEF, and high MDEF. To defeat her efficiently, it is recommended to use high ASPD AoE (Area of Effect) skills.
+She is a Large-sized, Ghost 1 property, and Undead Race creature. Celine Kimi has a large, spongy Max HP, high DEF, and high MDEF. To defeat her efficiently, it is recommended to use high ASPD AoE (Area of Effect) skills.
 
-    She also casts various skills, including Dispell, Power Up, and Critical Wounds.
+She also casts various skills, including Dispell, Power Up, and Critical Wounds.
 
-    If she is separated from her phantom, the phantom will heal her for a significant amount. Therefore, always ensure the phantom stays close to her, and deal damage to both of them at the same time. If Celine Kimi is moved too far from her spawn area, the fight will reset, so avoid dragging her too far away. It’s advisable to stay near the wall where she spawns to keep her in place.
+If she is separated from her phantom, the phantom will heal her for a significant amount. Therefore, always ensure the phantom stays close to her, and deal damage to both of them at the same time. If Celine Kimi is moved too far from her spawn area, the fight will reset, so avoid dragging her too far away. It’s advisable to stay near the wall where she spawns to keep her in place.
 
-    **Furthermore, if her HP is 1.5% (or approximately 100,000 HP lower) than her phantom’s, the phantom will heal Celine Kimi for 8x the difference in HP.**
+**Furthermore, if her HP is 1.5% (or approximately 100,000 HP lower) than her phantom’s, the phantom will heal Celine Kimi for 8x the difference in HP.**
 
-| Monster | Quantity | In-game command |
+| Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2996](img/HTF/2996.gif) Celine Kimi | 1 | @mi 2996 |
-| ![2997](img/HTF/2997.gif) Kimi's Phantom | 1 | @mi 2997 |
+| ![Celine Kimi](img/HTF/2996.gif) Celine Kimi | 1 | `2996`{ .copy } |
+| ![Kimi's Phantom](img/HTF/2997.gif) Kimi's Phantom | 1 | `2997`{ .copy } |
 
-## Treasure Room
-
-??? note "Storyline, click to expand"
+??? note "Ending Storyline, click to expand"
     Unfortunately, persuading Kimi was unsuccessful.
 
     The unknown phantom voice continued to torment Kimi, filling her heart with pain and doubt. What was that voice? Why was it so cruel to her?.. Deep inside, a suspicion arose that it was because of this voice that Catherine Jet Johnson had fallen under a curse, one that had changed her face.
@@ -279,40 +315,3 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
     — I will go first. Just follow me.
 
     Yet, even as she stepped beyond the factory’s threshold, an uneasy feeling lingered within her. Kimi’s soul was still bound to this place… Would the day ever come when she could finally rest in peace?
-
-After defeating Celine Kimi, proceed through the southwest portal to the treasure room.
-Inside, you'll find 10 treasure box NPCs that will drop items when interacted with.
-
-| Chest 1 | Chest 2 | Chest 3 |
-|---------|---------|---------|
-| ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![616](img/HTF/616.gif) Old Card Album - 30%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![644](img/HTF/644.gif) Gift Box - 40%<br> ![7230](img/HTF/7230.gif) Platinum Bullion - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% |
-| Chest 4 | Chest 5 | Chest 6 |
-| ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7619](img/HTF/7619.gif) Enriched_Elunium - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![616](img/HTF/616.gif) Old Card Album - 30%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon - 5%<br> ![2977](img/HTF/2977.gif) Kind Heart [1] - 1% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![644](img/HTF/644.gif) Gift Box - 5%<br> ![2977](img/HTF/2977.gif) Hurt Mind [1] - 1% |
-| Chest 7 | Chest 8 | Chest 9 |
-| ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![616](img/HTF/616.gif) Old Card Album - 40%<br> ![7619](img/HTF/7619.gif) Enriched_Elunium - 4%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon - 5%<br> ![2977](img/HTF/2977.gif) Hurt Mind [1] - 1% |
-| Chest 10 |
-| ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 10%<br> ![2977](img/HTF/2977.gif) Kind Heart [1] - 1% |
-
-## Exchange Shop
-
-![HTF-NPC-Shop](img/HTF/HTF-NPC-Shop.png)
-
-You can exchange your Bloody Coins with NPC Mister Cat (`/navi xmas 240/300`) for unique items.
-
-How [Red Lantern](item-changes.md#red-lantern), [Old Parasol](item-changes.md#old-parasol), [Noble Cross](item-changes.md#noble-cross), [Evil Glove](item-changes.md#evil-glove) and [Celine's Ribbon](item-changes.md#celines-ribbon) differ from the official versions is on [Item Changes](item-changes.md).
-
-| Item Name | Bloody Coins | In-game command |
-|-----------|--------------|-----------------|
-| ![2976](img/HTF/2976.gif) Red Lantern | 500 | @ii 2976 |
-| ![13442](img/HTF/13442.gif) Old Parasol | 500 | @ii 13442 |
-| ![16029](img/HTF/16029.gif) Noble Cross | 500 | @ii 16029 |
-| ![2980](img/HTF/2980.gif) Evil Glove | 600 | @ii 2980 |
-| ![18849](img/HTF/18849.gif) Celine's Ribbon | 600 | @ii 18849 |
-| ![19687](img/HTF/19687.gif) Costume Lush Rose | 200 |  |
-| ![19686](img/HTF/19686.gif) Costume Santa Doll Headband | 200 |  |
-| ![11564](img/HTF/11564.gif) Sweet Canape | 3 | @ii 11564 |
-| ![11563](img/HTF/11563.gif) Hot Tea | 2 | @ii 11563 |
-| ![13749](img/HTF/13749.gif) Big Defense Potion 10 Box | 3 | @ii 13749 |
-| ![13749](img/HTF/13749.gif) Big Magic Defense Potion 10 Box | 3 | @ii 13755 |
-
-**Good luck and have fun!**

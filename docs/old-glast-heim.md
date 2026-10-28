@@ -32,7 +32,7 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 ### Floor 1
 
-| Monster | Quantity | In-game command |
+| Monster | Quantity | ID |
 |---------|----------|----------|
 | ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 10 | @mi 20574 |
 | ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 10 | @mi 20576 |
@@ -48,7 +48,7 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 ### Floor 2
 
-| Monster | Quantity | In-game command |
+| Monster | Quantity | ID |
 |---------|----------|----------|
 | ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | @mi 20577 |
 | ![2469](img/OGH/2469.gif) Wandering Archer | 30 | @mi 20578 |
@@ -73,9 +73,9 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 | NPC | Require | Obtain | Chance |
 |---|---|---|---|
-| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal Crystal](img/OGH/6607.gif) Temporal Crystal - 100 | ![Temporal boots](img/OGH/2499.gif) Temporal boots [0] | 100% |
-| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal boots](img/OGH/2499.gif) Temporal boots - 1<br>![Temporal Crystal](img/OGH/6607.gif) Temporal Crystal - 1000 | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk) | 100% |
-| ![Hugin's Craftsman](img/OGH/4_F_JOB_BLACKSMITH.gif)<br>Hugin's Craftsman | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [0] - 1<br>![Temporal Crystal](img/OGH/6607.gif) Temporal Crystal - 1500<br>15,000,000z | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk) | 75% |
+| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal Crystal](img/OGH/6607.gif) 100 Temporal Crystal | ![Temporal boots](img/OGH/2499.gif) Temporal boots [0] | 100% |
+| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal boots](img/OGH/2499.gif) 1 Temporal boots<br>![Temporal Crystal](img/OGH/6607.gif) 1,000 Temporal Crystal | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk) | 100% |
+| ![Hugin's Craftsman](img/OGH/4_F_JOB_BLACKSMITH.gif)<br>Hugin's Craftsman | ![Upgraded Temporal boots](img/OGH/22008.gif) 1 Upgraded Temporal boots [0]<br>![Temporal Crystal](img/OGH/6607.gif) 1,500 Temporal Crystal<br>15,000,000z | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk) | 75% |
 
 !!! note
     - Can slot only ![22008](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk)
@@ -97,10 +97,10 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 ## Card Trade
 
-| NPC | Require | Obtaine | In-game command |
-|-----|---------|---------|-----------------|
-| ![4_WHITEKNIGHT](img/OGH/4_WHITEKNIGHT.gif) White Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/card-1.gif) White Knight Card | @ii 4608 |
-| ![4_F_KHALITZBURG](img/OGH/4_F_KHALITZBURG.gif) Khalitzburg Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/card-1.gif) Khalitzburg Knight Card | @ii 4609 |
+| NPC | Require | Obtain | Card ID |
+|-----|---------|--------|---------|
+| ![4_WHITEKNIGHT](img/OGH/4_WHITEKNIGHT.gif) White Knight | ![6608](img/OGH/6608.gif) 5,000 Coagulated Spell or<br> ![6755](img/OGH/6755.gif) 2,000 Contaminated Magic | ![Card](img/card-1.gif) White Knight Card | `4608`{ .copy } |
+| ![4_F_KHALITZBURG](img/OGH/4_F_KHALITZBURG.gif) Khalitzburg Knight | ![6608](img/OGH/6608.gif) 5,000 Coagulated Spell or<br> ![6755](img/OGH/6755.gif) 2,000 Contaminated Magic | ![Card](img/card-1.gif) Khalitzburg Knight Card | `4609`{ .copy } |
 
 ## Ancient Golden Coin
 

@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # Style Guide
@@ -35,6 +35,55 @@ Content.
 - **Sections use `##`, not `###`**: don't start a page's first section at `###` — it has no `##` parent and breaks the page outline. Use `###` only to subdivide an existing `##` section.
 - **Section names**: use the same names across similar pages (a quest page has *Requirements*, *Steps*, *Rewards*) so readers know where to look.
 - **System pages** follow one order: intro, `## How It Works`, then the reference table or list under its own heading (`## Daily Rewards`, `## Item List`). Write the rules in How It Works as short bullets that lead with the rule in bold ("**Missing a day doesn't reset you.**"), and state the rule rather than walking through a worked example.
+
+## Instance pages
+
+Party-run instances (Endless Cellar, Horror Toy Factory, Eternal Bastion) share one layout so players find the same facts in the same place. Open-world dungeons don't use it. Instance pages carry no content-type line.
+
+```markdown
+# Instance Name
+
+One or two plain sentences: what the instance is and what you fight.
+
+!!! info "Quick Facts"
+    - **Location:** NPC and `/navi` address
+    - **Party Size:** 6 person minimum
+    - **Base Level:** 85
+    - **Time Limit:** 4 hours
+    ;--8<-- "instances.md:fact-instance-name"
+
+## Rules
+
+## Getting There
+
+## Rewards
+
+## Instance Currency Shop
+
+## Monsters
+```
+
+- **Order is fixed**, and leave out a section the instance doesn't have (no shop, no instance-specific rules). **Monsters goes at the very bottom**: floors, waves and areas as `###` subsections with their monster tables.
+- **Quick Facts holds party size, level, time limit and run limit.** Rules doesn't repeat those four.
+- **Rules is one table.** Rows every instance has come first, in this order, so a reader always finds the same answer in the same place. Rows unique to one instance come last.
+
+    | Row | Answers |
+    |-----|---------|
+    | **Death** | What happens when you die: revive, warp out, penalty, extra lives |
+    | **Re-entry** | Whether you can leave and come back, and what a disconnect does |
+    | **Storage** | Whether storage is reachable inside, and where |
+    | **RODEX** | Whether mail can be sent and read inside |
+    | **Loot** | Whether mobs drop items, and what comes from chests or rewards instead |
+    | **Run Unlock** | What you must do to unlock the next weekly run (include `rule-unlock-<instance>` from `snippets/instances.md`) |
+
+    Unique rows go after those (Eternal Bastion's Party Lock, Endless Cellar's Monster Count). If a shared value hasn't been verified, write "Not documented yet" rather than dropping the row, so the gap is visible.
+- **Getting There** is the NPC and the steps to start the run, then the shared ready rule.
+- **Monster grid entries** are `![Name](img/1234.gif)<br>15 Name (`1234`{ .copy })`: sprite, then on its own line quantity, name and the copyable ID, with no dash. Stack the label under the sprite only on the multi-mob floor grids; boss floors and stage tables keep the sprite inline with the label. Monster sprites are `docs/img/<ID>.gif`; `game-data-tools/bin/fetch_mob_sprites.py` fetches missing ones.
+- **Notes go where they apply.** Put a caveat in the sentence, table row or section it belongs to instead of a standalone note box. Keep a callout only where missing it costs a run, items or progress (`warning`), right next to the spot it concerns.
+- **Shared text lives in `snippets/`, not on the page.** Include it with `--8<-- "file.md:section"` on its own line (indent it to sit inside an admonition or list). Edit the file and every page that includes it changes.
+    - `snippets/instances.md`: the `!ready` rule, the Re-entry, Storage and RODEX rows most instances share (Eternal Bastion writes its own), each instance's run limit and its unlock point (also used by [Instance Guide](../instance-guide.md)). Add a new instance's `fact-`, `limit-` and `unlock-` sections there.
+    - `snippets/captain-janssen.md`: the Captain Janssen start text shared by Endless Cellar and Endless Tower.
+    - Make a new snippet when the same passage would appear on two pages; don't copy it.
 
 ## Admonitions
 
@@ -76,7 +125,9 @@ Use `??? note "Title"` (collapsible) for a block that's long and mostly referenc
 ## Tables
 
 - Standard Markdown pipe tables. Keep every row's cell content on one line — don't rely on trailing double-spaces for a line break; if a cell genuinely needs a forced break, use `<br>` inside it.
-- An item/monster column shows the icon and name together: `![Name](img/1234.gif) Name`. When the things a table lists (items, monsters, NPCs — anything players look up by ID) are the subject of the table, give their IDs in their own column, last. Skills are the exception: players don't look them up by ID, so skill tables have no ID column. A thing that merely appears in a cell, such as a monster listed in an item-change table, gets the inline form instead, without bold: Poring (`1002`) (see Names and terms).
+- An item/monster column shows the icon and name together: `![Name](img/1234.gif) Name`. When the things a table lists (items, monsters, NPCs — anything players look up by ID) are the subject of the table, give their IDs in their own column, last. A monster table's ID column is headed **ID** and an item table's **Item ID**, and the ID is copyable (`` `2221`{ .copy } ``). Don't list `@mi`/`@ii` commands in a column; players know the commands. Skills are the exception: players don't look them up by ID, so skill tables have no ID column. A thing that merely appears in a cell, such as a monster listed in an item-change table, gets the inline form instead, without bold: Poring (`1002`) (see Names and terms).
+- A cost in a special currency (Bloody Coins, Bastion Coins, Poring Coins) is the currency's sprite, the amount, then the currency name: `![Bloody Coin](img/HTF/7642.gif) 10 Bloody Coins`. Zeny stays `500,000z`.
+- Quantities are plain text, not code: `10 per week`, not `` `10` per week ``. Backticks are for IDs, commands and map addresses.
 - No trailing whitespace on any line, in or out of a table.
 
 ## Links

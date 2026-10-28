@@ -16,15 +16,15 @@ The entrance to Bio Laboratory 4 is located in the bottom-right corner of the Bi
 ## Monsters
 The table includes only regular mobs; mini-bosses and MVPs are not included.
 
-| Monster | Quantity | In-game command |
+| Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2221](img/Biolab4/2221.gif) Randel (`2221`{ .copy }) | 42 | `@mi 2221`{ .copy } |
-| ![2222](img/Biolab4/2222.gif) Flamel  | 42 | `@mi 2222`{ .copy } |
-| ![2223](img/Biolab4/2223.gif) Celia | 81 | `@mi 2223`{ .copy } |
-| ![2224](img/Biolab4/2224.gif) Chen | 42 | `@mi 2224`{ .copy } |
-| ![2225](img/Biolab4/2225.gif) Gertie |57  | `@mi 2225`{ .copy } |
-| ![2226](img/Biolab4/2226.gif) Alphoccio | 42 | `@mi 2226`{ .copy } |
-| ![2227](img/Biolab4/2227.gif) Trentini | 42 | `@mi 2227`{ .copy } |
+| ![2221](img/Biolab4/2221.gif) Randel | 42 | `2221`{ .copy } |
+| ![2222](img/Biolab4/2222.gif) Flamel | 42 | `2222`{ .copy } |
+| ![2223](img/Biolab4/2223.gif) Celia | 81 | `2223`{ .copy } |
+| ![2224](img/Biolab4/2224.gif) Chen | 42 | `2224`{ .copy } |
+| ![2225](img/Biolab4/2225.gif) Gertie | 57 | `2225`{ .copy } |
+| ![2226](img/Biolab4/2226.gif) Alphoccio | 42 | `2226`{ .copy } |
+| ![2227](img/Biolab4/2227.gif) Trentini | 42 | `2227`{ .copy } |
 
 !!! note "MVP Tomb"
     The Bio Lab 4 MVP has a permanent tomb at a fixed spot on the map, showing the last killer, the top
@@ -39,27 +39,27 @@ On the first floor of Bio Lab, you’ll find an NPC called BioShop (`/navi lhz_d
 
 | Item | Item ID | Cost |
 |-|-|-|
-| Ghost Chill | 6471 | 10 Blood Thirst (6470) |
-| Particle Box | 6472 | 100 Sinister Energy Particles (25130) |
-| Sillit Pong | 6443 | 100 Ghost Chill |
-| [Cannon Spear [1]](item-changes.md#cannon-spear) | 1435 | 50 Ghost Chill |
-| [Bible of Promise [1]](item-changes.md#bible-of-promise) | 2162 | 60 Ghost Chill |
-| [Green Operation Coat [1]](item-changes.md#green-operation-coat) | 15044 | 60 Ghost Chill |
-| [Red Ether Bag [1]](item-changes.md#red-ether-bag) | 16010 | 50 Ghost Chill |
-| [Mental Stick [1]](item-changes.md#mental-stick) | 1654 | 50 Ghost Chill |
-| [Telekinetic Orb](item-changes.md#telekinetic-orb) | 2853 | 75 Ghost Chill |
-| [Sura's Rampage [1]](item-changes.md#suras-rampage) | 1830 | 50 Ghost Chill |
-| [Black Wing [2]](item-changes.md#black-wing) | 13061 | 50 Ghost Chill |
-| [Catapult [2]](item-changes.md#catapult) | 18109 | 50 Ghost Chill |
-| [Green Whistle [1]](item-changes.md#green-whistle) | 1930 | 50 Ghost Chill |
-| [Geffenia Water Book [1]](item-changes.md#geffenia-water-book) | 2161 | 60 Ghost Chill |
-| [Stem Whip [1]](item-changes.md#stem-whip) | 1984 | 50 Ghost Chill |
-| [Dance Shoes [1]](item-changes.md#dance-shoes) | 2465 | 50 Ghost Chill |
-| [Assassin's Handcuffs](item-changes.md#assassins-handcuffs) | 2892 | 60 Ghost Chill |
+| Ghost Chill | 6471 | ![Blood Thirst](img/6470.gif) 10 Blood Thirst |
+| Particle Box | 6472 | ![Sinister Energy Particle](img/Biolab4/25130.gif) 100 Sinister Energy Particles |
+| Sillit Pong | 6443 | ![Ghost Chill](img/6471.gif) 100 Ghost Chill |
+| [Cannon Spear [1]](item-changes.md#cannon-spear) | 1435 | ![Ghost Chill](img/6471.gif) 50 Ghost Chill |
+| [Bible of Promise [1]](item-changes.md#bible-of-promise) | 2162 | ![Ghost Chill](img/6471.gif) 60 Ghost Chill |
+| [Green Operation Coat [1]](item-changes.md#green-operation-coat) | 15044 | ![Ghost Chill](img/6471.gif) 60 Ghost Chill |
+| [Red Ether Bag [1]](item-changes.md#red-ether-bag) | 16010 | ![Ghost Chill](img/6471.gif) 50 Ghost Chill |
+| [Mental Stick [1]](item-changes.md#mental-stick) | 1654 | ![Ghost Chill](img/6471.gif) 50 Ghost Chill |
+| [Telekinetic Orb](item-changes.md#telekinetic-orb) | 2853 | ![Ghost Chill](img/6471.gif) 75 Ghost Chill |
+| [Sura's Rampage [1]](item-changes.md#suras-rampage) | 1830 | ![Ghost Chill](img/6471.gif) 50 Ghost Chill |
+| [Black Wing [2]](item-changes.md#black-wing) | 13061 | ![Ghost Chill](img/6471.gif) 50 Ghost Chill |
+| [Catapult [2]](item-changes.md#catapult) | 18109 | ![Ghost Chill](img/6471.gif) 50 Ghost Chill |
+| [Green Whistle [1]](item-changes.md#green-whistle) | 1930 | ![Ghost Chill](img/6471.gif) 50 Ghost Chill |
+| [Geffenia Water Book [1]](item-changes.md#geffenia-water-book) | 2161 | ![Ghost Chill](img/6471.gif) 60 Ghost Chill |
+| [Stem Whip [1]](item-changes.md#stem-whip) | 1984 | ![Ghost Chill](img/6471.gif) 50 Ghost Chill |
+| [Dance Shoes [1]](item-changes.md#dance-shoes) | 2465 | ![Ghost Chill](img/6471.gif) 50 Ghost Chill |
+| [Assassin's Handcuffs](item-changes.md#assassins-handcuffs) | 2892 | ![Ghost Chill](img/6471.gif) 60 Ghost Chill |
 
 ## Sinister Energy Particle
 
-Each monster in Biolab4 has a chance to drop a ![25130](img/Biolab4/25130.gif) **Sinister Energy Particle**, which can be exchanged in the shop for a ![14003](img/Biolab4/14003.gif) **Particle Box**.
+Each monster in Biolab4 has a chance to drop a **Sinister Energy Particle**, which can be exchanged in the shop for a ![14003](img/Biolab4/14003.gif) **Particle Box**.
 
 ![Particle-Box](img/Biolab4/Particle-Box.png) ![Sinister-Energy-Particle](img/Biolab4/Sinister-Energy-Particle.png)
 
