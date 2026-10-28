@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13
+updated: 2026-10-28
 ---
 
 # Commands
@@ -143,15 +143,16 @@ The options in this menu are currently:
 2. **Mute Pets** - Toggle pet chatter on/off
 3. **Mute Songs** - Toggle audio from bard/dancer songs on/off
 4. **Show Rare Drops** - Set a percentage to be informed of rare drops
-5. **Show Experience** - Toggle showing exp on and off
-6. **Show Guildmates HP** - Enable HP bar under fellow guild members
-7. **Show Teleport Pevious Position** - Shows your last teleport on the minimap
-8. **Direct Message Warning** -
-9. **Time Mode** - Toggle the night/day cycle between permanent night or day, or keep the default cycle
-10. **Item from Storage Weight Limit** - Determine how much weight you can carry from storage when moving items or using `@restock`
-11. **Anouncement Config** - Options for visibility of overhead announcements
-12. **Channel Config** - Options for visibility of active server chat channels
-13. **Headgears & Costumes (WoE)** - Toggle costume visibility on/off for WoE only
+5. **Card Drop Illustration** - Toggle the card art pop-up when you loot an announced card
+6. **Show Experience** - Toggle showing exp on and off
+7. **Show Guildmates HP** - Enable HP bar under fellow guild members
+8. **Show Teleport Pevious Position** - Shows your last teleport on the minimap
+9. **Direct Message Warning** -
+10. **Time Mode** - Toggle the night/day cycle between permanent night or day, or keep the default cycle
+11. **Item from Storage Weight Limit** - Determine how much weight you can carry from storage when moving items or using `@restock`
+12. **Anouncement Config** - Options for visibility of overhead announcements
+13. **Channel Config** - Options for visibility of active server chat channels
+14. **Headgears & Costumes (WoE)** - Toggle costume visibility on/off for WoE only
 
 ### Hide Pets
 Finding pets distracting? Access these options through the menu, or via commands.
@@ -174,10 +175,13 @@ The Show Rare Drops option will announce your rare drops to yourself. It is acce
 - `showrare <1-100>`
   Using the command with 0 or no value will disable it.
 
+### Card Drop Illustration
+When you loot a card that shows the server drop announcement, its card art pops up on the bottom right of your screen for 5 seconds. Only the player who gets the card sees it. The option is on by default.
+
 ### Announcements
 The Announcement Config menu consolidates all broadcast announcement options in one place.
 
-Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kill**, **Community News**, **MVP**, **Event**, and **PvP Arena** announcements, with your choices saved to your account. The PvP Arena option hides the arena's server-wide open, reminder, winner and close messages; these messages are shown by default. A new **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
+Individually turn on or off **Welcome**, **Drop**, **Battlegrounds (BG)**, **Kill**, **Community News**, **MVP**, **Event**, and **PvP Arena** announcements, with your choices saved to your account. A **Drop** announcement for a card names the player who actually looted it (autoloot, pet loot or picked up) and shows which copy of that card it is and on which kill. Cards received through party loot share show no kill count. Cards your pet loots are credited to you, and kills made by your homunculus, mercenary, elemental or pet count towards your kill count. The PvP Arena option hides the arena's server-wide open, reminder, winner and close messages; these messages are shown by default. A new **Colorblind Mode** recolors server announcements to high-contrast yellow for easier reading.
 
 ## @lootconfig — Advanced Autoloot System
 
@@ -339,7 +343,7 @@ The `@noks` command prevents kill stealing (KS). In a party, `@nokscheck` can us
 | --------- | -------------------- |
 | **Self**  | Only you can attack your mobs - Disables Party/Guild |
 | **Party** | Allows party members to attack your mobs |
-| **Guild** | Allows guild members to attack your moms |
+| **Guild** | Allows guild members to attack your mobs |
 
 ## Trade Commands
 
@@ -350,6 +354,11 @@ Check [Vendor System](vendor-system.md) for more information about shops.
     Allows you to continue vending offline.
     The client's **Import** function can reopen your last shop, see
     [Vendor System](vendor-system.md#import-your-last-shop).
+
+- `@autotrade2` or `@at2`
+
+    Keeps your shop open while you go back to character select and play other characters on the same account. Log back into the vendor to close it; Zeny and items from sales carry over to the character. See
+    [Vendor System](vendor-system.md#autotrade-2).
 
 - `@vendrecap`
 

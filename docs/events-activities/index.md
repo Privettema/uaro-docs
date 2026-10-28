@@ -52,6 +52,10 @@ Seasonal events run for a limited time and may return in the future.
 
 <div class="grid cards" markdown>
 
+- [**🦇 Halloween Event 2026**](../halloween-event-2026.md)
+
+    Live now! Trick or Treat, a 7-day story and a weekly party instance.
+
 - [**🏖️ Summer Festival 2026**](../summer-event-2026.md)
 
     Ended. May return in the future.

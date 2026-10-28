@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # Old Glast Heim
@@ -34,33 +34,33 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 | Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 10 | `2470`{ .copy } |
-| ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 10 | `2471`{ .copy } |
-| ![2465](img/OGH/2465.gif) Corrupted Monk | 20 | `2465`{ .copy } |
-| ![2464](img/OGH/2464.gif) Corrupted Steward | 32 | `2464`{ .copy } |
-| ![2466](img/OGH/2466.gif) Chamberlain in Pain | 27 | `2466`{ .copy } |
-| ![2469](img/OGH/2469.gif) Wandering Archer | 56 | `2469`{ .copy } |
-| ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | `2468`{ .copy } |
-| ![2473](img/OGH/2473.gif) 1st Commander of Death | 1 | `2473`{ .copy } |
-| ![2474](img/OGH/2474.gif) 2nd Commander of Death | 1 | `2474`{ .copy } |
-| ![2467](img/OGH/2467.gif) Maggot | - | `2467`{ .copy } |
-| ![2475](img/OGH/2475.gif) **Corrupted Soul (MVP)** | 1 | `2475`{ .copy } |
+| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 10 | @mi 20574 |
+| ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 10 | @mi 20576 |
+| ![2465](img/OGH/2465.gif) Corrupted Monk | 20 | @mi 20898 |
+| ![2464](img/OGH/2464.gif) Corrupted Steward | 32 | @mi 20579 |
+| ![2466](img/OGH/2466.gif) Chamberlain in Pain | 27 | @mi 3753 |
+| ![2469](img/OGH/2469.gif) Wandering Archer | 56 | @mi 20578 |
+| ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | @mi 20577 |
+| ![2473](img/OGH/2473.gif) 1st Commander of Death | 1 | @mi 2473 |
+| ![2474](img/OGH/2474.gif) 2nd Commander of Death | 1 | @mi 2474 |
+| ![2467](img/OGH/2467.gif) Maggot | - | @mi 2467 |
+| ![2475](img/OGH/2475.gif) **Corrupted Soul (MVP)** | 1 | @mi 20575 |
 
 ### Floor 2
 
 | Monster | Quantity | ID |
 |---------|----------|----------|
-| ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | `2468`{ .copy } |
-| ![2469](img/OGH/2469.gif) Wandering Archer | 30 | `2469`{ .copy } |
-| ![2465](img/OGH/2465.gif) Corrupted Monk | 30 | `2465`{ .copy } |
-| ![2466](img/OGH/2466.gif) Chamberlain in Pain | 27 | `2466`{ .copy } |
-| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 20 | `2470`{ .copy } |
-| ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 25| `2471`{ .copy } |
-| ![2472](img/OGH/2472.gif) Suffered Bloody Knight | 23 | `2472`{ .copy } |
-| ![2473](img/OGH/2473.gif) 1st Commander of Death | 3 | `2473`{ .copy } |
-| ![2474](img/OGH/2474.gif) 2nd Commander of Death | 3 | `2474`{ .copy } |
-| ![2467](img/OGH/2467.gif) Maggot | - | `2467`{ .copy } |
-| ![2476](img/OGH/2476.gif) **Amdarais (MVP)** | 1 | `2476`{ .copy } |
+| ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | @mi 20577 |
+| ![2469](img/OGH/2469.gif) Wandering Archer | 30 | @mi 20578 |
+| ![2465](img/OGH/2465.gif) Corrupted Monk | 30 | @mi 20898 |
+| ![2466](img/OGH/2466.gif) Chamberlain in Pain | 27 | @mi 3753 |
+| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 20 | @mi 20574 |
+| ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 25| @mi 20576 |
+| ![2472](img/OGH/2472.gif) Suffered Bloody Knight | 23 | @mi 3474 |
+| ![2473](img/OGH/2473.gif) 1st Commander of Death | 3 | @mi 2473 |
+| ![2474](img/OGH/2474.gif) 2nd Commander of Death | 3 | @mi 2474 |
+| ![2467](img/OGH/2467.gif) Maggot | - | @mi 2467 |
+| ![2476](img/OGH/2476.gif) **Amdarais (MVP)** | 1 | @mi 20573 |
 
 !!! note
     Resurrection cannot one-hit kill Corrupted Monk. Some monsters in this instance have modified behavior compared to

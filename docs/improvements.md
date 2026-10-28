@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13
+updated: 2026-10-21
 ---
 
 # Quality of Life Improvements
@@ -92,7 +92,6 @@ The party menu shows short letters in front of each member's name for the buffs 
 | **Easy Access to Prontera** | Distant cities have warp access to Prontera for 25,000z. |
 | **Sensible Teleporting** | Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control. |
 | **Minimap Recall** | Track your previous teleport or fly wing location by configuring in `@settings`.  |
-| **Stacking Monsters** | Monster stack limit is increased from 1 to 7. |
 | **Rotating Bonus EXP Maps** | Two bonus areas are selected every 48-72 hours to receive an 20-30% EXP boost until the next rotation. You can check the current areas with `@mapexp`. |
 | **Test Your Build** | [Target Dummy](custom-npc.md#combat) NPCs are available to test our your equipment and build against most scenarios. |
 | **Safe Card Removal** | [Mysterious Granny](custom-npc.md#cards) can remove cards from equipment with 100% success for a significant fee. |
@@ -104,7 +103,7 @@ The party menu shows short letters in front of each member's name for the buffs 
 | **On-Kill Drop Bonuses** | The 10 item cap on drop-on-kill items and cards is lifted. Duplicates of the same card or equipment still do not stack, only the highest chance applies. |
 | **Item Protection** | Costumes, pet eggs, cards, carded equipment, items refined to +4 or higher and some headgear can no longer be sold to NPCs or dropped. |
 | **Food Buff Stacking** | Foods of the same stat stack: the higher one is in effect and the lower one resumes when it ends. A higher tier food ends the lower one and starts at full duration. |
-| **Visual AFK Status** | After 60 seconds idle (the same rule as autoloot), an AFK sprite appears above your head and temporarily replaces your upper headgear look. Any input removes it. It does not show in towns, while on Autotrade or with a shop open, or in WoE castles. |
+| **Visual AFK Status** | After 60 seconds idle (the same rule as autoloot), an AFK effect appears on your character, on top of any headgear or costume you wear. Any input removes it. It does not show in towns, while on Autotrade or with a shop open, or in WoE castles. |
 
 
 ### Guild Refinements

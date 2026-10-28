@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13
+updated: 2026-10-21
 ---
 
 # Battlegrounds
@@ -328,6 +328,7 @@ The **BG Shop** is available through the Battlegrounds NPC in Prontera. Most gea
 | Queue cooldown | Joining and then leaving the queue starts a 60 second cooldown. |
 | Team balancing | If duplicate classes join, they are split between the teams. |
 | Class change cards | Abracadabra and class change cards (Azoth Card, Hylozoist Card) are blocked on battleground maps. |
+| Disabled items | Tuxedo (`7170`) and Wedding Dress (`2338`) can't be used on battleground maps. |
 | Party Buffs | Party buffs cast on a battleground map reach every teammate in range, whether or not you are grouped with them. |
 | Late joining | Late joiners spawn in their team's waiting room, not at the battlefield entry point. |
 | **Skills** |

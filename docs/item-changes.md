@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13
+updated: 2026-10-21
 ---
 
 # Item Changes
@@ -58,9 +58,9 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | [](){ #bible-of-promise } Bible of Promise [1] | 2162 | Required Level 140<br>Equippable by Arch Bishop (3rd job)<br>MDEF +5<br>Enables Odin's Power Level 2<br>Increases healing effectiveness by 5% | Required Level 90<br>High Priest only<br>MDEF +5<br>INT +2<br>Increases healing effectiveness by 5%<br><br>Acquisition: [Biolabs 4](biolab4.md#biolabs-shop) |
 | Black Tail Ribbon [1] | 5765 |  | Acquisition: [Sabrina](woe.md#equipment), 15 WoE Equipment Tokens |
 | Blood Sucker | 18754 | Unbreakable | Adds 1% chance of absorbing 3% physical damage inflected on target as HP<br> Disables natural HP and SP recovery |
-| Boitata Hat [1] | 18659 |  | Acquisition: Boitata (`2068`) |
+| Boitata Hat [1] | 5940 |  | Acquisition: Boitata (`2068`) |
 | [](){ #bone-plate } Bone Plate [1] | 15000 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
-| Book of Soyga [1] | 19326 |  | Acquisition: [Dimonka](dimonka-headgear-quest.md) |
+| Book of Soyga | 19326 | Required Level 90 (renewal) | Each card gives +5% experience from monsters of its race when equipped together: Armeyer Dinze (Fish), Anopheles (Insect), Orc Archer (Demi-Human), Grove (Formless), Baroness of Retribution (Angel), Stem Worm (Brute), Cloud Hermit (Plant), Dragon Egg (Dragon), Wraith (Undead), Raydric Archer (Demon)<br>Required Level 20<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | Bradium Brooch[1] | 2790 | Not dropped by any monster | Dropped by Bradium Golem (`2024`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | [](){ #celines-ribbon } Celine's Ribbon [1] | 18849 | DEX +3<br>MATK +40, plus 7 per refine level<br>Recover 200 HP each time you kill a monster with magic<br>50 HP drain every 5 seconds | DEX +3<br>MATK +20<br>MATK +1 per refine level<br>25 HP drain every 5 seconds<br>Equippable by all Trans classes |
 | Chick Hat | 5283 | Reduces damage from Demi-Human monsters by 3% | Also reduces damage taken from Brute monsters by 3% |
@@ -89,7 +89,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Mitra [1] | 5747 | MATK +10 at base INT 120 or higher<br>Required Level 100 | MATK +10 at base INT 90 or higher<br>Required Level 90 |
 | Ninja Suit | 2337 (unslotted)<br>2359 ([1]) | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
 | Novice Breastplate [1] | 2340 | Not enchantable at the Apprentice Craftsman High Grade Armor service | Can be enchanted at the Apprentice Craftsman High Grade Armor service in Prontera (`/navi prontera 165/60`) |
-| Old Minstrel Song's Hat [1] | 18976 |  | Acquisition: [Dimonka](dimonka-headgear-quest.md) |
+| Old Minstrel Song's Hat [1] | 18976 | Defense 10<br>Required Level 170 (renewal) | Defense 3<br>All stats +1<br>Arrow Vulcan damage +20%<br>For each 2 refine levels: ranged physical damage +1%<br>Required Level 90<br>Clown and Gypsy only<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | Old Mitra [1] | 18972 |  | INT +1<br>MDEF +5<br>For each 2 refine levels: MAX HP +1%, MAX SP +1%, ATK +8, MATK +4 and Magnus Exorcismus damage +4%<br>Required Level 70<br>Priest only<br><br>Acquisition: Margaretha Sorin (`1637`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Puppy Hat | 5182 | Randomly autocasts Gloria when dealing physical attack<br>At base AGI 77 or higher, the chance is 3% | At base AGI 77 or higher, the chance is 5% |
 | [](){ #red-lantern } Red Lantern [1] | 2976 | Required Level 100<br>MAX SP -300<br>Enables Sight Level 1<br>Adds a 0.5% chance each for Alcohol, Detrimindexta and Karvodailnirol to drop when killing a monster | Required Level 20<br> Equippable by All except Novice, Taekwon, Star Gladiator |
@@ -110,9 +110,10 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Umbala Spirit | 18505 | VIT +1 | Max HP +1%<br>Increases the recovery rate of Meat by 25%<br>Chance of dropping Meat when defeating monsters |
 | Valkyrie Drop | 28564 | Required Level 100<br>SP recovery rate +50%<br>Variable cast time -10%<br>After skill delay -5%<br>Oratio: variable cast time -50% and fixed cast time -100%<br>Magical damage against all sizes +3% per level of Impositio Manus<br>Magnus Exorcismus damage +3% per 2 Base Levels<br>At Impositio Manus Level 5, enables Odin's Power Level 2<br>Not dropped by any monster | Cast time -5%<br>After skill delay -5%<br>For each level of Impositio Manus: Magnus Exorcismus damage +4%<br>Required Level 70<br>Priest only<br><br>Acquisition: Dropped by High Priest Margaretha (`1649`)<br>Drop rate: [Monster Changes](monster-changes.md) |
 | Waterdrop Brooch [1] | 2787 | Not dropped by any monster | Dropped by Kraken (`2202`)<br>Drop rate: [Monster Changes](monster-changes.md) |
+| Witch's Pumpkin Hat | 18656 | Defense 10 (renewal) | Defense 1<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 | [](){ #wounded-heart } Wounded Heart [1] | 2977 | Required Level 110<br>MAX SP +200<br>Enables Scream Level 3 | DEX +2<br>AGI +1<br>+5% damage to all races<br>Required Level 90<br>Equippable by all Transcendent jobs |
 | Yellow Bandana | 5277 | Cannot be acquired | Available from Sabrina for 15 WoE Tokens |
-| Yin Yang Earrings | 18576 |  | When equipped with Hot-blooded Headband (`5070`): Raging Thrust and Raging Trifecta Blow damage +5%, Chain Crush Combo and Glacier Fist damage +3%<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
+| Yin Yang Earrings | 18576 | Required Level 50 (renewal) | Chain Combo damage +10%<br>Triple Attack damage +5%<br>Combo Finish damage +5%<br>When equipped with Hot-blooded Headband (`5070`): Triple Attack and Combo Finish damage +5%, Tiger Fist and Chain Crush Combo damage +3%<br>Required Level 70<br><br>Acquisition: [Dimonka](dimonka-headgear-quest.md) |
 
 ## Consumables
 
