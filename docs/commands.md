@@ -196,8 +196,8 @@ The `@lootconfig` command provides a **user-friendly UI** for managing autoloot 
 ### ✨ Key Features
 
 - **Toggle Autoloot** – Enable/disable autoloot and set a drop-rate threshold
-- **Ignore Items** – Exclude unwanted items from autoloot
-- **Loot Groups** – Create and manage up to **20 custom loot groups**
+- **Ignore Items** – Exclude up to **100** unwanted items from autoloot
+- **Loot Groups** – Create and manage up to **40 custom loot groups**, with up to **100** items each
 - **Group Functions** – Preset list system
 - **Rename Groups** – Fully customizable group names
 - **Quick Setup UI** – Easy and fast configuration via interface

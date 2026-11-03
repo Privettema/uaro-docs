@@ -103,9 +103,9 @@ Talk to the **Pet Stylist** in Prontera (`/navi prontera 218/224`), directly nor
 - The pet must be loyal and out when you talk to the Pet Stylist.
 - The cost is the pet itself. It returns to its egg and the egg is consumed, so it is not turned back into an egg afterwards.
 - The skin is account wide, and you can apply it to any pet.
-- Your skin choice is kept when you return the pet to its egg and rehatch it, switch characters or log out.
+- Your skin choice is saved per character, and kept when you return the pet to its egg and rehatch it, switch characters or log out.
 - A Pet Incubator switch keeps the skin (see [Pet Switch](#pet-switch)).
-- A skinned pet can equip the skin's accessory, and the accessory is shown on the pet.
+- A skinned pet can equip the skin's accessory, even if the pet has no accessory of its own, and the accessory is shown on the pet.
 
 ## Hiding Pets
 
