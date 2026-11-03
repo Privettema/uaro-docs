@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-06
+updated: 2026-11-03
 ---
 
 # Class Changes
@@ -165,7 +165,7 @@ Status effects that behave differently from the official game.
 | Skill | Original | uaRO Changes |
 |-|-|-|
 | Fame System | Fame points are kept permanently. | Fame points decay by 5% per month. |
-| ![Bio Cannibalize](img/Class_Changes/am_cannibalize.gif) Bio Cannibalize | At most 3 Flora, 2 Parasites or 1 Geographer can be out at once (6 minus the skill level). | Increased plant count of Flora, Parasite and Geographer on non-PvP maps. |
+| ![Bio Cannibalize](img/Class_Changes/am_cannibalize.gif) Bio Cannibalize | At most 3 Flora, 2 Parasites or 1 Geographer can be out at once (6 minus the skill level).<br>Plants use their own DEX for HIT (plant level + DEX). | Increased plant count of Flora, Parasite and Geographer on non-PvP maps.<br>Plants use your DEX for HIT (plant level + your DEX), except on GvG maps. |
 | ![Bioethics](img/Class_Changes/am_bioethics.gif) Bioethics | Allows the Alchemist to begin learning the Homunculus skill tree. | Now an active skill, used as the interface to swap between your stored homunculi (costs 1 embryo to swap).<br>Use Rest on your active homunculus before you can open it. |
 | ![Call Homunculus](img/Class_Changes/am_callhomun.gif) Call Homunculus | Summons or recalls an already created Homunculus. | Calls your most recently selected homunculus. Your active choice won't show on your Bioethics storage list. |
 | ![Mental Change (Lif)](img/Class_Changes/hlif_change.png) Mental Change (Lif) | Cooldown of 10, 15 and 20 minutes for Levels 1-3.<br>The effect ends when the homunculus warps (Fly Wing, Teleport), and the cooldown keeps running. | Cooldown of 5 minutes at every Level.<br>The cooldown resets when the effect ends from a teleport or map change, so it can be cast again right away. |
@@ -302,6 +302,7 @@ No other changes to Hunter skills.
 |-|-|-|
 | Death Count | Reaching Job Level 70 without dying gives +10 to all stats. Dying afterwards removes the bonus for good, and the death count cannot be reset. | The death count can be reset for free at [Lupita](custom-npc.md#other), south of Prontera.<br>The reset also grants a 10 second Super Novice Spirit (Super Novice and Super Baby only), long enough to swap into gear unlocked by the link. |
 | Doridori | Increases SP regeneration only.<br>No status icon.<br>Stays active when you stand up. | Also increases HP regeneration.<br>Shows a status icon while active.<br>Ends when you stand up. |
+| Fury Chant | Saying the chant as three separate messages, in order, while Base EXP is at exactly 10%, 20% and so on up to 90% gives Fury: `Dear angel, can you hear my voice?`, `I am <name> Super Novice~`, `Help me out~ Please~ T_T`.<br>Chanting again while Fury is active renews it. | The whole chant also works as one message, with the same requirements: `Dear angel, can you hear my voice? I am <name> Super Novice~ Help me out~ Please~ T_T`.<br>The chant fails while Fury is active. |
 | Passive Bonuses | | +2000 weight limit.<br>+10 DEX in total, granted over Job Levels 1-50.<br>Passive ASPD increase. |
 | Removed Skills | Super Novices can learn Increase Agility, Blessing, Enlarge Weight Limit, Identify, Transcendence and Owl's Eye. | These six skills are removed from the skill tree. Blessing and Increase Agility are replaced by the Super Blessing platinum skill. |
 | ![Angel, Help me!](img/Class_Changes/nv_helpangel.png) Angel, Help me! | Expanded Super Novice skill, not available to Super Novice. | Available as a platinum skill from the Platinum Skill NPC in the Main Office.<br>Restores HP and SP for you and your party members in a 15x15 area around you: 500 HP and 100 SP per second for 20 seconds. Cooldown of 300 seconds. |

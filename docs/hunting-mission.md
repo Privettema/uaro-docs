@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-08
+updated: 2026-11-03
 ---
 
 # Hunting Missions — Hobota
@@ -81,10 +81,12 @@ Mission Points earned from Hunting Missions can be spent at the **Mission Shop**
 
 ![HobotaShop](img/Hunting_Mission/Shop.png)
 
-!!! info "New Shop Item"
+!!! info "New Shop Items"
     <img src="../img/7959.gif" alt="Gold Coin"
     style="vertical-align:middle;width:1.25rem;height:1.25rem;">
     **Roulette Gold Coin** — `40` Mission Points
+
+    [**Pet Accessory Box**](item-changes.md#pet-accessory-box) — `30` Mission Points
 
 !!! note "Weight and Space Check"
     The shop checks your weight and free inventory space before taking your **Mission Points**,

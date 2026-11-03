@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13
+updated: 2026-11-03
 ---
 
 # Comodo Casino
@@ -50,6 +50,7 @@ updated: 2026-10-13
     | Item | Qty |
     |------|-----|
     | <img src="../img/12105.gif" alt=""> **Taming Gift Set** | 1 |
+    | **Pet Accessory Box** | 1 |
     | <img src="../img/12208.gif" alt=""> **Battle Manual (100%)** | 3 |
     | <img src="../img/12211.gif" alt=""> **Kafra Card** | 5 |
     | <img src="../img/7620.gif" alt=""> **Enriched Oridecon Box** | 1 |

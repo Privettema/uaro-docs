@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-14
+updated: 2026-11-03
 ---
 
 # Cute Pet System
@@ -18,6 +18,7 @@ Pets follow you through every adventure and give you a bonus once they trust you
 - Its bonus depends on intimacy. Each card lists the Loyal bonus, and the lower levels where a pet has them.
 - A pet must be at Loyal intimacy to evolve. The materials are on the pet it evolves from, under "Evolves into".
 - Swap to another egg with a [**Pet Incubator**](#pet-switch) (`643`), or turn a loyal pet into a permanent skin at the [Pet Stylist](#pet-stylist).
+- A [**Pet Accessory Box**](item-changes.md#pet-accessory-box) (`16358`) gives 1 random pet accessory out of 39, each with the same chance.
 
 ## Taming
 
@@ -101,11 +102,10 @@ Talk to the **Pet Stylist** in Prontera (`/navi prontera 218/224`), directly nor
 
 - The pet must be loyal and out when you talk to the Pet Stylist.
 - The cost is the pet itself. It returns to its egg and the egg is consumed, so it is not turned back into an egg afterwards.
-- The skin is account wide, and you can apply it to any pet. It persists through logout.
+- The skin is account wide, and you can apply it to any pet.
+- Your skin choice is kept when you return the pet to its egg and rehatch it, switch characters or log out.
 - A Pet Incubator switch keeps the skin (see [Pet Switch](#pet-switch)).
-
-!!! warning "Reverting to Egg"
-    Returning a pet to its egg reverts it to the default appearance when it is rehatched, regardless of the skin applied. A Pet Incubator switch keeps your skin (see [Pet Switch](#pet-switch)).
+- A skinned pet can equip the skin's accessory, and the accessory is shown on the pet.
 
 ## Hiding Pets
 

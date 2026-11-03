@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-06
+updated: 2026-11-03
 ---
 
 # Class Changes Source Comparison
@@ -96,7 +96,7 @@ How to read it:
 | Skill | Original | uaRO change | Hercules / rAthena | iRO Wiki | Result and caveat |
 |-|-|-|-|-|-|
 | Fame System | Fame kept permanently | Decays 5% per month | No decay | Not checked | match |
-| Bio Cannibalize | 3 Flora, 2 Parasites, 1 Geographer | Increased plant counts (no numbers) | 6 minus skill level | 5, 4, 3, 2, 1 by level | match. Caveat: new counts not published; prose approved |
+| Bio Cannibalize | 3 Flora, 2 Parasites, 1 Geographer; plants use their own DEX for HIT | Increased plant counts (no numbers); plants use caster DEX for HIT, except GvG | 6 minus skill level; mob HIT is level + DEX | 5, 4, 3, 2, 1 by level; HIT not checked | match. Caveat: new counts not published; prose approved. HIT rule added from patch 11032026 |
 | Bioethics | Allows learning homunculus skills | Active; swaps homunculi for 1 embryo; Rest first | No data | Passive skill | match |
 | Call Homunculus | Summons or recalls | Calls the last selected homunculus | No data | Restores a vaporized one | partial |
 | Mental Change | Cooldown 10, 15, 20 min; ends on warp, cooldown keeps running | Cooldown 5 min; cooldown resets when it ends from a teleport or map change | rAthena: ends on warp; durations differ (1, 2, 3 vs 1, 3, 5 min) | Duration 1, 3, 5 min, cooldown 10, 15, 20 min | match. Caveat: duration left off because official equals uaRO (patch 10062026 reversed the earlier carry-through line) |
@@ -152,6 +152,7 @@ How to read it:
 |-|-|-|-|-|-|
 | Death Count | +10 stats if no deaths by Job Level 70; no reset | Free reset at Lupita; 10 second Spirit | Not tested | Not checked | unverified |
 | Doridori | SP regen only; no icon; stays active standing | HP regen too; icon; ends on standing | State flag only | Not checked | unverified. Caveat: Original assumed on the maintainer's word |
+| Fury Chant | Three lines as separate messages at exact 10% steps of Base EXP (10% to 90%); chanting again renews Fury | Whole chant in one message also works; fails while Fury is active | Hercules: three messages, 10.0% to 90.0% (0% off by default) | Not checked | emulator only (patch 11032026) |
 | Passive Bonuses | (blank) | +2000 weight, +10 DEX, passive ASPD | n/a | n/a | new. Caveat: ASPD value not published |
 | Removed Skills | Six skills learnable | Six skills removed | Tree lists five (not Transcendence) | Not checked | partial |
 | Angel, Help me! | Expanded skill; not for Super Novice | Platinum skill; 500 HP / 100 SP per second | rAthena renewal: 20 second duration, 300 second cooldown | Not checked | partial. Caveat: official HP and SP values unknown; prose approved |

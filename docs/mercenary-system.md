@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-28
+updated: 2026-11-03
 ---
 
 # :crossed_swords: Mercenary System
@@ -22,6 +22,7 @@ Mercenaries become available from **Base Level 15**. There are three types, each
 - **Cost:** 7,500z to 63,000z, depending on contract level
 - **Duration:** 30 minutes
 - **Limit:** unlimited contracts can be purchased
+- **Bulk hire:** level 1-6 contracts can be bought 1-100 at a time with **Hire Multiple**
 - **Scrolls:** level 1-7 contract scrolls can be stored; level 8-10 scrolls cannot and are locked to your character
 
 Mercenaries do not gain XP. A higher contract level gives a stronger mercenary with more skills, and stats grow with

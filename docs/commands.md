@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-28
+updated: 2026-11-03
 ---
 
 # Commands
@@ -128,6 +128,10 @@ Every in-game command on uaRO, grouped by what it does. Type `@commands` in game
 
     Sends a message to all connected GMs.
 
+- `@friendinvite <character name>`
+
+    Sends a friend request. A character who is offline gets it when they log in. You can't invite your own characters, and a request that isn't answered expires after 2 hours (a server restart also clears pending requests).
+
 ## @settings - Personal Configuration
 
 Personalize your game settings applied on login. Offering a streamlined UI for saving preferences like **announcements, chat channels, and visibility settings**.
@@ -253,7 +257,7 @@ These commands can speed up your interaction with storage for consumable and mis
 
 ### ✨ Key Features
 - Improved management interface
-- Create up to 20 different lists of each type
+- Create up to 40 different lists of each type, with up to 40 items per list
 - Add/delete/rename lists easily
 - **Restock**: Pulls directly from storage to restock items
 - **Quick Store**: Takes items from inventory into storage
@@ -419,7 +423,7 @@ Get quick, accurate information about mobs and items in-game without having to s
 ## Guild Commands
 
 - `/guildinvite <player name>`
-  Invite a character to your guild, even if they are offline. When they login they will get the guild invite prompt.
+  Invite a character to your guild, even if they are offline. When they log in they get the guild invite prompt, and you are told whether they accepted or declined. Characters already in a guild are refused right away.
 
 - `@guild`
 
@@ -455,7 +459,7 @@ Get quick, accurate information about mobs and items in-game without having to s
 
     Show top 20 taekwons.
 
-## Homunculus Commands
+## Homunculus and Pet Commands
 
 - `@hominfo`
 
@@ -472,6 +476,14 @@ Get quick, accurate information about mobs and items in-game without having to s
     **Output in-game Example:**
 
     ![Homstats Output](img/@homstats-outline.png)
+
+- `@homtalk <message>`
+
+    Makes your homunculus say a message. Chat through your homunculus is logged and treated the same as coming from you.
+
+- `@pettalk <message>`
+
+    Makes your pet say a message. Chat through your pet is logged and treated the same as coming from you.
 
 ## Player Combat Commands
 
