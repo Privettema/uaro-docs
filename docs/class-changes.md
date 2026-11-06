@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-06
+updated: 2026-11-05
 ---
 
 # Class Changes
@@ -300,7 +300,7 @@ No other changes to Hunter skills.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| Death Count | Reaching Job Level 70 without dying gives +10 to all stats. Dying afterwards removes the bonus for good, and the death count cannot be reset. | The death count can be reset for free at [Lupita](custom-npc.md#other), south of Prontera.<br>The reset also grants a 10 second Super Novice Spirit (Super Novice and Super Baby only), long enough to swap into gear unlocked by the link. |
+| Death Count | Reaching Job Level 70 without dying gives +10 to all stats. Dying afterwards removes the bonus for good, and the death count cannot be reset. | The death count can be reset for free at [Lupita](custom-npc.md#other), south of Prontera.<br>The reset also grants a 10 second Super Novice Spirit (Super Novice and Baby Super Novice only), long enough to swap into gear unlocked by the link. |
 | Doridori | Increases SP regeneration only.<br>No status icon.<br>Stays active when you stand up. | Also increases HP regeneration.<br>Shows a status icon while active.<br>Ends when you stand up. |
 | Passive Bonuses | | +2000 weight limit.<br>+10 DEX in total, granted over Job Levels 1-50.<br>Passive ASPD increase. |
 | Removed Skills | Super Novices can learn Increase Agility, Blessing, Enlarge Weight Limit, Identify, Transcendence and Owl's Eye. | These six skills are removed from the skill tree. Blessing and Increase Agility are replaced by the Super Blessing platinum skill. |
@@ -408,6 +408,8 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
 <!---------------------------------------------------------------------------->
 
 ## Adoptee
+
+Baby characters don't need to be adopted. See [Baby Characters](baby-characters.md) for how to become one.
 
 <div class="class-changes-table" markdown>
 

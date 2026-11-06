@@ -645,3 +645,45 @@ code.copyable:focus-visible {
 .md-typeset .dimonka-table td:nth-child(2) {
   white-space: nowrap;
 }
+
+/* Quick Facts box with an NPC portrait: sprite on the left, facts on the right, both centered vertically */
+.md-typeset .admonition.npc-facts {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+}
+
+.md-typeset .admonition.npc-facts > .admonition-title {
+  grid-column: 1 / -1;
+}
+
+.md-typeset .admonition.npc-facts > p:has(img) {
+  margin: 0;
+  padding: 16px;
+}
+
+.md-typeset .admonition.npc-facts > p img {
+  height: 120px;
+  width: auto;
+}
+
+.md-typeset .admonition.npc-facts > ul {
+  margin: 0;
+  padding: 12px 0;
+  list-style-position: inside;
+}
+
+/* On phones the portrait stacks above the facts instead of squeezing beside them */
+@media (max-width: 600px) {
+  .md-typeset .admonition.npc-facts {
+    grid-template-columns: 1fr;
+  }
+
+  .md-typeset .admonition.npc-facts > p:has(img) {
+    text-align: center;
+  }
+
+  .md-typeset .admonition.npc-facts > ul {
+    padding-top: 0;
+  }
+}
