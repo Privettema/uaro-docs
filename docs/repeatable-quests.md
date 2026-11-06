@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-27
+updated: 2026-11-03
 ---
 
 # Repeatable Quests
@@ -58,9 +58,6 @@ Some turn-in items can be bought directly from NPCs.
 - **Bill of Birds:** Morroc Ruins (`/navi moc_ruins 81/113`, `/navi moc_ruins 93/53`)
 - **Acorn:** Acorn Dealer in Moscovia (`/navi moscovia 208/182`)
 - **Antelope Horn:** Tool Dealer in Niflheim (`/navi niflheim 218/197`)
-
-!!! note
-    Antelope Horns can't be bought with the Discount skill and can't be vended to other players.
 
 ## Monster Hunting
 

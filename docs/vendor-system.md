@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-28
+updated: 2026-11-03
 ---
 
 # Vendor System
@@ -145,8 +145,8 @@ Buying stores are created differently depending on your character class:
 
 ### For Non-Merchant Classes:
 1. Head to **Morroc Pub** and find the **Black Marketeer** (`/navi morocc 45/108`).
-2. Purchase **Black Market Bulk Buyer Shop License** for 500z each (up to 10 at a time).
-3. Navigate to a designated vending spot and use the license item from your consumables tab. You can now set up your shop.
+2. Purchase **Black Market Bulk Buyer Shop License** for 500z each (up to 100 at a time).
+3. Navigate to a designated vending spot and use the license item from your consumables tab. You can now set up your shop. The license is only used up when the store actually opens, so canceling the setup doesn't waste it.
 
 ![Morroc Pub](img/Vendor_System/buying-morroc-pub.png)
 ![Black Marketeer Location](img/Vendor_System/buying-black-marketeer-npc.png)
@@ -161,7 +161,7 @@ Buying stores are created differently depending on your character class:
 ![Purchasing Team NPC](img/Vendor_System/buying-store-skill.png)
 
 - Pay 10,000z to unlock the "**Open Buying Store**" skill, which allows you to open permanent buying shops. You'll also receive 5 free **Bulk Buyer Shop Licenses**.
-- Purchase additional licenses for 200z each (up to 50 at a time).
+- Purchase additional licenses for 200z each (up to 100 at a time).
 - Licenses are required to use the skill.
 - You must have learned the Vending skill to at least level 1.
 

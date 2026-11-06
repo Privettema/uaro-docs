@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-21
+updated: 2026-11-03
 ---
 
 # Item Changes
@@ -119,7 +119,6 @@ Drop rates in the Original column are the official rates multiplied by the serve
 
 | Item | Item ID | Original | uaRO Changes |
 |-|-|-|-|
-| Antelope Horn | 7106 | Can be discounted and moved to the cart | Cannot be bought with the Discount skill<br>Cannot be moved to the cart |
 | Bubble Gum | 12210 | Cash shop item | [Poring Coin shop](poring-coins-system.md#consumable-items): 1,000 Poring Coins<br>[Attendance reward](attendance-system.md) on login day 20 |
 | Convex Mirror | 12214 | No cooldown | 60 minute cooldown |
 | Cursed Water | 12020 | Acquired individually from NPC<br>Dropped by mobs | Bulk conversion at Niff Fountain, reached through the sign quest at `/navi niflheim 146/241`: choose Singular or All, based on your empty bottles. Includes a weight check |
@@ -137,6 +136,7 @@ Drop rates in the Original column are the official rates multiplied by the serve
 | Novice Fly Wing | 12323 | Cannot be used while Berserked | Can be used while Berserked |
 | Oridecon Hammer | 615 | Consumed when used | Not consumed until a craft is attempted |
 | Outdoor Cooking Kit | 12125 | Consumed when used | Not consumed until a craft is attempted |
+| [](){ #pet-accessory-box } Pet Accessory Box | 16358 |  | Gives 1 random pet accessory out of 39, each with the same chance<br><br>Acquisition: [Hunting Missions](hunting-mission.md#mission-shop) shop for 30 Mission Points, [Comodo Casino](comodo-casino.md) slot machines |
 | Professional Cooking Kit | 12127 | Consumed when used | Not consumed until a craft is attempted |
 | Royal Cooking Kit | 12128 | Consumed when used | Not consumed until a craft is attempted |
 | Token of Siegfried | 7621 | No cooldown on resurrection use | 15 minute cooldown on resurrection use |
