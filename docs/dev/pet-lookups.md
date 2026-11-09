@@ -57,7 +57,8 @@ these monsters exist under more than one ID in the database; I used the original
 - [x] Intimacy per feeding (40 / 30 / 20): from the old page; the emulators have no per-tier values.
 
 ## Food and accessory review against Hercules
-- [x] Gremlin food Cheap Lubricant (`25232`), Willow Fine-grained Trunk (`1066`), Roween Rotten Meat (`7564`): taken from Hercules.
+- [x] Gremlin food Cheap Lubricant (`25232`), Roween Rotten Meat (`7564`): taken from Hercules.
+- [x] Willow eats Pet Food in game, not Fine-grained Trunk (`1066`, the Hercules value).
 - [x] Wanderer, Whisper, Diabolic and Rigid Nightmare Terror use Pet Food in game; Domovoi uses Luxurious Pet Food.
 - [x] Incubus food is Vital Flower (Yellow) (`6110`) and Succubus is Vital Flower (Blue) (`6113`).
 - [x] Skelion food `11616` is Delicious Meat in game (Hercules calls it Yummy Meat).

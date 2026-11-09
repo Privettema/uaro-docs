@@ -1218,10 +1218,6 @@ pets:
   hp: 95
   kind: base
   icon: 1010.gif
-  food:
-    id: 1066
-    name: Fine-grained Trunk
-    icon: 1066.gif
   taming:
     id: 23257
     name: Old Tree's Dew
