@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {# Local preview only: store a "rejected" choice so the cookie banner never shows and analytics stays off. #}
+  <script>
+    if (["localhost", "127.0.0.1", "[::1]"].indexOf(location.hostname) !== -1) {
+      try {
+        var key = new URL("{{ base_url }}", location.href).pathname + ".__consent"
+        if (!localStorage.getItem(key)) {
+          localStorage.setItem(key, JSON.stringify({ analytics: false }))
+        }
+      } catch (e) {}
+    }
+  </script>
+{% endblock %}

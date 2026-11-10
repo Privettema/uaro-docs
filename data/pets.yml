@@ -23,7 +23,7 @@ pets:
     id: 10013
     name: Backpack
     icon: 10013.gif
-  bonus: LUK +3, CRIT +1
+  bonus: LUK +2, CRIT +1
   capture: 20%
   egg:
     id: 9001
@@ -1068,6 +1068,10 @@ pets:
     id: 579
     name: Fresh Fish
     icon: 579.png
+  accessory:
+    id: 10040
+    name: Red Collar Bell
+    icon: 10040.gif
   taming:
     name: 2023 Halloween Event Special
   bonus: Increases the recovery rate of Fresh Fish consumables by 70%
@@ -1076,6 +1080,7 @@ pets:
     id: 9101
     name: Scatleton Egg
     icon: Pet_System/9101.png
+    source: Halloween 2026 Event
 - name: Christmas Goblin
   id: 1245
   level: 25
@@ -1213,10 +1218,6 @@ pets:
   hp: 95
   kind: base
   icon: 1010.gif
-  food:
-    id: 1066
-    name: Fine-grained Trunk
-    icon: 1066.gif
   taming:
     id: 23257
     name: Old Tree's Dew
@@ -1683,8 +1684,7 @@ pets:
     name: Dark Mane
     icon: 10042.gif
   bonus:
-    cordial: Doubles Fresh Fish recovery rate!
-    loyal: Doubles Fresh Fish recovery rate!
+    loyal: Doubles Fresh Fish recovery rate.
   evolves_from: Scatleton
   materials:
   - id: 25408

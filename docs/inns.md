@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-03
+updated: 2026-11-01
 ---
 
 # Adventurer Inns
@@ -21,6 +21,9 @@ The appearance and naming of these NPCs may vary by town.
 | ![Inn Keeper](img/NPC/inn.gif)<br>**Inn Keeper** | The Inn Keeper will allow you to rest, receive buffs, and save your location at the inn. For 10,000z you can receive full HP/SP as well as 10 minutes of Level 10 Blessing and Level 10 Increase Agility buffs. |
 | ![Inn Tool Dealer](img/NPC/tool-dealer.gif)<br>**Tool Dealer** | Every inn has an [Enhanced Tool Dealer](dealers.md#enhanced-tool-dealer) with supplies for your travels. |
 | ![Hobota](img/NPC/hobota.gif)<br>**Hobota** | Hobota gives players [Hunting Missions](hunting-mission.md) which give experience, zeny, and Mission points to be spent on unique items. This service is a key part of the uaRO experience and regular party play. |
+
+!!! note "Inn Buffs Take Priority"
+    A Blessing or Increase Agility with a shorter duration does not replace the inn buff or add to it.
 
 
 

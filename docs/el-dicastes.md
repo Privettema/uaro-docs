@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-13
+updated: 2026-11-01
 ---
 
 # El Dicastes
@@ -111,7 +111,7 @@ Unlocked by completing Doha's Secret Orders. Once per day, bring Cheshire 10 Clo
 
 ### Research Documents
 
-Read a **Document Package** in the Archive Room to get a dig spot on a Midgard field map. Digging has a 50% chance to give an **Unidentified Relic**. Papyrus trades 3 relics for 1 Certificate or 30 for 11.
+Read a **Document Package** in the Archive Room to get a dig spot on a Midgard field map. Digging has a 50% chance to give an **Unknown Relic**. Papyrus trades 3 relics for 1 Certificate or 30 for 11.
 
 A bad document read can leave you **Dizzy**, which locks the Archive Room for 6 hours.
 
