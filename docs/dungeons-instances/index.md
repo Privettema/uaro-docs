@@ -14,6 +14,10 @@ Dungeons, party instances and the New World.
 
     An advanced dungeon instance.
 
+- [**💀 Niflheim Dungeon**](../niflheim-dungeon.md)
+
+    Two floors and the Death Witch MVP, for Base Level 99.
+
 </div>
 
 ## Instances

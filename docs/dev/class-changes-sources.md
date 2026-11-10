@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 # Class Changes Source Comparison
@@ -21,6 +21,7 @@ How to read it:
 | Reflected Damage | No limit | Capped at the user's max HP | Cap exists only in renewal | No cap stated | match. Caveat: which reflect sources the cap covers is not confirmed |
 | Safety Wall | Players inside can reflect damage | Players inside cannot reflect | No data | No data | unverified |
 | Fury / Critical Explosion | SP recovery disabled | HP and SP recover (not Monk/Champion) | Same | SP only, not HP | match |
+| Ping | (blank, new skill) | All classes at Base Level 50; party ping, guild leader ping, team leader ping in BG | n/a | n/a | new (patch 11102026) |
 | Teleport | Random spot on the same map | Cannot land on a map portal | No data | Random spot; portal rule not stated | partial |
 | Warp Portal | Can be used on MVP maps | Cannot be used on MVP maps | No data | Not checked | unverified |
 
@@ -48,6 +49,7 @@ How to read it:
 | Grand Cross | 1-5 hits; shared cells reduce hits | Shared cells take 100% of every hit; all 3 waves connect | Not tested | Same as Original | match |
 | Holy Cross | No bonus with two-handed spear | 2x damage with two-handed spear | Spear bonus is renewal only | Not mentioned | match |
 | Shield Reflect | Reflects, including Boss monsters | No longer affects Boss monsters | No boss exception | Not stated | partial (patch 31102025) |
+| Spear Quicken | ASPD only | Also CRIT +3 and FLEE +2 per skill level | ASPD only in pre-renewal; the same CRIT and FLEE are renewal only | ASPD 21%-30% only | match (patch 11102026). Caveat: the CRIT and FLEE values come from the server, the patch note gives none |
 
 ## Mage and Wizard / High Wizard
 
@@ -141,9 +143,11 @@ How to read it:
 
 | Skill | Original | uaRO change | Hercules / rAthena | iRO Wiki | Result and caveat |
 |-|-|-|-|-|-|
+| Arrow Crafting | Not usable overweight | Usable overweight | Needs weight under 50% | Cannot be used if overweight | match (patch 11102026). Caveat: every skill is still blocked at 90% weight |
 | Weapon Swap | Same-type swap keeps songs | Same-type swap cancels songs | No data | Not checked | unverified (patch 30012026) |
 | Arrow Vulcan | After-cast delay 2.8 / 3 seconds | 2 seconds | Same | Page not found | emulator only |
 | Loki's Veil | Usable on MVP maps | Not usable on MVP maps | No data | No map data | unverified |
+| Tarot Card of Fate | The High Priestess removes all buffs, including Full Chemical Protection | The High Priestess does not remove Full Chemical Protection | Hercules removes it; rAthena passes a Chemical Protection flag, but its current status data may skip it | "Removes all buffs on target", Chemical Protection not mentioned | partial (patch 11102026) |
 | Wand of Hermode | Needs Clown and Gypsy | Can be performed solo | Ensemble skill | Solo skill | differs. Caveat: kept because both emulators treat it as an ensemble |
 
 ## Super Novice
@@ -180,10 +184,13 @@ How to read it:
 | Crimson Fire Blossom | SP 30/32/34/36 at Levels 7-10 | SP 30 | Same | Not checked | emulator only |
 | Final Strike | SP 55-100 | SP 30-50 | Same | Not checked | emulator only |
 | Lightning Spear of Ice | SP 30-42 at Levels 6-10 | SP 30 | Same | Not checked | emulator only |
+| Shadow Hiding | Kagerou and Oboro skill | Ninja platinum skill from the Platinum Skill NPC | Kagerou and Oboro trees only | Kagerou / Oboro (renewal page) | new (patch 11102026) |
 | Throw Huuma Shuriken | Delay 2 seconds; SP 20-40; range 9 | Delay 1.5; SP 10-30; range 12 | Same | Not checked | emulator only |
 | Throw Kunai | Delay 1 second; range 9 | Delay 0.5; range 12 | Same | Not checked | emulator only |
 | Throw Shuriken | Range 9 | Range 12 | Same | Not checked | emulator only |
-| Throw Zeny | Delay 5 seconds; SP 50; full Zeny | Delay 2; SP 25; half in WoE; none in BG | Same | Not checked | emulator only |
+| Throw Zeny | Delay 5 seconds; SP 50; full Zeny | Delay 1; SP 25; half in WoE; none in BG; none with Phantom Zeny | Same | SP 50; cast delay 5 | match (patch 11102026) |
+| Watery Evasion | Enemy movement speed -50% | Enemy movement speed -75% | 50 | Movement speed reduction 50% | match (patch 11102026) |
+| Wind Blade | After-cast delay 1 second | No after-cast delay | 1 second | Cast delay 1 second | match (patch 11102026) |
 
 ## Gunslinger and Adoptee
 
@@ -212,10 +219,19 @@ How to read it:
 | Song buff duration and icons | Official songs already linger after leaving the area and show icons (rAthena, maintainer). |
 | Resurrect Homunculus | Not a change. |
 | Soul Link Equips | A bug fix; the page said "same as the original". |
+| Aqua Benedicta on a Watery Evasion cell | Official already consumes the cell (rAthena, iRO Wiki); patch 11102026 only brought uaRO in line. |
+| Blaze Shield, First Wind (patch 11102026) | Restored to original behavior and a targeting fix, not changes. |
 
 ## Open Decisions
 
-No open decisions. Mind Breaker keeps the number off the page, Melt Down keeps "No cast time", Repair Weapon keeps the armor line and Wand of Hermode keeps "can be performed solo", all on the maintainer's call (see the caveats above).
+Mind Breaker keeps the number off the page, Melt Down keeps "No cast time", Repair Weapon keeps the armor line and Wand of Hermode keeps "can be performed solo", all on the maintainer's call (see the caveats above).
+
+Open from patch 11102026, not on the page until the maintainer decides:
+
+- **Critical Wounds expires on death.** Hercules keeps the status through death and rAthena removes it, so the official behavior is not settled.
+- **Watery Evasion stops you on entering.** rAthena stops the target and Hercules does not.
+- **Lightning Spear of Ice bonus inside Watery Evasion** (20% at max level). Both emulators have the bonus in renewal only.
+- **Shadow Jump ends in a crouching position.** No reference describes the official stance.
 
 ## Prose Approved Over Numbers
 

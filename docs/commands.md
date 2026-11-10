@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-03
+updated: 2026-11-10
 ---
 
 # Commands
@@ -516,6 +516,10 @@ Learn more about [Battlegrounds](battlegrounds.md).
 - `@bg shop`
 
     Open the Battleground shop.
+
+- `@bg team`
+
+    Show your team's member list and leader during a match.
 
 ### King of Emperium (KoE) Commands
 

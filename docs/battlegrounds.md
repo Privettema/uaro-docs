@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-21
+updated: 2026-11-10
 ---
 
 # Battlegrounds
@@ -12,6 +12,9 @@ Join Battlegrounds from the **Battlegrounds NPC** in Prontera: `/navi prontera 1
 * You can also use `@bg` to join the BG queue from anywhere.
 * Each mode has a minimum number of players that must queue before the round will start.
 * Once enough players have joined, you will automatically be placed into the match and warped to the BG map.
+* You can queue while a match is running. When a slot is free, you choose to join the current match or stay queued for the next one.
+* If the match is full, you stay queued.
+* If you are dead, trading or vending when the match starts, you are not pulled in and stay queued.
 * After the match, you will be returned to your **previous location**, not your save point.
 
 !!! warning
@@ -98,7 +101,7 @@ Carry the enemy flag back to your team's base to score.
 * Dying drops the flag where you died.
 * A dropped flag returns to its base after **60 seconds**.
 * A flag immediately returns to base if its carrier logs out or leaves the match.
-* Respawns happen in **15 second waves**.
+* Respawns happen in **12 second waves**.
 * Players waiting to respawn are healed and buffed before being warped back to the front line.
 
 While carrying a flag:
@@ -118,6 +121,7 @@ Deal more damage to the **Anomaly** than the opposing team.
 * The Anomaly is an MVP that changes **race and element every 2 minutes**, up to Stage 3.
 * Your damage increases by **20%** at Stage 2 and **40%** at Stage 3.
 * The team that deals the most total damage to the Anomaly wins.
+* The scoreboard shows each team's damage in units of 100k.
 * PvP is enabled between the teams.
 
 ## Rewards
@@ -141,6 +145,18 @@ The reward depends on when you joined the match:
 * **Final third**: about 33% of the reward.
 
 Happy Hour and Maroll's Blessing increase these rewards.
+
+### Win Streak Bonus
+
+Winning matches in a row adds bonus Valor Badges to each win:
+
+| Win Streak | Bonus |
+| - | -: |
+| 3-4 wins in a row | 2 badges per win |
+| 5 or more wins in a row | 3 badges per win |
+
+* Late joiners get half the streak bonus, rounded down.
+* The streak ends when you lose, draw or leave a match before it ends, including an AFK kick.
 
 ## Maroll's Blessing
 
@@ -325,14 +341,21 @@ The **BG Shop** is available through the Battlegrounds NPC in Prontera. Most gea
 | Change | Description |
 | - | - |
 | Entry | Pre-trans characters cannot join. Extended and Trans classes only. |
-| Queue cooldown | Joining and then leaving the queue starts a 60 second cooldown. |
+| Queue cooldown | Leaving the queue, or logging out while queued, starts a 5 second cooldown. |
+| Teams | Guillaume is the blue team and Croix is the red team. The Flavius crystals match their team's color. |
+| Team leader | If the team leader leaves, a random player remaining on the team becomes the new leader. |
 | Team balancing | If duplicate classes join, they are split between the teams. |
 | Class change cards | Abracadabra and class change cards (Azoth Card, Hylozoist Card) are blocked on battleground maps. |
 | Disabled items | Tuxedo (`7170`) and Wedding Dress (`2338`) can't be used on battleground maps. |
 | Party Buffs | Party buffs cast on a battleground map reach every teammate in range, whether or not you are grouped with them. |
-| Late joining | Late joiners spawn in their team's waiting room, not at the battlefield entry point. |
+| Late joining | Late joiners spawn in their team's waiting room, not at the battlefield entry point. Tierra Gorge is the exception: late joiners spawn at the entry point. |
+| Respawn | In Tierra Gorge, Flavius, Emperium Rush and Time & Space Anomaly, the first respawn comes after 20 seconds and later respawns every 12 seconds. |
+| AFK | Active songs do not count as being AFK. This does not protect you if you are reported for abusing it. |
+| Guild chat | Guild chat works on battleground maps and is not routed to BG team chat. |
+| Super Novice | Using the Battle Therapist also gives Super Novices a 10 second Super Novice Spirit. |
 | **Skills** |
 | ![cr_devotion](img/Class_Changes/cr_devotion.gif) Devotion | Works in BG without the need for a party. |
+| [Ping](class-changes.md#general-shared) | Only the team leader can ping. Teammates on the same map see it. |
 | ![am_potionpitcher](img/Class_Changes/am_potionpitcher.png) Potion Pitcher | Does not work on battleground barricades, objectives, and flags. |
 | **Status Effects** |
 | ![dc_dontforgetme](img/Class_Changes/dc_dontforgetme.png){ width="24" } Please Don't Forget Me | Cleared on death and when a battleground ends. |

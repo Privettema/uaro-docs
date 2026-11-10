@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 # Class Changes
@@ -22,6 +22,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the external
 | Reflected Damage (skills and equipment effects) | Reflects the listed percentage of damage taken, with no limit. | Reflected damage cannot exceed the max HP of the skill's user. For example, with 5,000 max HP, an attack for 10,000 reflects at most 5,000. |
 | Safety Wall | Players inside can reflect damage with reflect skills. | Players inside cannot reflect damage with reflect skills. |
 | ![Fury / Critical Explosion](img/skill_270.png) Fury / Critical Explosion | Natural SP recovery is disabled while in Fury. | Natural HP and SP recovery work while in Fury.<br>Does not apply to Monk or Champion. Other characters, such as those who get Fury from an item, benefit from the change. |
+| Ping | | Every class gets the Ping skill at Base Level 50.<br>Level 1 pings your party members.<br>Level 2 pings your guild members and can only be used by the guild leader.<br>Pings are seen only by members on the same map.<br>In Battlegrounds only the team leader can ping, and the team sees it. |
 | ![Teleport](img/Class_Changes/al_teleport.gif) Teleport | Teleports to a random spot on the same map. | Cannot land on a map portal. |
 | ![Warp Portal](img/Class_Changes/al_warp.gif) Warp Portal | Can be used on MVP maps. | Cannot be used on MVP maps. |
 
@@ -73,6 +74,7 @@ Status effects that behave differently from the official game.
 | ![Grand Cross](img/Class_Changes/cr_grandcross.gif) Grand Cross | Hits 1-5 times, depending on the position and movement of the enemy. Each monster on a single cell reduces the number of hits by 1 (to a minimum of one hit to one monster). Does not trigger HP leech effects. | Mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range. Triggers HP leech effects, such as Hunter Fly cards. |
 | Holy Cross | No bonus damage with a two-handed spear. | Deals 2x damage with a two-handed spear. |
 | ![Shield Reflect](img/Class_Changes/cr_reflectshield.gif) Shield Reflect | Returns a percentage of the damage dealt to you back to the enemy, including Boss-type monsters (MVPs). | Reflect damage no longer affects Boss-type monsters (MVPs). |
+| Spear Quicken | Increases ASPD only. | Also increases CRIT by 3 and FLEE by 2 per skill level. |
 
 </div>
 
@@ -273,6 +275,16 @@ Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-deal
 ## Archer
 A selection of arrows can be found at [Inn Tool Dealers](dealers.md#enhanced-tool-dealer). Additional specialty arrows must be crafted.
 
+### Archer
+<div class="class-changes-table" markdown>
+
+| Skill | Original | uaRO Changes |
+|-|-|-|
+| Arrow Crafting | Cannot be used while overweight. | Can be used while overweight. |
+
+</div>
+
+
 ### Hunter / Sniper
 Traps are sold at our [Inn Tool Dealers](dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
@@ -287,6 +299,7 @@ No other changes to Hunter skills.
 | Weapon Swap | Swapping to a weapon of the same type does not cancel songs. | Swapping to a weapon of the same type cancels songs. |
 | ![Arrow Vulcan](img/Class_Changes/cg_arrowvulcan.gif) Arrow Vulcan | After-cast delay of 2.8 seconds at Levels 1-5 and 3 seconds at Levels 6-10. | After-cast delay of 2 seconds. |
 | ![Loki's Veil](img/Class_Changes/bd_rokisweil.gif) Loki's Veil | Can be used on MVP maps. | Cannot be used on MVP maps. |
+| Tarot Card of Fate | The High Priestess removes all buffs, including Full Chemical Protection. | The High Priestess does not remove Full Chemical Protection. |
 | ![Wand of Hermode](img/Class_Changes/cg_hermode.gif) Wand of Hermode | Requires both a Clown and a Gypsy to perform. | Can be performed solo. |
 
 </div>
@@ -375,12 +388,22 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](deal
 | ![Crimson Fire Blossom](img/Class_Changes/nj_kouenka.png) Crimson Fire Blossom | SP cost for Levels 7-10 is 30, 32, 34, 36. | SP cost for Levels 7-10 is 30. |
 | ![Final Strike](img/Class_Changes/nj_issen.gif) Final Strike | SP cost for Levels 1-10 is 55-100. | SP cost for Levels 1-10 is 30-50. |
 | ![Lightning Spear of Ice](img/Class_Changes/nj_hyousensou.png) Lightning Spear of Ice | SP cost for Levels 6-10 is 30, 33, 36, 39, 42. | SP cost for Levels 6-10 is 30. |
+| Shadow Hiding | Kagerou and Oboro skill, not available to Ninja. | Available to Ninja as a platinum skill from the Platinum Skill NPC in the Main Office. |
 | ![Throw Huuma Shuriken](img/Class_Changes/nj_huuma.gif) Throw Huuma Shuriken | After-cast delay of 2 seconds.<br>SP cost for Levels 1-5 is 20, 25, 30, 35, 40.<br>Range of 9 cells. | After-cast delay of 1.5 seconds.<br>SP cost for Levels 1-5 is 10, 15, 20, 25, 30.<br>Range of 12 cells. |
 | ![Throw Kunai](img/Class_Changes/nj_kunai.gif) Throw Kunai | After-cast delay of 1 second.<br>Range of 9 cells. | After-cast delay of 0.5 seconds.<br>Range of 12 cells. |
 | ![Throw Shuriken](img/Class_Changes/nj_syuriken.gif) Throw Shuriken | Range of 9 cells. | Range of 12 cells. |
-| ![Throw Zeny](img/Class_Changes/nj_zenynage.gif) Throw Zeny | After-cast delay of 5 seconds.<br>SP cost 50.<br>Full Zeny cost in WoE and Battlegrounds. | After-cast delay of 2 seconds.<br>SP cost 25.<br>Half the Zeny cost in WoE.<br>No Zeny cost in Battlegrounds. |
+| ![Throw Zeny](img/Class_Changes/nj_zenynage.gif) Throw Zeny | After-cast delay of 5 seconds.<br>SP cost 50.<br>Full Zeny cost in WoE and Battlegrounds. | After-cast delay of 1 second.<br>SP cost 25.<br>Half the Zeny cost in WoE.<br>No Zeny cost in Battlegrounds.<br>Cost removed entirely once the [Phantom Zeny](#phantom-zeny) platinum skill is learned. |
+| Watery Evasion | Reduces the movement speed of enemies by 50%. | Reduces the movement speed of enemies by 75%. |
+| Wind Blade | After-cast delay of 1 second. | No after-cast delay. |
 
 </div>
+
+### Phantom Zeny
+
+Phantom Zeny is a Ninja platinum skill that permanently removes the Zeny cost of Throw Zeny.
+
+- **How to get it:** a short quest line that starts in Amatsu.
+- **Cost:** a small amount of etc items and a one-time fee of 300,000,000z.
 
 
 
