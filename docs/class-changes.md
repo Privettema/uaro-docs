@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-03
+updated: 2026-11-05
 ---
 
 # Class Changes
@@ -300,7 +300,7 @@ No other changes to Hunter skills.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| Death Count | Reaching Job Level 70 without dying gives +10 to all stats. Dying afterwards removes the bonus for good, and the death count cannot be reset. | The death count can be reset for free at [Lupita](custom-npc.md#other), south of Prontera.<br>The reset also grants a 10 second Super Novice Spirit (Super Novice and Super Baby only), long enough to swap into gear unlocked by the link. |
+| Death Count | Reaching Job Level 70 without dying gives +10 to all stats. Dying afterwards removes the bonus for good, and the death count cannot be reset. | The death count can be reset for free at [Lupita](custom-npc.md#other), south of Prontera.<br>The reset also grants a 10 second Super Novice Spirit (Super Novice and Baby Super Novice only), long enough to swap into gear unlocked by the link. |
 | Doridori | Increases SP regeneration only.<br>No status icon.<br>Stays active when you stand up. | Also increases HP regeneration.<br>Shows a status icon while active.<br>Ends when you stand up. |
 | Fury Chant | Saying the chant as three separate messages, in order, while Base EXP is at exactly 10%, 20% and so on up to 90% gives Fury: `Dear angel, can you hear my voice?`, `I am <name> Super Novice~`, `Help me out~ Please~ T_T`.<br>Chanting again while Fury is active renews it. | The whole chant also works as one message, with the same requirements: `Dear angel, can you hear my voice? I am <name> Super Novice~ Help me out~ Please~ T_T`.<br>The chant fails while Fury is active. |
 | Passive Bonuses | | +2000 weight limit.<br>+10 DEX in total, granted over Job Levels 1-50.<br>Passive ASPD increase. |
@@ -409,6 +409,8 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
 <!---------------------------------------------------------------------------->
 
 ## Adoptee
+
+Baby characters don't need to be adopted. See [Baby Characters](baby-characters.md) for how to become one.
 
 <div class="class-changes-table" markdown>
 
