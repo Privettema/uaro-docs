@@ -94,13 +94,13 @@ Mission Points earned from Hunting Missions can be spent at the **Mission Shop**
 
 <!--| Image | Item Name | Price |
 |-------|-----------|-------|
-| ![Dungeon Tele 3 Scroll Box](img/Hunting_Mission/35655-dungeon-teleport-scroll-3-box-10.gif) | Dungeon Tele 3 Scroll Box (10) | 15 Mission Points |
+| ![Dungeon Tele 3 Scroll Box](img/Hunting_Mission/item35655.gif) | Dungeon Tele 3 Scroll Box (10) | 15 Mission Points |
 | ![Blue Butterfly Wing Box](img/Hunting_Mission/13855-blue-butterfly-wing-box-5.gif) | Blue Butterfly Wing Box (5) | 5 Mission Points |
 | ![Green Butterfly Wing Box](img/Hunting_Mission/13851-green-butterfly-wing-box-5.gif) | Green Butterfly Wing Box (5) | 5 Mission Points |
 | ![Red Butterfly Wing Box](img/Hunting_Mission/13853-red-butterfly-wing-box-5.gif) | Red Butterfly Wing Box (5) | 5 Mission Points |
 | ![Elite Siege Supply Box](img/Hunting_Mission/14003-elite-supply-box.gif) | Elite Siege Supply Box | 25 Mission Points |
-| ![Enriched Elunium Box](img/Hunting_Mission/14219-enriched-elunium-box-5.gif) | Enriched Elunium Box (5) | 70 Mission Points |
-| ![Enriched Oridecon Box](img/Hunting_Mission/14220-enriched-oridecon-box-5.gif) | Enriched Oridecon Box (5) | 70 Mission Points |
+| ![Enriched Elunium Box](img/Hunting_Mission/item14219.gif) | Enriched Elunium Box (5) | 70 Mission Points |
+| ![Enriched Oridecon Box](img/Hunting_Mission/item14220.gif) | Enriched Oridecon Box (5) | 70 Mission Points |
 | ![Taming Gift Set](img/Hunting_Mission/12105-taming-gift-set.gif) | [Taming Gift Set](taming-gift-set.md) | 35 Mission Points |
 | ![Jewelry Box](img/Hunting_Mission/12106-jewelry-box.gif) | [Jewelry Box](jewelry-box.md) | 50 Mission Points |
 | ![Costume Hibram Evil Spirit](img/Hunting_Mission/480473.png) | Costume Hibram Evil Spirit | 1,000 Mission Points |

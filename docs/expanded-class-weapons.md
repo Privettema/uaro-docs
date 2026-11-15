@@ -18,7 +18,7 @@ These weapons use **Renewal-era sprites and names**, but their stats have been c
 |--------|-----------------|
 |![32303](img/Expanded_Class_Weapons/32303.gif) Bolt Revolver [2] | @ii 32303 |
 |![28240](img/Expanded_Class_Weapons/28240.gif) King Cobra [2] | @ii 28240 |
-|![13192](img/Expanded_Class_Weapons/13192.gif) Death Fire [2] | @ii 13192 |
+|![13192](img/Expanded_Class_Weapons/item13192.gif) Death Fire [2] | @ii 13192 |
 |![28226](img/Expanded_Class_Weapons/28226.gif) Avenger [2] | @ii 28226 |
 |![35658](img/Expanded_Class_Weapons/830001.png) Bolt Revolver [2] | @ii 35658 |
 

@@ -120,7 +120,7 @@ Monsters all over the world won't stop wailing and rattling their bones, and Bar
 
 - **Once per day per account**
 - **Kills count on any map.** Barnaby's task names the area to hunt in
-- **Don't like your task?** Barnaby finds you a different one for `5` ![Poring Coin](img/7539.gif) Poring Coin (`7539`)
+- **Don't like your task?** Barnaby finds you a different one for `5` ![Poring Coin](img/item7539.gif) Poring Coin (`7539`)
 
 | Mode | Halloween Coin | Pumpkin Cake |
 |------|----------------|--------------|
@@ -190,7 +190,7 @@ A Valkyrie wants to restore the ruined theater for one last performance. Protect
 
 The [Bombring](auto-events.md#bombring-event) auto event runs every odd hour at :30 (01:30, 03:30, 05:30 and so on). Type `@event` when registration opens, dodge the bombs and be the last one standing.
 
-**Winner reward during the event:** `75` ![Poring Coin](img/7539.gif) Poring Coin + `25` Halloween Coin + `12` Pumpkin Cake.
+**Winner reward during the event:** `75` ![Poring Coin](img/item7539.gif) Poring Coin + `25` Halloween Coin + `12` Pumpkin Cake.
 
 ### EXP Bonus Maps
 
@@ -268,7 +268,7 @@ Talk to **Shrewd Silvano** in **Prontera** `/navi prontera 62/217` and choose "S
 
     | Item | Halloween Coin | ID |
     |------|----------------|----|
-    | ![Battle Manual](img/12208.gif) Battle Manual | `15` | `12208` |
+    | ![Battle Manual](img/item12208.gif) Battle Manual | `15` | `12208` |
     | JOB Battle Manual | `15` | `14592` |
     | ![Speed Potion](img/12016.png) Speed Potion | `5` | `12016` |
     | ![Life Insurance](img/12209_1.png) Life Insurance | `5` | `12209` |

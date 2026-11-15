@@ -1,12 +1,12 @@
 ---
-updated: 2026-10-11
+updated: 2026-11-15
 ---
 
 # What's Different
 
 uaRO is built on the pre-renewal game, with changes to existing content and some extra content you would not expect. This page explains where each kind of difference is listed so you can find what you are looking for.
 
-On the Changes pages, **Original** is how the official game behaves (the renewal version if the content only exists in renewal) and **uaRO Changes** is how it works here. A blank Original means there is nothing official to compare against.
+On the Changes pages, **Original** is how the official game behaves and **uaRO Changes** is how it works here. "Official" means iRO as players know it: the pre-renewal version for anything that existed before renewal, and the renewal version for content that only exists in renewal. A blank Original means there is nothing official to compare against. [Item Changes](item-changes.md) lists each item's description as it works on uaRO instead.
 
 ## Where to Look
 

@@ -9,7 +9,7 @@ Sale prices for various items are decreased for economic purposes to prevent exc
 | Item | Original Price | Modified Price |
 |------|----------------|----------------|
 | ![12065](img/12065.gif) Green Salad | 5,000 Z | 2,000 Z |
-| ![747](img/747.gif) Crystal Mirror | 7,500 Z | 6,000 Z |
+| ![747](img/item747.gif) Crystal Mirror | 7,500 Z | 6,000 Z |
 | ![749](img/749.gif) Frozen Rose | 17,500 Z | 14,500 Z |
 | ![748](img/748.gif) Witherless Rose | 27,500 Z | 7,500 Z |
 | ![13006](img/13006.gif) Khukri | 120,000 Z | 25,000 Z |

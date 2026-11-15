@@ -56,10 +56,10 @@ day - that sends you across Rune-Midgarts to restore her late husband's cookbook
 | Day | NPC Location | Key Rewards |
 |-----|-------------|-------------|
 | 1 | Prontera | <img src="../img/103430.gif" alt=""> **Butter Cookie**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
-| 2 | Geffen | <img src="../img/12208.gif" alt=""> **Battle Manual**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
-| 3 | Payon | <img src="../img/12215.gif" alt=""> **Blessing Scroll**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
-| 4 | Prontera | <img src="../img/12215.gif" alt=""> **AGI Scroll**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
-| 5 | Morroc | <img src="../img/7621.gif" alt=""> **Token of Siegfried**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
+| 2 | Geffen | <img src="../img/item12208.gif" alt=""> **Battle Manual**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
+| 3 | Payon | <img src="../img/item12215.gif" alt=""> **Blessing Scroll**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
+| 4 | Prontera | <img src="../img/item12215.gif" alt=""> **AGI Scroll**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
+| 5 | Morroc | <img src="../img/item7621.gif" alt=""> **Token of Siegfried**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
 | 6 | Aldebaran | <img src="../img/7869.gif" alt=""> **Ingredient Pouch**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
 | 7 | Prontera (Finale) | <img src="../img/12210.png" alt=""> **Bubble Gum**, <img src="../img/6510.png" alt=""> **Elegant Flower** |
 
@@ -97,7 +97,7 @@ at midnight - rewards sent via mail.
 A server-wide boss event - **twice daily** at `08:05` and `20:05` server time.
 
 `3`x **Queen Stinger** bosses spawn across Geffen field maps. All three share an HP pool -
-defeat them within `15` minutes to earn an <img src="../img/101268.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **April Basket** containing <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flowers**, <img src="../img/103430.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Butter Cookies**, <img src="../img/12215.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Blessing Scrolls**, and <img src="../img/12215.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **AGI Scrolls**.
+defeat them within `15` minutes to earn an <img src="../img/101268.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **April Basket** containing <img src="../img/6510.png" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Elegant Flowers**, <img src="../img/103430.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Butter Cookies**, <img src="../img/item12215.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Blessing Scrolls**, and <img src="../img/item12215.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **AGI Scrolls**.
 
 !!! danger "AFK Warning"
     Players idle for more than `60` seconds do not receive rewards.
@@ -133,9 +133,9 @@ A traveling merchant appears in **one random town** for `2-3` hours, then vanish
 | <img src="../img/12209_1.png" alt=""> **Insurance** | `20` |
 | <img src="../img/603.gif" alt=""> **Old Blue Box** | `25` |
 | <img src="../img/12214_1.png" alt=""> **Convex Mirror** | `200` |
-| <img src="../img/7621.gif" alt=""> **Token of Siegfried** | `50` |
+| <img src="../img/item7621.gif" alt=""> **Token of Siegfried** | `50` |
 | <img src="../img/617.png" alt=""> **Old Violet Box** | `50` |
-| <img src="../img/12208.gif" alt=""> **Battle Manual** | `50` |
+| <img src="../img/item12208.gif" alt=""> **Battle Manual** | `50` |
 | <img src="../img/616.gif" alt=""> **Old Card Album** | `150` |
 | <img src="../img/12210.png" alt=""> **Bubble Gum** | `300` |
 | <img src="../img/12103.gif" alt=""> **Bloody Dead Branch** | `250` |
@@ -156,7 +156,7 @@ Payon, Einbroch, and Yuno regions. Both are Level `1` with `50` HP.
     |------|
     | <img src="../img/909.gif" alt=""> **Jellopy** |
     | <img src="../img/25290.gif" alt=""> **Sweets Coin** |
-    | <img src="../img/7539.gif" alt=""> **Poring Coin** |
+    | <img src="../img/item7539.gif" alt=""> **Poring Coin** |
     | <img src="../img/6249.png" alt=""> **Savage Meat** |
     | <img src="../img/7324.gif" alt=""> **Octopus Leg** |
     | **Mountain Mint** |
@@ -168,7 +168,7 @@ Payon, Einbroch, and Yuno regions. Both are Level `1` with `50` HP.
     |------|
     | <img src="../img/909.gif" alt=""> **Jellopy** |
     | <img src="../img/512.png" alt=""> **Apple** |
-    | <img src="../img/7539.gif" alt=""> **Poring Coin** |
+    | <img src="../img/item7539.gif" alt=""> **Poring Coin** |
     | <img src="../img/6261.png" alt=""> **Fine Noodle** |
     | <img src="../img/6263.png" alt=""> **Coconut Fruit** |
     | <img src="../img/6501.png" alt=""> **Salt Bag** |

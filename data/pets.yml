@@ -367,7 +367,7 @@ pets:
     id: 635
     name: Orc Trophy
     icon: 635.png
-    source: "Crafted by the Monster Tamer in the Izlude Tool Shop (`/navi izlude_in 55/105`) from 1 Chivalry Emblem (`1004`{ .copy }) and 1 Scorpion Tail (`904`{ .copy })."
+    source: "Crafted by the Monster Tamer in the Izlude Tool Shop (`/navi izlude_in 55/105`) from 1 Chivalry Emblem `1004`{ .copy } and 1 Scorpion Tail `904`{ .copy }."
   accessory:
     id: 10009
     name: Wild Flower
@@ -388,7 +388,7 @@ pets:
     id: 636
     name: No Recipient
     icon: 636.png
-    source: "Crafted by the Monster Tamer in the Izlude Tool Shop (`/navi izlude_in 55/105`) from 1 Old Portrait (`7014`{ .copy })."
+    source: "Crafted by the Monster Tamer in the Izlude Tool Shop (`/navi izlude_in 55/105`) from 1 Old Portrait `7014`{ .copy }."
   accessory:
     id: 10008
     name: Punisher
@@ -517,7 +517,7 @@ pets:
     id: 642
     name: Book of the Devil
     icon: 642.png
-    source: "Crafted by the Monster Tamer in the Izlude Tool Shop (`/navi izlude_in 55/105`) from 1 Old Magicbook (`1006`{ .copy }) and 2 Horrendous Mouth (`958`{ .copy })."
+    source: "Crafted by the Monster Tamer in the Izlude Tool Shop (`/navi izlude_in 55/105`) from 1 Old Magicbook `1006`{ .copy } and 2 Horrendous Mouth `958`{ .copy }."
   accessory:
     id: 10001
     name: Skull Helmet
@@ -538,7 +538,7 @@ pets:
     id: 659
     name: Her Heart
     icon: 659.png
-    source: "Crafted by Munak's Grandma in Comodo (`/navi comodo 112/182`) from 1 Girl's Diary (`1558`{ .copy }) and 1 Daenggie (`901`{ .copy })."
+    source: "Crafted by Munak's Grandma in Comodo (`/navi comodo 112/182`) from 1 Girl's Diary `1558`{ .copy } and 1 Daenggie `901`{ .copy }."
   accessory:
     id: 10020
     name: Grave Keeper's Sword
@@ -1250,6 +1250,10 @@ pets:
   hp: 1796
   kind: base
   icon: 1179.gif
+  food:
+    id: 6100
+    name: Damp Darkness
+    icon: Pet_System/6100.gif
   accessory:
     id: 10027
     name: Pet Soul Ring
@@ -1292,7 +1296,7 @@ pets:
     id: 9125
     name: Wandering Duck Doll Egg
     icon: Pet_System/9125.png
-    source: "2025 Twilight Festival\n\n3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md)."
+    source: "2025 Twilight Festival\n\n3 Event Tokens `7866`{ .copy }. Purchased in [Main Office](main-office.md)."
 - name: Mutating White Knight
   id: 20574
   kind: base
@@ -1631,7 +1635,7 @@ pets:
     qty: 10
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   egg:
     id: 9115
@@ -1954,7 +1958,7 @@ pets:
     qty: 10
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   egg:
     id: 9112
@@ -2251,7 +2255,7 @@ pets:
     icon: 5160.gif
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   egg:
     id: 9137
@@ -2346,7 +2350,7 @@ pets:
     qty: 10
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   egg:
     id: 9122
@@ -2381,7 +2385,7 @@ pets:
     qty: 5
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   egg:
     id: 9126
@@ -2416,7 +2420,7 @@ pets:
     qty: 100
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   egg:
     id: 9121
@@ -2494,7 +2498,7 @@ pets:
   materials:
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   - id: 4140
     name: Abysmal Knight Card
@@ -2525,7 +2529,7 @@ pets:
   materials:
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   - id: 4140
     name: Abysmal Knight Card
@@ -2624,7 +2628,7 @@ pets:
     qty: 20
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   egg:
     id: 9142
@@ -2643,7 +2647,7 @@ pets:
   materials:
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   - id: 7005
     name: Skull
@@ -2678,7 +2682,7 @@ pets:
   materials:
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   - id: 4141
     name: Evil Druid Card
@@ -2707,7 +2711,7 @@ pets:
   materials:
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   - id: 12371
     name: Magical Lithography
@@ -2738,7 +2742,7 @@ pets:
   materials:
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 1000
   - id: 526
     name: Royal Jelly
@@ -2769,7 +2773,7 @@ pets:
   materials:
   - id: 7539
     name: Poring Coin
-    icon: 7539.gif
+    icon: item7539.gif
     qty: 2000
   - id: 4180
     name: Driller Card
@@ -2806,7 +2810,7 @@ pets:
     id: 9038
     name: New Year Doll Egg
     icon: Pet_System/9038.png
-    source: 2 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
+    source: 2 Event Tokens `7866`{ .copy }. Purchased in [Main Office](main-office.md).
 - name: Rice Cake
   id: 1815
   level: 12
@@ -2823,7 +2827,7 @@ pets:
     id: 9028
     name: Hard Rice Cake Egg
     icon: Pet_System/9028.png
-    source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
+    source: 3 Event Tokens `7866`{ .copy }. Purchased in [Main Office](main-office.md).
 - name: Violet
   kind: base
   icon: Pet_System/21919.gif
@@ -2833,7 +2837,7 @@ pets:
     id: 9144
     name: Violet Egg
     icon: Pet_System/9144.png
-    source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
+    source: 3 Event Tokens `7866`{ .copy }. Purchased in [Main Office](main-office.md).
 - name: Tai-Zi
   id: 22382
   kind: base
@@ -2855,7 +2859,7 @@ pets:
     id: 9183
     name: Fei Chai Egg
     icon: Pet_System/9183.png
-    source: 4 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md) when it is on rotation.
+    source: 4 Event Tokens `7866`{ .copy }. Purchased in [Main Office](main-office.md) when it is on rotation.
 - name: Blue Unicorn
   id: 3261
   kind: base
@@ -2866,4 +2870,125 @@ pets:
     id: 9068
     name: Blue Unicorn Egg
     icon: Pet_System/9068.png
-    source: 3 Event Tokens (`7866`{ .copy }). Purchased in [Main Office](main-office.md).
+    source: 3 Event Tokens `7866`{ .copy }. Purchased in [Main Office](main-office.md).
+- name: Angelgolt
+  id: 20604
+  kind: base
+  icon: Pet_System/mob20604.gif
+  bonus:
+    cordial: Movement speed +10%
+    loyal: Movement speed +13%
+  capture: Event
+  egg:
+    id: 9186
+    name: Angelgolt Egg
+    icon: Pet_System/item9186.gif
+    source: Spring Event 2026.
+- name: Dancing Marionette
+  id: 2994
+  kind: evolved
+  icon: HTF/mob2994.gif
+  bonus:
+    cordial: Cast time -2%, damage taken from Neutral property attacks -1%
+    loyal: Cast time -3%, damage taken from Neutral property attacks -2%
+  evolves_from: Marionette
+  materials:
+  - id: 1060
+    name: Golden Hair
+    icon: item1060.gif
+    qty: 100
+  - id: 7217
+    name: Spool
+    icon: item7217.gif
+    qty: 200
+  - id: 7642
+    name: Bloody Coin
+    icon: item7642.gif
+    qty: 300
+  - id: 4113
+    name: Marionette Card
+    icon: item4113.gif
+    qty: 5
+  egg:
+    id: 9178
+    name: Dancing Marionette Egg
+    icon: Pet_System/item9178.gif
+- name: Celine Kimi
+  id: 2996
+  kind: evolved
+  icon: mob2996.gif
+  food:
+    id: 25377
+    name: Luxurious Pet Food
+    icon: 25377.png
+  bonus:
+    cordial: Physical and magical damage against all properties +5%, Cast time -3%, After-cast delay -3%
+    loyal: Physical and magical damage against all properties +7%, Cast time -5%, After-cast delay -5%
+  evolves_from: Dancing Marionette
+  materials:
+  - id: 31021
+    name: Dancing Marionette Card
+    icon: item31021.gif
+    qty: 5
+  - id: 31018
+    name: Evil Dwelling Box Card
+    icon: item31018.gif
+    qty: 5
+  - id: 31017
+    name: Vicious Cookie Card
+    icon: item31017.gif
+    qty: 5
+  - id: 7539
+    name: Poring Coin
+    icon: item7539.gif
+    qty: 1000
+  egg:
+    id: 9195
+    name: Celine Kimi Egg
+    icon: Pet_System/item9195.gif
+- name: Hylozoist
+  id: 1510
+  kind: base
+  icon: mob1510.gif
+  autofeed: true  # evolvable, but auto-feed is available
+  taming:
+    id: 107478
+    name: Evil Cottonball
+    icon: item107478.gif
+  bonus:
+    cordial: LUK +1, CRIT +2
+    loyal: LUK +2, CRIT +3
+  capture: 3%
+  egg:
+    id: 9179
+    name: Hylozoist Egg
+    icon: Pet_System/item9179.gif
+- name: Malicious Baby Ghost
+  id: 2993
+  kind: evolved
+  icon: HTF/mob2993.gif
+  bonus:
+    cordial: CRIT +3, Melee physical damage +2%
+    loyal: CRIT +5, Melee physical damage +3%
+  evolves_from: Hylozoist
+  materials:
+  - id: 740
+    name: Puppet
+    icon: item740.gif
+    qty: 50
+  - id: 7215
+    name: Broken Needle
+    icon: item7215.gif
+    qty: 200
+  - id: 7213
+    name: Needle Packet
+    icon: item7213.gif
+    qty: 200
+  - id: 4321
+    name: Hylozoist Card
+    icon: item4321.gif
+    qty: 5
+  egg:
+    id: 9180
+    name: Malicious Baby Ghost Egg
+    icon: Pet_System/item9180.gif
