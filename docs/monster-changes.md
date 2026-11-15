@@ -13,6 +13,9 @@ This page lists notable changes only, not every difference. To check any monster
 - Renewal monsters have their stats and drops adjusted to suit the server.
 - Most monsters have a 5% chance to drop Poring Coin. A few have a lower chance or none (see [Poring Coins System](poring-coins-system.md#details)).
 - Monsters using Critical Slash use the Neutral element instead of the weapon element.
+- Monsters update their target cell every few iterations of a chase.
+- Monsters rethink their chase every 100 ms.
+- Monster chase range is 20% larger.
 
 ## Changes to Individual Monsters
 
