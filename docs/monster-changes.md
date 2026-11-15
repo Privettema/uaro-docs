@@ -8,13 +8,13 @@ Monsters where uaRO has altered the stats, skills, spawns or drops.
 
 This page lists notable changes only, not every difference. To check any monster, use the monster database in the [control panel](https://uaro.net/cp/), or in game use `@mobinfo <mob name or ID>` or `@mi` (see [Database Commands](commands.md#database-commands)).
 
-## General mob changes
+## Changes to All Monsters
 
 - Renewal monsters have their stats and drops adjusted to suit the server.
 - Most monsters have a 5% chance to drop Poring Coin. A few have a lower chance or none (see [Poring Coins System](poring-coins-system.md#details)).
 - Monsters using Critical Slash use the Neutral element instead of the weapon element.
 
-## Specific mob changes
+## Changes to Individual Monsters
 
 | Monster | ID | uaRO Changes |
 |-|-|-|
