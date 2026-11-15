@@ -27,7 +27,7 @@ Example: 7 items in a row - `3/7 = 42.85%` chance to land on one of 3 desired it
 !!! info "Bonus Reward"
     At the start of your roll, you have a `1%` chance to trigger a Bonus item in the top row.
     If you land on that specific item during your current roll, you receive a
-    `1000` <img src="../img/7539.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **`Poring Coin`** reward in addition to the claimed item.
+    `1000` <img src="../img/item7539.gif" alt="" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **`Poring Coin`** reward in addition to the claimed item.
 
 !!! important "How to Get Gold Coins"
     <img src="../img/7959.gif" alt="Gold Coin" style="vertical-align:middle;width:1.25rem;height:1.25rem;"> **Roulette Gold Coins** are obtainable exclusively from Comodo Casino slot machines (Rare tier, `0.50%`).

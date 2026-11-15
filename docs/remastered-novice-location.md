@@ -40,8 +40,8 @@ This is a great way for new players to quickly and easily advance their characte
 | ![12215 1-1](img/12215_1-1.png) | 10x LV10 Agil Scroll |
 | ![12263 1](img/12263_1.png) | 2x Battle Manual |
 | ![569](img/569.gif) | 400x Novice Potion |
-| ![12887](img/12887.gif) | 50x Novice Fly Wing |
-| ![12324](img/12324.gif) | 20x Novice Butterfly Wing |
+| ![12887](img/item12887.gif) | 50x Novice Fly Wing |
+| ![12324](img/item12324.gif) | 20x Novice Butterfly Wing |
 | ![7059](img/7059.gif) | 20x Free Ticket for Kafra Storage |
 | ![7059](img/7059.gif) | 30x Free Ticket for Kafra Transportation |
 | ![13040](img/13040.gif) | Novice Cutter |
