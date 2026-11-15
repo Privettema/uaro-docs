@@ -125,11 +125,11 @@ Each floor lists its monsters with how many spawn.
 | **Floor 84** | **Floor 85** | **Floor 86** | **Floor 87** |
 | ![Succubus](img/1370.gif)<br>10 Succubus (`1370`{ .copy })<br> ![Dark Illusion](img/1302.gif)<br>20 Dark Illusion (`1302`{ .copy })<br> ![Owl Duke](img/1320.gif)<br>10 Owl Duke (`1320`{ .copy })<br> ![Owl Baron](img/1295.gif)<br>10 Owl Baron (`1295`{ .copy })<br> ![Incubus](img/1374.gif)<br>10 Incubus (`1374`{ .copy }) | ![Ifrit](img/1832.gif)<br>1 Ifrit (`1832`{ .copy }) | ![Hydro](img/1720.gif)<br>10 Hydro (`1720`{ .copy })<br> ![Gryphon](img/1259.gif)<br>10 Gryphon (`1259`{ .copy })<br> ![Chimera](img/1283.gif)<br>10 Chimera (`1283`{ .copy })<br> ![Majoruros](img/1310.gif)<br>10 Majoruros (`1310`{ .copy }) | ![Salamander](img/1831.gif)<br>15 Salamander (`1831`{ .copy })<br> ![Kasa](img/1833.gif)<br>20 Kasa (`1833`{ .copy })<br> ![Lava Golem](img/1366.gif)<br>15 Lava Golem (`1366`{ .copy })<br> ![Gajomart](img/1309.gif)<br>10 Gajomart (`1309`{ .copy }) |
 | **Floor 88** | **Floor 89** | **Floor 90** | **Floor 91** |
-| ![Necromancer](img/1870.gif)<br>15 Necromancer (`1870`{ .copy })<br> ![Anubis](img/1098.gif)<br>15 Anubis (`1098`{ .copy })<br> ![Wraith Dead](img/1291.gif)<br>10 Wraith Dead (`1291`{ .copy })<br> ![Ancient Mummy](img/1297.gif)<br>10 Ancient Mummy (`1297`{ .copy })<br> ![Khalitzburg](img/1132.gif)<br>10 Khalitzburg (`1132`{ .copy }) | ![Thanatos Odium](img/1704.gif)<br>6 Thanatos Odium (`1704`{ .copy })<br> ![Thanatos Despero](img/1705.gif)<br>6 Thanatos Despero (`1705`{ .copy })<br> ![Thanatos Maero](img/1706.gif)<br>6 Thanatos Maero (`1706`{ .copy })<br> ![Thanatos Dolor](img/1707.gif)<br>6 Thanatos Dolor (`1707`{ .copy }) | ![Valkyrie Randgris](img/1751.gif)<br>1 Valkyrie Randgris (`1751`{ .copy })<br> ![Retribution](img/1702.gif)<br>10 Retribution (`1702`{ .copy })<br> ![Solace](img/1703.gif)<br>10 Solace (`1703`{ .copy })<br> ![Fake Angel](img/1371.gif)<br>10 Fake Angel (`1371`{ .copy }) | ![Shecil](img/1638.gif)<br>10 Shecil (`1638`{ .copy })<br> ![Bow Guardian](img/1830.gif)<br>10 Bow Guardian (`1830`{ .copy })<br> ![Kavac](img/1656.gif)<br>30 Kavac (`1656`{ .copy }) |
+| ![Necromancer](img/1870.gif)<br>15 Necromancer (`1870`{ .copy })<br> ![Anubis](img/1098.gif)<br>15 Anubis (`1098`{ .copy })<br> ![Wraith Dead](img/1291.gif)<br>10 Wraith Dead (`1291`{ .copy })<br> ![Ancient Mummy](img/1297.gif)<br>10 Ancient Mummy (`1297`{ .copy })<br> ![Khalitzburg](img/1132.gif)<br>10 Khalitzburg (`1132`{ .copy }) | ![Thanatos Odium](img/1704.gif)<br>6 Thanatos Odium (`1704`{ .copy })<br> ![Thanatos Despero](img/1705.gif)<br>6 Thanatos Despero (`1705`{ .copy })<br> ![Thanatos Maero](img/1706.gif)<br>6 Thanatos Maero (`1706`{ .copy })<br> ![Thanatos Dolor](img/1707.gif)<br>6 Thanatos Dolor (`1707`{ .copy }) | ![Valkyrie Randgris](img/1751.gif)<br>1 Valkyrie Randgris (`1751`{ .copy })<br> ![Retribution](img/1702.gif)<br>10 Retribution (`1702`{ .copy })<br> ![Solace](img/1703.gif)<br>10 Solace (`1703`{ .copy })<br> ![Fake Angel](img/1371.gif)<br>10 Fake Angel (`1371`{ .copy }) | ![Cecil Damon](img/1638.gif)<br>10 Cecil Damon (`1638`{ .copy })<br> ![Bow Guardian](img/1830.gif)<br>10 Bow Guardian (`1830`{ .copy })<br> ![Kavac](img/1656.gif)<br>30 Kavac (`1656`{ .copy }) |
 | **Floor 92** | **Floor 93** | **Floor 94** | **Floor 95** |
-| ![Katrinn](img/1639.gif)<br>15 Katrinn (`1639`{ .copy })<br> ![Elder](img/1377.gif)<br>10 Elder (`1377`{ .copy })<br> ![Rawrel](img/1657.gif)<br>10 Rawrel (`1657`{ .copy })<br> ![Wind Ghost](img/1263.gif)<br>10 Wind Ghost (`1263`{ .copy })<br> ![Marduk](img/1140.gif)<br>10 Marduk (`1140`{ .copy }) | ![Seyren](img/1634.gif)<br>15 Seyren (`1634`{ .copy })<br> ![Bloody Knight](img/1268.gif)<br>10 Bloody Knight (`1268`{ .copy })<br> ![Knight of Abyss](img/1219.gif)<br>10 Knight of Abyss (`1219`{ .copy })<br> ![Wander Man](img/1208.gif)<br>10 Wander Man (`1208`{ .copy }) | ![Sword Guardian](img/1829.gif)<br>15 Sword Guardian (`1829`{ .copy })<br> ![Bow Guardian](img/1830.gif)<br>15 Bow Guardian (`1830`{ .copy }) | ![Beelzebub](img/1873.gif)<br>1 Beelzebub (`1873`{ .copy })<br> ![Hunter Fly](img/1035.gif)<br>30 Hunter Fly (`1035`{ .copy })<br> ![Steel Chonchon](img/1042.gif)<br>5 Steel Chonchon (`1042`{ .copy })<br> ![Dragon Fly](img/1091.gif)<br>5 Dragon Fly (`1091`{ .copy })<br> ![Chonchon](img/1011.gif)<br>5 Chonchon (`1011`{ .copy }) |
+| ![Kathryne Keyron](img/1639.gif)<br>15 Kathryne Keyron (`1639`{ .copy })<br> ![Elder](img/1377.gif)<br>10 Elder (`1377`{ .copy })<br> ![Rawrel](img/1657.gif)<br>10 Rawrel (`1657`{ .copy })<br> ![Wind Ghost](img/1263.gif)<br>10 Wind Ghost (`1263`{ .copy })<br> ![Marduk](img/1140.gif)<br>10 Marduk (`1140`{ .copy }) | ![Seyren Windsor](img/1634.gif)<br>15 Seyren Windsor (`1634`{ .copy })<br> ![Bloody Knight](img/1268.gif)<br>10 Bloody Knight (`1268`{ .copy })<br> ![Knight of Abyss](img/1219.gif)<br>10 Knight of Abyss (`1219`{ .copy })<br> ![Wander Man](img/1208.gif)<br>10 Wander Man (`1208`{ .copy }) | ![Sword Guardian](img/1829.gif)<br>15 Sword Guardian (`1829`{ .copy })<br> ![Bow Guardian](img/1830.gif)<br>15 Bow Guardian (`1830`{ .copy }) | ![Beelzebub](img/1873.gif)<br>1 Beelzebub (`1873`{ .copy })<br> ![Hunter Fly](img/1035.gif)<br>30 Hunter Fly (`1035`{ .copy })<br> ![Steel Chonchon](img/1042.gif)<br>5 Steel Chonchon (`1042`{ .copy })<br> ![Dragon Fly](img/1091.gif)<br>5 Dragon Fly (`1091`{ .copy })<br> ![Chonchon](img/1011.gif)<br>5 Chonchon (`1011`{ .copy }) |
 | **Floor 96** | **Floor 97** | **Floor 98** |
-| ![Valkyrie](img/1765.gif)<br>5 Valkyrie (`1765`{ .copy })<br> ![Skeggiold](img/1755.gif)<br>10 Skeggiold (`1755`{ .copy })<br> ![Skeggiold](img/1754.gif)<br>10 Skeggiold (`1754`{ .copy }) | ![Incarnation of Morroc](img/1918.gif)<br>5 Incarnation of Morroc (`1918`{ .copy })<br> ![Incarnation of Morroc](img/1919.gif)<br>5 Incarnation of Morroc (`1919`{ .copy })<br> ![Incarnation of Morroc](img/1920.gif)<br>5 Incarnation of Morroc (`1920`{ .copy })<br> ![Incarnation of Morroc](img/1921.gif)<br>5 Incarnation of Morroc (`1921`{ .copy }) | ![Katrinn](img/1639.gif)<br>2 Katrinn (`1639`{ .copy })<br> ![Seyren](img/1634.gif)<br>2 Seyren (`1634`{ .copy })<br> ![Magaleta](img/1637.gif)<br>2 Magaleta (`1637`{ .copy })<br> ![Eremes](img/1635.gif)<br>2 Eremes (`1635`{ .copy })<br> ![Harword](img/1636.gif)<br>2 Harword (`1636`{ .copy })<br> ![Shecil](img/1638.gif)<br>2 Shecil (`1638`{ .copy }) |
+| ![Valkyrie](img/1765.gif)<br>5 Valkyrie (`1765`{ .copy })<br> ![Skeggiold](img/1755.gif)<br>10 Skeggiold (`1755`{ .copy })<br> ![Skeggiold](img/1754.gif)<br>10 Skeggiold (`1754`{ .copy }) | ![Incarnation of Morroc](img/1918.gif)<br>5 Incarnation of Morroc (`1918`{ .copy })<br> ![Incarnation of Morroc](img/1919.gif)<br>5 Incarnation of Morroc (`1919`{ .copy })<br> ![Incarnation of Morroc](img/1920.gif)<br>5 Incarnation of Morroc (`1920`{ .copy })<br> ![Incarnation of Morroc](img/1921.gif)<br>5 Incarnation of Morroc (`1921`{ .copy }) | ![Kathryne Keyron](img/1639.gif)<br>2 Kathryne Keyron (`1639`{ .copy })<br> ![Seyren Windsor](img/1634.gif)<br>2 Seyren Windsor (`1634`{ .copy })<br> ![Magaleta](img/1637.gif)<br>2 Magaleta (`1637`{ .copy })<br> ![Eremes Guile](img/1635.gif)<br>2 Eremes Guile (`1635`{ .copy })<br> ![Howard Alt-Eisen](img/1636.gif)<br>2 Howard Alt-Eisen (`1636`{ .copy })<br> ![Cecil Damon](img/1638.gif)<br>2 Cecil Damon (`1638`{ .copy }) |
 
 </div>
 
@@ -139,12 +139,12 @@ Seven spawn groups are picked at random from the pool below, so every run on thi
 
 | Monster | Quantity | ID |
 |---------|----------|--------|
-| ![Katrinn](img/1639.gif) Katrinn | 2 | `1639`{ .copy } |
-| ![Seyren](img/1634.gif) Seyren | 2 | `1634`{ .copy } |
-| ![Margaretha](img/1637.gif) Margaretha | 2 | `1637`{ .copy } |
-| ![Eremes](img/1635.gif) Eremes | 2 | `1635`{ .copy } |
-| ![Harword](img/1636.gif) Harword | 2 | `1636`{ .copy } |
-| ![Shecil](img/1638.gif) Shecil | 2 | `1638`{ .copy } |
+| ![Kathryne Keyron](img/1639.gif) Kathryne Keyron | 2 | `1639`{ .copy } |
+| ![Seyren Windsor](img/1634.gif) Seyren Windsor | 2 | `1634`{ .copy } |
+| ![Margaretha Sorin](img/1637.gif) Margaretha Sorin | 2 | `1637`{ .copy } |
+| ![Eremes Guile](img/1635.gif) Eremes Guile | 2 | `1635`{ .copy } |
+| ![Howard Alt-Eisen](img/1636.gif) Howard Alt-Eisen | 2 | `1636`{ .copy } |
+| ![Cecil Damon](img/1638.gif) Cecil Damon | 2 | `1638`{ .copy } |
 | ![Incarnation of Morroc](img/1918.gif) Incarnation of Morroc | 5 | `1918`{ .copy } |
 | ![Incarnation of Morroc](img/1919.gif) Incarnation of Morroc | 5 | `1919`{ .copy } |
 | ![Incarnation of Morroc](img/1920.gif) Incarnation of Morroc | 5 | `1920`{ .copy } |
@@ -152,18 +152,18 @@ Seven spawn groups are picked at random from the pool below, so every run on thi
 | ![Valkyrie](img/1765.gif) Valkyrie | 5 | `1765`{ .copy } |
 | ![Skeggiold](img/1755.gif) Skeggiold | 10 | `1755`{ .copy } |
 | ![Skeggiold](img/1754.gif) Skeggiold | 10 | `1754`{ .copy } |
-| ![Seyren](img/1634.gif) Seyren | 15 | `1634`{ .copy } |
+| ![Seyren Windsor](img/1634.gif) Seyren Windsor | 15 | `1634`{ .copy } |
 | ![Bloody Knight](img/1268.gif) Bloody Knight | 10 | `1268`{ .copy } |
 | ![Knight of Abyss](img/1219.gif) Knight of Abyss | 10 | `1219`{ .copy } |
 | ![Wander Man](img/1208.gif) Wander Man | 10 | `1208`{ .copy } |
 | ![Sword Guardian](img/1829.gif) Sword Guardian | 15 | `1829`{ .copy } |
 | ![Bow Guardian](img/1830.gif) Bow Guardian | 15 | `1830`{ .copy } |
-| ![Katrinn](img/1639.gif) Katrinn | 15 | `1639`{ .copy } |
+| ![Kathryne Keyron](img/1639.gif) Kathryne Keyron | 15 | `1639`{ .copy } |
 | ![Elder](img/1377.gif) Elder | 10 | `1377`{ .copy } |
 | ![Rawrel](img/1657.gif) Rawrel | 10 | `1657`{ .copy } |
 | ![Wind Ghost](img/1263.gif) Wind Ghost | 10 | `1263`{ .copy } |
 | ![Marduk](img/1140.gif) Marduk | 10 | `1140`{ .copy } |
-| ![Shecil](img/1638.gif) Shecil | 10 | `1638`{ .copy } |
+| ![Cecil Damon](img/1638.gif) Cecil Damon | 10 | `1638`{ .copy } |
 | ![Bow Guardian](img/1830.gif) Bow Guardian | 10 | `1830`{ .copy } |
 | ![Kavac](img/1656.gif) Kavac | 30 | `1656`{ .copy } |
 | ![Retribution](img/1702.gif) Retribution | 10 | `1702`{ .copy } |

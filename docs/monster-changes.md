@@ -47,8 +47,8 @@ This page lists notable changes only, not every difference. To check any monster
 | Moonlight Flower | `1150`{ .copy } | Sap Jelly `23187`{ .copy }: 9% |
 | Nightmare Terror | `1379`{ .copy } | Hell Contract `12372`{ .copy }: 0.5% |
 | RSX-0806 | `1623`{ .copy } | Small Doll Needle `23189`{ .copy }: 9% |
-| Seyren<br>Eremes<br>Harword<br>Margaretha<br>Shecil<br>Katrinn | `1634`{ .copy }<br>`1635`{ .copy }<br>`1636`{ .copy }<br>`1637`{ .copy }<br>`1638`{ .copy }<br>`1639`{ .copy } | Spawn at random locations across the whole map (was: fixed areas)<br>Anyone can kill them, with no kill-steal protection |
-| Seyren | `1634`{ .copy } | Dragon Slayer `1166`{ .copy }: 0.10% |
+| Seyren Windsor<br>Eremes Guile<br>Howard Alt-Eisen<br>Margaretha Sorin<br>Cecil Damon<br>Kathryne Keyron | `1634`{ .copy }<br>`1635`{ .copy }<br>`1636`{ .copy }<br>`1637`{ .copy }<br>`1638`{ .copy }<br>`1639`{ .copy } | Spawn at random locations across the whole map (was: fixed areas)<br>Anyone can kill them, with no kill-steal protection |
+| Seyren Windsor | `1634`{ .copy } | Dragon Slayer `1166`{ .copy }: 0.10% |
 | Shinobi | `1401`{ .copy } | Kuloren `12362`{ .copy }: 0.1% |
 | Sleeper | `1386`{ .copy } | Great Nature `997`{ .copy }: 75% (was 100%) |
 | Sting | `1207`{ .copy } | Sting Hat `5509`{ .copy }: 0.05% |
