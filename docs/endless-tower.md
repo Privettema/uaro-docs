@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-16
+updated: 2026-11-15
 ---
 
 # Endless Tower
@@ -141,7 +141,7 @@ Seven spawn groups are picked at random from the pool below, so every run on thi
 |---------|----------|--------|
 | ![Katrinn](img/1639.gif) Katrinn | 2 | `1639`{ .copy } |
 | ![Seyren](img/1634.gif) Seyren | 2 | `1634`{ .copy } |
-| ![Magaleta](img/1637.gif) Magaleta | 2 | `1637`{ .copy } |
+| ![Margaretha](img/1637.gif) Margaretha | 2 | `1637`{ .copy } |
 | ![Eremes](img/1635.gif) Eremes | 2 | `1635`{ .copy } |
 | ![Harword](img/1636.gif) Harword | 2 | `1636`{ .copy } |
 | ![Shecil](img/1638.gif) Shecil | 2 | `1638`{ .copy } |
