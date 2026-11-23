@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-16
+updated: 2026-11-22
 ---
 
 # Style Guide
@@ -78,7 +78,7 @@ One or two plain sentences: what the instance is and what you fight.
 
     Unique rows go after those (Eternal Bastion's Party Lock, Endless Cellar's Monster Count). If a shared value hasn't been verified, write "Not documented yet" rather than dropping the row, so the gap is visible.
 - **Getting There** is the NPC and the steps to start the run, then the shared ready rule.
-- **Monster grid entries** are `![Name](img/1234.gif)<br>15 Name (`1234`{ .copy })`: sprite, then on its own line quantity, name and the copyable ID, with no dash. Stack the label under the sprite only on the multi-mob floor grids; boss floors and stage tables keep the sprite inline with the label. Monster sprites are `docs/img/<ID>.gif`; `game-data-tools/bin/fetch_mob_sprites.py` fetches missing ones.
+- **Monster grid entries** are `![Name](img/mob1234.gif)<br>15 Name (`1234`{ .copy })`: sprite, then on its own line quantity, name and the copyable ID, with no dash. Stack the label under the sprite only on the multi-mob floor grids; boss floors and stage tables keep the sprite inline with the label. Monster sprites are `docs/img/mob<ID>.gif` and item icons `docs/img/item<ID>.gif` (older pages still use a bare `<ID>.gif`; rename those only when you are already editing the page); `game-data-tools/bin/fetch_mob_sprites.py` fetches missing ones.
 - **Notes go where they apply.** Put a caveat in the sentence, table row or section it belongs to instead of a standalone note box. Keep a callout only where missing it costs a run, items or progress (`warning`), right next to the spot it concerns.
 - **Shared text lives in `snippets/`, not on the page.** Include it with `--8<-- "file.md:section"` on its own line (indent it to sit inside an admonition or list). Edit the file and every page that includes it changes.
     - `snippets/instances.md`: the `!ready` rule, the Re-entry, Storage and RODEX rows most instances share (Eternal Bastion writes its own), each instance's run limit and its unlock point (also used by [Instance Guide](../instance-guide.md)). Add a new instance's `fact-`, `limit-` and `unlock-` sections there.
@@ -117,7 +117,7 @@ Use `??? note "Title"` (collapsible) for a block that's long and mostly referenc
 - Page-specific images go in a subfolder: `docs/img/<Page_Name>/`. Shared item/monster/skill sprites stay directly in `docs/img/`.
 - A standalone image (screenshot, NPC portrait) gets its own line: `![Alt text](img/filename.webp)`. Write a real alt text, not `""` or the filename.
 - Give a standalone screenshot the `.wiki-screenshot` class: `![Alt text](img/filename.webp){ .wiki-screenshot }`. It adds the frame and the spacing above and below. Don't use blank lines or `<br>` to add space.
-- An inline icon (an item or skill next to its name in a sentence or table cell) stays inline: `![Item Name](img/1234.gif) Item Name`.
+- An inline icon (an item or skill next to its name in a sentence or table cell) stays inline: `![Item Name](img/item1234.gif) Item Name`.
 - An icon in a table cell is centered on its text, and the cell stays top-aligned so the label lines up with the cells beside it. The site's stylesheet does this for every table (the `.md-typeset td img` rule), so write the icon and name the usual way and don't add spacing or `<br>` to line them up. The gap between the icon and the name is 8px.
 - Images no page uses but that are kept on purpose are listed in [Image Reference](image-reference.md). Check it before deleting an unreferenced image, and add a row when you keep one.
 - For a layout markdown can't do alone (floating an image beside text), use `<img src="img/filename.webp" alt="Alt text" align="left" />` — this is the one place raw HTML is expected on a content page.
@@ -125,7 +125,7 @@ Use `??? note "Title"` (collapsible) for a block that's long and mostly referenc
 ## Tables
 
 - Standard Markdown pipe tables. Keep every row's cell content on one line — don't rely on trailing double-spaces for a line break; if a cell genuinely needs a forced break, use `<br>` inside it.
-- An item/monster column shows the icon and name together: `![Name](img/1234.gif) Name`. When the things a table lists (items, monsters, NPCs — anything players look up by ID) are the subject of the table, give their IDs in their own column, last. A monster table's ID column is headed **ID** and an item table's **Item ID**, and the ID is copyable (`` `2221`{ .copy } ``). Don't list `@mi`/`@ii` commands in a column; players know the commands. Skills are the exception: players don't look them up by ID, so skill tables have no ID column. A thing that merely appears in a cell, such as a monster listed in an item-change table, gets the inline form instead, without bold: Poring (`1002`) (see Names and terms).
+- An item/monster column shows the icon and name together: `![Name](img/item1234.gif) Name` (`img/mob1234.gif` for a monster). When the things a table lists (items, monsters, NPCs — anything players look up by ID) are the subject of the table, give their IDs in their own column, last. A monster table's ID column is headed **ID** and an item table's **Item ID**, and the ID is copyable (`` `2221`{ .copy } ``). Don't list `@mi`/`@ii` commands in a column; players know the commands. Skills are the exception: players don't look them up by ID, so skill tables have no ID column. A thing that merely appears in a cell, such as a monster listed in an item-change table, gets the inline form instead, without bold: Poring (`1002`) (see Names and terms).
 - A cost in a special currency (Bloody Coins, Bastion Coins, Poring Coins) is the currency's sprite, the amount, then the currency name: `![Bloody Coin](img/HTF/7642.gif) 10 Bloody Coins`. Zeny stays `500,000z`.
 - Quantities are plain text, not code: `10 per week`, not `` `10` per week ``. Backticks are for IDs, commands and map addresses.
 - No trailing whitespace on any line, in or out of a table.

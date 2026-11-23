@@ -8,7 +8,7 @@ The ultimate PvE endgame challenge on uaRO: a party of 12 fights through 100 wav
 
 !!! info "Quick Facts"
     - **Location:** Bastion NPC in Veins, the Canyon Village (`/navi veins 218/136`)
-    - **Party Size:** 12 players required 
+    - **Party Size:** 12 players required
     - **Base Level:** 85
     - **Time Limit:** 4 hours, the instance fails if the timer runs out
     --8<-- "instances.md:fact-eternal-bastion"
@@ -70,21 +70,21 @@ Bastion Coins are untradeable and account-bound.
 
 ![Bastion Coin NPC](img/bastion_coin_npc.webp){ .wiki-screenshot }
 
-Exchange **Bastion Coins** `406105`{ .copy } at **Vulcarion** in **Veins** (`/navi veins 223/133`) for Bastion Enchantments. 
+Exchange **Bastion Coins** `406105`{ .copy } at **Vulcarion** in **Veins** (`/navi veins 223/133`) for Bastion Enchantments.
 
-Apply Bastion Enchantments to Mid Headgear or Footgear at **Master Craftsman** in **Prontera** (`/navi prontera 164/44`).  
+Apply Bastion Enchantments to Mid Headgear or Footgear at **Master Craftsman** in **Prontera** (`/navi prontera 164/44`).
 
 The **Master Craftsman** can also remove them again. All enchants are switched off inside WoE and GvG castles.
 
 | Enchant | Effect | Cost |
 |---------|--------|------|
-| ![+1 All Stats](img/406100.gif) **+1 All Stats** `406100`{ .copy } | All Stats +1 | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
-| ![20% Movement Speed Increase](img/406101.gif) **20% Movement Speed Increase** `406101`{ .copy } | Increased movement speed | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
-| ![5% Resistance All Races](img/406102.gif) **5% Resistance All Races** `406102`{ .copy } | Reduces damage taken from all race enemies by 5% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
-| ![5% Magical Damage Increase](img/406103.gif) **5% Magical Damage Increase** `406103`{ .copy } | Increases magic attack rate by 5% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
-| ![5% Physical Damage Increase](img/406104.gif) **5% Physical Damage Increase** `406104`{ .copy } | Increases physical attack rate by 5% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
-| **-20% SP Consumption** `406106`{ .copy } | Reduces SP consumption by 20% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
-| **10% Heal Effectiveness** `406107`{ .copy } | Increases heal effectiveness by 10% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![+1 All Stats](img/item406100.gif) **+1 All Stats** `406100`{ .copy } | All Stats +1 | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![20% Movement Speed Increase](img/item406101.gif) **20% Movement Speed Increase** `406101`{ .copy } | Increased movement speed | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![5% Resistance All Races](img/item406102.gif) **5% Resistance All Races** `406102`{ .copy } | Reduces damage taken from all race enemies by 5% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![5% Magical Damage Increase](img/item406103.gif) **5% Magical Damage Increase** `406103`{ .copy } | Increases magic attack rate by 5% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![5% Physical Damage Increase](img/item406104.gif) **5% Physical Damage Increase** `406104`{ .copy } | Increases physical attack rate by 5% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![-20% SP Consumption](img/item406106.gif) **-20% SP Consumption** `406106`{ .copy } | Reduces SP consumption by 20% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![10% Heal Effectiveness](img/item406107.gif) **10% Heal Effectiveness** `406107`{ .copy } | Increases heal effectiveness by 10% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
 
 
 
