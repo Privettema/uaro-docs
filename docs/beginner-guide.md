@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-12
+updated: 2026-11-22
 ---
 
 # uaRO Beginner's Info & Quick Start Guide
@@ -164,7 +164,7 @@ Thief and Mage have guides that cover the whole branch: [Angebo's Starting from 
 
     Ranged damage dealer built around Double Strafe (DS) with high DEX, medium AGI and medium INT. It can one-hit several targets. The Orc Archer Bow (`1734`) is cheap and powerful, especially with an Elemental Converter. Level and earn Zeny at Hill Winds.
 
-    [Job change guide ↗](https://irowiki.org/classic/Hunter_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1507939786860527666)
+    [Job change guide ↗](https://ratemyserver.net/quest_db.php?type=60000&qid=60014) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1507939786860527666)
 
 -   <span id="knight"></span>![Knight](img/Beginner_Guide/classes/Knight.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Lord Knight](img/Beginner_Guide/classes/Lord_Knight.png){ .class-sprite }
 
