@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-05
+updated: 2026-11-22
 ---
 
 # Custom NPCs
@@ -17,7 +17,7 @@ The [Main Office](main-office.md) in Prontera (`/navi prontera 134/184`) is the 
 
 | ![Dimonka NPC](img/NPC/dimonka.gif)<br>**Dimonka** | ![Lydia NPC](img/4_F_NFLOSTGIRL.gif)<br>**Lydia** | ![Reset Girl NPC](img/4_F_ACOLYTE.gif)<br>**Reset Girl** | ![Platinum Skill NPC](img/1_F_01.gif)<br>**Platinum Skill** |
 |---|---|---|---|
-| Trades your loot and Poring Coins for [quest headgear](dimonka-headgear-quest.md). | Exchanges Poring Coins for [valuable items](poring-coins-system.md). | Resets your stats or skills for a fee based on your base level. | Grants the special skills available to your job. |
+| Trades your loot and Poring Coins for [quest headgear](dimonka-headgear-quest.md). | Exchanges Poring Coins for [valuable items](poring-coins-system.md). | Resets your stats or skills for a [fee based on your base level](main-office.md#reset-girl). | Grants the special skills available to your job. |
 
 </div>
 

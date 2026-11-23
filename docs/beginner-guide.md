@@ -113,7 +113,7 @@ These are important for three reasons:
 Class quest skills (platinum skills) are learned from the Platinum Skill NPC in the [Main Office](main-office.md) in Prontera, without doing the quest. Visit this NPC after every job change to pick up the skills your class is missing. For example, a Thief gets Back Slide and a Merchant gets Cart Revolution.
 
 ### ![Reset NPC](img/JP_ARUNA.gif) Reset NPC
-This NPC is located in the Prontera Main Office and allows you to reset your skills, your stats, or your skills and stats. You can do it as often as you like for a fee, with the first time being free. This allows you to first choose a beginners friendly build and once you own the money (and equipment) you can change to a late game one.
+This NPC is located in the Prontera [Main Office](main-office.md) and allows you to reset your skills, your stats, or your skills and stats. You can do it as often as you like for a fee, with the first time being free ([fees](main-office.md#reset-girl)). This allows you to first choose a beginners friendly build and once you own the money (and equipment) you can change to a late game one.
 
 ## Sources of Information
 

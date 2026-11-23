@@ -59,9 +59,12 @@ has nothing to do with your change.
 
 ### Where Content Goes
 - **Changes pages** (`class-changes.md`, `item-changes.md`, `monster-changes.md`, `map-changes.md`, `quest-changes.md`) list only things
-  that differ from the official game, as Original vs uaRO. Original is the pre-renewal value (Hercules `db/pre-re`); if there is no
-  pre-re version it is the renewal value (Hercules `db/re`, then rAthena) and the row says so.
-- Items that uaRO added also go in `item-changes.md`, with a blank Original. `whats-different.md` lists the areas and
+  that differ from the official game. We are moving away from the Original vs uaRO layout: new and reworked rows state what uaRO
+  does and drop the Original column (`quest-changes.md` is already done), working in the original detail only where it helps the
+  reader. Pages that still have an Original column keep it until they are reworked; don't restyle them unasked. Where a page does
+  still show Original, it is the pre-renewal value (Hercules `db/pre-re`); if there is no pre-re version it is the renewal value
+  (Hercules `db/re`, then rAthena) and the row says so.
+- Items that uaRO added also go in `item-changes.md`, with a blank Original while that column exists. `whats-different.md` lists the areas and
   instances that uaRO added, by episode. Unchanged cards from renewal monsters belong on the page for the area where they drop.
 - **Quality of Life** (`improvements.md`) is for game-wide rules and mechanics that are not about one item, skill, monster or map:
   inventory and trade rules, buff stacking, teleport behavior, storage limits. Add a one-line row to the Optimized Mechanics
