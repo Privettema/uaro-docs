@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-15
+updated: 2026-11-24
 ---
 
 # What's Different
@@ -44,3 +44,4 @@ Areas and instances that are not in the official pre-renewal game. uaRO content 
 | 14.1: Bifrost | Byalan Dungeon 6 | - |
 | 14.2: Eclage | Horror Toy Factory | [Horror Toy Factory](horror-toy-factory.md) |
 | 14.2: Eclage | Old Glast Heim | [Old Glast Heim](old-glast-heim.md) |
+| Post-17.2: Legacy of the Wise One | Niflheim Dungeon | [Niflheim Dungeon](niflheim-dungeon.md) |
