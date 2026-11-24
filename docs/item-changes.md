@@ -146,6 +146,7 @@ Items that uaRO added, removed or changed. Each row describes the item as it wor
 | ![Home Cooking Kit](img/item12126.gif) Home Cooking Kit | `12126`{ .copy } | Not consumed until a craft is attempted |
 | ![Infinite Butterfly Wing](img/item602.gif) Infinite Butterfly Wing | `52283`{ .copy } | Works like a Butterfly Wing: unusable during duels and on no-return maps<br><br>Acquisition: Exchanged at Lydia (`/navi prt_in 38/105`) |
 | ![Infinite Fly Wing](img/item12887.gif) Infinite Fly Wing | `12887`{ .copy } | Can be used while Berserked |
+| ![Life Insurance](img/item12209.gif) Life Insurance | `12209`{ .copy } | Lasts **30** minutes |
 | ![Iron Hammer](img/item613.gif) Iron Hammer | `613`{ .copy } | Not consumed until a craft is attempted |
 | ![Novice Fly Wing](img/item12323.gif) Novice Fly Wing | `12323`{ .copy } | Can be used while Berserked |
 | ![Oridecon Hammer](img/item615.gif) Oridecon Hammer | `615`{ .copy } | Not consumed until a craft is attempted |
