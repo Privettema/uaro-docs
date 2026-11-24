@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-05
+updated: 2026-11-22
 ---
 
 # Baby Characters
@@ -19,10 +19,11 @@ Start over as a pint-sized adventurer. On uaRO any Novice or first class can bec
 
 - You become a baby on your own, with **no adoption** by a couple.
 - Only **Novice and first classes** can become a baby, including Ninja, Taekwon, Gunslinger and Super Novice.
-- Second classes and above can't, including Soul Linker and Star Gladiator.
+- Second classes and above can't become a baby.
 - Babies can change to a second class as usual, but **can't transcend** at Base Level 99.
+- A baby Taekwon **can't change to Star Gladiator or Soul Linker**, so it stays a Taekwon.
 - If you become a baby while still a Novice, you **can't change class**.
 - Baby characters can raise a stat to 99 base instead of the official cap of 80, see [Class Changes](class-changes.md#adoptee).
 
 !!! warning "Choose Before You Pay"
-    Baby characters can't transcend, and a baby Novice can't change class. Decide on your class path before you pay the 5,000,000z.
+    Baby characters can't transcend, and a baby Novice can't change class. A baby Taekwon can't become a Star Gladiator or Soul Linker. Decide on your class path before you pay the 5,000,000z.

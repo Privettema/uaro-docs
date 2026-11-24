@@ -1,7 +1,7 @@
 ---
 hide:
   - toc
-updated: 2026-08-25
+updated: 2026-11-24
 ---
 
 # 🤖 Auto Events
@@ -124,7 +124,7 @@ Good luck, and may RNG be on your side! 🍀
 
 **Bombring** is a last-player-standing survival event that replaces the old **Run or Die** event.
 
-Skills are disabled and everyone moves at the same speed — dodging is all that counts.
+Skills and items are disabled, equipment gives no stats and everyone moves at the same speed — dodging is all that counts.
 
 ### 🏆 Winner & Rewards
 
@@ -148,7 +148,7 @@ Join the event using the command: @event
 
 1. The arena floor detonates in **telegraphed blast patterns**
 2. The blast patterns grow **bigger and faster** every round
-3. Everyone is locked to the **same movement speed** and **skills are disabled**
+3. Everyone is locked to the **same movement speed**, **skills and items are disabled**, and equipment gives **no stats** (costumes still show)
 4. The **last survivor** wins
 5. If you die, respawning returns you to the **spot you joined from** with
    the **HP you had** — not your save point at 1 HP

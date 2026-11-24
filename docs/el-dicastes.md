@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-01
+updated: 2026-11-24
 ---
 
 # El Dicastes
@@ -9,7 +9,7 @@ In **El Dicastes**, the Sapha capital, every favor is paid in certificates and e
 !!! info "Quick Facts"
     - **Currency:** Sapha Certificates, earned from quests
     - **Level Required:** Base Level 80 for daily quests, Base Level 75 to wear the enchantable items
-    - **Daily Reset:** All dailies share one account-wide cooldown that resets at 00:00 server time (`@time`)
+    - **Daily Reset:** Each quest giver's request has its own account-wide cooldown that resets at 00:00 server time (`@time`)
 
 !!! danger "Keep the Ring Equipped"
     Sapha NPCs only talk to you while the Ring of the Ancient Wise King is **worn**. It cannot be traded or stored, so every character must earn its own.
@@ -98,12 +98,11 @@ Your other characters can also reach Scaraba Hole Level 2 through the Vigilantes
 
 ### Daily Requests
 
-Take a request from one of six quest givers in the square, complete it, then report to the matching manager inside Diel. Each pays 1 Certificate plus 4,000 to 82,800 base EXP, rolled per request.
+Take a request from one of six quest givers in the square, complete it, then turn it in to the same quest giver. Each pays 1 Certificate plus 4,000 to 82,800 base EXP, rolled per request. The northern part of the city is still used for the one-time introduction quest.
 
-These quests reset daily at 00:00 server time (`@time`). Any quest you have not turned in by then is reset, and progress does not carry over between days.
+Requests don't expire, so you can take your time. After you turn one in, that quest giver has a new request after the daily reset at 00:00 server time (`@time`).
 
-!!! warning "Daily Quest Reset"
-    To reset a quest, return to each manager in Diel before taking a new day's request.
+You can give up a request at its quest giver. You get a new one after the daily reset.
 
 ### Cheshire's Call
 
@@ -163,6 +162,8 @@ Layers 2 and 3 can stack on the same stat, up to +5 on Feral Boots and Feral Tai
 ### Enchanting with the Cat Merchants
 
 The cat merchants enchant the Feral Boots, Feral Tail and Golden Trinket, and the item must be equipped. You do not need to wear the Ring of the Ancient Wise King to speak with the cats.
+
+The area around the cat merchants on `dic_fild01` is a safe zone. Monsters can't enter it, and you can't attack or use skills while inside. You can't walk in if you were in combat in the last 10 seconds, the same rule as logging out.
 
 | Step | Cost | Result |
 |---|---|---|

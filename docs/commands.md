@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-10
+updated: 2026-11-24
 ---
 
 # Commands
@@ -157,6 +157,7 @@ The options in this menu are currently:
 12. **Anouncement Config** - Options for visibility of overhead announcements
 13. **Channel Config** - Options for visibility of active server chat channels
 14. **Headgears & Costumes (WoE)** - Toggle costume visibility on/off for WoE only
+15. **Character Settings** - Per-character options, such as **Hide Cart** for merchant classes and **Arrow Crafting Amount** (1-300 crafts per use) for characters that have learned Arrow Crafting
 
 ### Hide Pets
 Finding pets distracting? Access these options through the menu, or via commands.
@@ -174,9 +175,9 @@ Pets that are not visible will not vocalize. Visible pets are not muted unless y
 The Mute Pets option hides all pet talk and emotes for you only — pets still function normally and other players are unaffected.
 
 ### Show Rare Drops
-The Show Rare Drops option will announce your rare drops to yourself. It is accessed via menu or commands. The minimum value is 1%.
+The Show Rare Drops option will announce your rare drops to yourself. It is accessed via menu or commands. The value can use decimals, down to a minimum of 0.01% (for example `showrare 0.05`). The announcement goes to the player who actually loots the item, not the one who killed the monster.
 
-- `showrare <1-100>`
+- `showrare <0.01-100>`
   Using the command with 0 or no value will disable it.
 
 ### Card Drop Illustration
@@ -195,7 +196,7 @@ The `@lootconfig` command provides a **user-friendly UI** for managing autoloot 
 
 ### ✨ Key Features
 
-- **Toggle Autoloot** – Enable/disable autoloot and set a drop-rate threshold
+- **Toggle Autoloot** – Enable/disable autoloot and set a drop-rate threshold (decimals work, down to 0.01%)
 - **Ignore Items** – Exclude up to **100** unwanted items from autoloot
 - **Loot Groups** – Create and manage up to **40 custom loot groups**, with up to **100** items each
 - **Group Functions** – Preset list system

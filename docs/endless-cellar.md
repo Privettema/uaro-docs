@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-16
+updated: 2026-11-15
 ---
 
 # Endless Cellar
@@ -118,7 +118,7 @@ Each floor lists its monsters with how many spawn.
 | **Floor 69** | **Floor 70** | **Floor 71** | **Floor 72** |
 | ![Aqua Elemental](img/2016.gif)<br>25 Aqua Elemental (`2016`{ .copy })<br> ![Rhyncho](img/2020.gif)<br>25 Rhyncho (`2020`{ .copy })<br> ![Phylla](img/2021.gif)<br>25 Phylla (`2021`{ .copy }) | ![Ancient Tree](img/2019.gif)<br>35 Ancient Tree (`2019`{ .copy })<br> ![Dark Shadow](img/2023.gif)<br>15 Dark Shadow (`2023`{ .copy }) | ![Rata](img/2017.gif)<br>12 Rata (`2017`{ .copy })<br> ![Duneyrr](img/2018.gif)<br>12 Duneyrr (`2018`{ .copy }) | ![Nidhoggr's Shadow](img/2022.gif)<br>1 Nidhoggr's Shadow (`2022`{ .copy }) |
 | **Floor 73** | **Floor 74** | **Floor 75** | **Floor 76** |
-| ![Byorgue](img/1839.gif)<br>16 Byorgue (`1839`{ .copy }) | ![Lord Knight Seyren](img/1640.gif)<br>2 Lord Knight Seyren (`1640`{ .copy })<br> ![Assassin Cross Eremes](img/1641.gif)<br>2 Assassin Cross Eremes (`1641`{ .copy })<br> ![Whitesmith Harword](img/1642.gif)<br>2 Whitesmith Harword (`1642`{ .copy })<br> ![High Priest Magaleta](img/1643.gif)<br>2 High Priest Magaleta (`1643`{ .copy })<br> ![Sniper Shecil](img/1644.gif)<br>2 Sniper Shecil (`1644`{ .copy })<br> ![High Wizard Katrinn](img/1645.gif)<br>2 High Wizard Katrinn (`1645`{ .copy }) | ![Incarnation of Morroc](img/1918.gif)<br>7 Incarnation of Morroc (`1918`{ .copy })<br> ![Incarnation of Morroc](img/1919.gif)<br>7 Incarnation of Morroc (`1919`{ .copy })<br> ![Incarnation of Morroc](img/1920.gif)<br>7 Incarnation of Morroc (`1920`{ .copy })<br> ![Incarnation of Morroc](img/1921.gif)<br>7 Incarnation of Morroc (`1921`{ .copy }) | ![Wounded Morroc](img/1917.gif)<br>1 Wounded Morroc (`1917`{ .copy }) |
+| ![Byorgue](img/1839.gif)<br>16 Byorgue (`1839`{ .copy }) | ![Lord Knight Seyren](img/1640.gif)<br>2 Lord Knight Seyren (`1640`{ .copy })<br> ![Assassin Cross Eremes](img/1641.gif)<br>2 Assassin Cross Eremes (`1641`{ .copy })<br> ![Whitesmith Howard Alt-Eisen](img/1642.gif)<br>2 Whitesmith Howard Alt-Eisen (`1642`{ .copy })<br> ![High Priest Magaleta](img/1643.gif)<br>2 High Priest Magaleta (`1643`{ .copy })<br> ![Sniper Cecil Damon](img/1644.gif)<br>2 Sniper Cecil Damon (`1644`{ .copy })<br> ![High Wizard Kathryne Keyron](img/1645.gif)<br>2 High Wizard Kathryne Keyron (`1645`{ .copy }) | ![Incarnation of Morroc](img/1918.gif)<br>7 Incarnation of Morroc (`1918`{ .copy })<br> ![Incarnation of Morroc](img/1919.gif)<br>7 Incarnation of Morroc (`1919`{ .copy })<br> ![Incarnation of Morroc](img/1920.gif)<br>7 Incarnation of Morroc (`1920`{ .copy })<br> ![Incarnation of Morroc](img/1921.gif)<br>7 Incarnation of Morroc (`1921`{ .copy }) | ![Wounded Morroc](img/1917.gif)<br>1 Wounded Morroc (`1917`{ .copy }) |
 
 </div>
 

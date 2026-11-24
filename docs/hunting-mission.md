@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-03
+updated: 2026-11-24
 ---
 
 # Hunting Missions — Hobota
@@ -24,6 +24,7 @@ All missions:
     Higher difficulties feature stronger monsters and better rewards
 - Missions can be taken **solo or with a party**
 - Each account can complete **one mission every 8 hours**
+- The cooldown shows in your quest log as **Hunting Mission Cooldown**
 
 ## Party Missions
 

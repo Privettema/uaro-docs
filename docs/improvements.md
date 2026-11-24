@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-15
+updated: 2026-11-24
 ---
 
 # Quality of Life Improvements
@@ -64,9 +64,12 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 
 - **Fee**: 2,500z per item stack, 10,000z total for 5 item stacks
 - **Weight Limit**: Items up to 2,000 total weight can be added
-- **Short Term Storage**: Mail remains in your inbox for 14 days, then is deleted automatically
+- **Short Term Storage**: Mail remains in your inbox for 14 days. If it is still unread or still holds items or zeny, it then goes back to the sender's return box; otherwise it is deleted
+- **Return**: The Return button sends a mail back to the sender's return box
+- **Undelivered Mail**: If sending fails, your items, zeny and postage come back to you as "Undelivered mail". Attachments that don't fit in your inventory when you claim them are mailed back to you as "Undelivered attachments"
+- **Deleting**: A mail that still holds items or zeny can't be deleted; take them out first
 - **Restrictions**: Only tradeable items may be sent, check an item's *Movement Restrictions* in the item details
-- **WoE Blocked**: Not available during War of Emperium
+- **Blocked**: Not available in castles during War of Emperium, or while trading, vending or dead. A message tells you why
 
 
 

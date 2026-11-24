@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-15
+updated: 2026-11-24
 ---
 
 # Item Changes
@@ -135,8 +135,10 @@ Items that uaRO added, removed or changed. Each row describes the item as it wor
 | ![Bubble Gum](img/item12210.gif) Bubble Gum | `12210`{ .copy } | [Poring Coin shop](poring-coins-system.md#consumable-items): 1,000 Poring Coins<br>[Attendance reward](attendance-system.md) on login day 20 |
 | ![Convex Mirror](img/item12214.gif) Convex Mirror | `12214`{ .copy } | 60 minute cooldown |
 | ![Cursed Water](img/item12020.gif) Cursed Water | `12020`{ .copy } | Bulk conversion at Niff Fountain, reached through the sign quest at `/navi niflheim 146/241`: choose Singular or All, based on your empty bottles. Includes a weight check |
+| ![Earth Elemental Converter](img/item12116.gif) Earth Elemental Converter | `12116`{ .copy } | Lasts **30** minutes |
 | ![Fantastic Cooking Kit](img/item12129.gif) Fantastic Cooking Kit | `12129`{ .copy } | Not consumed until a craft is attempted |
 | ![Field Manual 100%](img/item14533.gif) Field Manual 100% | `14533`{ .copy } | [Poring Coin shop](poring-coins-system.md#consumable-items): 40 Poring Coins<br>[Attendance reward](attendance-system.md) on login day 10<br>Cannot be sold to NPCs or moved to the cart |
+| ![Fire Elemental Converter](img/item12114.gif) Fire Elemental Converter | `12114`{ .copy } | Lasts **30** minutes |
 | ![Fly Wing](img/item601.gif) Fly Wing | `601`{ .copy } | Can be used while Berserked |
 | ![Golden Hammer](img/item614.gif) Golden Hammer | `614`{ .copy } | Not consumed until a craft is attempted |
 | ![Guarana Candy](img/item12414.gif) Guarana Candy | `12414`{ .copy } | Up to 300 can be bought at once from the quest NPC |
@@ -152,6 +154,8 @@ Items that uaRO added, removed or changed. Each row describes the item as it wor
 | ![Professional Cooking Kit](img/item12127.gif) Professional Cooking Kit | `12127`{ .copy } | Not consumed until a craft is attempted |
 | ![Royal Cooking Kit](img/item12128.gif) Royal Cooking Kit | `12128`{ .copy } | Not consumed until a craft is attempted |
 | ![Token of Siegfried](img/item7621.gif) Token of Siegfried | `7621`{ .copy } | 15 minute cooldown on resurrection use |
+| ![Water Elemental Converter](img/item12115.gif) Water Elemental Converter | `12115`{ .copy } | Lasts **30** minutes |
+| ![Wind Elemental Converter](img/item12117.gif) Wind Elemental Converter | `12117`{ .copy } | Lasts **30** minutes |
 
 </div>
 

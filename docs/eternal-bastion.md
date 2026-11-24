@@ -1,16 +1,14 @@
 ---
-updated: 2026-10-16
+updated: 2026-11-22
 ---
 
 # Eternal Bastion
-
-![Eternal Bastion](img/eternal_bastion_promo.webp){ .wiki-screenshot }
 
 The ultimate PvE endgame challenge on uaRO: a party of 12 fights through 100 waves of escalating enemies, ending with a randomly selected final boss.
 
 !!! info "Quick Facts"
     - **Location:** Bastion NPC in Veins, the Canyon Village (`/navi veins 218/136`)
-    - **Party Size:** 12 person minimum
+    - **Party Size:** 12 players required
     - **Base Level:** 85
     - **Time Limit:** 4 hours, the instance fails if the timer runs out
     --8<-- "instances.md:fact-eternal-bastion"
@@ -55,42 +53,40 @@ Each milestone gives a reward box with the contents below.
 
 | Wave | Reward Box | Item | Qty |
 |------|------------|------|----:|
-| **50** | **Bastion Conquerer I** (`25446`{ .copy }) | ![Poring Coin](img/item7539.gif) **Poring Coin** (`7539`{ .copy }) | 20 |
-| **75** | **Bastion Conquerer II** (`25447`{ .copy }) | ![Tyr's Blessing](img/14601.gif) **Tyr's Blessing** (`14601`{ .copy }) | 1 |
+| **50** | **Bastion Conquerer I** `25446`{ .copy } | ![Poring Coin](img/item7539.gif) **Poring Coin** `7539`{ .copy } | 20 |
+| **75** | **Bastion Conquerer II** `25447`{ .copy } | ![Tyr's Blessing](img/14601.gif) **Tyr's Blessing** `14601`{ .copy } | 1 |
 | | | **Zeny** | 500,000 |
-| **90** | **Bastion Conquerer III** (`25448`{ .copy }) | ![Bastion Coin](img/406105.png) **Bastion Coin** (`406105`{ .copy }) | 1 |
-| | | ![Jewelry Box](img/12106.gif) **Jewelry Box** (`12106`{ .copy }) | 1 |
-| | | ![Tyr's Blessing](img/14601.gif) **Tyr's Blessing** (`14601`{ .copy }) | 1 |
+| **90** | **Bastion Conquerer III** `25448`{ .copy } | ![Bastion Coin](img/406105.png) **Bastion Coin** `406105`{ .copy } | 1 |
+| | | ![Jewelry Box](img/12106.gif) **Jewelry Box** `12106`{ .copy } | 1 |
+| | | ![Tyr's Blessing](img/14601.gif) **Tyr's Blessing** `14601`{ .copy } | 1 |
 | | | **Zeny** | 1,000,000 |
-| **100** | **Bastion Conquerer IV** (`25449`{ .copy }) | ![Bastion Coin](img/406105.png) **Bastion Coin** (`406105`{ .copy }) | 2 |
-| | | ![Old Card Album](img/616.gif) **Old Card Album** (`616`{ .copy }) | 2 |
-| | | ![Sillit Pong Bottle](img/6443.gif) **Sillit Pong Bottle** (`6443`{ .copy }) | 1 |
+| **100** | **Bastion Conquerer IV** `25449`{ .copy } | ![Bastion Coin](img/406105.png) **Bastion Coin** `406105`{ .copy } | 2 |
+| | | ![Old Card Album](img/616.gif) **Old Card Album** `616`{ .copy } | 2 |
 | | | **Zeny** | 2,000,000 |
+
+Bastion Coins are untradeable and account-bound.
 
 ## Bastion Coin Shop
 
-Exchange **Bastion Coins** (`406105`{ .copy }) at **Vulcarion** in **Veins** (`/navi veins 223/133`).
-
-| Costume | Cost |
-|---------|------|
-| ![Bastion Armor](img/406100.gif) **Bastion Armor** (`406100`{ .copy }) | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
-| ![Bastion Shoes](img/406101.gif) **Bastion Shoes** (`406101`{ .copy }) | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
-| ![Bastion Shield](img/406102.gif) **Bastion Shield** (`406102`{ .copy }) | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
-| ![Bastion Magic Weapon](img/406103.gif) **Bastion Magic Weapon** (`406103`{ .copy }) | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
-| ![Bastion Physical Weapon](img/406104.gif) **Bastion Physical Weapon** (`406104`{ .copy }) | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
-
-**Vulcarion** also offers enchants at 10 Bastion Coins each. The newest additions:
-
-| Enchant | Effect |
-|---------|--------|
-| **SP Consumption** | Reduces SP consumption by 20% |
-| **Healing Effectiveness** | Raises the amount your own healing skills restore by 10% |
-
-Enchants can be removed again by the **Master Craftsman** in Prontera. All enchants are switched off inside WoE and GvG castles.
-
 ![Bastion Coin NPC](img/bastion_coin_npc.webp){ .wiki-screenshot }
 
-Bastion Coins are untradeable and account-bound.
+Exchange **Bastion Coins** `406105`{ .copy } at **Vulcarion** in **Veins** (`/navi veins 223/133`) for Bastion Enchantments.
+
+Apply Bastion Enchantments to Mid Headgear or Footgear at **Master Craftsman** in **Prontera** (`/navi prontera 164/44`).
+
+The **Master Craftsman** can also remove them again. All enchants are switched off inside WoE and GvG castles.
+
+| Enchant | Effect | Cost |
+|---------|--------|------|
+| ![+1 All Stats](img/item406100.gif) **+1 All Stats** `406100`{ .copy } | All Stats +1 | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![20% Movement Speed Increase](img/item406101.gif) **20% Movement Speed Increase** `406101`{ .copy } | Increased movement speed | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![5% Resistance All Races](img/item406102.gif) **5% Resistance All Races** `406102`{ .copy } | Reduces damage taken from all race enemies by 5% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![5% Magical Damage Increase](img/item406103.gif) **5% Magical Damage Increase** `406103`{ .copy } | Increases magic attack rate by 5% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![5% Physical Damage Increase](img/item406104.gif) **5% Physical Damage Increase** `406104`{ .copy } | Increases physical attack rate by 5% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![-20% SP Consumption](img/item406106.gif) **-20% SP Consumption** `406106`{ .copy } | Reduces SP consumption by 20% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+| ![10% Heal Effectiveness](img/item406107.gif) **10% Heal Effectiveness** `406107`{ .copy } | Increases heal effectiveness by 10% | ![Bastion Coin](img/406105.png) 10 Bastion Coins |
+
+
 
 ## Wave Mechanics
 

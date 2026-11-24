@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-10
+updated: 2026-11-24
 ---
 
 # Class Changes Source Comparison
@@ -66,7 +66,7 @@ How to read it:
 
 | Skill | Original | uaRO change | Hercules / rAthena | iRO Wiki | Result and caveat |
 |-|-|-|-|-|-|
-| Abracadabra | Anywhere except WoE | Not usable in towns | No data | Disabled in WoE only | match |
+| Abracadabra | Anywhere except WoE | Not usable in towns or on PvP maps | No data | Disabled in WoE only | match (patch 11242026) |
 | Auto Spell | Level 1-3 bolts; Frost Diver at Level 10 | Level 5 bolts at skill Level 4+; Earth Spike replaces Frost Diver | Same as Original | Same as Original | match |
 | Create Elemental Converter | One at a time | Up to 300 at a time | No quantity | Not stated | unverified |
 | Mind Breaker | Lowers soft MDEF; no debuff icon | Lowers hard MDEF outside WoE/GvG castles; debuff icon | 12% per level (Hercules); rAthena has an icon | Flat 12 per level, MATK +20 | match. Caveat: the exact number is left off the page on purpose (flat vs percent unresolved). The "no debuff icon" line conflicts with rAthena and is still under review |
@@ -136,6 +136,7 @@ How to read it:
 | Venom Dust | 1 Red Gemstone | No gemstone | Same | Same | match |
 | Backstab | Behind only, cannot miss, ASPD-based delay | Any direction; 0.333 second cooldown | 0.5 second after-cast delay | ASPD-based | partial. Caveat: iRO ranked above emulators for the Original |
 | Chase Walk | 10 second delay, 30 second bonus | 5 second delay | Same | 30 seconds; delay not stated | partial (patch 09032026) |
+| Graffiti | Needs Flag Graffiti Level 5, which needs Cleaner Level 1 | No requirement; Cleaner and Flag Graffiti removed, points refunded | Same | Not checked | emulator only (patch 11242026) |
 | Plagiarism | Copy from another player | Tutor NPC for 25,000z; overwrite with higher level | No data | Not checked | unverified |
 | Preserve | 10 minutes; not saved on logout | Infinite toggle; saved on logout | Same | 10 minutes, dispellable | partial |
 
@@ -143,7 +144,7 @@ How to read it:
 
 | Skill | Original | uaRO change | Hercules / rAthena | iRO Wiki | Result and caveat |
 |-|-|-|-|-|-|
-| Arrow Crafting | Not usable overweight | Usable overweight | Needs weight under 50% | Cannot be used if overweight | match (patch 11102026). Caveat: every skill is still blocked at 90% weight |
+| Arrow Crafting | Not usable overweight; one item per use | Usable overweight; bulk crafting, 1-300 per use | Needs weight under 50%; one item per use | Cannot be used if overweight | match (patch 11102026, bulk crafting patch 11242026). Caveat: every skill is still blocked at 90% weight |
 | Weapon Swap | Same-type swap keeps songs | Same-type swap cancels songs | No data | Not checked | unverified (patch 30012026) |
 | Arrow Vulcan | After-cast delay 2.8 / 3 seconds | 2 seconds | Same | Page not found | emulator only |
 | Loki's Veil | Usable on MVP maps | Not usable on MVP maps | No data | No map data | unverified |
