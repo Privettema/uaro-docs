@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-12
+updated: 2026-11-22
 ---
 
 # uaRO Beginner's Info & Quick Start Guide
@@ -113,7 +113,7 @@ These are important for three reasons:
 Class quest skills (platinum skills) are learned from the Platinum Skill NPC in the [Main Office](main-office.md) in Prontera, without doing the quest. Visit this NPC after every job change to pick up the skills your class is missing. For example, a Thief gets Back Slide and a Merchant gets Cart Revolution.
 
 ### ![Reset NPC](img/JP_ARUNA.gif) Reset NPC
-This NPC is located in the Prontera Main Office and allows you to reset your skills, your stats, or your skills and stats. You can do it as often as you like for a fee, with the first time being free. This allows you to first choose a beginners friendly build and once you own the money (and equipment) you can change to a late game one.
+This NPC is located in the Prontera [Main Office](main-office.md) and allows you to reset your skills, your stats, or your skills and stats. You can do it as often as you like for a fee, with the first time being free ([fees](main-office.md#reset-girl)). This allows you to first choose a beginners friendly build and once you own the money (and equipment) you can change to a late game one.
 
 ## Sources of Information
 
@@ -164,7 +164,7 @@ Thief and Mage have guides that cover the whole branch: [Angebo's Starting from 
 
     Ranged damage dealer built around Double Strafe (DS) with high DEX, medium AGI and medium INT. It can one-hit several targets. The Orc Archer Bow (`1734`) is cheap and powerful, especially with an Elemental Converter. Level and earn Zeny at Hill Winds.
 
-    [Job change guide ↗](https://irowiki.org/classic/Hunter_Job_Change_Guide) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1507939786860527666)
+    [Job change guide ↗](https://ratemyserver.net/quest_db.php?type=60000&qid=60014) · [Recommended player guide ↗](https://discord.com/channels/702960460168953946/1507939786860527666)
 
 -   <span id="knight"></span>![Knight](img/Beginner_Guide/classes/Knight.png){ .class-sprite }<span class="class-arrow" aria-hidden="true">→</span>![Lord Knight](img/Beginner_Guide/classes/Lord_Knight.png){ .class-sprite }
 

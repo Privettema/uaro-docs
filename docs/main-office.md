@@ -1,5 +1,5 @@
 ---
-updated: 2026-10-11
+updated: 2026-11-22
 ---
 
 # Main Office
@@ -18,7 +18,7 @@ So come on down to Main Office and see what we have to offer! We're here to help
 | ![Lydia](img/4_F_NFLOSTGIRL.gif) | Head over to NPC **Lydia** and exchange your Poring Coin for a variety of [valuable items](poring-coins-system.md). It's a great way to get your hands on some essential gear and enhance your gaming experience. |
 | ![Dimonka](img/NPC/dimonka.gif) | **Dimonka** NPC trades your loots and Poring Coin for [valuable headgear](dimonka-headgear-quest.md). |
 | ![Katryn](img/4_F_GELKA.gif) | **Katryn** NPC exchanges your Poring Coin for unique costumes. |
-| ![Reset Girl](img/4_F_ACOLYTE.gif) | Our friendly **Reset Girl NPC** can help you reallocate your stats or skills for a small fee. The cost depends on your character base level, with higher levels requiring a slightly higher fee. The first reset of each type (stats, skills and both) is free |
+| ![Reset Girl](img/4_F_ACOLYTE.gif) | <a id="reset-girl"></a>Our friendly **Reset Girl NPC** can help you reallocate your stats or skills. The first reset of each type (stats, skills and both) is free. After that the fee depends on your base level:<br>• Base level 96 and below: Reset Stats **300,000z**, Reset Skills **300,000z**, Reset Both **500,000z**<br>• Base level 97 and up: Reset Stats **1,200,000z**, Reset Skills **1,200,000z**, Reset Both **2,000,000z** |
 | ![Platinum Skill](img/1_F_01.gif) | **Platinum Skill** NPC can give you the special skills available to your job. Whitesmiths who have unlocked **Avarice** get it re-granted here automatically after a skill reset. |
 | ![Perchik](img/1_M_01.gif) | **Perchik** NPC can signs your name on eligible items. |
 | ![Andrea](img/JP_ARUNA.gif) | **Andrea** can exchange your extra Field Manual 100% for other itens, like Blessing and Increase AGI scrolls or Kafra cards. |
@@ -36,7 +36,5 @@ So come on down to Main Office and see what we have to offer! We're here to help
 -->
 
 <!-- TODO: Add gold coins costume NPC -->
-
-<!-- TODO: Add details to reset about free resets -->
 
 <!-- TODO: Clarify name signing requirements -->
