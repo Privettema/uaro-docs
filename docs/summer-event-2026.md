@@ -226,9 +226,9 @@ His **stock rotates**, and he trades only in **Summer Festival Coins**.
     | <img src="../img/12016.png" alt=""> Speed Potion | `3` |
     | <img src="../img/12209_1.png" alt=""> Insurance | `5` |
     | <img src="../img/603.gif" alt=""> Old Blue Box | `10` |
-    | <img src="../img/12208.gif" alt=""> Battle Manual | `15` |
+    | <img src="../img/item12208.gif" alt=""> Battle Manual | `15` |
     | <img src="../img/617.png" alt=""> Old Violet Box | `30` |
-    | <img src="../img/7621.gif" alt=""> Token of Siegfried | `75` |
+    | <img src="../img/item7621.gif" alt=""> Token of Siegfried | `75` |
     | <img src="../img/400953.png" alt=""> Summer Sunglasses *(costume)* | `120` |
     | Happy Summer Sun Visor *(costume)* | `120` |
     | <img src="../img/5474.png" alt=""> AFK Hat *(costume)* | `140` |

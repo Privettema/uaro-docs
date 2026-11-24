@@ -53,7 +53,7 @@ Each milestone gives a reward box with the contents below.
 
 | Wave | Reward Box | Item | Qty |
 |------|------------|------|----:|
-| **50** | **Bastion Conquerer I** `25446`{ .copy } | ![Poring Coin](img/7539.gif) **Poring Coin** `7539`{ .copy } | 20 |
+| **50** | **Bastion Conquerer I** `25446`{ .copy } | ![Poring Coin](img/item7539.gif) **Poring Coin** `7539`{ .copy } | 20 |
 | **75** | **Bastion Conquerer II** `25447`{ .copy } | ![Tyr's Blessing](img/14601.gif) **Tyr's Blessing** `14601`{ .copy } | 1 |
 | | | **Zeny** | 500,000 |
 | **90** | **Bastion Conquerer III** `25448`{ .copy } | ![Bastion Coin](img/406105.png) **Bastion Coin** `406105`{ .copy } | 1 |

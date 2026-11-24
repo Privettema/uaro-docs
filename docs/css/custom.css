@@ -261,6 +261,12 @@ body {
 }
 
 
+/* Dark mode: inline code sits on a lighter chip so IDs and commands stand out from the page */
+[data-md-color-scheme="slate"] .md-typeset :not(pre) > code {
+  background-color: rgb(64, 66, 90);
+  color: rgb(236, 238, 246); /* full-strength text: the theme's 82% opacity text would only reach 5.2:1 on this chip */
+}
+
 /* Click-to-copy inline code (docs/js/copy.js) */
 code.copyable {
     cursor: pointer;
@@ -346,7 +352,7 @@ code.copyable:focus-visible {
 .pet-sections p { margin: 0; font-size: 0.7rem; }
 .pet-item { display: flex; align-items: flex-start; gap: 0.4rem; }
 .pet-item p { white-space: normal; min-width: 0; }
-.pet-item p:first-child:not(:last-child) { flex: 0 0 auto; line-height: 0; margin-top: 0.1rem; } /* the icon block */
+.pet-item p:first-child:not(:last-child) { flex: 0 0 auto; line-height: 0; margin-top: -0.05rem; } /* the icon block: its 24px sits centred on the first 22px text line */
 .pet-sections .pet-item img { display: block; width: 1.2rem; height: 1.2rem; object-fit: contain; margin: 0; }
 .pet-sec > * + * { margin-top: 0.35rem; }
 .pet-sec > .pet-sublabel { display: block; font-size: 0.6rem; /* 12px */ margin-top: 0.7rem;
@@ -490,6 +496,31 @@ code.copyable:focus-visible {
 .md-typeset .uaro-mob-grid .md-typeset__table,
 .md-typeset .uaro-mob-wide .md-typeset__table {
   display: block;
+}
+
+/* item-changes.md: every table has the same three columns (name, ID, description) at the same widths, and the
+   name column is wide enough that item names rarely wrap. */
+.md-typeset .item-changes-table table {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+.md-typeset .item-changes-table .md-typeset__table {
+  display: block;
+}
+/* Name column: the 24px icon sits centred on its label. The site-wide td img rules were tuned for other tables and
+   leave this one 2-3px high. */
+.md-typeset .item-changes-table td:first-child img {
+  vertical-align: middle;
+  margin-block: -0.15rem;
+  position: relative;
+  top: -0.06rem;
+}
+.item-changes-table th:nth-child(1) {
+  width: 11rem;
+}
+.item-changes-table th:nth-child(2) {
+  width: 6.5rem;
 }
 
 /* repeatable-quests.md: Scrolls sideways instead of spilling out of the page on narrow screens */

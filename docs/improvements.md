@@ -106,7 +106,9 @@ The party menu shows short letters in front of each member's name for the buffs 
 | **On-Kill Drop Bonuses** | The 10 item cap on drop-on-kill items and cards is lifted. Duplicates of the same card or equipment still do not stack, only the highest chance applies. |
 | **Item Protection** | Costumes, pet eggs, cards, carded equipment, items refined to +4 or higher and some headgear can no longer be sold to NPCs or dropped. |
 | **Food Buff Stacking** | Foods of the same stat stack: the higher one is in effect and the lower one resumes when it ends. A higher tier food ends the lower one and starts at full duration. |
+| **Item Use Delay** | A 50 millisecond delay applies between using items. |
 | **Visual AFK Status** | After 60 seconds idle (the same rule as autoloot), an AFK effect appears on your character, on top of any headgear or costume you wear. Any input removes it. It does not show in towns, while on Autotrade or with a shop open, or in WoE castles. |
+| **Personal Storage Space** | Personal storage holds 600 more items, for a total of 1,100. |
 | **Hide Cart** | Merchant classes can hide their own cart in `@settings`, under character settings. A hidden cart can't be opened with `Alt+W` until you unhide it, and skills that need a cart (Vending, Cart Boost) work as normal. Other players still see your cart. |
 
 

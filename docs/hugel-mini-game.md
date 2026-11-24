@@ -72,7 +72,7 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
 | 7 Medals  | ![644](img/Hugel-Mini-Games/644.gif) Gift Box - 5 |
 | 8 Medals  | ![7539](img/Hugel-Mini-Games/7539_1.png) Poring Coin - 5 |
 | 16 Medals | ![603](img/Hugel-Mini-Games/603.gif) Old Blue Box - 5 |
-| 25 Medals | ![13610](img/Hugel-Mini-Games/13610.gif) Old Purple Box - 4 |
+| 25 Medals | ![13610](img/Hugel-Mini-Games/item13610.gif) Old Purple Box - 4 |
 | 42 Medals | ![12105](img/Hugel-Mini-Games/12105.gif) Taming Gift Set - 2 |
 | 59 Medals | ![616](img/Hugel-Mini-Games/616.gif) Old Card Album - 1 |
 
@@ -118,14 +118,14 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
     - ![1137](img/Hugel-Mini-Games/1137.gif) Excalibur
     - ![1132](img/Hugel-Mini-Games/1132.gif) Edge
     - ![1135](img/Hugel-Mini-Games/1135.gif) Cutlus
-    - ![1136](img/Hugel-Mini-Games/1136.gif) Solar Sword
+    - ![1136](img/Hugel-Mini-Games/item1136.gif) Solar Sword
     - ![1139](img/Hugel-Mini-Games/1139.gif) Tirfing
     - ![1133](img/Hugel-Mini-Games/1133.gif) Fireblend
 
 ??? note "Two Handed Sword"
     - ![1166](img/Hugel-Mini-Games/1166.gif) Dragon Slayer
     - ![1165](img/Hugel-Mini-Games/1165.gif) Masamune
-    - ![1164](img/Hugel-Mini-Games/1164.gif) Muramasa
+    - ![1164](img/Hugel-Mini-Games/item1164.gif) Muramasa
     - ![1167](img/Hugel-Mini-Games/1167.gif) Schweizersabel
     - ![1169](img/Hugel-Mini-Games/1169.gif) Executioner
     - ![1168](img/Hugel-Mini-Games/1168.gif) Zweihander

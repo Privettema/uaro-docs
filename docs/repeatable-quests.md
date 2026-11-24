@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-03
+updated: 2026-11-15
 ---
 
 # Repeatable Quests
@@ -97,7 +97,7 @@ Hunting quests let you choose to defeat **50**, **100** or **150** monsters. A 5
 | Coal Miner | `/navi mag_dun02 46/40` | 75–97 | ![Deleter](img/1384.png) Deleter | 1,550,936 | 930,932 | 31,019 | 18,619 |
 | Jotun Tribesman | `/navi mag_dun01 127/71` | 75–97 | ![Lava Golem](img/1366.gif) Lava Golem | 1,939,200 | 1,162,800 | 38,784 | 23,256 |
 | Miner | `/navi beach_dun 269/71` | 75–97 | ![Medusa](img/1148.gif) Medusa | 2,062,800 | 1,409,100 | 41,256 | 28,182 |
-| Ptero | `/navi abyss_03 117/31` | 75–97 | ![Gold Acidus](img/1716.gif) Gold Acidus **\***{ .quest-flag } | 2,570,000 | 1,630,000 | 51,400 | 32,600 |
+| Ptero | `/navi abyss_03 117/31` | 75–97 | ![Gold Acidus](img/mob1713.gif) Gold Acidus **\***{ .quest-flag } | 2,570,000 | 1,630,000 | 51,400 | 32,600 |
 | Kirby | `/navi nyd_dun01 146/154` | 75–98 | ![Draco](img/2013.gif) Draco **\***{ .quest-flag } | 3,700,000 | 2,800,000 | 74,000 | 56,000 |
 | Emmerich | `/navi thor_v03 57/245` | 75–98 | ![Salamander](img/1831.png) Salamander **\***{ .quest-flag } | 8,600,000 | 6,200,000 | 172,000 | 124,000 |
 

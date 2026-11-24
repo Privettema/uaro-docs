@@ -74,11 +74,11 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 | NPC | Require | Obtain | Chance |
 |---|---|---|---|
 | ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal Crystal](img/OGH/6607.gif) 100 Temporal Crystal | ![Temporal boots](img/OGH/2499.gif) Temporal boots [0] | 100% |
-| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal boots](img/OGH/2499.gif) 1 Temporal boots<br>![Temporal Crystal](img/OGH/6607.gif) 1,000 Temporal Crystal | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk) | 100% |
-| ![Hugin's Craftsman](img/OGH/4_F_JOB_BLACKSMITH.gif)<br>Hugin's Craftsman | ![Upgraded Temporal boots](img/OGH/22008.gif) 1 Upgraded Temporal boots [0]<br>![Temporal Crystal](img/OGH/6607.gif) 1,500 Temporal Crystal<br>15,000,000z | ![Upgraded Temporal boots](img/OGH/22008.gif) Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk) | 75% |
+| ![Hugin's Butler](img/OGH/1_F_04.gif)<br>Hugin's Butler | ![Temporal boots](img/OGH/2499.gif) 1 Temporal boots<br>![Temporal Crystal](img/OGH/6607.gif) 1,000 Temporal Crystal | ![Upgraded Temporal boots](img/OGH/item22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk) | 100% |
+| ![Hugin's Craftsman](img/OGH/4_F_JOB_BLACKSMITH.gif)<br>Hugin's Craftsman | ![Upgraded Temporal boots](img/OGH/item22008.gif) 1 Upgraded Temporal boots [0]<br>![Temporal Crystal](img/OGH/6607.gif) 1,500 Temporal Crystal<br>15,000,000z | ![Upgraded Temporal boots](img/OGH/item22008.gif) Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk) | 75% |
 
 !!! note
-    - Can slot only ![22008](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk)
+    - Can slot only ![22008](img/OGH/item22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk)
     - The boots lose all refine when attempting slot.
     - Failure uses all mats and breaks boots.
 

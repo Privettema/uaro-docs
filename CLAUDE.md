@@ -58,10 +58,15 @@ has nothing to do with your change.
 - Section headings and bullet wording are covered in the style guide
 
 ### Where Content Goes
-- **Changes pages** (`class-changes.md`, `item-changes.md`, `monster-changes.md`, `map-changes.md`, `quest-changes.md`) list only things
-  that differ from the official game, as Original vs uaRO. Original is the pre-renewal value (Hercules `db/pre-re`); if there is no
-  pre-re version it is the renewal value (Hercules `db/re`, then rAthena) and the row says so.
-- Items that uaRO added also go in `item-changes.md`, with a blank Original. `whats-different.md` lists the areas and
+- **Changes pages** (`class-changes.md`, `item-changes.md`, `monster-changes.md`, `map-changes.md`, `quest-changes.md`) list everything
+  that is added, removed or modified compared with the official game. The baseline is iRO as players see it: uaRO is pre-renewal with
+  renewal content added, so a thing that existed before renewal is compared with its pre-renewal version, and renewal-only content with
+  its renewal version. The class, monster, map and quest pages show Original vs uaRO; `item-changes.md` gives each item's uaRO description.
+- We can't see how iRO or uaRO work internally, so every source is an approximation of "official". Check, in order: the client item
+  text (game-data-tools), Hercules (`db/pre-re` or `db/re`, matching the ruleset above), then rAthena. Where they disagree, or an item
+  is missing from one, say the value is unconfirmed. Hercules is what uaRO's server runs, so a Hercules/official gap still counts as a
+  change for players; flag it as unconfirmed until the maintainer says it is intended.
+- Items that uaRO added also go in `item-changes.md`. `whats-different.md` lists the areas and
   instances that uaRO added, by episode. Unchanged cards from renewal monsters belong on the page for the area where they drop.
 - **Quality of Life** (`improvements.md`) is for game-wide rules and mechanics that are not about one item, skill, monster or map:
   inventory and trade rules, buff stacking, teleport behavior, storage limits. Add a one-line row to the Optimized Mechanics
@@ -69,8 +74,9 @@ has nothing to do with your change.
   skill in `class-changes.md`.
 - **Content pages** (`biolab4.md`, `el-dicastes.md`, `horror-toy-factory.md`, ...) say how to get things. Put an item's stats in `item-changes.md` once and
   link to its row (anchor `<a id="..."></a>`); do not copy the stats onto the content page.
-- Item rows: unslotted by default (write `[n]` only when slotted), list monsters as `Name (`ID`)`, and leave Original blank when there
-  is nothing official to compare against.
+- Item rows: icon (`img/item<ID>.gif`) and name, then the copyable Item ID (unslotted ID first, then the slotted one), then the
+  uaRO description. Unslotted by default (write `[n]` only when slotted). List monsters as `Name `ID`{ .copy }`, with no parentheses.
+  General rules that aren't one item (such as a weapon type) go at the top of their table.
 
 ## Repository Architecture
 

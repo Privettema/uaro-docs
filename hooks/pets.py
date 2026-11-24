@@ -142,7 +142,7 @@ def _line(it):
     text = f"{it['qty']}x " if it.get("qty") else ""
     text += it["name"]
     if it.get("id"):
-        text += f"&nbsp;({_code(it['id'])})"
+        text += f"&nbsp;{_code(it['id'])}"
     return _row(it.get("icon"), it["name"], text)
 
 
@@ -164,6 +164,8 @@ def _pet_ref(name):
 def _materials(mats):
     """Collapsed by default. The text stays in the page, so site search still finds it."""
     n = len(mats)
+    if not n:
+        return "Requirements: Unknown"
     return (f'<details class="pet-more" markdown>\n<summary>Requirements ({n} item{"s" if n != 1 else ""})</summary>\n\n'
             + "\n\n".join(_line(m) for m in mats) + "\n\n</details>")
 
@@ -290,8 +292,8 @@ def _ordered():
 def table():
     into = {}
     for p in _pets:
-        if p.get("evolves_from") and p.get("materials"):
-            into.setdefault(p["evolves_from"].lower(), []).append((p, p["materials"]))
+        if p.get("evolves_from"):  # materials may be unknown: still a parent that evolves, so no auto-feed
+            into.setdefault(p["evolves_from"].lower(), []).append((p, p.get("materials") or []))
         for alt in p.get("alt_recipes") or []:
             into.setdefault(alt["from"].lower(), []).append((p, alt["materials"]))
     cards = [card(p, into.get(p["name"].lower())) for p in _ordered()]

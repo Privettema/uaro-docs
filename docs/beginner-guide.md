@@ -44,7 +44,7 @@ You can send items to and from everywhere for a small fee of 2,500z per item sta
 !!! note
     You can not send Great Nature (`997`) this way.
 
-### ![7539](img/7539.gif) [Poring Coins (PC)](poring-coins-system.md)
+### ![7539](img/item7539.gif) [Poring Coins (PC)](poring-coins-system.md)
 Most enemies have a 5% Chance to drop an item called Poring Coin (`7539`), making high kill count valuable by itself. They have various use cases.
 
 #### Zeny
@@ -59,7 +59,7 @@ Doubles your base exp. A great help while leveling. They double exp gained throu
 Adds +200wt carry capacity, when redeemed to Ripped Cabus (Payon- 173,141). Up to 10 total can be redeemed. Revisit Ripped Cabus at any time, if for whatever reason you lose it, and he will restore it free of charge!
 
 
-#### ![Infinite Flywing](img/12887.gif) Infinite Fly Wing
+#### ![Infinite Flywing](img/item12887.gif) Infinite Fly Wing
 0 Weight, account bound, can be used infinite amount and time. A lot of people name the IFW a “game changer”. Tho none was ever able to explain what it actually changes. You still can use normal Fly Wings from the NPC and transfer them easily with the rodex mail system. As a beginner, getting some equipment is more important than a QOL (quality of life) item.
 
 
@@ -494,7 +494,7 @@ Once you’re 90+ you can give the [Quick Rebirth Guide](https://discord.com/cha
 ## Beginner Money-Making
 
 ### High Kill Count
-Just kill a lot and gather ![7539](img/7539.gif) Poring Coins. Myst Case Card is a further enhancement to this; it's recommended to get one after basic equipment.
+Just kill a lot and gather ![7539](img/item7539.gif) Poring Coins. Myst Case Card is a further enhancement to this; it's recommended to get one after basic equipment.
 
 
 ### ![578](img/Beginner_Guide/578.gif) Strawberry
@@ -511,7 +511,7 @@ Earthworm Peeling (`1055`) (Hode (`1127`)), Anolian Skin (`7003`) (Alligator (`1
 Solid NPC stuff and some cards you can use or sell.
 
 
-### ![997](img/Beginner_Guide/997.gif) Great Nature
+### ![997](img/Beginner_Guide/item997.gif) Great Nature
 !!! note
     You can't send GNs by mail, one of a few nerfs. You have to carry them the old way.
 
