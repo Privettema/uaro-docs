@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-10
+updated: 2026-11-24
 ---
 
 # Niflheim Dungeon
@@ -10,7 +10,7 @@ Beneath the realm of the dead lies **Niflheim Dungeon**, two floors of restless 
     - **Location:** Niflheim, `/navi niflheim 149/124`
     - **Level Required:** Base Level `99`
     - **Floors:** `2`
-    - **MVP:** **Death Witch**, on floor `2`
+    - **MVP:** **Death Witch**, in the north of floor `2`
 
 ## Getting There
 
@@ -31,6 +31,8 @@ The entrance is in **Niflheim** at `/navi niflheim 149/124`. You need Base Level
 | ![Pierrotzoist](img/Halloween/Pierrotzoist.gif){ width="48" } **Pierrotzoist** | `2` | `20942`{ .copy } |
 | ![Blue Moon Loli Ruri](img/Halloween/BlueMoon.gif){ width="48" } **Blue Moon Loli Ruri** | `2` | `20940`{ .copy } |
 | **Death Witch** (MVP) | `2` | `20943`{ .copy } |
+
+**Death Witch** stays inside its MVP area in the north of floor `2` and can't be pulled out of it.
 
 ## Loot
 

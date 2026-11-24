@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-10
+updated: 2026-11-24
 ---
 
 # Class Changes
@@ -118,7 +118,7 @@ Status effects that behave differently from the official game.
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| ![Abracadabra](img/Class_Changes/sa_abracadabra.gif) Abracadabra | Can be used anywhere excluding WoE: SE. | Can no longer be used in towns. |
+| ![Abracadabra](img/Class_Changes/sa_abracadabra.gif) Abracadabra | Can be used anywhere excluding WoE: SE. | Can no longer be used in towns or on PvP maps. |
 | ![Auto Spell](img/Class_Changes/sa_autospell.gif) Auto Spell | Maximum Level of the spell varies from 1-3 based on the skill Level. Cast chance varies by level used.<br>Offers Frost Diver at Auto Spell Level 10. | Casts up to Level 5 bolts of all elements at skill Level 4 or higher.<br>When a bolt triggers, it casts the maximum Level you have learned, up to Level 5 (non-Linked).<br>Offers Earth Spike instead of Frost Diver: Level 1 from Auto Spell Level 2, Level 2 at Level 3, and Level 5 from Level 4 onward (always Level 5 under Sage Spirit). Frost Diver is removed from the list. |
 | ![Create Elemental Converter](img/Class_Changes/sa_createcon.png) Create Elemental Converter | Crafts one converter at a time. | Mass production of up to 300 at a time. |
 | ![Mind Breaker](img/Class_Changes/pf_mindbreaker.gif) Mind Breaker | Lowers the target's soft MDEF (the flat reduction from INT).<br>No debuff icon. | Reduces the target's hard MDEF (the percentage reduction from equipment) everywhere except WoE and GvG castles, where it keeps reducing soft MDEF (the flat reduction from INT).<br>Adds a debuff icon for the receiver and updates stats to show the impact. |
@@ -263,6 +263,7 @@ Venom Knife can be found at our [Inn Tool Dealers](dealers.md#enhanced-tool-deal
 |-|-|-|
 | ![Backstab](img/Class_Changes/rg_backstab.gif) Backstab | Can only be used from behind the enemy. Cannot miss, and turns the target to face the caster, which prevents repeated use.<br>The delay depends on ASPD. | Can be performed like most attack skills.<br>Fixed cooldown of 0.333 seconds. |
 | ![Chase Walk](img/Class_Changes/st_chasewalk.gif) Chase Walk | After a delay of 10 seconds, it increases STR for 30 seconds. | Delay reduced to 5 seconds. |
+| ![Graffiti](img/Class_Changes/rg_graffiti.png) Graffiti | Requires Flag Graffiti Level 5, which requires Cleaner Level 1. | No skill requirements.<br>Cleaner and Flag Graffiti are removed from the skill tree, and skill points spent on them are refunded. |
 | ![Plagiarism](img/Class_Changes/rg_plagiarism.gif) Plagiarism | Skills must be copied from another player. | The [Plagiarism Tutor](custom-npc.md#skills) lets Rogues and Stalkers copy skills for 25,000z, and refuses the trade while Preserve is active.<br>A skill you already know can be overwritten when a higher Level is offered, including with normal in-combat Plagiarism. |
 | ![Preserve](img/Class_Changes/st_preserve.gif) Preserve | Duration of 10 minutes.<br>Does not persist through logout. | Infinite duration. Becomes an on/off toggle.<br>Persists through logout. |
 
@@ -280,7 +281,7 @@ A selection of arrows can be found at [Inn Tool Dealers](dealers.md#enhanced-too
 
 | Skill | Original | uaRO Changes |
 |-|-|-|
-| Arrow Crafting | Cannot be used while overweight. | Can be used while overweight. |
+| Arrow Crafting | Cannot be used while overweight.<br>Converts one item per use. | Can be used while overweight.<br>Bulk crafting: set **Arrow Crafting Amount** (1-300) in `@settings` under Character Settings. Each use crafts that many times, or as many as your items, free inventory space and weight allow. |
 
 </div>
 

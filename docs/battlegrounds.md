@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-10
+updated: 2026-11-24
 ---
 
 # Battlegrounds
@@ -19,6 +19,13 @@ Join Battlegrounds from the **Battlegrounds NPC** in Prontera: `/navi prontera 1
 
 !!! warning
     **Use caution when joining with `@bg`** — you will be automatically teleported once a match starts.
+
+## BG Window
+
+The Battlegrounds interface is part of the `Ctrl+G` window. It shows your team, the arena goal, your win streak and any unclaimed badges.
+
+* Team chat goes through this window. The `#bg` channel is still available.
+* Inside a match, enemy guild members show only their name and the sword icon, not their own guild information.
 
 ## BG Happy Hour
 
